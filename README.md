@@ -22,8 +22,7 @@ Based on both internal performance testing and user feedback, the section below 
 <Details>
 <summary>Clarification on PC Requirements</summary>
 
-For complete clarity, my PC specs while building the list were a **LAPTOP** 7945X3D, 4080, and 32GB @ 5200mhz of RAM. This PC ran the list @ 60-100FPS on 2560x1600 (16:10) WITH RT & PT.  
-My current specs are a 7800X3D, 3080 (10gb), and 32GB of RAM with some BIOS tweaks (e.g., [ReBar](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/) and [PBO](https://community.amd.com/t5/gaming/understanding-precision-boost-overdrive-in-three-easy-steps/ba-p/416136)). This PC runs the list @ stable (locked) 61FPS on 1440p (16:9).
+For complete clarity, my current PC specs while building the list were a **LAPTOP** 7945X3D, 4080, and 32GB @ 5200mhz of RAM. This PC ran the list @ 60-100FPS on 2560x1600 (16:10) WITH RT & PT.  
 
 </Details>
 

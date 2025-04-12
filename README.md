@@ -1,4 +1,4 @@
-# Chrome & Blood
+## Chrome & Blood
 ![image](https://github.com/user-attachments/assets/e16c83b3-bcf5-44ec-ad41-00847db8a5ea)
 
 ## Introduction
@@ -18,12 +18,7 @@ Based on both internal performance testing and user feedback, the section below 
 >- An SSD is **required** to the play the modlist.
 >- Only Windows 10 or 11 operating systems are supported. Other operating systems may work, however **I WILL NOT BE PROVIDING SUPPORT FOR THOSE.**
 
-
-
-<Details>
-<summary>Clarification on PC Requirements</summary>
-
-For complete clarity, my current PC specs while building the list were a **LAPTOP** 7945X3D, 4080, and 32GB @ 5200mhz of RAM. This PC ran the list @ 60-100FPS on 2560x1600 (16:10) WITH RT & PT.  
+ ![Apr 12, 2025, 12_24_13 PM](https://github.com/user-attachments/assets/e5d44fd3-275a-4c84-b85e-97678b39d29b)
 
 </Details>
 
@@ -33,11 +28,11 @@ Install Size: ~27.8 GB
 
 Vanilla Game & DLC: ~84.6 GB 
 
-## **OVERALL SIZE REQUIREMENT** ~140 GB  
+# OVERALL SIZE REQUIREMENT: ~140 GB  
 
 
 ## Preinstallation
- # Screenshots below assume the Steam version of the game. 
+#Screenshots below assume the Steam version of the game. 
 1. [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) of Cyberpunk 2077 to a location _outside_ `Program Files`.
 2. Install the [Visual C++ Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
    - Extract the downloaded archive and run `install_all.bat`

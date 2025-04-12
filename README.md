@@ -16,6 +16,8 @@ Step into Night City like you've never seen it before—raw, ruthless, and dripp
 
 Current Mod List: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
 
+Detailed look at mods in the list can be found [**HERE**](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)
+
 ## System Requirements
 
 Based on both internal performance testing and user feedback, the section below outlines my *recommended* system specifications for the list. Please keep in mind that every PC is different, and these recommendations are an estimate based on available data and firsthand reports. Individual performance may vary depending on specific hardware and software configurations, as well as other system optimizations. **Troubleshooting & support for hardware related issues will not be provided.**

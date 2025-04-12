@@ -1,6 +1,6 @@
 ## [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
 
-### Biggest gameplay mods in the list and what they do
+### Biggest gameplay mods in the list and what they do. **This is not a comprehensive list, just the mods that have the biggest impact on gameplay you should be aware of.**
 
 <Details>
 <summary>Gameplay Mechanics</summary>

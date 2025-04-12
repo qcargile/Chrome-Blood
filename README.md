@@ -26,12 +26,13 @@ Downloads Size: ~27.9 GB
 Install Size: ~27.8 GB
 Base Game & DLC: ~84.6 GB 
 
-## MODLIST TOTAL SIZE: ~56.1 GB
-## OVERALL SIZE REQUIREMENT: ~140 GB  
+**MODLIST TOTAL SIZE: ~56.1 GB**
+**OVERALL SIZE REQUIREMENT: ~140 GB**  
 
 
 ## Preinstallation
-# Screenshots below assume the Steam version of the game. 
+
+**Screenshots below assume the Steam version of the game.** 
 1. [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) of Cyberpunk 2077 to a location _outside_ `Program Files`.
 2. Install the [Visual C++ Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
    - Extract the downloaded archive and run `install_all.bat`

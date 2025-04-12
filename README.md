@@ -60,9 +60,9 @@ Install Size: ~27.8 GB
 5. Click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
    ![image](https://github.com/user-attachments/assets/dc727531-5f72-4bb6-aa64-df340b48c1a3)
 
-  - # Ensure your steam installation shows both REDMOD and CP2077 PL as installed!!
+ ### Ensure your steam installation shows both REDMOD and CP2077 PL as installed!!
 
-# Installation
+## Installation
 
 1. Download [Wabbajack](https://www.wabbajack.org) and place it in a folder away from your Cyberpunk 2077 installation and outside of any protected folders, something like `D:\Wabbajack`
 2. Launch Wabbajack and go to "Browse Modlists"
@@ -70,12 +70,34 @@ Install Size: ~27.8 GB
 4. Click the run button
 5. Set the installation directory to something like `D:\Chrome & Blood`, again, away from your Cyberpunk 2077 installation and outside of any protected folders. Make sure that the installation directory is on the same drive as Cyberpunk 2077.
 6. Click the run button and wait for Wabbajack to complete the installation process
+7. Find `ModOrganizer.exe` in the folder you installed the modlist to
+8. Click the "Run" button on the top right in MO2 to launch Chrome & Blood
 
-# Post-installation
 
-1. Find `ModOrganizer.exe` in the folder you installed the modlist to
-2. Click the "Run" button on the top right in MO2 to launch Chrome & Blood
-3. Enable frame generation in the graphics section of the in-game settings menu
+## Post-Installation
+
+# Antivirus Exceptions
+
+>[!WARNING]
+>Antivirus programs are notorious for false flagging [MO2's Virtual File System](https://stepmodifications.org/wiki/Guide:Mod_Organizer/Advanced), which can and will cause crashes and other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will need to fully remove them from your PC in order to actually launch the game through MO2. It is 2025, Windows Defender and being smart online is more than adequate to protect yourself from malicious software.
+
+If you use Windows Defender, it is advised that you set up an exception for the modlist.
+
+<Details>
+<summary>Setting up Windows Defender Exceptions:</summary>
+
+ 1. Press the Windows Key.
+ 2. Type "Windows Defender" in the search bar and select "Windows Security".
+ 3. Click on "Virus & threat protection" in the left pane.
+ 4. Click the "Manage settings" option under "Virus & threat protection settings".
+ 5. Scroll down to "Exclusions" and click "Add or remove exclusions".
+ 6. Windows Defender will prompt you with a run as administrator screen, just hit yes.
+ 7. Click the "Add an exclusion" button at the top and choose "Folder".
+ 8. Navigate to your Install folder for the list and click "Select Folder".
+ 9. **(OPTIONAL)** You can repeat these steps for the other executables:
+    - ModOrganizer.exe (`[Path to Modlist]\ModOrganizer.exe`)
+    
+</Details>
 
 # Updating
 

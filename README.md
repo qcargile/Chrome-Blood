@@ -104,13 +104,13 @@ If you use Windows Defender, it is advised that you set up an exception for the 
     
 </Details>
 
-# Updating
+## Updating
 
 - Follow steps 2-4 from the Installation section above **with the addition of checking the `Overwrite` box before starting installation**.
 
 ## 🔑 Keybinds to Know (Modded Controls)
 
-Below is a list of important keybinds added or changed by mods in this list. Some of these may need to be configured in-game or through Cyber Engine Tweaks mod settings.
+Below is a list of important keybinds added or changed by mods in this list. Some of these may need to be configured in-game or through the unified **Redscript and CET Mods Settings** menu, which combines mod options from both systems into one easy-to-access interface.
 
 ### 🧠 Gameplay / Interface
 - **Scanner Slowdown (RAM-based)** — *Automatically adjusts* based on remaining RAM, no manual keybind required.

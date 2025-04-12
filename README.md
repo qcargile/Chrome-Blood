@@ -24,7 +24,7 @@ Step into Night City like you've never seen it before—raw, ruthless, and dripp
 
 1. Download [Wabbajack](https://www.wabbajack.org) and place it in a folder away from your Cyberpunk 2077 installation and outside of any protected folders, something like `D:\Wabbajack`
 2. Launch Wabbajack and go to "Browse Modlists"
-3. Click the download button for Squeegeepunk
+3. Click the download button for Chrome & Blood
 4. Click the run button
-5. Set the installation directory to something like `D:\Squeegeepunk`, again, away from your Cyberpunk 2077 installation and outside of any protected folders. Make sure that the installation directory is on the same drive as Cyberpunk 2077.
+5. Set the installation directory to something like `D:\Chrome & Blood`, again, away from your Cyberpunk 2077 installation and outside of any protected folders. Make sure that the installation directory is on the same drive as Cyberpunk 2077.
 6. Click the run button and wait for Wabbajack to complete the installation process

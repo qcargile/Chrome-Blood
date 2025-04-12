@@ -9,7 +9,7 @@ Step into Night City like you've never seen it before—raw, ruthless, and dripp
 
 Current Mod List: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
 
-### System Requirements
+## System Requirements
 
 Based on both internal performance testing and user feedback, the section below outlines my *recommended* system specifications for the list. Please keep in mind that every PC is different, and these recommendations are an estimate based on available data and firsthand reports. Individual performance may vary depending on specific hardware and software configurations, as well as other system optimizations. **Troubleshooting & support for hardware related issues will not be provided.**
 
@@ -24,15 +24,14 @@ Based on both internal performance testing and user feedback, the section below 
 
 Downloads Size: ~27.9 GB  
 Install Size: ~27.8 GB
-**MODLIST TOTAL SIZE:** ~56.1 GB
-
 Vanilla Game & DLC: ~84.6 GB 
 
+#MODLIST TOTAL SIZE: ~56.1 GB
 # OVERALL SIZE REQUIREMENT: ~140 GB  
 
 
 ## Preinstallation
-#Screenshots below assume the Steam version of the game. 
+# Screenshots below assume the Steam version of the game. 
 1. [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) of Cyberpunk 2077 to a location _outside_ `Program Files`.
 2. Install the [Visual C++ Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
    - Extract the downloaded archive and run `install_all.bat`
@@ -40,7 +39,7 @@ Vanilla Game & DLC: ~84.6 GB
 4. Click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
    ![image](https://github.com/user-attachments/assets/dc727531-5f72-4bb6-aa64-df340b48c1a3)
 
-  - ### Ensure your steam installation shows both REDMOD and CP2077 PL as installed!!
+  - # Ensure your steam installation shows both REDMOD and CP2077 PL as installed!!
 
 # Installation
 

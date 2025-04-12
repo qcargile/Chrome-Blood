@@ -17,7 +17,7 @@
 - [Utility](#utility)
 
 <Details>
-<summary>## Gameplay Mechanics</summary>
+## <summary>Gameplay Mechanics</summary>
 
 [Enhanced Air Traffic](https://www.nexusmods.com/cyberpunk2077/mods/20208)
 

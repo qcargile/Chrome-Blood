@@ -1,6 +1,8 @@
-# ⚙️ Cyberpunk 2077 Mod Settings Recommendations
+# ⚙️ Chrome & Blood - Mod Settings Tuning Guide
 
-This guide highlights key mods from your load order that include **in-game or config-based settings**. These are recommended for manual tweaking to suit different playstyles, performance targets, and immersion goals. Perfect for refining your Cyberpunk 2077 experience!
+Welcome to **Chrome & Blood**, my custom Cyberpunk 2077 modlist focused on immersion, enhanced visuals, extended content, and combat realism. This guide is here to help you **tune the mod settings** that matter most — the ones that *will* affect how the game feels, plays, and performs.
+
+Some mods in this list are **highly customizable** and meant to be **tweaked to your liking**. Below you'll find what I recommend checking out and adjusting based on your playstyle, hardware, and taste.
 
 ---
 
@@ -19,122 +21,106 @@ This guide highlights key mods from your load order that include **in-game or co
 
 ## 🧠 HUD & Interface
 
-### [`HUDitor`](https://www.nexusmods.com/cyberpunk2077/mods/8777) & [`HUD Painter`](https://www.nexusmods.com/cyberpunk2077/mods/7933)
-- Customize the in-game HUD to your preference.
-- Recommended:
-  - Minimize elements for immersion.
-  - Tweak placement, color, and opacity of icons and meters.
+### `HUDitor` & `HUD Painter`
+- Used to **reposition, recolor, and declutter** the HUD.
+- I recommend using these to achieve either a minimal HUD look or a classic cyber-UI vibe — up to you.
+- Launch via CET overlay or Native Settings menu.
 
 ### `Preem Scanner`
-- Offers a cleaner, customizable scanner UI.
-- Recommended:
-  - Use the **Monochrome Addon** for a more stylized look.
-  - Toggle overlays depending on how clean you want your scanner readout.
+- Lets you style your scanner with **cleaner visuals** and reduced overlay noise.
+- I include a Monochrome Addon that gives a crisp, retro-futuristic look.
 
 ---
 
 ## 🎮 Gameplay & Mechanics
 
-### [`Stealthrunner`](https://www.nexusmods.com/cyberpunk2077/mods/7096)
-- Adds stealth gameplay improvements and tweaks.
-- Recommended:
-  - Adjust AI vision cones and detection times.
-  - Enable/disable perks depending on desired difficulty.
+### `Stealthrunner`
+- Expands stealth mechanics with more nuanced detection and behavior.
+- Tweak how forgiving stealth is, how alert enemies behave, and how stealth perks scale.
+- If you’re playing a Netrunner or Assassin-type build, absolutely dive into the settings.
 
-### [`Combat Revolution`](https://www.nexusmods.com/cyberpunk2077/mods/8149)
-- Overhauls NPC behavior and combat logic.
-- Recommended:
-  - Tweak aggressiveness and accuracy to scale challenge.
+### `Combat Revolution` & `Enemies of Night City`
+- These overhaul combat AI and encounter dynamics.
+- You can dial up or down enemy aggression, accuracy, and awareness — depending on whether you want chaos or control.
 
-### [`They Will Remember`](https://www.nexusmods.com/cyberpunk2077/mods/6628)
-- Makes the world remember your violent actions.
-- Recommended:
-  - Enable progressive notoriety or emotional NPC reactions for an immersive crime system.
+### `They Will Remember`
+- Adds a system for **persistent reputation** based on your violent actions.
+- You can adjust how quickly people react to your past, or disable it for a cleaner sandbox-style play.
 
 ---
 
 ## 🤖 Cyberware & Combat
 
-### [`CyberwareEX`](https://www.nexusmods.com/cyberpunk2077/mods/8359)
-- Expands implant slots and loadouts.
-- Recommended:
-  - Add additional face or arms slots for high-end builds.
-  - Adjust balancing if paired with `Black Chrome` or `Raven Gemini`.
+### `CyberwareEX` & `Cyberware-EX`
+- I’ve expanded cyberware functionality with these.
+- You can enable extra implant slots, adjust restrictions, and customize loadout balance.
+- Perfect for people going for full Borg/Edgerunner builds.
 
-### [`Wannabe Edgerunner`](https://www.nexusmods.com/cyberpunk2077/mods/6813)
-- Simulates cyberpsychosis mechanics.
-- Recommended:
-  - Customize triggers and effects of cyberpsychosis based on how intense you want the challenge.
+### `Wannabe Edgerunner`
+- Optional cyberpsychosis system. Super customizable.
+- If you want risk to go with power, tweak it to make mental collapse a threat. Or tone it down for more forgiveness.
 
-### [`Guns Redone V3`](https://www.nexusmods.com/cyberpunk2077/mods/7540)
-- Overhauls weapon mechanics including recoil, spread, and armor interactions.
-- Recommended:
-  - Match tweaks to preferred gun types (e.g. Smart, Power, or Tech).
-  - Ideal for realism or arcade-style adjustments.
+### `Guns Redone V3`
+- Adjusts weapon recoil, spread, damage, and armor interactions.
+- Works with vanilla and most custom weapons. Choose presets or fine-tune for your favorite weapon class.
 
 ---
 
 ## 🚗 Vehicles & Driving
 
-### [`Enhanced Vehicle System`](https://www.nexusmods.com/cyberpunk2077/mods/6465)
-- Core vehicle handling overhaul.
-- Recommended:
-  - Adjust FPP camera, speed thresholds, and tire grip.
-  - Combine with `Gripped Up` for realistic street feel.
+### `Enhanced Vehicle System`
+- Core mod for improving driving physics and realism.
+- Use this with `Gripped Up` to tune traction and control.
+- You can also set your own field of view and speed sensitivity.
 
-### `Auto Drive` + Addons
-- Lets you ride as a passenger or self-driving mode.
-- Recommended:
-  - Enable/disable detours and smart pathing.
-  - Turn on/off AI behavior quirks depending on immersion level.
+### `Auto Drive` (and addons)
+- If you want hands-off travel, you can ride passenger or have your car drive itself.
+- Optional detours, cinematic paths, and delay settings can be tweaked.
 
 ---
 
 ## 🌆 Visuals & Graphics
 
-### `ReLUX`, `Nova LUT`, `Ultra Fog`, `Preem Water 2.0`
-- Overhaul color grading, fog density, and lighting behavior.
-- Recommended:
-  - Reduce fog intensity if experiencing FPS drops.
-  - Experiment with LUTs (Nova or ReLUX packs) to achieve a cinematic or realistic tone.
+### `ReLUX`, `Nova LUT`, `Ultra Fog`, `Preem Water`
+- These overhaul lighting, fog density, weather, and water effects.
+- You *will* want to experiment to find your preferred LUT or reduce fog if you're seeing frame drops.
+- Tweak visual style between hyperreal, noir, or neon as you see fit.
 
-### `FX Begone`, `Blur Begone`, `ReGlass`, `ReFlash`
-- Removes annoying post-processing effects and clutter.
-- Recommended:
-  - Toggle effects like holocalls, vignette, and bloom to reduce visual noise.
+### `FX Begone`, `ReFlash`, `ReGlass`
+- Removes intrusive effects like vignette, chromatic aberration, inventory blur, and holocall noise.
+- Adjust to reduce eye strain or go full cinematic.
 
 ---
 
 ## 🧩 Quality of Life
 
-### [`Equipment-EX`](https://www.nexusmods.com/cyberpunk2077/mods/6942)
-- Adds functionality for gear slots and wardrobe systems.
-- Recommended:
-  - Enable outfit memory, accessory slots, and layered gear setup.
+### `Equipment-EX`
+- Lets you add custom outfit slots, accessory support, and more.
+- If you use the wardrobe or frequently swap builds, check the settings for outfit memory and UI behavior.
 
 ### `Immersive Interaction`, `Hangout Romances`, `Immersive Fixers`
-- Improve world interactivity and social immersion.
-- Recommended:
-  - Set frequency of events or availability of scenes depending on your roleplay intensity.
+- These add world interaction layers and deeper relationship content.
+- Configure how often hangouts occur and whether they tie into story beats or stay sandboxed.
 
 ---
 
 ## 🧰 Frameworks & Utilities
 
-### [`Mod Settings`](https://www.nexusmods.com/cyberpunk2077/mods/4885) + [`Native Settings UI`](https://www.nexusmods.com/cyberpunk2077/mods/3518)
-- Frameworks used to access all in-game mod settings.
-- Recommended:
-  - Always check for a settings menu after installing any new redscript/CET mod.
-  - Use side menu add-on for faster access.
+### `Mod Settings` + `Native Settings UI`
+- This is where most of the above mods get configured.
+- Open from the pause menu or use the side menu extension.
+- Highly recommend checking these menus **after every major mod install** — don’t miss useful toggles.
 
 ---
 
 ## ✅ Final Tips
 
-- 📁 **Backup your settings**: Especially CET `.json` and `NativeSettings` configs after you tweak.
-- 💻 **Benchmark your performance**: Areas like Downtown or Dogtown are ideal to test LOD-heavy visual mods.
-- 🔧 **Balance complexity**: Avoid overlapping AI, stealth, or combat overhauls unless you’ve tuned them to play nice.
+- **Back up your configs**: Especially CET and NativeSettings tweaks after your first setup session.
+- **Test before committing**: Run through Dogtown or Watson to stress-test visuals and combat after tweaks.
+- **Be smart with stacking**: Too many overlapping AI/gameplay overhauls can create conflicts — so tweak incrementally.
 
 ---
 
-Happy modding, choom. Let Night City bend to *your* will.
+Make it your Night City. This is just the foundation — Chrome & Blood is meant to bend with your build.
+
+Feel free to open an issue or drop feedback if you hit edge cases or balancing quirks. Enjoy the ride, choom. 🦾

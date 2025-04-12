@@ -1,23 +1,9 @@
-# [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
+## [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
 
-## Biggest gameplay mods in the list and what they do
-
-- [Gameplay Mechanics](#gameplay-mechanics)
-- [Enemies and Difficulty](#enemies-and-difficulty)
-- [Quests](#quests)
-- [NPC Interactions](#npc-interactions)
-- [World Interactions](#world-interactions)
-- [Vehicles and Driving](#vehicles-and-driving)
-- [Weapons](#weapons)
-- [Cyberware](#cyberware)
-- [Aesthetics](#aesthetics)
-- [UI](#ui)
-- [Quality of Life](#quality-of-life)
-- [Bug Fixes](#bug-fixes)
-- [Utility](#utility)
+### Biggest gameplay mods in the list and what they do
 
 <Details>
-## <summary>Gameplay Mechanics</summary>
+<summary>Gameplay Mechanics</summary>
 
 [Enhanced Air Traffic](https://www.nexusmods.com/cyberpunk2077/mods/20208)
 
@@ -33,26 +19,60 @@ Adds sticky versions of the grenades
 
 </Details>
 
-## Enemies and Difficulty
+<Details>
+<summary>Enemies and Difficulty</summary>
 
-## Quests
+</Details>
 
-## NPC Interactions
+<Details>
+<summary>Quests</summary>
 
-## World Interactions
+</Details>
 
-## Vehicles and Driving
+<Details>
+<summary>NPC Interactions</summary>
 
-## Weapons
+</Details>
 
-## Cyberware
+<Details>
+<summary>World Interactions</summary>
 
-## Aesthetics
+</Details>
 
-## UI
+<Details>
+<summary>Vehicles and Driving</summary>
 
-## Quality of Life
+</Details>
 
-## Bug Fixes
+<Details>
+<summary>Weapons</summary>
+
+</Details>
+
+<Details>
+<summary>Cyberware</summary>
+
+</Details>
+
+<Details>
+<summary>Aesthetics</summary>
+
+</Details>
+
+<Details>
+<summary>UI</summary>
+
+</Details>
+
+<Details>
+<summary>Quality of Life</summary>
+
+</Details>
+
+<Details>
+<summary>Bug Fixes</summary>
+
+</Details>
+
 
 

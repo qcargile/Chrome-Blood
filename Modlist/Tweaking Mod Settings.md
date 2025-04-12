@@ -51,7 +51,7 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 
 ## 🤖 Cyberware & Combat
 
-### `CyberwareEX` & `Cyberware-EX`
+### `CyberwareEX` 
 - I’ve expanded cyberware functionality with these.
 - You can enable extra implant slots, adjust restrictions, and customize loadout balance.
 - Perfect for people going for full Borg/Edgerunner builds.
@@ -70,7 +70,7 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 
 ### `Enhanced Vehicle System`
 - Core mod for improving driving physics and realism.
-- Use this with `Gripped Up` to tune traction and control.
+- This & `Gripped Up` tune traction and control.
 - You can also set your own field of view and speed sensitivity.
 
 ### `Auto Drive` (and addons)

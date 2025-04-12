@@ -3,7 +3,7 @@
 
   Current Version: Beta (v0.3)
   
-  Current Modlist: [Mod List] (https://loadorderlibrary.com/lists/chrome-blood-2)
+  Current Mod List: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
 
 Chrome & Blood is a complete Cyberpunk 2077 overhaul built to reforge the game into a darker, grittier, and more immersive experience. Every core system has been reworked—from AI and combat mechanics to stealth, hacking, and progression—creating a more challenging and rewarding sandbox. The visual fidelity is pushed to the limit with upgraded lighting, weather, and textures, while the UI has been completely redesigned for a sleek, diegetic look that feels native to the world. Players can fully customize both male and female V with a huge selection of new cosmetics, cyberware, vehicles, and weapons, giving every playthrough a unique aesthetic. This is more than just a modlist—it's a full-blown reimagining of what Cyberpunk 2077 can be.
 
@@ -13,7 +13,7 @@ Step into Night City like you've never seen it before—raw, ruthless, and dripp
 
 ## Install instructions:
 
-Screenshots below assume the Steam version of the game. For GoG, see [Install with GOG version](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#installation-with-gog-version) and then continue with the Wabbajack steps below.
+Screenshots below assume the Steam version of the game. 
 
 ## 1. Make sure you have a clean cyberpunk installation.
 

@@ -8,14 +8,14 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 
 ## 📚 Table of Contents
 
-- [HUD & Interface](#hud--interface)
-- [Gameplay & Mechanics](#gameplay--mechanics)
-- [Cyberware & Combat](#cyberware--combat)
-- [Vehicles & Driving](#vehicles--driving)
-- [Visuals & Graphics](#visuals--graphics)
-- [Quality of Life](#quality-of-life)
-- [Frameworks & Utilities](#frameworks--utilities)
-- [Final Tips](#final-tips)
+- [HUD & Interface](##hud--interface)
+- [Gameplay & Mechanics](##gameplay--mechanics)
+- [Cyberware & Combat](##cyberware--combat)
+- [Vehicles & Driving](##vehicles--driving)
+- [Visuals & Graphics](##visuals--graphics)
+- [Quality of Life](##quality-of-life)
+- [Frameworks & Utilities](##frameworks--utilities)
+- [Final Tips](##final-tips)
 
 ---
 

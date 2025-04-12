@@ -24,10 +24,10 @@ Based on both internal performance testing and user feedback, the section below 
 
 Downloads Size: ~27.9 GB  
 Install Size: ~27.8 GB
-Vanilla Game & DLC: ~84.6 GB 
+Base Game & DLC: ~84.6 GB 
 
-#MODLIST TOTAL SIZE: ~56.1 GB
-# OVERALL SIZE REQUIREMENT: ~140 GB  
+## MODLIST TOTAL SIZE: ~56.1 GB
+## OVERALL SIZE REQUIREMENT: ~140 GB  
 
 
 ## Preinstallation

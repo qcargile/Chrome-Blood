@@ -2,8 +2,8 @@
 ![image](https://github.com/user-attachments/assets/e16c83b3-bcf5-44ec-ad41-00847db8a5ea)
 
 >[!IMPORTANT]
->Chrome & Blood requires the Phantom Liberty DLC.
->Chrome & Blood is a **NSFW** modlist. Overall gameplay is the main emphasis of this list, however, do not play this infront of your grandma.
+>- Chrome & Blood requires the Phantom Liberty DLC.
+>- Chrome & Blood is a **NSFW** modlist. Overall gameplay is the main emphasis of this list, however, do not play this infront of your grandma.
 
 >[!WARNING]
 >You must update Cyber Punk 2077 to the latest version on Steam to install this list.
@@ -21,7 +21,7 @@ Current Mod List: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists
 Based on both internal performance testing and user feedback, the section below outlines my *recommended* system specifications for the list. Please keep in mind that every PC is different, and these recommendations are an estimate based on available data and firsthand reports. Individual performance may vary depending on specific hardware and software configurations, as well as other system optimizations. **Troubleshooting & support for hardware related issues will not be provided.**
 
 >[!WARNING]
-> An **OFFICIAL** copy of Cp2077 is required to play the modlist.
+>- An **OFFICIAL** copy of Cp2077 is required to play the modlist.
 >- An SSD is **required** to the play the modlist.
 >- Only Windows 10 or 11 operating systems are supported. Other operating systems may work, however **I WILL NOT BE PROVIDING SUPPORT FOR THOSE.**
 

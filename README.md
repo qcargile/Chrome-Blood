@@ -23,4 +23,5 @@ Screenshots below assume the Steam version of the game.
   - ### [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game)
   - ### Make sure you have all DLC installed.
   - ### You click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8ef9cd6b-1ad3-489e-b847-6a5211c1541d)
+   ![image](https://github.com/user-attachments/assets/dc727531-5f72-4bb6-aa64-df340b48c1a3)
+  - ### Ensure your steam installation shows both REDMOD and CP2077 PL as installed!!

@@ -66,17 +66,19 @@ Install Size: ~27.8 GB
 
 1. Download [Wabbajack](https://www.wabbajack.org) and place it in a folder away from your Cyberpunk 2077 installation and outside of any protected folders, something like `D:\Wabbajack`
 2. Launch Wabbajack and go to "Browse Modlists"
-3. Click the download button for Chrome & Blood
-4. Click the run button
-5. Set the installation directory to something like `D:\Chrome & Blood`, again, away from your Cyberpunk 2077 installation and outside of any protected folders. Make sure that the installation directory is on the same drive as Cyberpunk 2077.
-6. Click the run button and wait for Wabbajack to complete the installation process
+3. Directly under the search bar, filter by "Cyberpunk 2077" to only see lists from CP2077.
+3. Tick the "NSFW" and "Non-Featured" filters
+4. Search for "Chrome & Blood" if necessary
+5. Click on my list coverart, then download and install
+5. Set the installation/download directory to something like `D:\Chrome & Blood` & `D:\Chrome & Blood\downloads` again, away from your Cyberpunk 2077 installation and outside of any protected folders. Make sure that the installation directory is on the same drive as Cyberpunk 2077.
+6. Click the install button and wait for Wabbajack to complete the installation process
 7. Find `ModOrganizer.exe` in the folder you installed the modlist to
 8. Click the "Run" button on the top right in MO2 to launch Chrome & Blood
 
 
 ## Post-Installation
 
-# Antivirus Exceptions
+### Antivirus Exceptions
 
 >[!WARNING]
 >Antivirus programs are notorious for false flagging [MO2's Virtual File System](https://stepmodifications.org/wiki/Guide:Mod_Organizer/Advanced), which can and will cause crashes and other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will need to fully remove them from your PC in order to actually launch the game through MO2. It is 2025, Windows Defender and being smart online is more than adequate to protect yourself from malicious software.

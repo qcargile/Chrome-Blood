@@ -30,7 +30,7 @@ Based on both internal performance testing and user feedback, the section below 
 <Details>
 <summary>Detailed Size Requirements</summary>
 
-Base Game and DLC: 84.6
+Base Game and DLC: ~84.6 GB
 
 Downloads Size: ~27.9 GB  
 

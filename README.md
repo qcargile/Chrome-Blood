@@ -16,7 +16,8 @@ Based on both internal performance testing and user feedback, the section below 
 >[!WARNING]
 >
 >- An SSD is **required** to the play the modlist.
->- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations also **WILL NOT WORK**.
+>- Only Windows 10 or 11 operating systems are supported. Other operating systems may work, however **I WILL NOT BE PROVIDING SUPPORT FOR THOSE.**
+
 
 
 <Details>

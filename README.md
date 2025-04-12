@@ -9,19 +9,22 @@ Chrome & Blood is a complete Cyberpunk 2077 overhaul built to reforge the game i
 
 Step into Night City like you've never seen it before—raw, ruthless, and dripping in chrome.
 
-
-
-## Install instructions:
-
-Screenshots below assume the Steam version of the game. 
-
-## 1. Make sure you have a clean cyberpunk installation.
-
-  - ### Make sure not to install the base game or modlist in a protected folder
-     ![image](https://github.com/user-attachments/assets/7a1892e8-70d0-4a3d-b62c-e09d23c2168c)
-
-  - ### [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game)
-  - ### Make sure you have all DLC installed.
-  - ### You click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
+## Preinstallation
+ # Screenshots below assume the Steam version of the game. 
+1. [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) of Cyberpunk 2077 to a location _outside_ `Program Files`.
+2. Install the [Visual C++ Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+   - Extract the downloaded archive and run `install_all.bat`
+3. Make sure you have all DLC installed.
+4. Click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
    ![image](https://github.com/user-attachments/assets/dc727531-5f72-4bb6-aa64-df340b48c1a3)
+
   - ### Ensure your steam installation shows both REDMOD and CP2077 PL as installed!!
+
+# Installation
+
+1. Download [Wabbajack](https://www.wabbajack.org) and place it in a folder away from your Cyberpunk 2077 installation and outside of any protected folders, something like `D:\Wabbajack`
+2. Launch Wabbajack and go to "Browse Modlists"
+3. Click the download button for Squeegeepunk
+4. Click the run button
+5. Set the installation directory to something like `D:\Squeegeepunk`, again, away from your Cyberpunk 2077 installation and outside of any protected folders. Make sure that the installation directory is on the same drive as Cyberpunk 2077.
+6. Click the run button and wait for Wabbajack to complete the installation process

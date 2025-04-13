@@ -66,7 +66,7 @@ Install Size: ~27.8 GB
 
  ### Ensure your steam installation shows both REDMOD and CP2077 PL as installed!!
 
-## Installation
+## Installation - Install from Nexus mods [HERE](https://www.nexusmods.com/cyberpunk2077/mods/20942?tab=description) until C&B is listed on Wabbajack!!
 
 1. Download [Wabbajack](https://www.wabbajack.org) and place it in a folder away from your Cyberpunk 2077 installation and outside of any protected folders, something like `D:\Wabbajack`
 2. Launch Wabbajack and go to "Browse Modlists"

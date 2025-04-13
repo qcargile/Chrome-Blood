@@ -90,6 +90,25 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - Removes intrusive effects like vignette, chromatic aberration, inventory blur, and holocall noise.
 - Adjust to reduce eye strain or go full cinematic.
 
+### `Ultra Plus - Best Performance and Visuals for Everyone`
+- This mod is **vital for fine-tuning performance and graphics quality** across a wide range of hardware.
+- It provides a **complete engine-level visual optimization suite**, with massive improvements to how the game handles lighting, memory, frame timing, and ray tracing — all without sacrificing style.
+- There are **four distinct presets** included: `Fast`, `Medium`, `High`, and `Insane`, each carefully balanced for a specific type of player or hardware configuration.
+- You can **switch presets and tweak advanced settings** at any time through the **CET (Cyber Engine Tweaks) overlay**, making it extremely easy to adjust performance on the fly.
+- **IMPORTANT:** You *must* select the preset that best matches your setup and visual preference — this mod significantly affects overall performance and fidelity.
+
+#### 🎛️ Preset Comparison Chart
+
+| Preset | Description | Target Hardware | Performance | Visual Quality |
+|--------|-------------|------------------|-------------|----------------|
+| **Fast** | "As fast as possible while still looking good" | Mid-range and laptops | 🚀 **+30-40% faster** than vanilla | 👍 Near-vanilla with better consistency |
+| **Medium** | "The full mod — perfect balance" | Mid-high range GPUs (3060–4070) | ⚖️ Similar to vanilla | 🌆 Significantly improved |
+| **High** | "Give me more visuals, but respect FPS" | 3080+ / 7800+ GPUs | 🔧 Slight drop from vanilla | 🔥 Max fidelity with smart trade-offs |
+| **Insane** | "Do it 😎" | RTX 4090 / bleeding edge builds | 🎯 60–80+ FPS on ultra rigs | 💎 Highest possible RT/PT visuals, minimal noise |
+
+- Pair this with `ReLUX`, `Nova LUT`, and `Ultra Fog` to create a fully immersive, cinematic Night City experience that suits *your* machine and style.
+
+
 ---
 
 ## 🧩 Quality of Life

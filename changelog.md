@@ -1,7 +1,7 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
-<summary>v1.01 - April 12, 2025</summary>
+<summary>v1.01 - April 13, 2025</summary>
 
 ### 🔄 Mod Updates
 - Updated **Neuralware - Chipware Expansion** to `v1.1.4`

@@ -23,17 +23,17 @@
       "image": "<link to an image to show in the UI>",
       "readme": "https://github.com/qcargile/Chrome-Blood/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "chromeandblood",
+      "machineURL": "Chrome-Blood/chromeandblood",
       "discordURL": "https://discord.gg/gYmDkvfK"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "GZy5WVGpq1c=",
+      "Size": 7116047,
+      "NumberOfArchives": 1197,
+      "SizeOfArchives": 31436520687,
+      "NumberOfInstalledFiles": 11014,
+      "SizeOfInstalledFiles": 30289361370
     },
     "version": "1.0"
   }

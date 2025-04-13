@@ -106,9 +106,6 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 | **High** | "Give me more visuals, but respect FPS" | 3080+ / 7800+ GPUs | 🔧 Slight drop from vanilla | 🔥 Max fidelity with smart trade-offs |
 | **Insane** | "Do it 😎" | RTX 4090 / bleeding edge builds | 🎯 60–80+ FPS on ultra rigs | 💎 Highest possible RT/PT visuals, minimal noise |
 
-- Pair this with `ReLUX`, `Nova LUT`, and `Ultra Fog` to create a fully immersive, cinematic Night City experience that suits *your* machine and style.
-
-
 ---
 
 ## 🧩 Quality of Life

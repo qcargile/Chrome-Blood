@@ -1,5 +1,4 @@
-## Chrome & Blood
-![image](https://github.com/user-attachments/assets/e16c83b3-bcf5-44ec-ad41-00847db8a5ea)
+![C B wabba](https://github.com/user-attachments/assets/13d62f0f-0baf-4028-a355-b67508f3d9ae)
 
 >[!IMPORTANT]
 >- Chrome & Blood requires the Phantom Liberty DLC.

@@ -20,10 +20,10 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/C B wabba.png",
+      "image": "https://raw.githubusercontent.com/qcargile/Chrome-Blood/refs/heads/main/Modlist/cover.md",
       "readme": "https://github.com/qcargile/Chrome-Blood/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "Chrome-Blood/schoolboyq",
+      "machineURL": "SchoolBoyQ",
       "discordURL": "https://discord.gg/gYmDkvfK"
     },
     "download_metadata": {

@@ -1,5 +1,30 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
+
+> 📌 Click a version tab below to expand and view the changelog for that update.
+
+<details>
+<summary>v1.02 - April 13, 2025</summary>
+
+### 🔄 Modlist Updates
+- Updated **Chrome & Blood Modlist Settings** to `v1.01`
+
+### 🗑 Removals
+- Removed **Stretched Ears and Tunnel Piercings (Gauges Mod)**
+- Removed **Appearance Change Unlocker** due to causing numerous bugs and crashes
+- Removed **Male & Female V Preset Collections**
+- Removed the following character presets (dependent on Appearance Change Unlocker):
+  - **Red Vengeance Preset**
+  - **Asheow Preset**
+  - **Valkyr Preset**
+  - **Ashv2 Preset**
+  - **Bella Preset**
+
+> ⚠️ *Note: All listed presets were removed because they relied on the Appearance Change Unlocker, which is no longer part of the modlist due to instability and crash issues.*
+
+</details>
+
+
 <details>
 <summary>v1.01 - April 13, 2025</summary>
 

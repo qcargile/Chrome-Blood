@@ -1,6 +1,32 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v1.03 - April 14, 2025</summary>
+
+### 🗑 Removals
+- Removed **Yacht in Downtown** due to mod creating errors
+- Removed **Downtown Yacht** due to mod creating errors
+- Removed **Pacifica Apartment** due to mod creating errors
+- Removed **New Game Plus - Native** due to instability
+- Removed **Kala's Tattoos - Body Textures** due to conflicts with other mods causing a visual skin bug
+- Removed **Law Enforcement Overhaul** due to redundant features now covered by other systems
+
+### 🔄 Mod Swaps
+- Swapped **Combat Overhaul (Full Version)** with the **AI-Only version** to reduce overlap and improve compatibility
+
+### 🔼 Mod Updates
+- Updated **Nova City 2** to `v2.0.1`
+- Updated **Cutscene Weapon Swapper** to `v1.3.0`
+- Updated **Lizzie's Braindances** to `v2.02.1`
+- Updated **Need More Smoke FX** to `v2.21.2`
+- Updated **Enemies of Night City** to [b]test version `0.42`[/b]
+
+> 🧠 *Enemies of Night City is now the primary mod handling enemy mechanics, while Combat Revolution (AI Only) controls behavior and AI tuning.*
+
+</details>
+
+
+<details>
 <summary>v1.02 - April 13, 2025</summary>
 
 ### 🔄 Modlist Updates

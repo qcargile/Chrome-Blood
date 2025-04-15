@@ -19,7 +19,7 @@
 - Updated **Cutscene Weapon Swapper** to `v1.3.0`
 - Updated **Lizzie's Braindances** to `v2.02.1`
 - Updated **Need More Smoke FX** to `v2.21.2`
-- Updated **Enemies of Night City** to [b]test version `0.42`[/b]
+- Updated **Enemies of Night City** to test version `0.42`
 
 > 🧠 *Enemies of Night City is now the primary mod handling enemy mechanics, while Combat Revolution (AI Only) controls behavior and AI tuning.*
 

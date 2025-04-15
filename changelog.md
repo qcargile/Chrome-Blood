@@ -1,7 +1,7 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
-<summary>v1.03 - April 14, 2025</summary>
+<summary>v1.03 - April 15, 2025</summary>
 
 ### 🗑 Removals
 - Removed **Yacht in Downtown** due to mod creating errors

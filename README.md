@@ -113,34 +113,41 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 Below is a list of important keybinds added or changed by mods in this list. Some of these may need to be configured in-game or through the unified **Redscript and CET Mods Settings** menu, which combines mod options from both systems into one easy-to-access interface.
 
+---
+
 ### 🧠 Gameplay / Interface
-- **Scanner Slowdown (RAM-based)** — *Automatically adjusts* based on remaining RAM, no manual keybind required.
-- **Quickhack Hotkeys**  
-  - Default: `1` through `0` (or customizable)  
-  - Assign specific quickhacks to keys for instant casting without using the scanner. *(Mod: Quickhack Hotkeys)*
+
+- **Quickhack Hotkeys** — `1` through `0` (customizable)  
+  Assign specific quickhacks to keys for instant casting without using the scanner. *(Mod: Quickhack Hotkeys)*
 
 - **Toggle Sprint / Walk Mode** — `G` (default)  
-  - Changes movement to walk by default and sprint when holding/toggling. *(Mod: Walk by Default 2.0)*
+  Changes movement to walk by default and sprint when holding/toggling. *(Mod: Walk by Default 2.0)*
+
+- **Immersive Timeskip Menu** — `O`  
+  Opens the visual timeskip interface to fast-forward time in style. *(Mod: Immersive Timeskip)*
+
+---
 
 ### 🎒 Inventory & UI
-- **HUDitor Control Panel** — `Shift + U` (default)  
-  - Open the HUD customization interface to move, hide, or resize elements. *(Mod: HUDitor)*
 
-- **Inventory Zoom In/Out** — Mouse Scroll or `+/-` (customizable)  
-  - Zoom into gear in your inventory to inspect details. *(Mod: Inventory Zoom)*
+- **HUDitor Control Panel** — `Shift + U` (default)  
+  Open the HUD customization interface to move, hide, or resize elements. *(Mod: HUDitor)*
+
+- **Inventory Zoom In/Out** — Mouse Scroll or `+ / -` (customizable)  
+  Zoom into gear in your inventory to inspect details. *(Mod: Inventory Zoom)*
 
 - **Wardrobe Courier Request** — `N` (default) or via in-game courier terminal  
-  - Calls a delivery of saved outfits using EquipmentEx presets. *(Mod: Wardrobe Courier)*
+  Calls a delivery of saved outfits using EquipmentEx presets. *(Mod: Wardrobe Courier)*
 
 - **Preem Map Toggle Layers** — Mouse interactions or settings panel  
-  - Switch between enhanced map layers and icons. *(Mod: Preem Map)*
+  Switch between enhanced map layers and icons. *(Mod: Preem Map)*
 
-### 📸 Camera & Visuals
-- **Streamlined HUD Toggle** — Automatic  
-  - Streamlines HUD appearance based on context; no manual key needed. *(Mod: Streamlined HUD)*
+---
 
 ### 🛠 Configuration Notes
-- **Cyber Engine Tweaks Menu** — *Keybind is set by the player* the first time the game is launched with CET installed.
+
+- **Cyber Engine Tweaks Menu** — Keybind is set by the player the first time the game is launched with CET installed.
+
 
 Be sure to check each mod’s page for additional keybinding options or customization tips.
 

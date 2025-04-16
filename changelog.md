@@ -1,6 +1,27 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v1.04 - April 16, 2025</summary>
+
+### 🗑 Removals
+- Removed **Better Sleeves**
+- Removed **Render Plane Fix**  
+> 🛠️ *Both were removed due to a visual bug affecting male characters when using certain cyberware.*
+
+### 🔼 Mod Updates
+- Updated **Vehicle Smart Tracking Machine Gun** to `v1.0.1`
+- Updated **Prototype Thermal Longsword** to `v1.4`
+- Updated **Sabbath Weapon and Attachment Virtual Atelier** to `v1.11`  
+  > 🔄 Switched from Legendary Attachments version to **Rare Attachments** version
+- Updated **Preem Scopes** to `v0.17.2`
+- Updated **Night City Interactions - Core** to `v3.4.0`
+- Updated **NCI Addon - Santo Domingo** to `v1.1.0`
+- Updated **NCI Addon - Heywood** to `v1.2.0`
+- Updated **Hotscenes** to `v5.29.2`
+
+</details>
+
+<details>
 <summary>v1.03 - April 15, 2025</summary>
 
 ### 🗑 Removals

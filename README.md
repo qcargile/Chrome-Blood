@@ -15,7 +15,7 @@ Step into Night City like you've never seen it before—raw, ruthless, and dripp
 
 Current Mod List: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2) 
 
-Modlist Changelog: [v1.03](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
+Modlist Changelog: [v1.04](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
 
 Detailed look at mods in the list can be found [**HERE**](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)
 

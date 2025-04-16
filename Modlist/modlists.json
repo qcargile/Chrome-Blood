@@ -1,13 +1,13 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Chrome and Blood",
-    "description": "Chrome & Blood transforms Cyberpunk 2077 into a relentless, high-stakes experience where every fight hits harder and every choice cuts deeper. Overhauled combat, immersive UI, enhanced visuals, and hundreds of new pieces of gear which includes cyberware, weapons, vehicles, and cosmetics, Chrome & Blood redefines what it means to survive Night City.",
+    "description": "Chrome \u0026 Blood transforms Cyberpunk 2077 into a relentless, high-stakes experience where every fight hits harder and every choice cuts deeper. Overhauled combat, immersive UI, enhanced visuals, and hundreds of new pieces of gear which includes cyberware, weapons, vehicles, and cosmetics, Chrome \u0026 Blood redefines what it means to survive Night City.",
     "author": "Q",
     "maintainers": [
       "github/qcargile"
     ],
     "game": "cyberpunk2077",
+    "official": false,
     "tags": [
       "NSFW",
       "Gameplay",
@@ -16,26 +16,30 @@
       "Graphics"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/cover.webp",
       "readme": "https://github.com/qcargile/Chrome-Blood/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Chrome%20&%20Blood.wabbajack_29a36545-d41e-44b5-975f-6db1736ec45a",
+      "download": "https://authored-files.wabbajack.org/Chrome \u0026 Blood.wabbajack_7d26dc00-eb30-424c-99cf-730632abe0b5",
       "machineURL": "SchoolBoyQ",
-      "discordURL": "https://discord.gg/gYmDkvfK"
+      "discordURL": "https://discord.gg/gYmDkvfK",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Z8ZGXaGLz/0=",
-      "Size": 5566412,
+      "Hash": "zqmmQhKG9ro=",
+      "Size": 5566374,
       "NumberOfArchives": 1181,
       "SizeOfArchives": 31051753674,
       "NumberOfInstalledFiles": 10652,
-      "SizeOfInstalledFiles": 30105317560
+      "SizeOfInstalledFiles": 30105317560,
+      "TotalSize": 61157071234
     },
-    "version": "1.04"
+    "version": "1.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-04-16T20:39:27.5818578Z",
+    "repositoryName": ""
   }
 ]
-

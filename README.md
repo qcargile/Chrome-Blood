@@ -126,6 +126,9 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 - **Immersive Timeskip Menu** — `O`  
   Opens the visual timeskip interface to fast-forward time in style. *(Mod: Immersive Timeskip)*
 
+- **Nitrous Boost** — `Left Shift` (default)  
+  Activates the nitrous system while driving eligible vehicles. *(Mod: Nitrous)*
+
 ---
 
 ### 🎒 Inventory & UI
@@ -147,6 +150,7 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 ### 🛠 Configuration Notes
 
 - **Cyber Engine Tweaks Menu** — Keybind is set by the player the first time the game is launched with CET installed.
+
 
 
 Be sure to check each mod’s page for additional keybinding options or customization tips.

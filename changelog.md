@@ -11,6 +11,7 @@
 - Removed **Iconic Weapons Spawn as Tier 5**
 - Removed **Vehicle Clone Destroyer** due to an audio bug
 - Removed **Combat Revolution (AI Only)**
+- Removed **More Frequent Dismemberment**
 
 ### ➕ Additions
 - Added **Night City Alive (Standard Density)** `v2.0`
@@ -25,9 +26,12 @@
 - Added **KAFU UI HUD Painter Preset** `v1.0`
 - Added **DARK HUD Painter Preset** `v1.0`
 
+### 🔄 Modlist Update
+- Updated **Chrome and Blood Modlist Settings** to `v1.02`
+
 ---
 
-This update is focused on making combat feel more like V has to fight their way through Night City to earn that end-game merc status.  
+This update is focused on making combat feel more like V has to [i]fight[/i] their way through Night City to earn that end-game merc status.  
 Early and mid-game progression will feel more challenging due to the removal of several mods that conflicted with **Enemies of Night City**, which now has full control over enemy scaling and behavior.
 
 End-game balance remains strong thanks to the extensive customization available through cyberware, weapons, and mods.
@@ -35,7 +39,6 @@ End-game balance remains strong thanks to the extensive customization available 
 > 🛠️ Combat difficulty and scaling can be adjusted at any time in the **Enemies of Night City** mod settings.
 
 </details>
-
 
 <details>
 <summary>v1.04 - April 16, 2025</summary>

@@ -1,6 +1,43 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v1.1 - April 17, 2025</summary>
+
+### 🗑 Removals
+- Removed **Enemy Rarity Fixes**
+- Removed **Guns Redone Overhaul** and all associated patches
+- Removed **Enhanced Vehicle System**
+- Removed **Psycho Crowds**
+- Removed **Iconic Weapons Spawn as Tier 5**
+- Removed **Vehicle Clone Destroyer** due to an audio bug
+- Removed **Combat Revolution (AI Only)**
+
+### ➕ Additions
+- Added **Night City Alive (Standard Density)** `v2.0`
+- Added **Weapon Damage Scaling Rebalance** `v0.2.0`
+- Added **Weapon Damage Scaling Rebalance - Loot Fix** `v1.0`
+- Added **Monochrome UI HUD Painter Preset** `v1.0`
+- Added **Violet HUD Painter Preset** `v1.0`
+- Added **Vintage Pink HUD Painter Preset** `v1.0`
+- Added **E3-ISH Color Scheme HUD Painter Preset** `v1.1`
+- Added **Eva Unit 1 HUD Painter Preset** `v1.0`
+- Added **Mox Theme Color Scheme HUD Painter Preset** `v1.3`
+- Added **KAFU UI HUD Painter Preset** `v1.0`
+- Added **DARK HUD Painter Preset** `v1.0`
+
+---
+
+This update is focused on making combat feel more like V has to [i]fight[/i] their way through Night City to earn that end-game merc status.  
+Early and mid-game progression will feel more challenging due to the removal of several mods that conflicted with **Enemies of Night City**, which now has full control over enemy scaling and behavior.
+
+End-game balance remains strong thanks to the extensive customization available through cyberware, weapons, and mods.
+
+> 🛠️ Combat difficulty and scaling can be adjusted at any time in the **Enemies of Night City** mod settings.
+
+</details>
+
+
+<details>
 <summary>v1.04 - April 16, 2025</summary>
 
 ### 🗑 Removals

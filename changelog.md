@@ -27,7 +27,7 @@
 
 ---
 
-This update is focused on making combat feel more like V has to [i]fight[/i] their way through Night City to earn that end-game merc status.  
+This update is focused on making combat feel more like V has to fight their way through Night City to earn that end-game merc status.  
 Early and mid-game progression will feel more challenging due to the removal of several mods that conflicted with **Enemies of Night City**, which now has full control over enemy scaling and behavior.
 
 End-game balance remains strong thanks to the extensive customization available through cyberware, weapons, and mods.

@@ -23,6 +23,7 @@
 - Added **Dodge Viper 1999** `v1.0`
 - Added **Serena Outfit** `v1.0`
 - Added **NCI Addon - City Center** `v1.0.0`
+- Added **Modern FPS Combat Effects** `v1.0`
 
 ---
 

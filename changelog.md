@@ -1,6 +1,37 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v1.11 - April 18, 2025</summary>
+
+### 🗑 Removals
+- Removed **Immersive First Person**
+- Removed **Inventory Zoom**
+- Removed **In-World Navigation**
+- Removed **Map Street View**
+
+> ⚠️ These mods were removed due to bugs or instability.  
+> Stability and a smooth, bug-free experience should be a hallmark of **Chrome & Blood**.
+
+### ➕ Additions
+- Added **Harder Gunfights** `v0.1`
+- Added **Dynamic Cherry Blossoms** `v1.0`
+- Added **Dynamic Graffiti** `v1.0`
+- Added **Night City Recolor** `v0.1`
+- Added **Diverse Death Screens**
+- Added **Optical Camo Realism and Utility** `v2.0.1`
+- Added **Berserk Unchained - Retain Unspent Charge Level** `v1.1`
+- Added **Dodge Viper 1999** `v1.0`
+- Added **Serena Outfit** `v1.0`
+- Added **NCI Addon - City Center** `v1.0.0`
+
+---
+
+This update focuses on enhancing visual immersion and refining gameplay feel.  
+The added content brings more reactive world elements, tougher firefights, and smarter gear systems — all while cutting problematic mods to preserve the overall stability of the list.
+
+</details>
+
+<details>
 <summary>v1.1 - April 17, 2025</summary>
 
 ### 🗑 Removals

@@ -8,6 +8,7 @@
 - Removed **Inventory Zoom**
 - Removed **In-World Navigation**
 - Removed **Map Street View**
+- Removed **City of Dreams Menu Backgrounds**
 
 > ⚠️ These mods were removed due to bugs or instability.  
 > Stability and a smooth, bug-free experience should be a hallmark of **Chrome & Blood**.

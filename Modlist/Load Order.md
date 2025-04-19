@@ -23,9 +23,6 @@ Enhances weapon customization and crafting options for a more immersive experien
 [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197)  
 Revamps the ricochet mechanic, making it more practical and rewarding in combat.
 
-[Guns Redone V3.0 (Overhauled)](https://www.nexusmods.com/cyberpunk2077/mods/12704)  
-Overhauls firearm mechanics to provide a more realistic and satisfying gunplay experience.
-
 [Stealthrunner - Stealth Gameplay Expansion](https://www.nexusmods.com/cyberpunk2077/mods/7616)  
 Expands stealth gameplay elements, offering new tools and mechanics for silent operations.
 
@@ -35,8 +32,14 @@ Introduces randomly generated netrunners to the game world, increasing variety i
 [They Will Remember](https://www.nexusmods.com/cyberpunk2077/mods/19747)  
 Adds persistent consequences to your actions, making NPCs remember your choices.
 
-[Combat Revolution (AI Overhaul and High-Stakes)](https://www.nexusmods.com/cyberpunk2077/mods/20225)  
-Overhauls enemy AI and combat dynamics to create more challenging and high-stakes engagements.
+[Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467)  
+Adds new NPCs and enemy archetypes to populate the world with more variety and danger.
+
+[Harder Gunfights](https://www.nexusmods.com/cyberpunk2077/mods/14544)  
+Increases enemy aggression, accuracy, and reaction times to make combat more punishing.
+
+[Weapon Damage Scaling Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/10297)  
+Adjusts how weapon damage scales to ensure better balance across all levels and builds.
 
 [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)  
 Implements a cyberpsychosis system, adding depth to the consequences of excessive cyberware use.
@@ -87,8 +90,8 @@ Enhances NPC reactions to player actions, making the world feel more responsive 
 [Fixed NPC Vehicle Reactions](https://www.nexusmods.com/cyberpunk2077/mods/19530)  
 Corrects NPC behavior when reacting to vehicles, reducing immersion-breaking moments.
 
-[Psycho Crowds and Traffic Improvements (ini tweak)](https://www.nexusmods.com/cyberpunk2077/mods/7159)  
-Tweaks game settings to create denser crowds and more realistic traffic patterns.
+[NIGHT CITY ALIVE (REDmod)](https://www.nexusmods.com/cyberpunk2077/mods/10395)  
+Overhauls pedestrian and traffic behaviors to make Night City feel more dynamic, reactive, and alive.
 
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -192,9 +195,6 @@ Expands lifepath relevance by adding unique dialogue and gameplay consequences.
 [Custom Level Cap](https://www.nexusmods.com/cyberpunk2077/mods/2909)  
 Lets you raise or lower V's level cap to tailor progression to your liking.
 
-[New Game Plus - Native](https://www.nexusmods.com/cyberpunk2077/mods/15043)  
-Enables a seamless New Game Plus mode, carrying over your progress into a fresh playthrough.
-
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <Details>
@@ -260,9 +260,6 @@ Optimizes the game to balance ultra visuals with strong performance across most 
 [Streamlined HUD](https://www.nexusmods.com/cyberpunk2077/mods/10759)  
 Simplifies and declutters the in-game HUD for a cleaner and more immersive interface.
 
-[Map Street View](https://www.nexusmods.com/cyberpunk2077/mods/9911)  
-Adds a street-level view to the map, helping you explore and plan routes more intuitively.
-
 [Preem Scanner](https://www.nexusmods.com/cyberpunk2077/mods/9215)  
 Customizes the scanner visuals for a sleeker, more minimal look.
 
@@ -277,9 +274,6 @@ Lets you customize the color of HUD elements to match your aesthetic preferences
 
 [Preem Map](https://www.nexusmods.com/cyberpunk2077/mods/18269)  
 Overhauls the world map with clearer icons and a cleaner layout.
-
-[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776)  
-Allows you to zoom in and out of the inventory menu for easier viewing.
 
 [Wardrobe Courier - EquipmentEx Addon](https://www.nexusmods.com/cyberpunk2077/mods/18519)  
 Adds a delivery-style system for outfit presets through the EquipmentEx framework.
@@ -304,9 +298,6 @@ Adds configurable hotkeys to instantly activate quickhacks without using the sca
 
 [Inventory Adjustments Hub](https://www.nexusmods.com/cyberpunk2077/mods/19632)  
 Central hub for modular inventory enhancements like sorting, weight tweaks, and layout changes.
-
-[City of Dreams Menu Backgrounds](https://www.nexusmods.com/cyberpunk2077/mods/8333)  
-Changes the main menu background to a stylized City of Dreams theme.
 
 </Details>
 

@@ -39,7 +39,7 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - Tweak how forgiving stealth is, how alert enemies behave, and how stealth perks scale.
 - If you’re playing a Netrunner or Assassin-type build, absolutely dive into the settings.
 
-### `Combat Revolution` & `Enemies of Night City`
+### `Enemies of Night City`
 - These overhaul combat AI and encounter dynamics.
 - You can dial up or down enemy aggression, accuracy, and awareness — depending on whether you want chaos or control.
 
@@ -47,12 +47,17 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - Adds a system for **persistent reputation** based on your violent actions.
 - You can adjust how quickly people react to your past, or disable it for a cleaner sandbox-style play.
 
+### 'Scrapper'
+- Automatically scraps tier 1–5 weapons, attachments, clothing, quickhacks, and mods on pickup.
+- Incredibly useful for loot-heavy playthroughs, but highly recommended to tweak the settings first so you don’t destroy gear you actually want to use.
+- You can exclude specific categories or tiers through the settings panel — don’t skip this if you're running a heavily modified loot economy.
+
 ---
 
 ## 🤖 Cyberware & Combat
 
 ### `CyberwareEX` 
-- I’ve expanded cyberware functionality with these.
+- I’ve expanded cyberware functionality with this.
 - You can enable extra implant slots, adjust restrictions, and customize loadout balance.
 - Perfect for people going for full Borg/Edgerunner builds.
 
@@ -68,10 +73,9 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 
 ## 🚗 Vehicles & Driving
 
-### `Enhanced Vehicle System`
+### `Gripped Up`
 - Core mod for improving driving physics and realism.
-- This & `Gripped Up` tune traction and control.
-- You can also set your own field of view and speed sensitivity.
+- Also tunes traction and control.
 
 ### `Auto Drive` (and addons)
 - If you want hands-off travel, you can ride passenger or have your car drive itself.

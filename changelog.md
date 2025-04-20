@@ -15,7 +15,7 @@ Additionally, **performance and stability have been substantially improved** fro
 - Removed **Auto Drive Traffic Mode Switch**
 - Removed **Crystal Coat Fix**
 - Removed **Crystal Coat for Rayfield Caliburn**
-- Removed **Mon Bug Fix**
+- Removed **Moon Bug Fix**
 - Removed **NPC Accessories**
 - Removed **Outfit Lock No More**
 - Removed **Responsive NPCs**

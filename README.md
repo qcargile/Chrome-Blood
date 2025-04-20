@@ -126,7 +126,7 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 - **Immersive Timeskip Menu** — `O`  
   Opens the visual timeskip interface to fast-forward time in style. *(Mod: Immersive Timeskip)*
 
-- **Nitrous Boost** — `Left Shift` (default)  
+- **Nitrous Boost** — `Left Shift for vehicles` OR `Left Control for motorcycles` (default)  
   Activates the nitrous system while driving eligible vehicles. *(Mod: Nitrous)*
 
 ---
@@ -135,9 +135,6 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 
 - **HUDitor Control Panel** — `Shift + U` (default)  
   Open the HUD customization interface to move, hide, or resize elements. *(Mod: HUDitor)*
-
-- **Inventory Zoom In/Out** — Mouse Scroll or `+ / -` (customizable)  
-  Zoom into gear in your inventory to inspect details. *(Mod: Inventory Zoom)*
 
 - **Wardrobe Courier Request** — `N` (default) or via in-game courier terminal  
   Calls a delivery of saved outfits using EquipmentEx presets. *(Mod: Wardrobe Courier)*

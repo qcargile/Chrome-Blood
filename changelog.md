@@ -1,6 +1,53 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v1.12 - April 19, 2025</summary>
+
+### ⚔️ Combat & Performance Overhaul
+With v1.12, the recommended difficulty for Chrome & Blood shifts to **very hard**, and combat is finally in a state that feels good. **Time to kill for Tier 1–3 enemies is reasonable**, while elite enemies, MaxTac units, and bosses present a real challenge. Player survivability is reduced compared to vanilla, making every fight more intense and tactical. Using cover and finding opportune times to use healing items is key in order to avoid being sent to your death.
+
+Additionally, **performance and stability have been substantially improved** from the first release. Those upgrading to v1.12 should immediately feel the difference in both gameplay flow and overall system stability.
+
+---
+
+### 🗑 Removals
+- Removed **Improved Assassination**
+- Removed **Auto Drive Traffic Mode Switch**
+- Removed **Crystal Coat Fix**
+- Removed **Crystal Coat for Rayfield Caliburn**
+- Removed **Mon Bug Fix**
+- Removed **NPC Accessories**
+- Removed **Outfit Lock No More**
+- Removed **Responsive NPCs**
+- Removed **Stock Market and News System**
+- Removed **Zoomable Scopes**
+- Removed **More Climbable Object**
+- Removed **Digital Oasis**
+- Removed **Drive an Aerial Vehicle**
+- Removed **Instant Wardrobe**
+
+### ➕ Additions
+- Added **Dodge Challenger SRT Demon**
+- Added **KRNLNIK Toyota Supra**
+- Added **Scorpion Tank Suite**, which includes:
+  - **Military Combat Armor**
+  - **Military Gloves**
+  - **Military Gloves - Garment Support**
+  - **Military Combat Jacket**
+  - **Military Combat Jacket - Garment Support**
+  - **Military Ops-Core Fast Helmet**
+  - **Military Ballistic Mask**
+  - **Military Armor Pads**
+  - **Military Armor Pads - Garment Support for Elbow, Knee, Shoulder, and Thigh**
+- Added **Better Armor Scaling – Smooth Preset**
+
+---
+
+> 🛠️ This update lays the foundation for future content expansions while keeping Chrome & Blood stable, fast, and fight-ready.
+
+</details>
+
+<details>
 <summary>v1.11 - April 18, 2025</summary>
 
 ### 🗑 Removals

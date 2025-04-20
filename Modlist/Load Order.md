@@ -38,9 +38,6 @@ Adds new NPCs and enemy archetypes to populate the world with more variety and d
 [Harder Gunfights](https://www.nexusmods.com/cyberpunk2077/mods/14544)  
 Increases enemy aggression, accuracy, and reaction times to make combat more punishing.
 
-[Weapon Damage Scaling Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/10297)  
-Adjusts how weapon damage scales to ensure better balance across all levels and builds.
-
 [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)  
 Implements a cyberpsychosis system, adding depth to the consequences of excessive cyberware use.
 
@@ -83,9 +80,6 @@ Introduces a system where NPCs dynamically equip and use items, increasing world
 
 [Better Children](https://www.nexusmods.com/cyberpunk2077/mods/16462)  
 Improves the appearance and behavior of child NPCs for a more authentic environment.
-
-[Responsive NPCs](https://www.nexusmods.com/cyberpunk2077/mods/14800)  
-Enhances NPC reactions to player actions, making the world feel more responsive and alive.
 
 [Fixed NPC Vehicle Reactions](https://www.nexusmods.com/cyberpunk2077/mods/19530)  
 Corrects NPC behavior when reacting to vehicles, reducing immersion-breaking moments.
@@ -139,8 +133,6 @@ Adds new iconic weapons to the game, expanding the arsenal available to players.
 [Vanilla Reworks Explosive Pack - Standalone Iconic Weapons](https://www.nexusmods.com/cyberpunk2077/mods/17483)  
 Reworks and introduces standalone iconic weapons like the Malorian 3516 and Doom Doom for a fresh gameplay experience.
 
-[Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543)  
-Enables adjustable zoom levels on weapon scopes, enhancing targeting precision.
 
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------

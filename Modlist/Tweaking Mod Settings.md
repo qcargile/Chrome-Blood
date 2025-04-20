@@ -47,7 +47,7 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - Adds a system for **persistent reputation** based on your violent actions.
 - You can adjust how quickly people react to your past, or disable it for a cleaner sandbox-style play.
 
-### 'Scrapper'
+### `Scrapper`
 - Automatically scraps tier 1–5 weapons, attachments, clothing, quickhacks, and mods on pickup.
 - Incredibly useful for loot-heavy playthroughs, but highly recommended to tweak the settings first so you don’t destroy gear you actually want to use.
 - You can exclude specific categories or tiers through the settings panel — don’t skip this if you're running a heavily modified loot economy.

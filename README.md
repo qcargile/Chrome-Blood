@@ -17,6 +17,8 @@ Current Mod List: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists
 
 Modlist Changelog: [v1.12](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
 
+Discord link: [Chrome & Blood](https://discord.gg/U65Nhdcns8)
+
 Detailed look at mods in the list can be found [**HERE**](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)
 
 ## System Requirements
@@ -148,7 +150,5 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 
 - **Cyber Engine Tweaks Menu** — Keybind is set by the player the first time the game is launched with CET installed.
 
-
-
-Be sure to check each mod’s page for additional keybinding options or customization tips.
+**Be sure to check each mod’s page for additional keybinding options or customization tips.**
 

@@ -46,6 +46,8 @@ You’re meant to die. But you’re also meant to feel the impact of upgrades. E
 
 - Updated **Chrome and Blood Modlist Settings** to `v1.04`
 - Added **Better Armor Scaling - Hard Preset** `v2.0.0`
+- Added Alternative Berserk `v1.0.1`
+- Added Better Netrunning `v0.7`
 - Added **Cyberware Improved** modules:
   - Reflex Tuner and Revulson `v1.0`
   - Synaptic Accelerator `v1.0`

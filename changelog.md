@@ -16,7 +16,7 @@ You’re meant to die. But you’re also meant to feel the impact of upgrades. E
 ---
 
 ### 🗑 Removals
-
+- Removed **Hacking Gets Tedious**
 - Removed **Air Kerenzikov with Only Air Dash Perks**
 - Removed **Artistic**
 - Removed **Authentic Shift**

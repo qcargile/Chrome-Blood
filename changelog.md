@@ -1,6 +1,113 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v1.13 - April 21, 2025</summary>
+
+### ⚙️ Refined Focus & Brutal Combat
+
+This version of **Chrome & Blood** brings significant changes across graphics, combat, and overall direction.  
+Several mods have been removed to reduce bloat, eliminate bugs, and create a more focused, purposeful experience. Graphics were further tuned with subtle fixes and quality updates.
+
+Driving has been updated to feel tighter and more responsive, especially when drifting.
+
+Most notably, **combat has been rebalanced again**. As stated in v1.12 — **Chrome & Blood is designed for Very Hard difficulty.**  
+You’re meant to die. But you’re also meant to feel the impact of upgrades. Every cyberware piece, iconic weapon, or key perk should feel like a milestone in your journey from street merc to **legend of Night City**.
+
+---
+
+### 🗑 Removals
+
+- Removed **Air Kerenzikov with Only Air Dash Perks**
+- Removed **Artistic**
+- Removed **Authentic Shift**
+- Removed **Bloat Begone**
+- Removed **Citizen Breast Physics**
+- Removed **Crosshair Fade**
+- Removed **Deadly Roads**
+- Removed **Enhanced Biomonitor**
+- Removed **Focus Vignette Removal**
+- Removed **FX Begone - Vignette**
+- Removed **Hacked Machines**
+- Removed **Missing Persons - Fixers Hidden Gems**
+- Removed **Night City Visuals Nulled**
+- Removed **Roller Coaster Enhanced**
+- Removed **Set Bonuses**
+- Removed **Taxi Work in Night City**
+- Removed **TV Mute Control**
+- Removed **Ultra Fog Full**
+- Removed **Wall Jumpin Lynx Paws**
+- Removed **Windswept**
+- Removed **Better Armor Scaling - Smooth Preset**
+- Removed **Night City Fog Nulled**
+
+---
+
+### 🛡️ Combat Additions
+
+- Updated **Chrome and Blood Modlist Settings** to `v1.04`
+- Added **Better Armor Scaling - Hard Preset** `v2.0.0`
+- Added **Cyberware Improved** modules:
+  - Reflex Tuner and Revulson `v1.0`
+  - Synaptic Accelerator `v1.0`
+  - Kinetic Frame `v1.0`
+  - Biomonitor `v1.0`
+  - Black Mamba `v1.0`
+  - Clutch Padding `v1.0`
+  - Newton Module `v1.0`
+  - Memory Boost `v1.0`
+  - Heal on Kill `v1.0`
+  - Camillo Ram Manager `v1.4`
+  - Bioconductor `v2.2`
+- Added **Aim Reveals Enemies** `v1.03`
+- Added **Throwable Aim Slow Time** `v1.13`
+- Added **Enhance Weakspot - Vulnerability Analysis** `v1.0`
+- Added **Radial Breach** `v1.0.1`
+
+---
+
+### 🏎️ Driving Additions
+
+- Added **Cyber Drift** `v2.21`
+- Added **Cyber Grip** `v2.21`
+- Added **Dynamic Downforce** `v2.21`
+- Added **Anti Whiplash Driving Camera** `v1.0`
+- Added **Forbidden Vehicle Movement No More** `v0.11`
+
+---
+
+### 🌇 Graphics Additions
+
+- Added **Sandstorm Flickering Fix** `v0.1`
+- Added **Ultra Fog Lite** `v3.1`
+- Added **Nova City 2 - Shadow Boost (0.6)** `v2.0.0-SB1`
+- Added **Dog Town Upscaled Lasers 2k** `v1.0`
+- Added **Microblend Fix** `v1.0`
+- Added **zE3bra - Better Crosswalks** `v1.0`
+- Added **Egghanced Blood Puddles** `v1.0`
+- Added **Egghanced Blood FX** `v1.0`
+- Added **Better Tree Textures** `v1.2`
+- Added **Better Traffic Lights** `v1.0`
+- Added **ReLUX - Area Removals** `v1.0`
+- Added **ReLUX - Weapons Vendors** `v1.0.1`
+- Added **ReLUX - Vik's** `v1.0.1`
+- Added **ReLUX - Terminals** `v1.0.1`
+- Added **ReLUX - Afterlife** `v1.0.0`
+- Added **Preem Fixes - Little China** `v1.0`
+- Added **General Shadows Fix** `v0.3`
+- Added **Glow Begone** `v1.1`
+- Added **Blur Begone - Preem Windows Addon** `v2.0`
+- Added **Enhanced Texture Overhaul - 2k** `v1.1`
+- Added **Unchained Textures - Undisdain** `v5.1`
+- Added **Praedy's 77 Retexture 1k (Microblend Only)** `v1.1`
+
+---
+
+> 🛠️ This patch sharpens the list’s identity. Less fluff, more friction. Chrome & Blood remains as brutal as ever — but now it’s cleaner, meaner, and more immersive.
+
+</details>
+
+
+<details>
 <summary>v1.12 - April 19, 2025</summary>
 
 ### ⚔️ Combat & Performance Overhaul

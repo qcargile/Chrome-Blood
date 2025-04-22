@@ -52,6 +52,21 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - Incredibly useful for loot-heavy playthroughs, but highly recommended to tweak the settings first so you don’t destroy gear you actually want to use.
 - You can exclude specific categories or tiers through the settings panel — don’t skip this if you're running a heavily modified loot economy.
 
+### `Radial Breach`
+- Allows you to cast **Breach Protocol in a radial AOE**, affecting all nearby enemies.
+- Encourages fast-paced netrunner gameplay with fewer pauses for manual breaches.
+- Settings allow radius scaling, RAM cost, and effect duration customization.
+
+### `Enhanced Weakspot - Vulnerability Analytics Tweaks`
+- Improves how **weakspots and vulnerability analysis** are detected and rewarded.
+- Adds new mechanics to encourage targeting limbs and gear-based vulnerabilities.
+- Offers toggles and sliders for scan time, damage bonuses, and enemy responsiveness.
+
+### `Better Netrunning`
+- Completely overhauls the netrunning experience with **smoother quickhack flow**, **expanded detection**, and **system-wide balance tweaks**.
+- Great for immersive and reactive netrunner builds. Includes toggleable enemy interrupt resistance, hack radius, and access times.
+- Highly recommended for players who rely on stealth, hacking, and sensor control.
+
 ---
 
 ## 🤖 Cyberware & Combat

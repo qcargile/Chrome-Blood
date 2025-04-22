@@ -131,6 +131,8 @@ DLSS Ray Reconstruction: 310.2.1
 11. Navigate to DLSS Overrides section, and set the RR:Preset, to "Preset E". **IF YOU EDIT ANY OTHER SETTINGS OUTSIDE THE SCOPE OF THIS GUIDE, I WILL NOT PROVIDE SUPPORT FOR THAT**.
 ![image](https://github.com/user-attachments/assets/1acc7e43-950a-4000-8a54-c31e82f6f434)
 
+12. Click "apply changes" in the top right, and close NVIDIA Profile Inspector.
+
 
 ---
 

@@ -144,7 +144,7 @@ Adjust the "Quality Level" and "VRAM Configuration" on this menu to what is requ
 
 ![image](https://github.com/user-attachments/assets/9fa218fb-f456-4b64-8119-cec8b2879315)
 
-15. That's it! You're ready to play. Adjusting any settings from the default Chrome & Blood setup can result in crashes if you don't know what you're doing [CHECK THE ULTRA+ MOD PAGE!!!](https://www.nexusmods.com/cyberpunk2077/mods/10490?tab=description). **You have been warned.**
+15. That's it! You're ready to play. Adjusting any settings from the default Chrome & Blood setup can result in crashes if you don't know what you're doing. [CHECK THE ULTRA+ MOD PAGE!!!](https://www.nexusmods.com/cyberpunk2077/mods/10490?tab=description). **You have been warned.**
 
 ---
 

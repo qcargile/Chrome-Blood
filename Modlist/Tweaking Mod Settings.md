@@ -133,6 +133,13 @@ DLSS Ray Reconstruction: 310.2.1
 
 12. Click "apply changes" in the top right, and close NVIDIA Profile Inspector.
 
+13. Launch Chrome & Blood from MO2. Ensure your ULTRA+ CET menu settings are at the DEFAULT SETTINGS for Chrome & Blood. Again, as every setup is different, I cant provide effective troubleshooting for every setting you can touch in this menu, check out the mod page for that.
+![image](https://github.com/user-attachments/assets/6644f66a-c554-40c6-81ec-03fb20a3c305)
+
+**Notes**
+Adjust the "Quality Level" and "VRAM Configuration" on this menu to what is required for your system.
+
+
 
 ---
 

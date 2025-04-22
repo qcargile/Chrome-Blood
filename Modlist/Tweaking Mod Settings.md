@@ -137,10 +137,12 @@ DLSS Ray Reconstruction: 310.2.1
 
 ![image](https://github.com/user-attachments/assets/6644f66a-c554-40c6-81ec-03fb20a3c305)
 
-**Notes**
+**Notes:**
 Adjust the "Quality Level" and "VRAM Configuration" on this menu to what is required for your system.
 
+14. Navigate to  settings --> graphics and ensure your setup matches mine!!! **ITEMS BOXED IN RED MUST MATCH, ITEMS IN BLUE CAN BE CHANGED TO YOUR LIKING.**
 
+![image](https://github.com/user-attachments/assets/9fa218fb-f456-4b64-8119-cec8b2879315)
 
 ---
 

@@ -99,8 +99,6 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - It provides a **complete engine-level visual optimization suite**, with massive improvements to how the game handles lighting, memory, frame timing, and ray tracing — all without sacrificing style.
 - There are **four distinct presets** included: `Fast`, `Medium`, `High`, and `Insane`, each carefully balanced for a specific type of player or hardware configuration.
 - You can **switch presets and tweak advanced settings** at any time through the **CET (Cyber Engine Tweaks) overlay**, making it extremely easy to adjust performance on the fly.
-- **IMPORTANT:** You *must* select the preset that best matches your setup and visual preference — this mod significantly affects overall performance and fidelity.
-
 #### 🎛️ Preset Comparison Chart
 
 | Preset | Description | Target Hardware | Performance | Visual Quality |
@@ -109,6 +107,30 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 | **Medium** | "The full mod — perfect balance" | Mid-high range GPUs (3060–4070) | ⚖️ Similar to vanilla | 🌆 Significantly improved |
 | **High** | "Give me more visuals, but respect FPS" | 3080+ / 7800+ GPUs | 🔧 Slight drop from vanilla | 🔥 Max fidelity with smart trade-offs |
 | **Insane** | "Do it 😎" | RTX 4090 / bleeding edge builds | 🎯 60–80+ FPS on ultra rigs | 💎 Highest possible RT/PT visuals, minimal noise |
+
+### Here's a step by step process to get the most out of your graphics with Chrome & Blood post-v1.13 update
+
+1. Navigate to D:\Chrome & Blood\Tools\DLSS Swapper
+2. Find and run the DLSS Swapper.exe
+3. On the "Games" home page, click on Cyberpunk 2077.
+4. Change the DLSS, DLSS Frame Generation, and DLSS Ray Reconstruction .dll to the following versions;
+DLSS: 310.2.1
+DLSS Frame Generation: 3.8.1
+DLSS Ray Reconstruction: 310.2.1
+5. It should look like this when youre done:
+![image](https://github.com/user-attachments/assets/6761ecd0-9118-47eb-b0bb-bb626bf68f45)
+
+6. If you use FSR instead, follow the instructions on [this mod page](https://www.nexusmods.com/site/mods/738) to setup FSR3 for Cyberpunk 2077.
+7. Close DLSS Swapper when complete.
+
+8. Next, navigate to D:\Chrome & Blood\Tools\NVIDIA Profile inspector\NVPI-Revamped
+9. Find and run NVIDIA Profile Inspector.exe
+10. When that opens, type in "cyberpunk" in the profile search bar, and click on Cyberpunk 2077.
+![image](https://github.com/user-attachments/assets/9af5561d-7f46-427f-80ec-9f9d84755d1c)
+
+11. Navigate to DLSS Overrides section, and set the RR:Preset, to "Preset E". **IF YOU EDIT ANY OTHER SETTINGS OUTSIDE THE SCOPE OF THIS GUIDE, I WILL NOT PROVIDE SUPPORT FOR THAT**.
+![image](https://github.com/user-attachments/assets/1acc7e43-950a-4000-8a54-c31e82f6f434)
+
 
 ---
 

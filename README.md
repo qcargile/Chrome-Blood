@@ -9,13 +9,13 @@
 
 ## 📚 Table of Contents
 
-- [🧬 Introduction](#-introduction)
-- [🖥️ System Requirements](#system-requirements)
-- [🛠️ Preinstallation](#-preinstallation)
-- [🚀 Installation](#-installation)
-- [🧹 Post-Installation](#-post-installation)
-- [🔄 Updating the Modlist](#-updating-the-modlist)
-- [🔑 Keybinds to Know (Modded Controls)](#-keybinds-to-know-modded-controls)
+- [🧬 Introduction](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#introduction)
+- [🖥️ System Requirements](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#system-requirements)
+- [🛠️ Preinstallation](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#%EF%B8%8F-preinstallation)
+- [🚀 Installation](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-installation)
+- [🧹 Post-Installation](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-post-installation)
+- [🔄 Updating the Modlist](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-updating-the-modlist)
+- [🔑 Keybinds to Know (Modded Controls)](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-keybinds-to-know-modded-controls)
 
 
 ##  Introduction

@@ -146,34 +146,44 @@ You can install Chrome & Blood from either [**Nexus Mods**](https://www.nexusmod
 
 
 
-## Post-Installation
+## 🧹 Post-Installation
 
-### Antivirus Exceptions
+### 🛡️ Antivirus Exceptions
 
->[!WARNING]
->Antivirus programs are notorious for false flagging [MO2's Virtual File System](https://stepmodifications.org/wiki/Guide:Mod_Organizer/Advanced), which can and will cause crashes and other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will need to fully remove them from your PC in order to actually launch the game through MO2. It is 2025, Windows Defender and being smart online is more than adequate to protect yourself from malicious software.
+> [!WARNING]  
+> Antivirus programs are **notorious** for false-flagging [MO2's Virtual File System](https://stepmodifications.org/wiki/Guide:Mod_Organizer/Advanced), which can cause **crashes, launch failures**, and other issues.  
+> Programs like **BitDefender**, **Norton**, and **Webroot** are especially aggressive — you may need to fully **remove** them to get the game working through MO2.  
+> It’s 2025 — **Windows Defender + smart browsing habits** are more than enough to stay safe.
 
-If you use Windows Defender, it is advised that you set up an exception for the modlist.
+If you're using **Windows Defender**, it's strongly recommended to set up an exception for the modlist folder.
 
-<Details>
-<summary>Setting up Windows Defender Exceptions:</summary>
+<details>
+<summary><strong>🧰 How to Add a Windows Defender Exception</strong></summary>
 
- 1. Press the Windows Key.
- 2. Type "Windows Defender" in the search bar and select "Windows Security".
- 3. Click on "Virus & threat protection" in the left pane.
- 4. Click the "Manage settings" option under "Virus & threat protection settings".
- 5. Scroll down to "Exclusions" and click "Add or remove exclusions".
- 6. Windows Defender will prompt you with a run as administrator screen, just hit yes.
- 7. Click the "Add an exclusion" button at the top and choose "Folder".
- 8. Navigate to your Install folder for the list and click "Select Folder".
- 9. **(OPTIONAL)** You can repeat these steps for the other executables:
-    - ModOrganizer.exe (`[Path to Modlist]\ModOrganizer.exe`)
-    
-</Details>
+1. Press the **Windows Key**  
+2. Type **"Windows Defender"** and select **"Windows Security"**  
+3. Click **"Virus & threat protection"**  
+4. Under *Virus & threat protection settings*, click **"Manage settings"**  
+5. Scroll to **"Exclusions"** and click **"Add or remove exclusions"**  
+6. Approve the admin prompt when it appears  
+7. Click **"Add an exclusion"** > choose **"Folder"**  
+8. Navigate to your **modlist installation folder** and click **"Select Folder"**  
+9. _(Optional)_ Repeat to exclude additional executables like:  
+   - `ModOrganizer.exe` (`[Path to Modlist]\ModOrganizer.exe`)
 
-## Updating
+</details>
 
-- Follow steps 2-4 from the Installation section above **with the addition of checking the `Overwrite` box before starting installation**.
+---
+
+## 🔄 Updating the Modlist
+
+To update **Chrome & Blood**, follow **Steps 2–4** from the Installation section above,  
+**with one additional step:**
+
+- ✅ **Before installation, check the `Overwrite` box**
+
+This ensures all updated files are properly replaced during reinstallation.
+
 
 ## 🔑 Keybinds to Know (Modded Controls)
 

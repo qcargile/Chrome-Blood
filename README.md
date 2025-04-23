@@ -33,12 +33,24 @@ This isn’t just a modlist — it’s a **full-blown reimagining** of what *Cyb
 
 ## System Requirements
 
-Based on both internal performance testing and user feedback, the section below outlines my *recommended* system specifications for the list. Please keep in mind that every PC is different, and these recommendations are an estimate based on available data and firsthand reports. Individual performance may vary depending on specific hardware and software configurations, as well as other system optimizations. **Troubleshooting & support for hardware related issues will not be provided.**
+Based on both internal performance testing and user feedback, the section below outlines my *recommended* system specifications for running the modlist effectively.  
 
->[!WARNING]
->- An **OFFICIAL** copy of Cp2077 is required to play the modlist.
->- An SSD is **required** to the play the modlist.
->- Only Windows 10 or 11 operating systems are supported. Other operating systems may work, however **I WILL NOT BE PROVIDING SUPPORT FOR THOSE.**
+Please note:
+- Every PC setup is different.
+- These recommendations are estimates based on available data and firsthand reports.
+- **Individual performance may vary** depending on hardware, software configuration, background processes, and other system optimizations.
+
+> ⚠️ **Important Notice**  
+> **Hardware-related troubleshooting and technical support will not be provided.**
+
+---
+
+> [!WARNING]
+> - An **official** copy of *Cyberpunk 2077* is **required** to play this modlist.  
+> - An **SSD** is **mandatory** — do **not** attempt to run this on an HDD.  
+> - Only **Windows 10 or 11** is supported.  
+>   > Other operating systems may work, but **I WILL NOT BE PROVIDING SUPPORT FOR THOSE.**
+
 
  ![Apr 12, 2025, 12_24_13 PM](https://github.com/user-attachments/assets/e5d44fd3-275a-4c84-b85e-97678b39d29b)
 

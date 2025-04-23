@@ -7,6 +7,17 @@
 >[!WARNING]
 >You must update Cyber Punk 2077 to the latest version on Steam to install this list.
 
+## 📚 Table of Contents
+
+- [🧬 Introduction](#-introduction)
+- [🖥️ System Requirements](#system-requirements)
+- [🛠️ Preinstallation](#-preinstallation)
+- [🚀 Installation](#-installation)
+- [🧹 Post-Installation](#-post-installation)
+- [🔄 Updating the Modlist](#-updating-the-modlist)
+- [🔑 Keybinds to Know (Modded Controls)](#-keybinds-to-know-modded-controls)
+
+
 ##  Introduction
 
 **Chrome & Blood** is a complete *Cyberpunk 2077* overhaul, reforging the game into a darker, grittier, and more immersive experience.  

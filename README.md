@@ -94,10 +94,19 @@ Please note:
 </details>
 
 4. Ensure **all official DLC** is installed.
-5. Click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
+5. If not already installed, download [REDmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
    ![image](https://github.com/user-attachments/assets/dc727531-5f72-4bb6-aa64-df340b48c1a3)
 
- ### Ensure your steam installation shows both REDMOD and CP2077 PL as installed!!
+---
+
+### 🔍 Final Check
+
+Make sure your Steam installation shows both:
+
+- ✅ **Cyberpunk 2077: REDmod**  
+- ✅ **Cyberpunk 2077: Phantom Liberty**
+
+as **installed** in your library before proceeding.
 
 ## Installation - Install from [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/20942?tab=description) OR [Wabbajack](https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&nsfw=true&showUnofficial=true)
 

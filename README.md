@@ -141,6 +141,9 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 - **Nitrous Boost** — `Left Shift for vehicles` OR `Left Control for motorcycles` (default)  
   Activates the nitrous system while driving eligible vehicles. *(Mod: Nitrous)*
 
+- **Zoomable Scopes** — `Hold Shift while aiming down sights` (or your sprint key)  
+  Enables variable zoom on supported weapon scopes for improved targeting and immersion. *(Mod: Zoomable Scopes)*
+
 ---
 
 ### 🎒 Inventory & UI

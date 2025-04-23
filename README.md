@@ -68,22 +68,32 @@ Please note:
 
 </details>
 
-## Preinstallation
+## 🛠️ Preinstallation
 
-**Screenshots below assume the Steam version of the game.** 
-1. [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) of Cyberpunk 2077 to a location _outside_ `Program Files`.
-2. Install the [Visual C++ Redistributables](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
-   - Extract the downloaded archive and run `install_all.bat`
-<Details>
-<summary>3. Disable steam auto updates!</summary>
+> **Note:** The screenshots and instructions below assume you're using the **Steam version** of the game.
 
-1. Right-click the title under your Library, and select "Properties..."
-2. In the "UPDATES" tab, change Automatic Updates to "Update only when I launch it"  
-3. ONLY launch the game from Mod Organizer 2 from this point on! *You have been warned!*
+---
 
-</Details>
-   
-4. Make sure you have all DLC installed.
+### ✅ Required Steps
+
+1. [Perform a Clean Install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) of *Cyberpunk 2077*  
+   - Install the game to a location **_outside_** of `Program Files`.
+
+2. Install the [Visual C++ Redistributables (All-in-One)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)  
+   - Extract the downloaded archive  
+   - Run `install_all.bat`
+
+<details>
+<summary><strong>⚠️ Step 3: Disable Steam Auto-Updates</strong></summary>
+
+1. Right-click *Cyberpunk 2077* in your Steam Library and select **"Properties..."**  
+2. Navigate to the **"Updates"** tab  
+3. Set **Automatic Updates** to **"Only update this game when I launch it"**  
+4. From now on, **ONLY launch the game through Mod Organizer 2** — *you have been warned!*
+
+</details>
+
+4. Ensure **all official DLC** is installed.
 5. Click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
    ![image](https://github.com/user-attachments/assets/dc727531-5f72-4bb6-aa64-df340b48c1a3)
 

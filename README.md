@@ -108,18 +108,42 @@ Make sure your Steam installation shows both:
 
 as **installed** in your library before proceeding.
 
-## Installation - Install from [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/20942?tab=description) OR [Wabbajack](https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&nsfw=true&showUnofficial=true)
+## 🚀 Installation
 
-1. Download [Wabbajack](https://www.wabbajack.org) and place it in a folder away from your Cyberpunk 2077 installation and outside of any protected folders, something like `D:\Wabbajack`
-2. Launch Wabbajack and go to "Browse Modlists"
-3. Directly under the search bar, filter by "Cyberpunk 2077" to only see lists from CP2077.
-3. Tick the "NSFW" and "Non-Featured" filters
-4. Search for "Chrome & Blood" if necessary
-5. Click on my list coverart, then download and install
-5. Set the installation/download directory to something like `D:\Chrome & Blood` & `D:\Chrome & Blood\downloads` again, away from your Cyberpunk 2077 installation and outside of any protected folders. Make sure that the installation directory is on the same drive as Cyberpunk 2077.
-6. Click the install button and wait for Wabbajack to complete the installation process
-7. Find `ModOrganizer.exe` in the folder you installed the modlist to
-8. Click the "Run" button on the top right in MO2 to launch Chrome & Blood
+You can install Chrome & Blood from either [**Nexus Mods**](https://www.nexusmods.com/cyberpunk2077/mods/20942?tab=description)  
+**OR** via [**Wabbajack**](https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&nsfw=true&showUnofficial=true)
+
+---
+
+### 📥 Wabbajack Installation Instructions
+
+1. **Download [Wabbajack](https://www.wabbajack.org)**  
+   Place it in a folder **away** from your Cyberpunk 2077 installation and **outside of protected directories**  
+   > Recommended: `D:\Wabbajack`
+
+2. Launch **Wabbajack**, then go to **"Browse Modlists"**
+
+3. Under the search bar, apply the following filters:
+   - ✅ Filter by: **Cyberpunk 2077**
+   - ✅ Tick: **NSFW**
+   - ✅ Tick: **Non-Featured**
+
+4. Search for **"Chrome & Blood"** if it doesn’t appear immediately
+
+5. Click the **modlist cover art**, then download and install
+
+6. Choose installation paths:
+   - **Installation directory**: `D:\Chrome & Blood`
+   - **Download directory**: `D:\Chrome & Blood\downloads`  
+   > ⚠️ Both directories should be on the **same drive** as your Cyberpunk 2077 install  
+   > Do **not** install to `Program Files` or your game directory
+
+7. Click **Install** and wait for Wabbajack to complete the process
+
+8. After installation, open the folder where the modlist was installed and run `ModOrganizer.exe`
+
+9. In **Mod Organizer 2**, click the **Run** button (top right) to launch **Chrome & Blood**
+
 
 
 ## Post-Installation

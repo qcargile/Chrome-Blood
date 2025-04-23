@@ -7,19 +7,29 @@
 >[!WARNING]
 >You must update Cyber Punk 2077 to the latest version on Steam to install this list.
 
-## Introduction
+##  Introduction
 
-Chrome & Blood is a complete Cyberpunk 2077 overhaul built to reforge the game into a darker, grittier, and more immersive experience. Every core system has been reworked—from AI and combat mechanics to stealth, hacking, and progression—creating a more challenging and rewarding sandbox. The visual fidelity is pushed to the limit with upgraded lighting, weather, and textures, while the UI has been completely redesigned for a sleek, diegetic look that feels native to the world. Players can fully customize both male and female V with a huge selection of new cosmetics, cyberware, vehicles, and weapons, giving every playthrough a unique aesthetic. This is more than just a modlist — it's a full-blown reimagining of what Cyberpunk 2077 can be.
+**Chrome & Blood** is a complete *Cyberpunk 2077* overhaul, reforging the game into a darker, grittier, and more immersive experience.  
+Every core system has been reworked — from **AI** and **combat mechanics** to **stealth**, **hacking**, and **progression** — delivering a challenging, rewarding sandbox.
 
-Step into Night City like you've never seen it before—raw, ruthless, and dripping in chrome.
+- **Visual fidelity** is pushed to the limit with upgraded **lighting**, **weather**, and **textures**
+- The **UI** has been redesigned with a sleek, diegetic aesthetic that feels native to Night City
+- Combat is ruthless, with **enhanced enemy AI**, **overhauled behaviors**, and **lethal damage scaling** that punishes mistakes
+- A massive arsenal of **new cosmetics, cyberware, vehicles, and weapons** to increase player build diversity
 
-Current Mod List: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2) 
+This isn’t just a modlist — it’s a **full-blown reimagining** of what *Cyberpunk 2077* can be.
 
-Modlist Changelog: [v1.13](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
+> *Step into Night City like you've never seen it before — raw, ruthless, and dripping in chrome.*
 
-Discord link: [Chrome & Blood](https://discord.gg/U65Nhdcns8)
+---
 
-Detailed look at mods in the list can be found [**HERE**](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)
+### 🔗 Useful Links
+
+- 📄 **Current Modlist**: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
+- 🛠️ **Modlist Changelog**: [v1.13](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
+- 💬 **Join the Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
+- 📚 **Mod Details**: [Click here for a detailed look](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)
+
 
 ## System Requirements
 

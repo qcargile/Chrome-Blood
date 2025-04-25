@@ -1,6 +1,53 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v1.14 - April 25, 2025</summary>
+
+### 🎨 LUT Freedom + Bug Fixes
+
+This update includes minor bug fixes and a major addition: **LUT Switcher 2**.  
+You can now change your game's LUT *on the fly* using the CET menu — giving you access to **hundreds of visual styles** mid-game. Tailor the tone of your Night City to match your mood.
+
+I’ve also adjusted settings for **Better Netrunning** and **Radial Breach**.  
+If you're finding the default configurations too punishing, **don’t forget to tweak them** through the in-game mod settings.
+
+Thanks again for downloading. 
+**Live hard. Die Chrome.**
+
+---
+
+### 🆙 Updates
+
+- Updated **Virtual Car Dealer** to `v2.2.6`
+- Updated **Immersive Night City Fixes** to `v0.9`
+- Updated **Chrome and Blood Mod Settings** to `v1.06`
+- Updated **They Will Remember** to `v1.3.3`
+
+---
+
+### ➕ Additions
+
+- Added **LUT Switcher 2** `v2.4`
+- Added **LUT Switcher Fixes** `v1.4`
+- Added **LUT Switcher Cyberpunk Reloaded Pack** `v1.0`
+- Added **LUT Switcher Edge LUT Pack** `v1.1.1`
+- Added **LUT Switcher GITS LUT Pack** `v1.0`
+- Added **LUT Switcher NCLM Pack** `v1.0`
+- Added **LUT Switcher Preem LUT Pack** `v1.1.1`
+- Added **LUT Switcher MISC Pack** `v1.1`
+- Added **LUT Switcher Vanilla Pack** `v1.1`
+- Added **JSK - Better Mod Settings** `vbeta1`
+
+---
+
+### 🗑 Removals
+
+- Removed **RTDebris** due to visual bugs with debris around Night City
+
+</details>
+
+
+<details>
 <summary>v1.13 - April 21, 2025</summary>
 
 ### ⚙️ Refined Focus & Brutal Combat

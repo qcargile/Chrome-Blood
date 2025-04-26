@@ -1,5 +1,70 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
+> 📌 Click a version tab below to expand and view the changelog for that update.
+
+<details>
+<summary>v1.15 - April 22, 2025</summary>
+
+# SAVE COMPATIBLE WITH v1.14!! NEW GAME NOT NEEDED.
+
+### 🖼️ Graphics Finalization & Visual Stability Pass
+
+This patch finalizes the graphics foundation for **Chrome & Blood**.
+
+**Ray Tracing (RT) and Path Tracing (PT)** setups combined with **Ultra Plus** should now have **exponentially better stability**.  
+All graphics mods were carefully reviewed, and any causing instability, bugs, or minor visual degradation have been removed.
+
+Some important notes for users:
+- 🌟 **If you have an HDR monitor**, select an appropriate LUT via LUT Switcher for proper tone mapping.
+- 📸 **UI exposure flash warning**: After exiting menus (map, inventory, vehicle call, etc.), you may see a brief spike in brightness — this is normal and resets within a second.
+
+🛠️ Please continue reporting any graphical issues to help fine-tune the experience!
+
+**Live hard. Die Chrome.**
+
+---
+
+### 🆙 Updates
+
+- Updated **Ultra Plus** to `v6.2.2`
+- Updated **Ultra Skin** to `v2.2`
+- Updated **Immersive Night City Fixes** to `v0.9`
+
+---
+
+### ➕ Additions
+
+- Added **Unchainned Texture - Chained AIO** `v5.1`
+- Added **Faster Rainmap and Distance Shadow** `v0.1`
+- Added **Night City Visuals Nulled** `v2.2.2`
+
+---
+
+### 🗑 Removals
+
+- Removed **reGlass 2.0 Part A**
+- Removed **reGlass 2.0 Part B**
+- Removed **Disappearing NPC and Vehicle Fix**
+- Removed **FX Begone - Cybermask Reduced**
+- Removed **Improved Vegetation LODs**
+- Removed **METRO Glass**
+- Removed **Not So Good Draw Distance**
+- Removed **Nova LUT 3** (replaced by LUT Switcher packs)
+- Removed **Preem Fixes - Cloth**
+- Removed **Preem Fixes - Cloth and Tarps**
+- Removed **Preem Fixes - Metal**
+- Removed **Preem Fixes - Little China**
+- Removed **Preem Optics**
+- Removed **Trash Begone - Bugs**
+- Removed **Trash Begone - Floating Debris**
+- Removed **Trash Begone - Core**
+- Removed **Unchainned Textures - Undisdain**
+- Removed **Enhanced Textures Overall**
+- Removed **Microblend Fix**
+- Removed **Dog Town Upscaled Lasers 2k**
+
+</details>
+
 <details>
 <summary>v1.14 - April 25, 2025</summary>
 
@@ -47,7 +112,6 @@ Thanks again for downloading.
 - Removed **RTDebris** due to visual bugs with debris around Night City
 
 </details>
-
 
 <details>
 <summary>v1.13 - April 21, 2025</summary>

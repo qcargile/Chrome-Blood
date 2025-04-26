@@ -3,7 +3,7 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
-<summary>v1.15 - April 22, 2025</summary>
+<summary>v1.15 - April 26, 2025</summary>
 
 # SAVE COMPATIBLE WITH v1.14!! NEW GAME NOT NEEDED.
 

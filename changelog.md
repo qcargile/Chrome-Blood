@@ -3,6 +3,8 @@
 <details>
 <summary>v1.14 - April 25, 2025</summary>
 
+# SAVE COMPATIBLE WITH v1.13!! NEW GAME NOT NEEDED.
+
 ### 🎨 LUT Freedom + Bug Fixes
 
 This update includes minor bug fixes and a major addition: **LUT Switcher 2**.  

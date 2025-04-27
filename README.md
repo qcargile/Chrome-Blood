@@ -69,13 +69,13 @@ Please note:
 <summary><strong>📦 Detailed Size Requirements</strong></summary>
 
 - **Base Game + DLC:** ~84.6 GB  
-- **Modlist Downloads:** ~31.6 GB  
-- **Modlist Install Size:** ~31.2 GB  
+- **Modlist Downloads:** ~35 GB  
+- **Modlist Install Size:** ~36 GB  
 
 ---
 
-### 🧮 **MODLIST TOTAL SIZE:** ~63.7 GB  
-### 🗃️ **OVERALL SIZE REQUIRED:** ~150 GB
+### 🧮 **MODLIST TOTAL SIZE:** ~71 GB  
+### 🗃️ **OVERALL SIZE REQUIRED:** ~160 GB
 
 </details>
 

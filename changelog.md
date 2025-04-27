@@ -1,7 +1,5 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
-> 📌 Click a version tab below to expand and view the changelog for that update.
-
 <details>
 <summary>v1.15 - April 26, 2025</summary>
 

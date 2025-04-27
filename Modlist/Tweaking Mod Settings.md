@@ -105,10 +105,6 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - You *will* want to experiment to find your preferred LUT or reduce fog if you're seeing frame drops.
 - Tweak visual style between hyperreal, noir, or neon as you see fit.
 
-### `FX Begone`, `ReFlash`, `ReGlass`
-- Removes intrusive effects like vignette, chromatic aberration, inventory blur, and holocall noise.
-- Adjust to reduce eye strain or go full cinematic.
-
 ### `Ultra Plus - Best Performance and Visuals for Everyone`
 - This mod is **vital for fine-tuning performance and graphics quality** across a wide range of hardware.
 - It provides a **complete engine-level visual optimization suite**, with massive improvements to how the game handles lighting, memory, frame timing, and ray tracing — all without sacrificing style.

@@ -207,23 +207,8 @@ Forces the game to render several in-game elements at their highest quality leve
 [FX Begone (Full Vignette Removal and Modular Effects Options)](https://www.nexusmods.com/cyberpunk2077/mods/9209)  
 Removes vignette and various other post-processing effects for a cleaner HUD experience.
 
-[Preem Fixes (PT Shadow Bug Fix and HD Textures)](https://www.nexusmods.com/cyberpunk2077/mods/15800)  
-Fixes persistent shadows and introduces high-definition textures for multiple assets.
-
-[Preem Optics (Exposure Adaptation - Vignette Removal)](https://www.nexusmods.com/cyberpunk2077/mods/9278)  
-Improves visual clarity by tweaking exposure adaptation and removing the vignette.
-
 [Preem Scopes (Remove Tint Glitches Scanlines and 3D Depth Effect - FOMOD)](https://www.nexusmods.com/cyberpunk2077/mods/10021)  
 Cleans up scope visuals by removing scanlines, tints, and depth effects for better aim visibility.
-
-[RT DEBRIS](https://www.nexusmods.com/cyberpunk2077/mods/10903)  
-Adds raytraced debris lighting for more immersive destruction effects.
-
-[METRO GLASS](https://www.nexusmods.com/cyberpunk2077/mods/11885)  
-Upgrades the appearance of metro system glass with cleaner, more realistic textures.
-
-[Trash Begone (Optional Blowing Debris and Cockroach Removal)](https://www.nexusmods.com/cyberpunk2077/mods/12269)  
-Removes trash particles and cockroaches for a cleaner Night City experience.
 
 [Nova Rain (and Improved Ripples)](https://www.nexusmods.com/cyberpunk2077/mods/13483)  
 Revamps rain effects and water ripple behavior to look more natural and cinematic.
@@ -234,15 +219,8 @@ Includes various environmental tweaks such as denser traffic, enhanced NPC prese
 [ReLUX (Lighting Redux - Accurate Lighting)](https://www.nexusmods.com/cyberpunk2077/mods/20808)  
 Overhauls lighting for more realistic and atmospheric visuals throughout the game.
 
-[Nova LUT 3.0 (AgX - HDR Support)](https://www.nexusmods.com/cyberpunk2077/mods/11622)  
-Adds a new color grading LUT with HDR support for a filmic and modern tone.
-
 [Weather Switcher (Change Weather - Control Time - Customize Clouds)](https://www.nexusmods.com/cyberpunk2077/mods/18027)  
 Allows players to manually control the weather and time of day in-game.
-
-[Ultra Plus Best Performance and Visuals for Everyone](https://www.nexusmods.com/cyberpunk2077/mods/10490)  
-Optimizes the game to balance ultra visuals with strong performance across most systems.
-
 
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------

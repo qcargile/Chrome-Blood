@@ -100,24 +100,24 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 
 ## 🌆 Visuals & Graphics
 
-### `ReLUX`, `Nova LUT`, `Ultra Fog`, `Preem Water`
+### `ReLUX`, `Nova City 2`, `Preem Water`
 - These overhaul lighting, fog density, weather, and water effects.
 - You *will* want to experiment to find your preferred LUT or reduce fog if you're seeing frame drops.
 - Tweak visual style between hyperreal, noir, or neon as you see fit.
 
-### `Ultra Plus - Best Performance and Visuals for Everyone`
-- This mod is **vital for fine-tuning performance and graphics quality** across a wide range of hardware.
-- It provides a **complete engine-level visual optimization suite**, with massive improvements to how the game handles lighting, memory, frame timing, and ray tracing — all without sacrificing style.
-- There are **four distinct presets** included: `Fast`, `Medium`, `High`, and `Insane`, each carefully balanced for a specific type of player or hardware configuration.
-- You can **switch presets and tweak advanced settings** at any time through the **CET (Cyber Engine Tweaks) overlay**, making it extremely easy to adjust performance on the fly.
-#### 🎛️ Preset Comparison Chart
+### `LUT Switcher 2`
+- Lets you **swap LUTs on the fly** using the CET overlay.
+- Hundreds of LUTs available across multiple styles: vibrant, noir, cyberpunk neon, muted realism, etc.
+- Perfect for players who want to change the mood of their game without restarting.
 
-| Preset | Description | Target Hardware | Performance | Visual Quality |
-|--------|-------------|------------------|-------------|----------------|
-| **Fast** | "As fast as possible while still looking good" | Mid-range and laptops | 🚀 **+30-40% faster** than vanilla | 👍 Near-vanilla with better consistency |
-| **Medium** | "The full mod — perfect balance" | Mid-high range GPUs (3060–4070) | ⚖️ Similar to vanilla | 🌆 Significantly improved |
-| **High** | "Give me more visuals, but respect FPS" | 3080+ / 7800+ GPUs | 🔧 Slight drop from vanilla | 🔥 Max fidelity with smart trade-offs |
-| **Insane** | "Do it 😎" | RTX 4090 / bleeding edge builds | 🎯 60–80+ FPS on ultra rigs | 💎 Highest possible RT/PT visuals, minimal noise |
+### `Improved Distant Shadows`
+- Enhances shadow detail and consistency at longer distances.
+- Helps maintain immersion, especially in large outdoor areas or when flying/driving.
+
+### `Improved Environment LODs`
+- Sharpens terrain and world detail further away.
+- Reduces pop-in and blurring, but may slightly impact performance depending on your system specs.
+
 
 ### Here's a step by step process to get the most out of your graphics with Chrome & Blood post-v1.13 update
 

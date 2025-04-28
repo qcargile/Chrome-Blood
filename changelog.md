@@ -18,6 +18,13 @@ Thanks to everyone who's submitted feedback so far — we're almost there.
 
 ---
 
+### 🆙 Updates
+
+- Updated **Chrome and Blood Modlist Settings** to `v1.07`
+
+
+---
+
 ### 🗑 Removals
 
 - Removed **Egghanced Blood Puddles**

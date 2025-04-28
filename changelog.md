@@ -1,5 +1,73 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
+> 📌 Click a version tab below to expand and view the changelog for that update.
+
+<details>
+<summary>v1.16 - April 28, 2025</summary>
+
+# SAVE COMPATIBLE WITH v1.15.1!! NEW GAME NOT NEEDED.
+
+### 🔧 Final Stability Pass & Cyberware Expansion
+
+This update removes several problematic mods that were causing stutters, instability, or compatibility issues.  
+In addition, the full **Cyberware Improved** line has now been integrated to further expand player customization and buildcrafting.
+
+**Barring any new critical bug reports, this should be the last update for a while.**
+
+Thanks to everyone who's submitted feedback so far — we're almost there.
+
+**Live hard. Die Chrome.**
+
+---
+
+### 🗑 Removals
+
+- Removed **Egghanced Blood Puddles**
+- Removed **Egghanced Blood FX v2**
+- Removed **Blur Begone - Preem Windows Addon**
+- Removed **Delamain Combat Mode - Replacer**
+- Removed **Universal Raytraced Player Shadows**
+- Removed **The Lamp Lighter**
+- Removed **SPC TV Screen**
+- Removed **SPC Open**
+- Removed **Preem Beards**
+- Removed **Nova Traffic - Modded Vehicles in Traffic**
+- Removed **HQ Food - Real Nicola**
+- Removed **HQ Food - Real Chromanticore**
+- Removed **Hotel Glass Wall Elevator**
+- Removed **High-Res Vending Machines 2K**
+- Removed **High-Res Stickers**
+- Removed **Disappearing NPC and Vehicle Fix**
+- Removed **Dirt Begone**
+- Removed **Classic Drinks**
+- Removed **Classic Cigarettes**
+- Removed **Blur Begone**
+- Removed **Blur Begone - Optical Camo**
+- Removed **4x Poster Framework**
+- Removed **4x Magazine Framework**
+- Removed **4K Magazine Replacers**
+- Removed **4K HQ Posters**
+- Removed **Smoke Texture Overhaul**
+- Removed **reFlash**
+- Removed **reMedia**
+- Removed **Preem Shores**
+- Removed **Drive in Theater**
+
+---
+
+### ➕ Additions
+
+- Added **Batmobile** `v1.1`
+- Added **Cyberware Improved Modules**:
+  - **Titanium Bones** `v1.0`
+  - **Epimorphic Skeleton** `v1.0`
+  - **Universal Booster** `v1.0`
+  - **Stabber** `v1.0`
+  - **Parabellum and Iconic** `v1.0`
+  - **Shock Absorber and Iconic** `v1.0`
+
+</details>
+
 <details>
 <summary>v1.15 - April 26, 2025</summary>
 

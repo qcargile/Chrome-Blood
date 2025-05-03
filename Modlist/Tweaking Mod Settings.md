@@ -139,8 +139,9 @@ DLSS Ray Reconstruction: 310.2.1
 10. When that opens, type in "cyberpunk" in the profile search bar, and click on Cyberpunk 2077.
 ![image](https://github.com/user-attachments/assets/9af5561d-7f46-427f-80ec-9f9d84755d1c)
 
-11. Navigate to DLSS Overrides section, and set the RR:Preset, to "Preset E". **IF YOU EDIT ANY OTHER SETTINGS OUTSIDE THE SCOPE OF THIS GUIDE, I WILL NOT PROVIDE SUPPORT FOR THAT**.
-![image](https://github.com/user-attachments/assets/1acc7e43-950a-4000-8a54-c31e82f6f434)
+11. Navigate to DLSS Overrides section, and set the RR:Preset / SR:Preset to "Preset k". **IF YOU EDIT ANY OTHER SETTINGS OUTSIDE THE SCOPE OF THIS GUIDE, I WILL NOT PROVIDE SUPPORT FOR THAT**.
+![image](https://github.com/user-attachments/assets/79cc64c4-927c-4ffa-9562-d37451d66fe4)
+
 
 12. Click "apply changes" in the top right, and close NVIDIA Profile Inspector.
 

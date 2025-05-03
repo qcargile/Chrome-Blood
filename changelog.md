@@ -1,6 +1,51 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+
+# SAVE COMPATIBLE WITH v1.16!! NEW GAME NOT NEEDED.
+
+<summary>v1.17 – May 3, 2025</summary>
+
+### 🛠️ Minor Stability + Exposure Fixes
+- Certain mods were causing crashes or conflict with visual systems and were removed.
+- Extreme Exposure behavior caused by Nova City 2 has been fixed.
+- Better Netrunning Settings have been slightly tweaked to provide an experience more in line with what I originally wanted.
+
+
+
+---
+
+### 🗑 Removals
+
+- Removed `Customize Your Melee Weapons` and all associated patches  
+- Removed `HUDitor`  
+- Removed `Facial Customization Fix`  
+- Removed `Preem Water`
+
+---
+
+### 🔄 Updates
+
+- Updated `ArchiveXL` to **v1.22**  
+- Updated `Weather Switcher` to **v1.3.1**
+
+---
+
+### ➕ Additions
+
+- Added `Improved Vegetation LODs` **v3.2**  
+- Added `Quickhacks Memory Counter` **v0.9.2**  
+- Added `Reset Attributes Anytime` **v1.0.0.4**  
+- Added `Authentic Shift` **v2.12.42**
+
+---
+
+**Live hard. Die chrome.**
+
+</details>
+
+
+<details>
 <summary>v1.16 - April 28, 2025</summary>
 
 # SAVE COMPATIBLE WITH v1.15.1!! NEW GAME NOT NEEDED.

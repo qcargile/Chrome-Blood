@@ -63,7 +63,8 @@ Please note:
 >   > Other operating systems may work, but **I WILL NOT BE PROVIDING SUPPORT FOR THOSE.**
 
 
- ![Apr 12, 2025, 12_24_13 PM](https://github.com/user-attachments/assets/e5d44fd3-275a-4c84-b85e-97678b39d29b)
+ ![c2d032de-dd9c-4260-a213-d23f67567367](https://github.com/user-attachments/assets/ba13e4bc-71b5-4379-9e36-b2640c552c05)
+
 
 <details>
 <summary><strong>📦 Detailed Size Requirements</strong></summary>

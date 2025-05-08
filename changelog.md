@@ -1,5 +1,87 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
+<Details> 
+<summary>v1.18</summary>
+
+### **🛠️ Patch Notes - `v1.18` - Major Update**  
+
+Huge patch aimed at keeping the modlist up to date.  
+Combat balancing has been tweaked as well.
+
+---
+
+#### **🔄 Updates:**  
+- Updated **Stealthrunner** to **`v1.8.2`**  
+- Updated **TweakXL** to **`v1.10.10`**  
+- Updated **Movement and Camera Tweaks** to **`v1.4`**  
+- Updated **Veegee Shop 3** to **`v1.1.8`**  
+- Updated **Military Balaclava Pack** to **`v1.1`**  
+- Updated **Military Tactical Vest** to **`v3.4`**  
+- Updated **ND Female Virtual Boutique** to **`v5.6`**  
+- Updated **Mayo Virtual Atelier** to **`v1.2`**  
+- Updated **Military Combat Jacket** to **`v1.2`**  
+- Updated **Military Armored Ballistic Vest Garment Support** to **`v3.2`**  
+- Updated **Military Armored Ballistic Vest** to **`v3.3`**  
+- Updated **Military Panam Pants** to **`v3.4`**  
+- Updated **Zenitex Atelier** to **`v3.9.3`**  
+- Updated **Rockergirl Atelier** to **`v2.2`**  
+- Updated **The Bean Trunk - Virtual Atelier** to **`v2.18`**  
+- Updated **General Shadows Fixes** to **`v0.4`**  
+- Updated **Nylon Pantyhose** to **`v2.2`**  
+- Updated **Native Settings UI Side Menu Addon** to **`v1.38`**  
+- Updated **Hotscenes** to **`v5.31`**  
+- Updated **Redscript and CET Mods** to **`v1.2.1`**  
+- Updated **NC Fashion Atelier** to **`v9.0`**  
+- Updated **Judy Identity Privacy** to **`v1.1`**  
+- Updated **Tottes Atelier 2** to **`v1.14`**  
+- Updated **Advert Controller** to **`v4.0`**  
+- Updated **Androids Adverts Extended** to **`v1.16`**  
+- Updated **Immersive Night City Fixes** to **`v0.11`**  
+- Updated **They Will Remember** to **`v1.3.4`**  
+- Updated **ND After Midnight Outfit** to **`v1.1`**  
+- Updated **Hyst Atelier Store** to **`v1.21`**  
+- Updated **Quickhack Fixes** to **`v1.2.1`**  
+- Updated **Lizzie's Braindances** to **`v2.4.1`**  
+- Updated **Trigger Mode Control** to **`v2.7.3`**  
+- Updated **Raetelier 2** to **`v1.3`**  
+- Updated **Military Armor Pads** to **`v3.2.4`**  
+- Updated **Breezy's Thrift Shop** to **`v17`**  
+- Updated **Wannabe Edgerunner** to **`v2.2.6`**  
+- Updated **Tony's Adult Store** to **`v4.1`**  
+- Updated **Hotscenes Addon** to **`v5.23.2`**  
+- Updated **Nova City 2** to **`v2.1`**  
+- Updated **ReLUX - The Rescue** to **`v1.1.2`**  
+- Updated **ReLUX - Misty's** to **`v1.0`**  
+- Updated **ReLUX - Judy's Apartment** to **`v1.0.5`**  
+- Updated **ReLUX - Afterlife** to **`v1.1.2`**  
+- Updated **Dogtown Visuals Nulled** to **`v2.21.250504`**  
+- Updated **Night City Visuals Nulled** to **`v2.21.250505`**  
+- Updated **Weather Switcher** to **`v1.4`**  
+
+---
+
+#### **🆕 Additions:**  
+- Added **Cub's Closet** **`v12`**  
+- Added **Military Combat Pants Garment Support** **`v1.2`**  
+- Added **The Lamp Lighter - StreetlampTimeScale** **`v1.8`**  
+- Added **Simple Flashlight** **`v2.5`**  
+- Added **Night City Fog Nulled - Interior** **`v2.21.250504`**  
+- Added **Night City Fog Nulled - Exterior** **`v2.21.250504`**  
+- Added **Untrack Quest Ultimate** **`v3.0`**  
+- Added **GRO Armor Pieces Improvements** **`v2.1`**  
+
+---
+
+#### **🔄 Swaps:**  
+- Swapped **Better Armor Scaling - Hard Preset** with **Smooth Preset** **`v2.0`**  
+
+---
+
+**Live Hard. Die Chrome.**  
+
+</Details>
+
+
 <details>
 
 # SAVE COMPATIBLE WITH v1.16!! NEW GAME NOT NEEDED.

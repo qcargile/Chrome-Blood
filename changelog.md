@@ -1,7 +1,9 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <Details> 
-<summary>v1.18</summary>
+<summary>v1.18 – May 8, 2025</summary>
+
+# SAVE COMPATIBLE WITH v1.17!! NEW GAME NOT NEEDED.
 
 ### **🛠️ Patch Notes - `v1.18` - Major Update**  
 
@@ -77,6 +79,12 @@ Combat balancing has been tweaked as well.
 
 ---
 
+#### **🗑 Removals:**  
+- Removed **CyberCMD**
+
+---
+
+
 **Live Hard. Die Chrome.**  
 
 </Details>
@@ -92,8 +100,6 @@ Combat balancing has been tweaked as well.
 - Certain mods were causing crashes or conflict with visual systems and were removed.
 - Extreme Exposure behavior caused by Nova City 2 has been fixed.
 - Better Netrunning Settings have been slightly tweaked to provide an experience more in line with what I originally wanted.
-
-
 
 ---
 
@@ -125,7 +131,6 @@ Combat balancing has been tweaked as well.
 **Live hard. Die chrome.**
 
 </details>
-
 
 <details>
 <summary>v1.16 - April 28, 2025</summary>

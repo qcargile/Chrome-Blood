@@ -1,7 +1,7 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <Details> 
-<summary>v1.18</summary>
+<summary>v1.18 – May 9, 2025</summary>
 
 # SAVE COMPATIBLE WITH v1.17!! NEW GAME NOT NEEDED.
 

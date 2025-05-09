@@ -5,15 +5,22 @@
 
 # SAVE COMPATIBLE WITH v1.17!! NEW GAME NOT NEEDED.
 
+<Details> 
+<summary>v1.18</summary>
+
 ### **🛠️ Patch Notes - `v1.18` - Major Update**  
 
 Huge patch aimed at keeping the modlist up to date.  
-Combat balancing has been tweaked as well.
+Update key points:  
+1. Updated several mods.  
+2. Significantly tweaked combat balancing. Playstyles that were not feasible due to overtuned enemies should feel much better.  
+3. Added more clothing mods, graphics mods, and gameplay mods to help with player survivability.  
+4. Added **Simple Flashlight**. *(Default Keybind set to Mouse Button 5)* Should significantly help with dark spaces in Night City.  
 
 ---
 
 #### **🔄 Updates:**  
-- Updated **Stealthrunner** to **`v1.8.2`**  
+- Updated **Stealthrunn** to **`v1.8.2`**  
 - Updated **TweakXL** to **`v1.10.10`**  
 - Updated **Movement and Camera Tweaks** to **`v1.4`**  
 - Updated **Veegee Shop 3** to **`v1.1.8`**  
@@ -38,7 +45,7 @@ Combat balancing has been tweaked as well.
 - Updated **Tottes Atelier 2** to **`v1.14`**  
 - Updated **Advert Controller** to **`v4.0`**  
 - Updated **Androids Adverts Extended** to **`v1.16`**  
-- Updated **Immersive Night City Fixes** to **`v0.11`**  
+- Updated **Immersive Night City Fixes** to **`v0.12`**  
 - Updated **They Will Remember** to **`v1.3.4`**  
 - Updated **ND After Midnight Outfit** to **`v1.1`**  
 - Updated **Hyst Atelier Store** to **`v1.21`**  
@@ -59,6 +66,9 @@ Combat balancing has been tweaked as well.
 - Updated **Dogtown Visuals Nulled** to **`v2.21.250504`**  
 - Updated **Night City Visuals Nulled** to **`v2.21.250505`**  
 - Updated **Weather Switcher** to **`v1.4`**  
+- Updated **Mitsubishi Eclipse GSX** to **`v1.3`**  
+- Updated **Cyborg Skull Mask** to **`v1.3`**  
+- Updated **River Romanced Enhanced** to **`v2.3.1`**  
 
 ---
 
@@ -71,24 +81,44 @@ Combat balancing has been tweaked as well.
 - Added **Night City Fog Nulled - Exterior** **`v2.21.250504`**  
 - Added **Untrack Quest Ultimate** **`v3.0`**  
 - Added **GRO Armor Pieces Improvements** **`v2.1`**  
+- Added **Mayo Bootcut Pants** **`v1.0`**  
+- Added **High Waist Leggings** **`v1.0`**  
+- Added **Mayo Short Skirt** **`v1.0.1`**  
+- Added **Mayo Tank Top** **`v1.0.1`**  
+- Added **Net Pozer Jacket and Cyberdeck** **`v1.5`**  
+- Added **Monochrome Clothing** **`v1.1`**  
+- Added **Mayo - Long Zip Pants and Top Outfit** **`v1.0`**  
+- Added **Mayo Low Waist Leggings** **`v1.0`**  
+- Added **Mayo - Joggers** **`v1.0`**  
+- Added **Mayo - Zip Up Shorts** **`v1.0`**  
+- Added **Mayo - Late Night Outfit** **`v1.0`**  
+- Added **Mayo - Mini Shorts** **`v1.0`**  
+- Added **Mayo - Hot Dress** **`v1.0.1`**  
+- Added **Backless Romper** **`v1.0`**  
+- Added **Mayo - Goth Dress** **`v1.0`**  
+- Added **Alkaline M Flat** **`v1.0`**  
+- Added **Alkaline F Flat** **`v1.0`**  
+- Added **Granite Top** **`v1.1`**  
+- Added **Granite Pants** **`v1.1`**  
+- Added **Granite Coat** **`v1.1`**  
+- Added **SCPIT - Engine Tweaks and Breathing** **`v3.10.6`**  
 
 ---
 
-#### **🔄 Swaps:**  
-- Swapped **Better Armor Scaling - Hard Preset** with **Smooth Preset** **`v2.0`**  
+#### **❌ Removals:**  
+- Removed **2nd Amendment Online**  
+- Removed **Bananas Market - Virtual Atelier**  
+- Removed **French Glam Atelier Store**  
+- Removed **Lime Atelier**  
+- Removed **Silver Breezy Accessories**  
+- Removed **Silver Breezy Store**  
+- Removed **CyberCMD**  
 
 ---
-
-#### **🗑 Removals:**  
-- Removed **CyberCMD**
-
----
-
 
 **Live Hard. Die Chrome.**  
 
 </Details>
-
 
 <details>
 

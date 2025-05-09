@@ -17,7 +17,7 @@ Update key points:
 ---
 
 #### **🔄 Updates:**  
-- Updated **Stealthrunn** to **`v1.8.2`**  
+- Updated **Stealthrunner** to **`v1.8.2`**  
 - Updated **TweakXL** to **`v1.10.10`**  
 - Updated **Movement and Camera Tweaks** to **`v1.4`**  
 - Updated **Veegee Shop 3** to **`v1.1.8`**  

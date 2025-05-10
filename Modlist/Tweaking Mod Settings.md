@@ -21,10 +21,10 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 
 ## 🧠 HUD & Interface
 
-### `HUDitor` & `HUD Painter`
-- Used to **reposition, recolor, and declutter** the HUD.
-- I recommend using these to achieve either a minimal HUD look or a classic cyber-UI vibe — up to you.
-- Launch via CET overlay or Native Settings menu.
+### `HUD Painter`
+- Used to ** recolor** the HUD.
+- Several presets are included for users to choose from. 
+- Change your preset using the HUD Painter button on the main menu. After changing presets, you **MUST** restart your game for changes to completely take effect, or you will crash.
 
 ### `Preem Scanner`
 - Lets you style your scanner with **cleaner visuals** and reduced overlay noise.

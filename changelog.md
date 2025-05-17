@@ -15,7 +15,7 @@ Another patch aimed at keeping the modlist up to date.
 ---
 
 #### **🔄 Updates:**  
-- Updated **Chrome and Blood Modlist settings to **`v1.10`**
+- Updated **Chrome and Blood Modlist settings** to **`v1.10`**
 - Updated **Sabbath Weapons and Attachments Virtual Atelier** to **`v1.19`**  
 - Updated **Nola and Aquelyras** to **`v2.9`**  
 - Updated **Virtual Atelier** to **`v1.4.1`**  

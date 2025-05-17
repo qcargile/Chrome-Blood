@@ -1,6 +1,87 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <Details> 
+<summary>v1.19 - May 16, 2025</summary>
+
+### **🛠️ Patch Notes - `v1.19` - Update Patch**  
+
+Another patch aimed at keeping the modlist up to date.  
+**Key Points:**  
+1. Updated several mods.  
+2. Minor balancing tweaks (again).  
+3. More clothing mods.  
+4. Removed some slightly problematic mods.  
+
+---
+
+#### **🔄 Updates:**  
+- Updated **Sabbath Weapons and Attachments Virtual Atelier** to **`v1.19`**  
+- Updated **Nola and Aquelyras** to **`v2.9`**  
+- Updated **Virtual Atelier** to **`v1.4.1`**  
+- Updated **Dodge Ram TRX** to **`v0.5`**  
+- Updated **Neuralware - Chipware Expansion** to **`v1.1.7.0.b`**  
+- Updated **Granite Coat** to **`v1.2`**  
+- Updated **Granite Top** to **`v1.2`**  
+- Updated **The Bean Trunk - Virtual Atelier** to **`v2.19`**  
+- Updated **Dusty Virtual Atelier** to **`v36`**  
+- Updated **Veegee Shop 2** to **`v2.3`**  
+- Updated **Alternative Quest Icons** to **`v1.2`**  
+- Updated **Quickhack Fixes** to **`v1.2.14`**  
+- Updated **SCPIT Engine Tweaks and Breathing** to **`v3.20.4`**  
+- Updated **Rita Wheeler Romanced** to **`v2.4`**  
+- Updated **They Will Remember** to **`v1.3.5`**  
+- Updated **Lizzie's Braindances** to **`v2.05`**  
+- Updated **Tony's Adult Store** to **`v4.2`**  
+- Updated **Immersive Fixes** to **`v1.3.3`**  
+- Updated **Ripperdoc Service Charge** to **`v1.3`**  
+- Updated **Tottes Atelier 2** to **`v1.15`**  
+- Updated **ND Female Virtual Boutique** to **`v5.7`**  
+- Updated **Redscript and CET Mods Settings** to **`v1.2.2`**  
+- Updated **Untrack Quest Ultimate** to **`v3.1`**  
+- Updated **Hotscenes** to **`v5.31.1`**  
+- Updated **Auto Drive** to **`v0.0.0.33`**  
+- Updated **NC Fashion Virtual Atelier** to **`v9.0`**  
+
+---
+
+#### **🆕 Additions:**  
+- Added **Crop Top Vol 5** **`v1.0`**  
+- Added **Basic Cropped Tank** **`v2.0`**  
+- Added **Rocker Corset** **`v1.0`**  
+- Added **Hoodie Vest** **`v2.0`**  
+- Added **Overalls Dress** **`v2.0`**  
+- Added **Crop Top Vol 4** **`v2.0`**  
+- Added **Lazy Boy Shorts** **`v1.0`**  
+- Added **Pullover Crop** **`v2.0`**  
+- Added **Unzipped Hoodie** **`v2.0`**  
+- Added **Crop Top Vol 3** **`v2.0`**  
+- Added **Cozy Cropped Sweater Vol 2** **`v2.0`**  
+- Added **Cozy Cropped Sweater** **`v2.0`**  
+- Added **Aurore's Pants** **`v1.0`**  
+- Added **Evelyn's Dress Variants** **`v3.0`**  
+- Added **Tight Jeans** **`v1.5`**  
+- Added **Chic Skirt** **`v1.5`**  
+- Added **Crop Top Variants** **`v2.0`**  
+- Added **Johnny's Alt Pants** **`v2.5`**  
+- Added **Edgerunner FEM V** **`v4.0`**  
+- Added **BetterHMGs Nerfed** **`v1.0.0.6`**  
+
+---
+
+#### **🗑 Removals:**  
+- Removed **Faster Elevators**  
+- Removed **Modern Combat and FPS Effects**  
+- Removed **Dynamic Graffiti**  
+- Removed **Improved Environment LODs**
+
+---
+
+**Live Hard. Die Chrome.**  
+
+</Details>
+
+
+<Details> 
 <summary>v1.18 – May 9, 2025</summary>
 
 # SAVE COMPATIBLE WITH v1.17!! NEW GAME NOT NEEDED.

@@ -3,6 +3,8 @@
 <Details> 
 <summary>v1.19 - May 16, 2025</summary>
 
+# SAVE COMPATIBLE WITH v1.18! NEW GAME NOT NEEDED.
+
 ### **🛠️ Patch Notes - `v1.19` - Update Patch**  
 
 Another patch aimed at keeping the modlist up to date.  

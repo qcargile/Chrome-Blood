@@ -10,6 +10,8 @@
 2. Make a new manual save, and exit the game
 3. Update the list
 4. Reload the save you made in step 2, and you should be good to go. THIS WORKED FOR ME BUT I CAN NOT GUARANTEE 100% SAVE SAFES, YOU HAVE BEEN WARNED!
+5. Pushed some personal hotkey settings with one of those being the CET Overlay. Keybind for that is "CTRL + `". 
+*I'll fix that next update*
 
 </details>
 

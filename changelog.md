@@ -19,7 +19,7 @@ Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boo
 
 ### 🔑 Key Points:
 1. Removed tons of problematic and bloat-heavy mods.
-2. Updated numerous core mods for performance, content, and compatibility.
+2. Updated numerous core mods.
 3. Slightly reworked vehicle handling and responsiveness.
 4. **Added Reinforcements** — factions can now **call in backup mid-fight**. Even a street-level brawl can snowball into a multi-wave firefight. **Arasaka, Militech, and Animals** will hit you hardest, while groups like **Scavs** or **Voodoo Boys** provide a more manageable threat.
 5. Pushed some personal hotkey settings with one of those being the CET Overlay. Keybind for that is CTRL + `. 

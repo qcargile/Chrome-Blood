@@ -15,7 +15,7 @@
 
 ## 🚨 Chrome & Blood v2.0
 
-Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boosts stability, and introduces the long-awaited [**Reinforcements mod**](https://www.nexusmods.com/cyberpunk2077/mods/21532) by Phoenicia.
+Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boosts stability, and introduces the long-awaited [**Reinforcements mod**](https://www.nexusmods.com/cyberpunk2077/mods/21532) by [Phoenicia](https://next.nexusmods.com/profile/Phoenicia4?gameId=3333).
 
 ### 🔑 Key Points:
 1. Removed tons of problematic and bloat-heavy mods.

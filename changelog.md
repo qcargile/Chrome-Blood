@@ -22,9 +22,6 @@ Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boo
 2. Updated numerous core mods.
 3. Slightly reworked vehicle handling and responsiveness.
 4. **Added Reinforcements** — factions can now **call in backup mid-fight**. Even a street-level brawl can snowball into a multi-wave firefight. **Arasaka, Militech, and Animals** will hit you hardest, while groups like **Scavs** or **Voodoo Boys** provide a more manageable threat.
-5. Pushed some personal hotkey settings with one of those being the CET Overlay. Keybind for that is CTRL + `. 
-*I'll fix that next update*
-
 
 > 💡 **Tip:** Prioritize enemies who are attempting calls. On faction turf? Hit fast and vanish — reinforcements don't hesitate.
 

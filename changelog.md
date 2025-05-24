@@ -1,5 +1,116 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
+<details>
+<summary>v2.0 - May 24, 2025</summary>
+
+## 🚨 Chrome & Blood v2.0
+
+Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boosts stability, and introduces the long-awaited [**Reinforcements mod**](https://www.nexusmods.com/cyberpunk2077/mods/21532) by Phoenicia.
+
+### 🔑 Key Points:
+1. Removed tons of problematic and bloat-heavy mods.
+2. Updated numerous core mods for performance, content, and compatibility.
+3. Slightly reworked vehicle handling and responsiveness.
+4. **Added Reinforcements** — factions can now **call in backup mid-fight**. Even a street-level brawl can snowball into a multi-wave firefight. **Arasaka, Militech, and Animals** will hit you hardest, while groups like **Scavs** or **Voodoo Boys** provide a more manageable threat.
+
+> 💡 **Tip:** Prioritize enemies who are attempting calls. On faction turf? Hit fast and vanish — reinforcements don't hesitate.
+
+---
+
+### 🆕 Additions:
+- **Reinforcements System** `v1.0.2`
+- **Missing Persons - Fixers Hidden Gems** `v2.2.2`
+- **Limited Slip Differential** `v2.21.2`
+- **Cyber Grip - NFS** `v2.2.1`
+- **Psycho Killer Reward - Restored** `v1.0`
+
+---
+
+### 🔄 Updates:
+- **Codeware** `v1.16`
+- **Deceptious Bug Fixes** `v1.1.11`
+- **Hotscenes** `v5.32.1`
+- **Revised Backpack** `v0.9.9`
+- **Muted Markers** `v2.3.2`
+- **Mark to Sell** `v2.5.2`
+- **Enhanced Craft** `v4.0.5`
+- **Always First Equip** `v2.0.8`
+- **Yusei's Virtual Atelier** `v1.5`
+- **Quickhack Fixes** `v1.2.16`
+- **Tony's Adult Store** `v4.4`
+- **Immersive Rippers** `v2.4`
+- **Night City Interactions - Core** `v3.5`
+- **NCI Addon - Heywood** `v1.3`
+- **NCI Addon - Badlands & Pacifica** `v1.4`
+- **More Mods More Fun** `v1.02`
+- **Audioware** `v1.4.3`
+- **ArchiveXL** `v1.23`
+- **Neuralware - Chipware Expansion** `v1.1.9`
+- **Veegee Shop 3** `v1.2.1`
+- **ND Mini Dress with Dress** `v1.1`
+- **Nitrous** `v1.4.1`
+
+---
+
+### 🗑 Removals:
+- 4K Hand Cursor
+- Actually Smart Weapons
+- Dynamic License Plates
+- Airstrike Fix
+- Auto Drive
+- Blade from the Bits
+- Campo Orta
+- Charm Quickhack
+- Clear Windows - Cars Edition
+- Comfy Living Props Vol. 1 & 2
+- Custom Level Cap
+- Cyberarms Patch
+- Divided Faster Projectiles
+- Dynamic NPC Items
+- Endgame Rewards Expanded
+- Fire and Explosions Texture Overhaul
+- Gambling Props
+- Gambling System - Roulette
+- Gamepad Button Hold Indicator Fix
+- Gripped Up
+- H10 Apartment E3 Advertisements
+- Here's Johnny
+- Immersive Interactions
+- Jenkins Tendons Airborne
+- Jig Jig Unleashed
+- Knife and Bullet Wounds
+- Make All Vehicles Unlockable
+- Nano Drone
+- Night City Immersive Debris
+- No More Duplicate NPC
+- No Shoot Block When Aiming at Friendly NPCs
+- Persistent Thrown Melee
+- Phoebe Killer Leggings
+- Radio OST
+- Rebecca's Apartment DLC
+- Remove Unremovable Scopes
+- Smoother Dodge and Dash
+- Stencil Text Enhanced
+- Tartarus
+- Trailer Home
+- Vehicle Summon Tweaks - Paid Summon
+- Need More Smoke
+- Vehicle Smart Weapon
+- Better Traffic Lights
+- Better Crosswalks
+- Cyber Grip - Increase
+- Gambling System - Blackjack
+- Fire FX Extras
+- SCPIT - Dominant
+- Lizzie's Braindances
+
+---
+
+**Live hard. Die Chrome.**
+
+</details>
+
+
 <Details> 
 <summary>v1.19 - May 16, 2025</summary>
 

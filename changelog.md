@@ -3,6 +3,14 @@
 <details>
 <summary>v2.0 - May 24, 2025</summary>
 
+<details>
+<summary># SAVE COMPATIBLE WITH v1.19 BY FOLLOWING THESE STEPS!</summary>
+1. Travel to V's H10 starting apartment.
+2. Make a new manual save, and exit the game
+3. Update the list
+4. Reload the save you made in step 2, and you should be good to go. THIS WORKED FOR ME BUT I CAN NOT GUARANTEE 100% SAVE SAFES, YOU HAVE BEEN WARNED!
+
+</details>
 ## 🚨 Chrome & Blood v2.0
 
 Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boosts stability, and introduces the long-awaited [**Reinforcements mod**](https://www.nexusmods.com/cyberpunk2077/mods/21532) by Phoenicia.

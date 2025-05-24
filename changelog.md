@@ -39,7 +39,7 @@ Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boo
 ---
 
 ### 🔄 Updates:
-- **Chrome and Blood Modlist Settings** `v1.11`
+- **Chrome and Blood Modlist Settings** `v1.11.1`
 - **Codeware** `v1.16`
 - **Deceptious Bug Fixes** `v1.1.11`
 - **Hotscenes** `v5.32.1`

@@ -10,8 +10,6 @@
 2. Make a new manual save, and exit the game
 3. Update the list
 4. Reload the save you made in step 2, and you should be good to go. THIS WORKED FOR ME BUT I CAN NOT GUARANTEE 100% SAVE SAFES, YOU HAVE BEEN WARNED!
-5. Pushed some personal hotkey settings with one of those being the CET Overlay. Keybind for that is CTRL + `. 
-*I'll fix that next update*
 
 </details>
 
@@ -24,6 +22,9 @@ Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boo
 2. Updated numerous core mods for performance, content, and compatibility.
 3. Slightly reworked vehicle handling and responsiveness.
 4. **Added Reinforcements** — factions can now **call in backup mid-fight**. Even a street-level brawl can snowball into a multi-wave firefight. **Arasaka, Militech, and Animals** will hit you hardest, while groups like **Scavs** or **Voodoo Boys** provide a more manageable threat.
+5. Pushed some personal hotkey settings with one of those being the CET Overlay. Keybind for that is CTRL + `. 
+*I'll fix that next update*
+
 
 > 💡 **Tip:** Prioritize enemies who are attempting calls. On faction turf? Hit fast and vanish — reinforcements don't hesitate.
 

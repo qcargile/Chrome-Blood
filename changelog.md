@@ -4,7 +4,7 @@
 <summary>v2.0 - May 24, 2025</summary>
 
 <details>
-<summary>**SAVE COMPATIBLE WITH v1.19 BY FOLLOWING THESE STEPS!**</summary>
+<summary>SAVE COMPATIBLE WITH v1.19 BY FOLLOWING THESE STEPS!</summary>
 
 1. Travel to V's H10 starting apartment.
 2. Make a new manual save, and exit the game

@@ -41,6 +41,22 @@ Increases enemy aggression, accuracy, and reaction times to make combat more pun
 [Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)  
 Implements a cyberpsychosis system, adding depth to the consequences of excessive cyberware use.
 
+[Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913)  
+Adds a toggleable flashlight that works in first- and third-person, greatly improving visibility in dark areas.
+
+[Reinforcements System](https://www.nexusmods.com/cyberpunk2077/mods/21532)  
+Allows NPCs to call in faction-based backup mid-combat, escalating fights with lore-friendly reinforcements.
+
+[Enhanced Weakspot](https://www.nexusmods.com/cyberpunk2077/mods/17658)  
+Increases the impact of targeting weakspots with bonus damage and stagger effects, rewarding precision shots.
+
+[Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952)  
+Overhauls the game’s economy by rebalancing item prices, loot values, and vendor behaviors for a grittier, more survivalist feel.
+
+[Better Armor Scaling](https://www.nexusmods.com/cyberpunk2077/mods/13582)  
+Fixes armor scaling to prevent overpowered protection at high levels and ensures more consistent damage mitigation.
+
+
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <Details>
@@ -75,9 +91,6 @@ Adds immersive hangout scenes with romanceable characters, deepening relationshi
 [Hackable and Grabbable Civilians](https://www.nexusmods.com/cyberpunk2077/mods/18847)  
 Allows players to hack and physically interact with civilians, enhancing gameplay interactivity.
 
-[Dynamic NPC Items](https://www.nexusmods.com/cyberpunk2077/mods/16158)  
-Introduces a system where NPCs dynamically equip and use items, increasing world realism.
-
 [Better Children](https://www.nexusmods.com/cyberpunk2077/mods/16462)  
 Improves the appearance and behavior of child NPCs for a more authentic environment.
 
@@ -98,9 +111,6 @@ Enables the use of shotguns while driving, adding more firepower to vehicular co
 [Drive-by Rifles and Heavy Weapons - Use Various Guns from Vehicle](https://www.nexusmods.com/cyberpunk2077/mods/19084)  
 Allows the use of rifles and heavy weapons from vehicles, expanding your combat options on the move.
 
-[Auto drive](https://www.nexusmods.com/cyberpunk2077/mods/14680)  
-Introduces an auto-drive feature, letting your vehicle navigate to destinations autonomously.
-
 [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)  
 Adds a virtual dealership where you can purchase vehicles directly through an in-game interface.
 
@@ -115,6 +125,12 @@ Enhances vehicle gear shifting with realistic audio and optional tuning for a mo
 
 [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675)  
 Adds a nitrous boost system to vehicles, providing temporary speed enhancements for high-speed chases.
+
+[Cyber Drift](https://www.nexusmods.com/cyberpunk2077/mods/8306)  
+Adds manual drifting to vehicles for tighter control and more cinematic driving mechanics.
+
+[Cyber Grip](https://www.nexusmods.com/cyberpunk2077/mods/19699)  
+Enhances vehicle traction and handling, making driving feel more responsive and realistic.
 
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -139,17 +155,11 @@ Reworks and introduces standalone iconic weapons like the Malorian 3516 and Doom
 <Details>
 <summary>Cyberware / Skills / Progression</summary>
 
-[Replace Weapon Mods](https://www.nexusmods.com/cyberpunk2077/mods/15409)  
-Allows players to swap out weapon mods without destroying the existing ones, enhancing customization flexibility.
-
 [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)  
 Expands the cyberware system, introducing new enhancements and customization options.
 
 [Ripperdoc Service Charge](https://www.nexusmods.com/cyberpunk2077/mods/11200)  
 Adds a service fee to ripperdoc visits, increasing the economic realism of cyberware installations.
-
-[Ripperdoc Cyberware Specializations](https://www.nexusmods.com/cyberpunk2077/mods/17110)  
-Introduces specialized ripperdocs, each focusing on specific types of cyberware for a more immersive experience.
 
 [Black Chrome - Cyberware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/16031)  
 Expands the cyberware system with new options and enhancements, inspired by the Black Chrome universe.
@@ -175,31 +185,16 @@ Unlocks the ability to upgrade weapons freely, removing unnecessary restrictions
 [Renaissance Punk - Perk Scaling](https://www.nexusmods.com/cyberpunk2077/mods/14037)  
 Redesigns perk scaling to better reward investment and progression across playstyles.
 
-[Set Bonuses](https://www.nexusmods.com/cyberpunk2077/mods/8103)  
-Implements set bonuses for specific clothing combinations, encouraging themed builds.
-
 [Lifepath Determines Starting Attributes](https://www.nexusmods.com/cyberpunk2077/mods/8358)  
 Adjusts your starting stats based on lifepath choice, deepening character identity.
 
 [Lifepaths Matter](https://www.nexusmods.com/cyberpunk2077/mods/4052)  
 Expands lifepath relevance by adding unique dialogue and gameplay consequences.
 
-[Custom Level Cap](https://www.nexusmods.com/cyberpunk2077/mods/2909)  
-Lets you raise or lower V's level cap to tailor progression to your liking.
-
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <Details>
 <summary>Aesthetics</summary>
-
-[Universal Raytraced Player Shadows](https://www.nexusmods.com/cyberpunk2077/mods/16849)  
-Adds dynamic raytraced shadows for the player character, increasing visual immersion.
-
-[Fire and Explosions Texture Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/15205)  
-Enhances the textures of fire and explosions for more dramatic visual effects.
-
-[Smoke Texture Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/15226)  
-Replaces smoke textures to achieve a denser, more atmospheric appearance.
 
 [Always Best Quality _ Ads - Map - Hud - Photo Mode - Vending Machines and more](https://www.nexusmods.com/cyberpunk2077/mods/12700)  
 Forces the game to render several in-game elements at their highest quality levels at all times.
@@ -221,6 +216,15 @@ Overhauls lighting for more realistic and atmospheric visuals throughout the gam
 
 [Weather Switcher (Change Weather - Control Time - Customize Clouds)](https://www.nexusmods.com/cyberpunk2077/mods/18027)  
 Allows players to manually control the weather and time of day in-game.
+
+[Unchainned Textures Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12854)  
+Replaces many of the game's textures with high-resolution alternatives for improved visual fidelity.
+
+[Praedy's 77 Retexture](https://www.nexusmods.com/cyberpunk2077/mods/19626)  
+A stylistic retexture mod that refines world and character assets with a gritty, noir-inspired aesthetic.
+
+[NCPD Uniform 2.0](https://www.nexusmods.com/cyberpunk2077/mods/21577)  
+Revamps NCPD outfits with higher-quality textures and new models for a more tactical and immersive appearance.
 
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------

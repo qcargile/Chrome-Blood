@@ -33,10 +33,13 @@ Welcome to **Chrome & Blood v2.0** — a monumental update that trims bloat, boo
 - **Limited Slip Differential** `v2.21.2`
 - **Cyber Grip - NFS** `v2.2.1`
 - **Psycho Killer Reward - Restored** `v1.0`
+- **NCPD Uniform 2.0** `v1.05`
+- **Tottes Netrun Outfit** `v1.2`
 
 ---
 
 ### 🔄 Updates:
+- **Chrome and Blood Modlist Settings** `v1.11`
 - **Codeware** `v1.16`
 - **Deceptious Bug Fixes** `v1.1.11`
 - **Hotscenes** `v5.32.1`

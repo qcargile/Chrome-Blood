@@ -145,8 +145,9 @@ You can install Chrome & Blood from either [**Nexus Mods**](https://www.nexusmod
 5. Click the **modlist cover art**, then download and install
 
 6. Choose installation paths:
-   - **Installation directory**: `D:\Chrome & Blood`
-   - **Download directory**: `D:\Chrome & Blood\downloads`  
+   - **Installation directory**: `D:\Wabbajack\Chrome & Blood`
+   - **Download directory**: `D:\Wabbajack\downloads`  OR `D:\Wabbajack\Chrome & Blood\downloads` 
+*Having a central wabbajack downloads folder allows different lists to share archive files if they use the same mod.*
    > ⚠️ Both directories should be on the **same drive** as your Cyberpunk 2077 install  
    > Do **not** install to `Program Files` or your game directory
 

@@ -221,12 +221,13 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 - **Zoomable Scopes** — `Hold Shift while aiming down sights` (or your sprint key)  
   Enables variable zoom on supported weapon scopes for improved targeting and immersion. *(Mod: Zoomable Scopes)*
 
+- **Flashlight** — `DPad-Left-Hold on controller` OR `Mouse Button 5 on keyboard` 
+  Adds a simple toggleable flashlight to the game. *(Mod: Simple Flashlight)*
+
+
 ---
 
 ### 🎒 Inventory & UI
-
-- **HUDitor Control Panel** — `Shift + U` (default)  
-  Open the HUD customization interface to move, hide, or resize elements. *(Mod: HUDitor)*
 
 - **Wardrobe Courier Request** — `N` (default) or via in-game courier terminal  
   Calls a delivery of saved outfits using EquipmentEx presets. *(Mod: Wardrobe Courier)*

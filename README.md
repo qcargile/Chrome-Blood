@@ -37,7 +37,7 @@ This isn’t just a modlist — it’s a **full-blown reimagining** of what *Cyb
 ### 🔗 Useful Links
 
 - 📄 **Current Modlist**: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
-- 🛠️ **Modlist Changelog**: [v1.18](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
+- 🛠️ **Modlist Changelog**: [v2.0](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
 - 💬 **Join the Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
 - 📚 **Mod Details**: [Click here for a detailed look](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)
 

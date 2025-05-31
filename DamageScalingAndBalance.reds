@@ -1,4 +1,4 @@
-module DamageScalingAndBalance;
+module DamageScalingAndBalance
 
 import gamedataWeaponType;
 import gamedataDamageType;
@@ -31,7 +31,7 @@ class DamageScalingAndBalance {
   // Throwable + Elemental
   public static func ThrowableMeleeDamageMultiplier() -> Float = 1.0;
   public static func ElementalDamageMultiplier() -> Float = 1.0;
-}; // Semicolon after class brace
+}
 
 // ------------------------------------------------------------------------
 // 2) GLOBAL HELPERS: THROWN CHECK & WEAPON TYPE VIA TWEAKDB
@@ -39,26 +39,26 @@ class DamageScalingAndBalance {
 public func IsThrownWeapon(weapon: wref<WeaponObject>) -> Bool {
   if !IsDefined(weapon) {
     return false;
-  };
+  }
   return weapon.HasTag(n"ThrownWeapon");
-};
+}
 
 public func GetWeaponTypeFromTweakDB(weapon: wref<WeaponObject>) -> gamedataWeaponType {
   if !IsDefined(weapon) {
     return gamedataWeaponType.Invalid;
-  };
+  }
   let itemID: ItemID = weapon.GetItemID();
   let recordID: TweakDBID = TDBID.Create(GetID(itemID));
   let itemRecord: wref<Item_Record> = TweakDB.GetItemRecord(recordID);
   if !IsDefined(itemRecord) {
     return gamedataWeaponType.Invalid;
-  };
+  }
   let weaponRecord: wref<WeaponItem_Record> = itemRecord as WeaponItem_Record;
   if !IsDefined(weaponRecord) {
     return gamedataWeaponType.Invalid;
-  };
+  }
   return weaponRecord.WeaponType();
-};
+}
 
 // ------------------------------------------------------------------------
 // 3) PRESERVE WRAPS FOR STAMINA, HEADSHOT
@@ -66,16 +66,16 @@ public func GetWeaponTypeFromTweakDB(weapon: wref<WeaponObject>) -> gamedataWeap
 @wrapMethod(PlayerStaminaHelpers)
 public final static func ModifyStamina(player: ref<PlayerPuppet>, delta: Float, opt perc: Bool) -> Void {
   wrappedMethod(player, delta * DamageScalingAndBalance.StaminaCostMultiplier(), perc);
-};
+}
 
 @wrapMethod(DamageSystem)
 protected final func GetHeadshotDamageModifier(statSystem: ref<StatsSystem>, attackData: ref<AttackData>) -> Float {
   let mult: Float = 1.0;
   if IsDefined(attackData.GetInstigator() as PlayerPuppet) {
     mult = DamageScalingAndBalance.HeadshotMultiplier();
-  };
+  }
   return wrappedMethod(statSystem, attackData) * mult;
-};
+}
 
 // ------------------------------------------------------------------------
 // 4) EXTEND ProcessQuickHackModifiers (OUR MAIN HOOK)
@@ -88,22 +88,22 @@ private final func ProcessQuickHackModifiers(hitEvent: ref<gameHitEvent>) -> Voi
   if IsDefined(playerInstigator) {
     if !hitEvent.target.IsPuppet() {
       return;
-    };
+    }
 
     // Quickhack
     if Equals(hitEvent.attackData.GetAttackType(), gamedataAttackType.Hack) {
       hitEvent.attackComputed.MultAttackValue(DamageScalingAndBalance.QuickhackDamageMultiplier());
-    };
+    }
 
     // Mechanical
     if IsDefined(hitEvent.target as ScriptedPuppet) && (hitEvent.target as ScriptedPuppet).IsMechanical() {
       hitEvent.attackComputed.MultAttackValue(DamageScalingAndBalance.MechanicalDamageMultiplier());
-    };
+    }
 
     // Grenade
     if IsDefined(hitEvent.attackData.GetSource() as WeaponGrenade) {
       hitEvent.attackComputed.MultAttackValue(DamageScalingAndBalance.GrenadeDamageMultiplier());
-    };
+    }
 
     let weapon: wref<WeaponObject> = hitEvent.attackData.GetWeapon();
     if IsDefined(weapon) {
@@ -145,17 +145,17 @@ private final func ProcessQuickHackModifiers(hitEvent: ref<gameHitEvent>) -> Voi
               break;
             default:
               break;
-          };
-        };
-      };
-    };
+          }
+        }
+      }
+    }
 
     let dmgType: gamedataDamageType = hitEvent.attackData.GetDamageType();
     if dmgType != gamedataDamageType.Physical {
       hitEvent.attackComputed.MultAttackValue(DamageScalingAndBalance.ElementalDamageMultiplier());
-    };
+    }
     return;
-  };
+  }
 
   let playerTarget: wref<PlayerPuppet> = hitEvent.target as PlayerPuppet;
   if IsDefined(playerTarget) {
@@ -166,7 +166,7 @@ private final func ProcessQuickHackModifiers(hitEvent: ref<gameHitEvent>) -> Voi
         hitEvent.attackComputed.MultAttackValue(DamageScalingAndBalance.ThrowableMeleeDamageMultiplier());
       } else {
         hitEvent.attackComputed.MultAttackValue(DamageScalingAndBalance.PlayerMeleeDamageMultiplier());
-      };
-    };
-  };
-}; // End of ProcessQuickHackModifiers
+      }
+    }
+  }
+} // End of ProcessQuickHackModifiers

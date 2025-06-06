@@ -3,7 +3,7 @@
 <details>
 <summary>v2.01 - June 6, 2025</summary>
 
-## 📦 Chrome & Blood v2.01
+## SAVE COMPATIBLE WITH v1.17!! NEW GAME NOT NEEDED.
 
 This will likely be the final update before the arrival of patch **2.3**.
 

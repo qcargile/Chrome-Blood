@@ -1,6 +1,76 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v2.01 - June 6, 2025</summary>
+
+## 📦 Chrome & Blood v2.01
+
+This will likely be the final update before the arrival of patch **2.3**.
+
+### 🔑 Key Notes:
+1. **Ammo Limiter** introduced to encourage actual inventory management — no more carrying infinite ammo into every fight.
+2. **Damage Scaling and Balance - Extended** (created by me) added for additional tuning options.
+3. More **weapon customization** with added suppressors and muzzles.
+4. General mod maintenance and updates across the board.
+
+---
+
+### 🎮 Gameplay Additions:
+- **Muzzle Attachment Pack** `v1.0`
+- **Suppressor Pack** `v1.1`
+- **Humanity - Cyber Psycho Missions** `v1.0`
+- **Humanity - Cyber Psycho (Wannabe ER Patch)** `v1.0`
+- **Ammo Limiter** `v1.2`
+- **Bounties Restored** `v1.0.2`
+- **SF90 Stradale** `v1.4`
+- **Militech Particle Beam Rifle** `v1.2`
+
+---
+
+### 🎨 Cosmetic Additions:
+- **Alternative Hair Material** `v0.1`
+- **Knotted Tee** `v1.0`
+- **Axellysse - Butterfly Dress** `v1.0`
+- **Eclipse Top** `v1.0`
+- **Boudoi Pt 26** `v1.0`
+- **Damage Scaling and Balance - Extended** `v2.0`
+- **LUT Switcher - Nova LUT Pack (HDR ONLY)** `v1.3.0`
+
+---
+
+### 🔄 Updates:
+- **Alvarix Custom Store** `v3.3.2`
+- **Black Chrome** `v1.1.9`
+- **Neuralware - Chipware Expansion** `v1.1.11`
+- **Deceptious Bug Fixes** `v1.1.12`
+- **Trigger Mode Control** `v2.7.5`
+- **Movement and Camera Tweaks** `v1.41`
+- **They Will Remember** `v1.4.2.1`
+- **Deceptious Quest Core** `v3.1.1`
+- **General Shadows Fix** `v0.61`
+- **Night City Interactions - Core** `v3.5.3`
+- **Advert Controller** `v4.02`
+- **Virtual Atelier** `v1.4.4`
+- **NCPD Uniform** `v1.1`
+- **Sabbath Weapons and Attachment Shop** `v1.20`
+- **Quickhack Fixes** `v1.2.17`
+- **Reinforcements System** `v1.0.4`
+
+---
+
+### 🗑 Removals:
+- **ICONIC - Character Creation Icon Framework**
+- **Dodge RAM TRX**
+- **Preem Weaponsmith**
+
+---
+
+**Live hard. Die Chrome.**
+
+</details>
+
+
+<details>
 <summary>v2.0 - May 24, 2025</summary>
 
 <details>

@@ -3,7 +3,7 @@
 <details>
 <summary>v2.01 - June 7, 2025</summary>
 
-## SAVE COMPATIBLE WITH v2.01!! NEW GAME NOT NEEDED.
+## SAVE COMPATIBLE WITH v2.0!! NEW GAME NOT NEEDED.
 
 This will likely be the final update before the arrival of patch **2.3**.
 

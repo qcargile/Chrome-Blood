@@ -1,7 +1,7 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
-<summary>v2.01 - June 6, 2025</summary>
+<summary>v2.01 - June 7, 2025</summary>
 
 ## SAVE COMPATIBLE WITH v2.01!! NEW GAME NOT NEEDED.
 
@@ -62,6 +62,11 @@ This will likely be the final update before the arrival of patch **2.3**.
 - **ICONIC - Character Creation Icon Framework**
 - **Dodge RAM TRX**
 - **Preem Weaponsmith**
+- **Bai Moqing's Outfit**
+- **Realistic Facial Details**
+- **Scarlet's Outfit**
+- **Togglable Feet**
+- **Ultra Skin**
 
 ---
 

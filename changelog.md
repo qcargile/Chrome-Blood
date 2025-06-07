@@ -27,6 +27,7 @@ Chrome & Blood **will not update** to 2.3 until *all major frameworks* have been
 - **Bounties Restored** `v1.0.2`
 - **SF90 Stradale** `v1.4`
 - **Militech Particle Beam Rifle** `v1.2`
+- **Damage Scaling and Balance - Extended** `v2.0`
 
 ---
 
@@ -36,7 +37,6 @@ Chrome & Blood **will not update** to 2.3 until *all major frameworks* have been
 - **Axellysse - Butterfly Dress** `v1.0`
 - **Eclipse Top** `v1.0`
 - **Boudoi Pt 26** `v1.0`
-- **Damage Scaling and Balance - Extended** `v2.0`
 - **LUT Switcher - Nova LUT Pack (HDR ONLY)** `v1.3.0`
 
 ---

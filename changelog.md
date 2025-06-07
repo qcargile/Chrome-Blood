@@ -7,6 +7,9 @@
 
 This will likely be the final update before the arrival of patch **2.3**.
 
+**IMPORTANT:** Ahead of the 2.3 patch, make sure you [disable auto updates](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/users-downgrading-preventing-auto-updates) on Steam or GOG.  
+Chrome & Blood **will not update** to 2.3 until *all major frameworks* have been verified and updated by the community.
+
 ### 🔑 Key Notes:
 1. **Ammo Limiter** introduced to encourage actual inventory management — no more carrying infinite ammo into every fight.
 2. **Damage Scaling and Balance - Extended** (created by me) added for additional tuning options.

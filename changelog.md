@@ -39,6 +39,7 @@ This will likely be the final update before the arrival of patch **2.3**.
 ---
 
 ### 🔄 Updates:
+- **Chrome and Blood Modlist Settings** `v1.12`
 - **Alvarix Custom Store** `v3.3.2`
 - **Black Chrome** `v1.1.9`
 - **Neuralware - Chipware Expansion** `v1.1.11`

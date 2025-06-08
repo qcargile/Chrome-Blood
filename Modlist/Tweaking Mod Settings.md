@@ -11,7 +11,6 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - [HUD & Interface](#-hud--interface)
 - [Gameplay & Mechanics](#-gameplay--mechanics)
 - [Cyberware & Combat](#-cyberware--combat)
-- [Vehicles & Driving](#-vehicles--driving)
 - [Visuals & Graphics](#-visuals--graphics)
 - [Quality of Life](#-quality-of-life)
 - [Frameworks & Utilities](#-frameworks--utilities)
@@ -86,24 +85,7 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 
 ---
 
-## 🚗 Vehicles & Driving
-
-### `Gripped Up`
-- Core mod for improving driving physics and realism.
-- Also tunes traction and control.
-
-### `Auto Drive` (and addons)
-- If you want hands-off travel, you can ride passenger or have your car drive itself.
-- Optional detours, cinematic paths, and delay settings can be tweaked.
-
----
-
 ## 🌆 Visuals & Graphics
-
-### `ReLUX`, `Nova City 2`, `Preem Water`
-- These overhaul lighting, fog density, weather, and water effects.
-- You *will* want to experiment to find your preferred LUT or reduce fog if you're seeing frame drops.
-- Tweak visual style between hyperreal, noir, or neon as you see fit.
 
 ### `LUT Switcher 2`
 - Lets you **swap LUTs on the fly** using the CET overlay.
@@ -113,11 +95,6 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 ### `Improved Distant Shadows`
 - Enhances shadow detail and consistency at longer distances.
 - Helps maintain immersion, especially in large outdoor areas or when flying/driving.
-
-### `Improved Environment LODs`
-- Sharpens terrain and world detail further away.
-- Reduces pop-in and blurring, but may slightly impact performance depending on your system specs.
-
 
 ### Here's a step by step process to get the most out of your graphics with Chrome & Blood post-v1.13 update
 

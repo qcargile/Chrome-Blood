@@ -30,7 +30,7 @@ Every core system has been reworked — from **AI** and **combat mechanics** to 
 
 This isn’t just a modlist — it’s a **full-blown reimagining** of what *Cyberpunk 2077* can be.
 
-> *Step into Night City like you've never seen it before — raw, ruthless, and dripping in chrome.*
+> *Step into a Night City where it takes more than just chrome to become a legend..*
 
 ---
 

@@ -17,9 +17,6 @@ Adds sticky versions of the grenades.
 
 Use the bodies of the fallen as shields against your enemies.
 
-[Preem Weaponsmith 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9692)  
-Enhances weapon customization and crafting options for a more immersive experience.
-
 [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197)  
 Revamps the ricochet mechanic, making it more practical and rewarding in combat.
 
@@ -55,6 +52,12 @@ Overhauls the game’s economy by rebalancing item prices, loot values, and vend
 
 [Better Armor Scaling](https://www.nexusmods.com/cyberpunk2077/mods/13582)  
 Fixes armor scaling to prevent overpowered protection at high levels and ensures more consistent damage mitigation.
+
+[Ammo Limiter](https://www.nexusmods.com/cyberpunk2077/mods/21807)
+Take control of your ammunition with this lightweight mod that automatically manages your ammo reserves. No more hoarding thousands of rounds or cluttered inventory.
+
+[Damage Scaling And Balance](https://www.nexusmods.com/cyberpunk2077/mods/21865)
+Fully adjustable damage multiplier settings for all 8 weapon archetypes, throwable weapons, power/tech/smart weapons, blade/blunt weapons for player AND NPCs
 
 
 </Details>

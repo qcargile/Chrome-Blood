@@ -1,6 +1,188 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v2.2 - July 9th, 2025</summary>
+
+## ⚔️ Chrome & Blood v2.2 – Total Damage Rebalance
+
+### 🧠 Key Notes:
+1. Complete revamp of damage and weapon scaling, aiming for low TTK, and bringing every weapon archetype up to end game status. If you want to use a pistol the entire game, that's what I'm trying to make possible.
+2. Huge list bloat purge to improve stability and fix a lot of user-reported bugs.
+3. Standard mod updates to incorporate new features from authors.
+4. More content through gun/clothing/vehicle mods.
+
+---
+
+### 🗑 Removals:
+
+Removed All Advert Part 1  
+Removed All Advert Part 2  
+Removed All Advert Part 3  
+Removed VTK Vanilla HD Body  
+Removed Apartment Cats - Corpo Plaza  
+Removed Apartment Cats - Dogtown  
+Removed Apartment Cats - Japantown  
+Removed Apartment Cats - Northside Motel  
+Removed Apartment Cats - The Glen  
+Removed Atone - Reset your Street Cred  
+Removed Balatro Joker Locations  
+Removed Bridging the Gap  
+Removed Car Modification Shop  
+Removed Combined Weapon Sound Mod  
+Removed Dance Off  
+Removed Dark Matter Club  
+Removed DLC Liberation Protocol  
+Removed Dogtown Airship  
+Removed Dogtown Car Meet  
+Removed E3 Smart Windows  
+Removed Enable Advert Animations  
+Removed Give Crafting Materials Widget  
+Removed Higher TV Quality  
+Removed Main Menu Music Replacer  
+Removed Iconic Cyberware Store  
+Removed Idle Anywhere  
+Removed Immersive Bartenders  
+Removed Immersive Food Vendors - Dogtown  
+Removed Immersive Food Vendors  
+Removed NCPD Hotline  
+Removed Lean Anywhere  
+Removed Lifepaths Matter  
+Removed No Crowd Panic from Devices  
+Removed No Crowd Panic from Stealth Activity  
+Removed Open Road  
+Removed NCI Watson  
+Removed NCI Westbrook  
+Removed Pet Your Cat  
+Removed Playable Arcade Machines  
+Removed Player Character Editor  
+Removed Preem Scanner - Monochrome Addon  
+Removed Preem Scanner - No Line Effect  
+Removed Ragdoll Physics Overhaul  
+Removed Really Want to Stay at Your House - Judy  
+Removed Really Want to Stay at Your House - Kerry  
+Removed Really Want to Stay at Your House - Panam  
+Removed Really Want to Stay at Your House - River  
+Removed Replacement Holy for Fast Travel  
+Removed Restore Nebular  
+Removed Sit Anywhere  
+Removed Immersion Patch - The Hunt Missing Audio Patch  
+Removed V's Edgerunners Mansion  
+Removed Virtual Atelier Browser Extension  
+Removed World Advert Configurator  
+Removed NCI Santo Domingo  
+Removed NIGHT CITY ALIVE  
+Removed Night City Recolor  
+Removed Dynamic Cherry Blossoms  
+Removed NCI City Center  
+Removed Diverse Death Screens  
+Removed Ultra Fog Lite  
+Removed Authentic Shift  
+Removed Hotscenes  
+Removed Hotscenes Addon  
+Removed Missing Persons - Fixers Hidden Gems  
+Removed NCI Heywood  
+Removed NCI Badlands and Pacifica  
+Removed Night City Interactions - Core  
+Removed Advert Controller  
+Removed Iconic Shops
+
+---
+
+### 🆕 Additions:
+
+Added Sport Outfit v1.3  
+Added ETO 2k v1.1  
+Added Nova Scanner v1.0.2  
+Added Nova Scanner - Alternate Reticle v1.0.2  
+Added Axellysse - Virtual Atelier v3.3  
+Added Axellysse Sport Set v1.0  
+Added Sweet Summer Dress - Fem V v1.0  
+Added EVE Nikke Boots v1.0  
+Added Glamor Biker Outfit v1.0  
+Added Casual Style Outfit Pt30 v1.04  
+Added Crop Top Vol 6  
+Added Nikke Scarlet Outfit and Hair v1.0  
+Added Streetwear Pt3 - Male Only v1.0  
+Added Nikke Modernia Outfit and Hair v1.0  
+Added Tottes Segmenta v1.1  
+Added Sporty Cropped Jacket - No Decals v1.0  
+Added Vonnie Top v1.0  
+Added Suppressor Pack 2 - v1.0  
+Added Ruched Skirt v1.0  
+Added Bugatti Tourbillion  
+Added Dusty Eve Midsummer Alice v1.0  
+Added Pistol Pack 3 - All Weapons and Attachment v1.0  
+Added Mini Jumpsuit Fem V v1.0  
+Added Dusty InesSuit v1.1  
+Added SCOFIL Kriostech Military Outfit v1.0  
+Added SCOFIL Virtual Atelier v1.1  
+Added Tottes Braindance and Chill v1.0  
+Added Axellysse Tech Top v1.1  
+Added Rogue's Short Tank v1.0  
+Added Casual Style Outfit Pt28 v1.0  
+Added Tachy Outfit v1.0  
+Added Lotus Evija v1.2  
+Added Lotus Evija - Handling Update v1.21  
+Added Vehicle Summon Tweaks - Sorting v2.2.2  
+Added Four Seconds Outfit v1.0  
+Added R35 Nomad Main v1.04  
+Added Dark Flow Outfit v1.1  
+Added Void Ducati Supersport v1.0.2
+
+---
+
+### 🔄 Updates:
+
+Updated NCPD Cache - New Iconic Weapons to v1.0  
+Updated Breezy's Thrift Shop to v22  
+Updated NC Fashion Virtual Atelier to v9.0  
+Updated Alvarix Custom Store Atelier to v3.4.1  
+Updated N3 Atelier to v1.0  
+Updated Tottes Atelier 2 to v1.18  
+Updated Peachu Atelier Store to v9.0  
+Updated Female Virtual Boutique to v5.8  
+Updated They Will Remember to v1.5  
+Updated Sabbath Virtual Atelier - Rare Attachments to v1.26  
+Updated Extra Iconic to v2.0.3  
+Updated Economy Punk to v3.0  
+Updated Night City Fog Nulled - Exterior to v2.21  
+Updated Night City Fog Nulled - Interior to v2.21  
+Updated Dog Town Visuals Nulled to v2.21  
+Updated Inventory Adjustments Hub to v1.2  
+Updated Improved Distant Shadows to v0.3  
+Updated Vehicle Summon Tweaks - Dismiss to v2.2  
+Updated Quickhack Hotkeys to v2.2  
+Updated Always First Equip to v2.1  
+Updated Mod Settings to v0.2.18  
+Updated Trigger Mode Control to v2.7.6  
+Updated Immersive Timeskip to v2.2  
+Updated Ammo Limiter to v2.1  
+Updated Deceptious Bug Fixes to v1.1.16  
+Updated One More Light to v2.1.2  
+Updated Evelyn's Dress Variants to v4.0  
+Updated Californication to v2.4  
+Updated Hot Fuzz to v2.4  
+Updated Immersive Rippers to v2.5  
+Updated Bolt Shots Penetrate Cover to v1.0.3  
+Updated Tyger Cache to v1.0.1  
+Updated Mox Cache to v1.0.1  
+Updated Better Quality Sort to v1.2  
+Updated Appearance Menu Mod to v2.12.5  
+Updated Immersive Fixer to v1.3.4  
+Updated Reinforcements System to v1.0.6  
+Updated Neuralware - Chipware Expansion to v1.1.12  
+Updated Virtual Atelier to v1.4.5  
+Updated Redscript and CET Mods Settings to v1.2.2  
+Updated Chrome and Blood Modlist Settings to v1.13
+
+---
+
+**Live hard. Die Chrome.**
+
+</details>
+
+
+<details>
 <summary>v2.01 - June 7, 2025</summary>
 
 ## SAVE COMPATIBLE WITH v2.0!! NEW GAME NOT NEEDED.

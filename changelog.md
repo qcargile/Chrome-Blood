@@ -7,9 +7,10 @@
 <summary>SAVE COMPATIBLE WITH v2.01 BY FOLLOWING THESE STEPS!</summary>
 
 1. Travel to V's H10 starting apartment.
-2. Make a new manual save, and exit the game
-3. Update the list
-4. Reload the save you made in step 2, and you should be good to go. THIS WORKED FOR ME BUT I CAN NOT GUARANTEE 100% SAVE SAFES, YOU HAVE BEEN WARNED!
+2. Make sure Judy/Panam/River/Kerry is not currently visiting AND that you do not have the Long/Short stay options waiting in the phone message(s) from the I really want to stay at your House mod series
+3. Make a new manual save, and exit the game
+4. Update the list
+5. Reload the save you made in step 2, and you should be good to go. THIS WORKED FOR ME BUT I CAN NOT GUARANTEE 100% SAVE SAFES, YOU HAVE BEEN WARNED!
 
 </details>
 

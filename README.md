@@ -225,7 +225,7 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 - **Immersive Timeskip Menu** — `O`  
   Opens the visual timeskip interface to fast-forward time in style. *(Mod: Immersive Timeskip)*
 
-- **Nitrous Boost** — `Left Shift for vehicles` OR `Left Control for motorcycles` (default)  
+- **Nitrous Boost** — `Left Shift for vehicles` OR `Spacebar for motorcycles` (default)  
   Activates the nitrous system while driving eligible vehicles. *(Mod: Nitrous)*
 
 - **Zoomable Scopes** — `Hold Shift while aiming down sights` (or your sprint key)  
@@ -234,16 +234,11 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 - **Flashlight** — `DPad-Left-Hold on controller` OR `Mouse Button 5 on keyboard` 
   Adds a simple toggleable flashlight to the game. *(Mod: Simple Flashlight)*
 
+- **Kiroshi Optics Night Vision** — `F3`  
+  Toggles night vision when you have Kiroshi Optics cyberware installed. *(Mod: Kiroshi Optics Night Vision Mod)*
 
----
-
-### 🎒 Inventory & UI
-
-- **Wardrobe Courier Request** — `N` (default) or via in-game courier terminal  
-  Calls a delivery of saved outfits using EquipmentEx presets. *(Mod: Wardrobe Courier)*
-
-- **Preem Map Toggle Layers** — Mouse interactions or settings panel  
-  Switch between enhanced map layers and icons. *(Mod: Preem Map)*
+- **Trigger Mode Control** — `T`  
+  Press to cycle firing modes (single, burst, auto) on supported weapons. *(Mod: Trigger Mode Control)*
 
 ---
 

@@ -23,23 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/cover.webp",
       "readme": "https://github.com/qcargile/Chrome-Blood/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Chrome \u0026 Blood.wabbajack_ef8e6164-7cf4-48d1-840e-8392be21b9f0",
+      "download": "https://authored-files.wabbajack.org/Chrome \u0026 Blood.wabbajack_761d79df-c4d0-4348-908e-c61577fd5d7a",
       "machineURL": "SchoolBoyQ",
       "discordURL": "https://discord.gg/U65Nhdcns8",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "AXm1EPH52Vo=",
-      "Size": 5938338,
-      "NumberOfArchives": 1138,
-      "SizeOfArchives": 39724838981,
-      "NumberOfInstalledFiles": 9415,
-      "SizeOfInstalledFiles": 40623946805,
-      "TotalSize": 80348785786
+      "Hash": "sWASZeNDn0U=",
+      "Size": 5932740,
+      "NumberOfArchives": 1133,
+      "SizeOfArchives": 39133443945,
+      "NumberOfInstalledFiles": 9407,
+      "SizeOfInstalledFiles": 40032978447,
+      "TotalSize": 79166422392
     },
-    "version": "2.2",
+    "version": "2.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-10T00:56:57.3085068Z",
+    "dateUpdated": "2025-07-20T06:58:01.1546642Z",
     "repositoryName": ""
   }
 ]

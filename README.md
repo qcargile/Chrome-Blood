@@ -3,6 +3,7 @@
 >[!IMPORTANT]
 >- Chrome & Blood requires the Phantom Liberty DLC.
 >- Chrome & Blood is a **NSFW** modlist. Overall gameplay is the main emphasis of this list, however, do not play this infront of your grandma.
+>- This list has been updated for official game patch 2.3!
 
 >[!WARNING]
 >You must update Cyber Punk 2077 to the latest version on Steam to install this list.
@@ -37,7 +38,7 @@ This isn’t just a modlist — it’s a **full-blown reimagining** of what *Cyb
 ### 🔗 Useful Links
 
 - 📄 **Current Modlist**: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
-- 🛠️ **Modlist Changelog**: [v2.2](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
+- 🛠️ **Modlist Changelog**: [v2.3](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
 - 💬 **Join the Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
 - 📚 **Mod Details**: [Click here for a detailed look](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)
 

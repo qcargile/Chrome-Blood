@@ -128,10 +128,7 @@ Make sure your Steam installation shows both:
 - ✅ **Cyberpunk 2077: REDmod**  
 - ✅ **Cyberpunk 2077: Phantom Liberty**
 
-as **installed** in your library before proceeding.```
-
-Let me know if you’d like any further tweaks!
-
+as **installed** in your library before proceeding.
 
 ## 🚀 Installation
 

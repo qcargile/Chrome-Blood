@@ -14,6 +14,7 @@
 - Added **Lamborghini Murciélago** `v1.0`  
 - Added **Night City Fog Nulled – Heavy Hearts** `v1.0`  
 - Re-added **Streamlined HUD** (updated for 2.3)
+- Added Eve Elysion Combat Outfit `v1.0`
 
 ---
 

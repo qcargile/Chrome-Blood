@@ -37,7 +37,7 @@
 
 ---
 
-**Becoming a legend takes more than just chrome.**
+**Live Hard. Die Chrome.**
 
 </details>
 

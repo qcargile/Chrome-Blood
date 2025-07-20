@@ -6,15 +6,12 @@
 <summary>Gameplay Mechanics</summary>
 
 [Enhanced Air Traffic](https://www.nexusmods.com/cyberpunk2077/mods/20208)
-
 Add new air traffic to Night City. The AVs added by this mod will automatically fly over the city using landing pads in various locations.
 
 [Sticky Gernade](https://www.nexusmods.com/cyberpunk2077/mods/18910)
-
 Adds sticky versions of the grenades.
 
 [Body Shield](https://www.nexusmods.com/cyberpunk2077/mods/10533)
-
 Use the bodies of the fallen as shields against your enemies.
 
 [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197)  
@@ -65,9 +62,6 @@ Fully adjustable damage multiplier settings for all 8 weapon archetypes, throwab
 <Details>
 <summary>Quests</summary>
 
-[The Kidnapping of Panam](https://www.nexusmods.com/cyberpunk2077/mods/17329)  
-Adds a new questline where Panam is kidnapped, and V must navigate a complex rescue mission.
-
 [New Quest - Hot Fuzz](https://www.nexusmods.com/cyberpunk2077/mods/7832)  
 Introduces a high-octane quest inspired by action-comedy themes, bringing explosive encounters to Night City.
 
@@ -85,8 +79,6 @@ Introduces a quest that explores the darker side of fame and fortune in Night Ci
 <Details>
 <summary>NPC Interactions</summary>
 
-[Hotscenes](https://www.nexusmods.com/cyberpunk2077/mods/4590)  
-Enables the ability to play Joytoy scenes with various characters, expanding adult content options.
 
 [Hangout Romances](https://www.nexusmods.com/cyberpunk2077/mods/18972)  
 Adds immersive hangout scenes with romanceable characters, deepening relationship dynamics.
@@ -100,8 +92,6 @@ Improves the appearance and behavior of child NPCs for a more authentic environm
 [Fixed NPC Vehicle Reactions](https://www.nexusmods.com/cyberpunk2077/mods/19530)  
 Corrects NPC behavior when reacting to vehicles, reducing immersion-breaking moments.
 
-[NIGHT CITY ALIVE (REDmod)](https://www.nexusmods.com/cyberpunk2077/mods/10395)  
-Overhauls pedestrian and traffic behaviors to make Night City feel more dynamic, reactive, and alive.
 
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -139,6 +129,9 @@ Enhances vehicle traction and handling, making driving feel more responsive and 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <Details>
 <summary>Weapons</summary>
+
+[Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819)
+Overhauls weapon damage, armor penetration, range, and headshot scaling for punchy, low-TTK combat—tuned for Very Hard and optimized for the Chrome & Blood modlist.
 
 [Replace Weapon Mods](https://www.nexusmods.com/cyberpunk2077/mods/15409)  
 Allows players to swap out weapon mods without destroying the existing ones, enhancing customization flexibility.

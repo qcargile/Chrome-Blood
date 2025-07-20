@@ -1,6 +1,47 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v2.3.1 HOT FIX – July 20, 2025</summary>
+
+## 🛠️ Key Notes:
+1. Mainly just key updates to mods for 2.3 that were causing bugs.  
+2. Also added [Eve Elysion Combat Outfit](https://www.nexusmods.com/cyberpunk2077/mods/22803) cause I thought it looked badass :p
+
+---
+
+### 🆕 Additions:
+
+- Added **Lamborghini Murciélago** `v1.0`  
+- Added **Night City Fog Nulled – Heavy Hearts** `v1.0`  
+- Re-added **Streamlined HUD** (updated for 2.3)
+
+---
+
+### 🔄 Updates:
+
+- Updated **Extra Hands** to `v2.2`  
+- Updated **Fix Flickering Particles** to `v0.12`  
+- Updated **Inplace Sectors Nulled** to `v0.12`  
+- Updated **Not So Good Draw Distance** to `v3.01`  
+- Updated **Night City Fog Nulled – Exterior** to `v2.3.250720`  
+- Updated **Night City Fog Nulled – Interior** to `v2.3.250720`  
+- Updated **NC Fashion Virtual Atelier** to `v9.0`
+
+---
+
+### 🗑 Removals:
+
+- Removed **R35 Nomad**  
+- Removed **Infinite Wave**
+
+---
+
+**Becoming a legend takes more than just chrome.**
+
+</details>
+
+
+<details>
 <summary>v2.3 - July 20, 2025</summary>
 
 ## SAVE COMPATIBLE WITH CHROME AND BLOOD v2.2 AND GAME PATCH 2.21!!! NEW GAME NOT NEEDED.

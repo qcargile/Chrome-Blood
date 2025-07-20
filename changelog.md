@@ -1,6 +1,82 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v2.3 - July 20, 2025</summary>
+
+## SAVE COMPATIBLE WITH CHROME AND BLOOD v2.2 AND GAME PATCH 2.21!!! NEW GAME NOT NEEDED.
+
+## 🧠 Key Notes:
+1. Full updates for patch 2.3. Please report any and all bugs as you find them. I did my best to eliminate mods that were broken, but there's bound to be things I missed.
+2. Introduction of [Chrome Ballistics - Weapon Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/22819?tab=description) to bring weapon base DPS to that low TTK mark that we all enjoy.
+3. General mod updates, as always.
+4. Harder Gunfights & No Shooting Delay have been disabled while i test how I like [Immersive Shooting AI](https://www.nexusmods.com/cyberpunk2077/mods/22782)
+
+---
+
+### 🆕 Additions:
+
+- Added **Removed Aiming and Crouching Vignetting Effects** `v1.0`  
+- Added **Not So Good Draw Distance** `v3.0`  
+- Added **Immersive Shooting AI** `v1.0.1`  
+- Added **Camo Realism** `v1.1`  
+- Added **Crystal Coat Fix** `v5.3`  
+- Added **Infinite Wave** `v1.1`
+
+---
+
+### 🔄 Updates:
+
+- Updated **Always Best Quality Adverts** to `v4.0.2.3`  
+- Updated **Unchainned Textures – Chainned AIO** to `v5.2`  
+- Updated **Mod Settings** to `v0.2.21`  
+- Updated **ArchiveXL** to `v1.24`  
+- Updated **Red4ext** to `v1.28`  
+- Updated **Cyber Engine Tweaks** to `v1.36`  
+- Updated **Input Loader** to `v0.2.3`  
+- Updated **Quickhack Fixes** to `v1.2.18`  
+- Updated **Non-canon Romances Enhanced** to `v1.0.1`  
+- Updated **HUD Painter** to `v1.2`  
+- Updated **Cop Killer** to `v2.26`  
+- Updated **Trigger Mode Control** to `v2.7.8`  
+- Updated **Ultimate Kill Counter** to `v1.14`  
+- Updated **Nighty City Visuals Nulled** to `v2.3.250718`  
+- Updated **Dog Town Visuals Nulled** to `v2.3.250718`  
+- Updated **Cleaner Main Menu And Pause Menu** to `v2.3`  
+- Updated **The Passenger Settings** to `v2.0`  
+- Updated **Neural Chipware Expansion** to `v1.2`  
+- Updated **Ammo Limiter** to `v2.2.3`  
+- Updated **RedFileSystem** to `v0.14`  
+- Updated **RedData** to `v0.8`  
+- Updated **Muted Markers** to `v2.3.3`  
+- Updated **Quickhack Hotkeys** to `v2.3`  
+- Updated **Database Fixes** to `v1.08`  
+- Updated **Economy Punk** to `v3.2`  
+- Updated **Codeware** to `v1.17`  
+- Updated **TweakXL** to `v1.11`  
+- Updated **Virtual Car Dealer** to `v2.2.7`  
+- Updated **Untrack Quest Ultimate** to `v3.1.1`  
+- Updated **They Will Remember** to `v1.5.4`
+
+---
+
+### 🗑 Removals:
+
+- Removed **Judy Message Tweaks**  
+- Removed **Prop Paradise**  
+- Removed **Slow Firing Rate on Longer Saves Bug Fix**  
+- Removed **Guns Redone Overhauled**  
+- Removed **JSK Better Mod Settings**  
+- Removed **FERRARI SF90 XX STRADALE**  
+- Removed **Streamlined HUD**
+
+---
+
+**Live hard. Die Chrome.**
+
+</details>
+
+
+<details>
 <summary>v2.2 - July 9th, 2025</summary>
 
 <details>

@@ -106,9 +106,18 @@ Please note:
 
 </details>
 
-4. Ensure **all official DLC** is installed.
-5. If not already installed, download [REDmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
+4. Ensure **all official DLC** is installed.  
+5. If not already installed, download [REDmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)  
    ![image](https://github.com/user-attachments/assets/dc727531-5f72-4bb6-aa64-df340b48c1a3)
+
+6. ✅ **Update your GPU drivers**  
+   - Use [NVIDIA App](https://www.nvidia.com/en-us/software/nvidia-app/) or [AMD Adrenalin](https://www.amd.com/en/support/download/drivers.html).
+
+7. ✅ **Install .NET Runtime**  
+   - Download the latest version from [.NET Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
+
+8. ✅ **Install DirectX End-User Runtime**  
+   - Download it from [DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=35).
 
 ---
 
@@ -119,7 +128,10 @@ Make sure your Steam installation shows both:
 - ✅ **Cyberpunk 2077: REDmod**  
 - ✅ **Cyberpunk 2077: Phantom Liberty**
 
-as **installed** in your library before proceeding.
+as **installed** in your library before proceeding.```
+
+Let me know if you’d like any further tweaks!
+
 
 ## 🚀 Installation
 

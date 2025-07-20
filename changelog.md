@@ -21,11 +21,14 @@
 - Added **Camo Realism** `v1.1`  
 - Added **Crystal Coat Fix** `v5.3`  
 - Added **Infinite Wave** `v1.1`
+- Added Chrome Ballistics - Weapon Rebalance `v1.0`
+
 
 ---
 
 ### 🔄 Updates:
 
+- Updated Chrome and Blood Modlist Settings to `1.14`
 - Updated **Always Best Quality Adverts** to `v4.0.2.3`  
 - Updated **Unchainned Textures – Chainned AIO** to `v5.2`  
 - Updated **Mod Settings** to `v0.2.21`  

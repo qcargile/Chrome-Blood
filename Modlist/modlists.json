@@ -9,13 +9,12 @@
     "game": "cyberpunk2077",
     "official": true,
     "tags": [
-      "NSFW",
       "Gameplay",
       "Clothing",
       "Immersive",
       "Graphics"
     ],
-    "nsfw": true,
+    "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,

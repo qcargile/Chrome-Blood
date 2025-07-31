@@ -2,7 +2,6 @@
 
 >[!IMPORTANT]
 >- Chrome & Blood requires the Phantom Liberty DLC.
->- Chrome & Blood is a **NSFW** modlist. Overall gameplay is the main emphasis of this list, however, do not play this infront of your grandma.
 >- This list has been updated for official game patch 2.3!
 
 >[!WARNING]

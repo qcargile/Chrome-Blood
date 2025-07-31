@@ -147,7 +147,6 @@ You can install Chrome & Blood from either [**Nexus Mods**](https://www.nexusmod
 
 3. Under the search bar, apply the following filters:
    - ✅ Filter by: **Cyberpunk 2077**
-   - ✅ Tick: **NSFW**
    - ✅ Tick: **Non-Featured**
 
 4. Search for **"Chrome & Blood"** if it doesn’t appear immediately

@@ -1,6 +1,140 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v2.31 – August 2, 2025</summary>
+
+## 🛠 Key Notes:
+1. Continued compatibility, refinement, and performance tuning post-2.3.
+2. More military gear, more outfit variety, and visual reworks.
+3. Bugfixes and clean-up of broken/obsolete mods.
+
+---
+
+### 🆕 Additions:
+
+- Added **Multicolored Hair Pack All in One** `v1.1`
+- Added **Aeryn Hairs** `v1.0`
+- Added **Vehicle Exit Fix** `v1.0`
+- Added **Streaming Bug Workaround** `v0.12`
+- Added **Smart Gun Lock Speed Fixes** `v1.0`
+- Added **Quest Trigger Fixes** `v1.2`
+- Added **Quiet Menus** `v2.30`
+- Added **Axellysse - Execution Pants** `v1.0`
+- Added **Baggy Street Pants – Both** `v1.0`
+- Added **Breezy Shoe Emporium** `v2.0`
+- Added **Kota Boots – Both V** `v1.0`
+- Added **Tactical Style Outfit Pt 2** `v1.0`
+- Added **Casual Style Outfit Pt31** `v1.2`
+- Added **No Game Pause When Using Phone or Radio – All in One** `v1.0`
+- Added **ENV Tuner** `v1.3`
+- Added **ReLUX – All Foods** `v1.0`
+- Added **ReLUX – Delamain HQ**
+- Added **ReLUX – El Coyote Cojo** `v1.0`
+- Added **ReLUX – H10 V's Apartment** `v1.0`
+- Added **Blur Begone** `v1.25`
+- Added **Night City Fog Nulled** `v2.3.250728`
+- Added **Night City Things Nulled** `v2.3.250720`
+- Added **High Fashion Netrunner Suits** `v3.1.3`
+
+---
+
+### 🔄 Updates:
+
+- Updated **Not So Good Draw Distance** to `v3.1`
+- Updated **Streamlined AIO** to `v1.21`
+- Updated **They Will Remember** to `v1.6.1`
+- Updated **Backpack Search** to `v1.2.1`
+- Updated **Stealthrunner** to `v1.8.3`
+- Updated **Military Combat Armor** to `v3.1`
+- Updated **ReLUX – Misty's** to `v1.1.0`
+- Updated **ReLUX – Vik's** to `v1.1.0`
+- Updated **Ammo Limiter** to `v2.2.4`
+- Updated **Eve Elysion Combat Outfit** to `v1.1`
+- Updated **Axellysse Virtual Atelier** to `v3.5`
+- Updated **Breezy's Thrift Shop** to `v24`
+- Updated **Veegee Shop 3** to `v1.3`
+- Updated **Audioware** to `v1.4.6`
+- Updated **ETO 2K** to `v1.2`
+- Updated **Nova City 2** to `v2.2.3`
+- Updated **Immersive Bike Camera** to `v2.3`
+- Updated **Kerry Interactions Enhanced** to `v2.1`
+- Updated **River Romanced Enhanced** to `v2.4`
+- Updated **Panam Romanced Enhanced** to `v2.6`
+- Updated **Quickhack Fixes** to `v1.2.19`
+- Updated **Judy Romanced Enhanced** to `v2.4`
+- Updated **ReLUX – Afterlife** to `v1.2`
+- Updated **ReLUX – Cottage** to `v1.1`
+- Updated **ReLUX – Judy's Apartment** to `v1.1`
+- Updated **ReLUX – River's House** to `v1.1`
+- Updated **ReLUX – The Rescue** to `v1.2`
+- Updated **Ricochet Redux** to `v4.1.2`
+- Updated **Zenitex Virtual Atelier** to `v4.0.2`
+- Updated **Zenitex Core Dependency** to `v3.2`
+- Updated **Military Balaclava Pack** to `v1.3`
+- Updated **Replace Weapon Mods** to `v1.3`
+- Updated **Crafting Component Quantity Text** to `v0.0.0.5`
+- Updated **Bikes of Dark Future** to `v1.23`
+- Updated **Ripperdoc Service Charge** to `v1.4`
+- Updated **Better Quality Sort** to `v1.2.1`
+- Updated **Suppressor Pack 2 – Darker Textures** to `v1.1`
+- Updated **Cyber Drift** to `v2.3`
+- Updated **Chrome Ballistics – Weapon Rebalance** to `v2.1`
+- Updated **Filter Saves By Lifepath and Type** to `v1.0`
+- Updated **Nola and Aquelyras Feminine Atelier** to `v3.1`
+- Updated **DLSS Swapper** to `v1.2.0.3`
+- Updated **Deceptious Bug Fixes** to `v1.2.3`
+- Updated **Elegant Outfit** to `v1.1`
+- Updated **Swimwear Devil** to `v1.1`
+- Updated **Swimwear Mystique** to `v1.2`
+- Updated **Travel Outfit** to `v1.2`
+- Updated **Techsuit with Cat Ears** to `v1.2`
+- Updated **Tachy Outfit** to `v1.2`
+
+> 🔄 Also updated and/or added **Scorpion Tank Military Series** including:
+- Military Tactical Vest & Garment Support
+- Military Panam Pants & Garment Support
+- Military Armor Pads
+- Military Ballistics Mask & Garment Support
+- Military Combat Armor
+- Ops-Core FAST Helmet & Garment Support
+- Military Ballistic Vest (including Alt Pouches and Alt Vest)
+- Military Combat Boots
+- Zenitex Stealth Suit
+- Zenitex Combat Googles
+- Military Pistol Holsters & Garment Support
+- Zenitex Military Backpack & Garment Support
+- Military Combat Jacket & Garment Support
+- Zenitex Combat Gloves & Garment Support
+- Military Combat Pants & Garment Support
+
+---
+
+### 🗑 Removals:
+
+- Removed **Wannabe Edgerunner**
+- Removed **Quickhacks Memory Counter**
+- Removed **Walk by Default**
+- Removed **VTK Tattoo**
+- Removed **Slaught-O-Matic QoL**
+- Removed **Slaught-O-Matic Platinum**
+- Removed **Slaught-O-Matic Jackpot**
+- Removed **Neuro Tattoos**
+- Removed **Enhanced Bullet Block and Deflect**
+- Removed **CNRK-Tattoo Studio**
+- Removed **Body Tattoo 04 Replacer**
+- Removed **Eliminate Crouching and Aim Vignette**
+- Removed **Quickhack Queue Devices**
+- Removed **Night City Fog Nulled – Interior**
+- Removed **Night City Fog Nulled – Exterior**
+
+---
+
+**Live Hard. Die Chrome.**
+
+</details>
+
+
+<details>
 <summary>v2.3.1 HOT FIX – July 20, 2025</summary>
 
 ## 🛠️ Key Notes:

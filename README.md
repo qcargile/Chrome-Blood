@@ -217,9 +217,6 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 - **Quickhack Hotkeys** — `1` through `0` (customizable)  
   Assign specific quickhacks to keys for instant casting without using the scanner. *(Mod: Quickhack Hotkeys)*
 
-- **Toggle Sprint / Walk Mode** — `G` (default)  
-  Changes movement to walk by default and sprint when holding/toggling. *(Mod: Walk by Default 2.0)*
-
 - **Immersive Timeskip Menu** — `O`  
   Opens the visual timeskip interface to fast-forward time in style. *(Mod: Immersive Timeskip)*
 

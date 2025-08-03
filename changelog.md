@@ -3,9 +3,11 @@
 <details>
 <summary>v2.31 – August 3, 2025</summary>
 
+## SAVE COMPATIBLE WITH v2.3.1!! NEW GAME NOT NEEDED.
+
 ## 🛠 Key Notes:
 1. Continued compatibility, refinement, and performance tuning post-2.3.
-2. More military gear, more outfit variety, and visual reworks.
+2. More military gear, more outfit variety, and visuals.
 3. Bugfixes and clean-up of broken/obsolete mods.
 
 ---

@@ -56,10 +56,6 @@ Take control of your ammunition with this lightweight mod that automatically man
 [Damage Scaling And Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865)
 Fully adjustable damage multiplier settings for all 8 weapon archetypes, throwable weapons, power/tech/smart weapons, blade/blunt weapons for player AND NPCs
 
-[Chrome Ballistics - Weapon Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/22819)
-Chrome Ballistics remasters Cyberpunk 2077’s firearms (and melee weapons) by fine-tuning base DPS, armor penetration, and engagement ranges so every weapon feels deadly and distinct.
-
-
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <Details>

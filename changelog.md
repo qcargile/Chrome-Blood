@@ -132,6 +132,7 @@
 - Removed **Always Best Quality For Adverts**
 - Removed **Eliminate Crouching and Aiming Vignetting Effects**
 - Removed **Unchainned Texture - CHainned AIO**
+- Removed **Humanity - W.E. Compatiblity Patch**
 
 ---
 

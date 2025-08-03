@@ -1,7 +1,7 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
-<summary>v2.31 – August 2, 2025</summary>
+<summary>v2.31 – August 3, 2025</summary>
 
 ## 🛠 Key Notes:
 1. Continued compatibility, refinement, and performance tuning post-2.3.
@@ -26,7 +26,6 @@
 - Added **Tactical Style Outfit Pt 2** `v1.0`
 - Added **Casual Style Outfit Pt31** `v1.2`
 - Added **No Game Pause When Using Phone or Radio – All in One** `v1.0`
-- Added **ENV Tuner** `v1.3`
 - Added **ReLUX – All Foods** `v1.0`
 - Added **ReLUX – Delamain HQ**
 - Added **ReLUX – El Coyote Cojo** `v1.0`
@@ -40,7 +39,6 @@
 
 ### 🔄 Updates:
 
-- Updated **Not So Good Draw Distance** to `v3.1`
 - Updated **Streamlined AIO** to `v1.21`
 - Updated **They Will Remember** to `v1.6.1`
 - Updated **Backpack Search** to `v1.2.1`
@@ -126,6 +124,14 @@
 - Removed **Quickhack Queue Devices**
 - Removed **Night City Fog Nulled – Interior**
 - Removed **Night City Fog Nulled – Exterior**
+- Removed **Cyberarms Collection 2.0**
+- Removed **Smart Frames Enhanced**
+- Removed **Praedy's 77 Retexture**
+- Removed **SCOFIL Virtual Atelier**
+- Removed **Not So Good Draw Distance**
+- Removed **Always Best Quality For Adverts**
+- Removed **Eliminate Crouching and Aiming Vignetting Effects**
+- Removed **Unchainned Texture - CHainned AIO**
 
 ---
 

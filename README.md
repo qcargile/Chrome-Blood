@@ -260,9 +260,24 @@ During the main quest "The Rescue," selecting the **“Takedown and Hide Body”
 <img width="1907" height="1070" alt="image" src="https://github.com/user-attachments/assets/ede6c3e4-1c85-4a78-a011-75a6faafe3f1" />
 
 **Fix:**  
-You must [b]*kill*[/b] all scavengers in the area instead of using stealth takedowns.  
+You must **kill** all scavengers in the area instead of using stealth takedowns.  
 Avoid using the **takedown prompt** entirely during this mission to ensure proper objective progression.
 
 ---
 
+### 2. CTD When Selecting Clothing in Virtual Atelier  
+**Responsible Mod(s):** Virtual Atelier + Gender-Locked Clothing Mods
 
+**Issue:**  
+Selecting clothing items intended for the opposite gender in any [Virtual Atelier] store may result in an immediate crash to desktop (CTD). This occurs because some clothing mods are not configured for both body types.
+
+**Fix:**  
+Be aware of the gender-lock on certain cosmetic items.  
+Avoid selecting items not intended for your character’s body type in the Atelier UI.  
+Refer to the preview images provided below. Picture 1 will cause a crash. Picture 2 is what it should look like if compatible.
+
+### 1
+<img width="825" height="362" alt="image" src="https://github.com/user-attachments/assets/e7f94cce-95f0-4c4a-ac2d-532d288f9703" />
+
+### 2
+<img width="702" height="265" alt="image" src="https://github.com/user-attachments/assets/fe775a6f-9eaf-48ec-9279-0c718719c288" />

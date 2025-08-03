@@ -133,6 +133,7 @@
 - Removed **Eliminate Crouching and Aiming Vignetting Effects**
 - Removed **Unchainned Texture - CHainned AIO**
 - Removed **Humanity - W.E. Compatiblity Patch**
+- Removed **Optical Camo Realism and Utility** (Not needed as we have Optical Camo Realism and Utility - Partial CD)
 
 ---
 

@@ -16,6 +16,7 @@
 - [🧹 Post-Installation](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-post-installation)
 - [🔄 Updating the Modlist](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-updating-the-modlist)
 - [🔑 Keybinds to Know (Modded Controls)](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-keybinds-to-know-modded-controls)
+- [🐞 Known Issues](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-known-issues)
 
 
 ##  Introduction

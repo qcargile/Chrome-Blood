@@ -35,9 +35,6 @@ Adds new NPCs and enemy archetypes to populate the world with more variety and d
 [Harder Gunfights](https://www.nexusmods.com/cyberpunk2077/mods/14544)  
 Increases enemy aggression, accuracy, and reaction times to make combat more punishing.
 
-[Wannabe Edgerunner - A simple Cyberpsychosis mod](https://www.nexusmods.com/cyberpunk2077/mods/5646)  
-Implements a cyberpsychosis system, adding depth to the consequences of excessive cyberware use.
-
 [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913)  
 Adds a toggleable flashlight that works in first- and third-person, greatly improving visibility in dark areas.
 
@@ -56,8 +53,11 @@ Fixes armor scaling to prevent overpowered protection at high levels and ensures
 [Ammo Limiter](https://www.nexusmods.com/cyberpunk2077/mods/21807)
 Take control of your ammunition with this lightweight mod that automatically manages your ammo reserves. No more hoarding thousands of rounds or cluttered inventory.
 
-[Damage Scaling And Balance](https://www.nexusmods.com/cyberpunk2077/mods/21865)
+[Damage Scaling And Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865)
 Fully adjustable damage multiplier settings for all 8 weapon archetypes, throwable weapons, power/tech/smart weapons, blade/blunt weapons for player AND NPCs
+
+[Chrome Ballistics - Weapon Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/22819)
+Chrome Ballistics remasters Cyberpunk 2077’s firearms (and melee weapons) by fine-tuning base DPS, armor penetration, and engagement ranges so every weapon feels deadly and distinct.
 
 
 </Details>

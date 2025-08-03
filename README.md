@@ -269,7 +269,7 @@ Avoid using the **takedown prompt** entirely during this mission to ensure prope
 **Responsible Mod(s):** Virtual Atelier + Gender-Locked Clothing Mods
 
 **Issue:**  
-Selecting clothing items intended for the opposite gender in any [Virtual Atelier] store may result in an immediate crash to desktop (CTD). This occurs because some clothing mods are not configured for both body types.
+Selecting clothing items intended for the opposite gender in any Virtual Atelier store will result in an immediate crash to desktop (CTD). This occurs because some clothing mods are not configured for both body types.
 
 **Fix:**  
 Be aware of the gender-lock on certain cosmetic items.  

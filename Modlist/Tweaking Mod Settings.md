@@ -75,14 +75,6 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 - You can enable extra implant slots, adjust restrictions, and customize loadout balance.
 - Perfect for people going for full Borg/Edgerunner builds.
 
-### `Wannabe Edgerunner`
-- Optional cyberpsychosis system. Super customizable.
-- If you want risk to go with power, tweak it to make mental collapse a threat. Or tone it down for more forgiveness.
-
-### `Guns Redone V3`
-- Adjusts weapon recoil, spread, damage, and armor interactions.
-- Works with vanilla and most custom weapons. Choose presets or fine-tune for your favorite weapon class.
-
 ---
 
 ## 🌆 Visuals & Graphics
@@ -95,6 +87,11 @@ Some mods in this list are **highly customizable** and meant to be **tweaked to 
 ### `Improved Distant Shadows`
 - Enhances shadow detail and consistency at longer distances.
 - Helps maintain immersion, especially in large outdoor areas or when flying/driving.
+
+### `General Shadows Fixes`
+- Fixes several common shadow artifacts and smoothing issues in both indoor and outdoor environments.
+- Settings need to be adjusted in mod settings menu if using RT/PT!
+
 
 ### Here's a step by step process to get the most out of your graphics with Chrome & Blood post-v1.13 update
 

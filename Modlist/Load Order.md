@@ -183,9 +183,6 @@ Redesigns perk scaling to better reward investment and progression across playst
 [Lifepath Determines Starting Attributes](https://www.nexusmods.com/cyberpunk2077/mods/8358)  
 Adjusts your starting stats based on lifepath choice, deepening character identity.
 
-[Lifepaths Matter](https://www.nexusmods.com/cyberpunk2077/mods/4052)  
-Expands lifepath relevance by adding unique dialogue and gameplay consequences.
-
 </Details>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <Details>

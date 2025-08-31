@@ -1,6 +1,161 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v2.32 – August 31, 2025</summary>
+
+## 🛠 Key Notes:
+1. This update introduces a new immersive profile built for **hardcore realism**. Mods like **Dark Future** (adds environmental darkness, needs management, and limits reliance on UI), **Immersive Cyberware** (locks basic interface features like inventory, scanner, and healthbar behind cyberware upgrades), **Limited HUD** (disables key HUD elements contextually to force player awareness), **Wannabe Edgerunner** (reintroduces cyberpsychosis with downsides for excessive augmentation), and **Virtual Atelier Delivery** (adds script-based delays to virtual shop deliveries) define the new progression loop. All cosmetic mods including body type swaps, clothing items, and character customization options are disabled in this profile for 100% gameplay focus. The standard profile remains unchanged, retaining all UI enhancements, customization features, and a more casual balance.
+2. Modded weapon progression has been reworked. Sabbath weapons now appear across Tiers 1–5 and are only accessible through their own atelier. Other added weapons appear in stores at level 33 or in secret placements.
+3. Many bugs fixed, with major mod updates and compatibility checks.
+4. CyberwareEX slot unlock reworked to the follow progression perk milestones:
+   - Legs: Air Dash 3/3
+   - Arms: Ambidextrous
+   - Integumentary: License To Chrome 2/3
+   - Cardiovascular: Adrenaline Rush 3/3
+   - Frontal Cortex: Overclock 3/3
+   - Eyes: Focus 2/2
+   - OS: Edgerunner
+5. Economy rebalance: increased payouts for quests, gigs, and shards. Cyberpsychos now reward 15,000 for kills and 25,000 for non-lethal takedowns.
+
+---
+
+### 🆕 Additions:
+
+- Added **HD Reworked Project Ultra Quality** `v2.0`
+- Added **Map Nuclear Explosion Fix** `v0.1`
+- Added **Stamina Consumption Fix** `v1.0`
+- Added **Bounty Class Stars Fix** `v1.0.0.2`
+- Added **Ragdoll Execution Fix** `v1.0.2.0`
+- Added **Animals Cache** `v1.0.3`
+- Added **Animals Cache - Unlock Me A Slot Patch** `v1.0`
+- Added **Auto Drive Enhanced** `v0.0.0.13`
+- Added **Limited HUD** `v2.21.4`
+- Added **Dark Future** `v1.4.1.0a`
+- Added **Wannabe Edgerunner** `v2.3.1`
+- Added **Immersive Cyberware** `v1.0.2`
+- Added **Gold Plated Interface - Immersive Cyberware Patch** `v1.0.2`
+- Added **Raito Labs - Immersive Cyberware Patch** `v1.1`
+- Added **Stealth Runner - Immersive Cyberware Patch** `v1.0`
+- Added **Raven Gemini II - Immersive Cyberware Patch** `v1.0.2`
+- Added **Responsive V** `v1.3.1`
+- Added **Say Something Damn It** `v1.9`
+- Added **Nova City - Utils** `v1.2.0.0u`
+- Added **Weapon Handling Control** `v2.2.1`
+- Added **Humanity - Wannabe Edgerunner Compatibility Patch** `v1.0`
+- Added **Buzzsaw VFX Fix** `v1.0`
+- Added **Cyberware Improved** `v1.0`
+- Added **Low Quality Crowd No More** `v0.15`
+- Added **Ugly Building Removed** `v0.14`
+- Added **High Res NPC Bodies** `v0.1`
+- Added **Melee Weapon Pack** `v1.0`
+- Added **M79 and MX25 Grenade Launchers** `v1.0`
+- Added **Electric Hellfire** `v1.2`
+- Added **Virtual Atelier Delivery** `v1.0.7`
+- Added **The Tumbler** `v1.0.1`
+- Added **Reinforcements System – Infinite Combat Loop Fix** `v1.1.1`
+- Added **Input QoL** `v1.0`
+- Added **Threadscape** `v1.1`
+- Added **Disassembled Weapons for Recipes** `v1.0.1`
+- Added **Hold to Overclock While Scanning** `v1.0.1`
+
+---
+
+### 🔄 Updates:
+
+- Updated **Mute Loading ScreensPL** to `v1.3`
+- Updated **Aim Reveals Enemies** to `vf1.03a`
+- Updated **ArchiveXL** to `v1.25`
+- Updated **Night City Things Nulled** to `v2.3.250720.0`
+- Updated **Night City Fog Nulled** to `v3.1`
+- Updated **Night City Visuals Nulled** to `v3.1.8`
+- Updated **They Will Remember** to `v1.7.4`
+- Updated **Reinforcements System** to `v1.1.2`
+- Updated **Metro Pocket Guide** to `v1.2.1`
+- Updated **Melee Attacks Fixes and Enhancements** to `v0.39`
+- Updated **Retrothrusters QoL** to `v1.3`
+- Updated **Gorilla Grapple** to `v1.3`
+- Updated **Hot Fuzz** to `v3.0.2`
+- Updated **Neural Chipware Expansion** to `v1.2.1`
+- Updated **Rita Wheeler Romanced** to `v2.5`
+- Updated **Quickhack Fixes** to `v1.2.20`
+- Updated **Blur Begone** to `v1.25.3`
+- Updated **Mox Cache New Iconic Weapons** to `v1.0.2`
+- Updated **Ducati Supersport** to `v1.3`
+- Updated **Mitsubishi Eclipse** to `v1.8`
+- Updated **Better Bike Animations - Fem V** to `v1.01`
+- Updated **Better Quality Sort** to `v1.2.2`
+- Updated **Immersive Shooting AI** to `v1.0.2`
+- Updated **Immersive Time Skip** to `v2.2.1`
+- Updated **Flaming Crotch Man Romanced** to `v2.0`
+- Updated **Weather Switcher** to `v1.6.1`
+- Updated **Vehicle Summon Tweaks - Sorting** to `v2.3.1`
+- Updated **Vehicle Summon Tweaks - Dismiss** to `v2.3.2`
+- Updated **Vehicle Durability Display - Top** to `v1.1`
+- Updated **More Mods More Fun** to `f1.03`
+- Updated **New Quest - Encore** to `v3.0`
+- Updated **Loot Icons Extension** to `v1.52`
+- Updated **Immersive Bike Camera** to `v2.33`
+- Updated **Untrack Quest Ultimate** to `v3.2`
+- Updated **Native Settings UI Side Menu Addon** to `v1.3.9`
+- Updated **New Quest - Californication** to `v3.0`
+- Updated **Redscript and CET Mods Settings** to `v1.2.3`
+- Updated **Improved NCPD Map Filters** to `v2.1.1`
+- Updated **Audioware** to `v1.4.7`
+- Updated **Economy Punk** to `v3.4`
+- Updated **Virtual Atelier** to `v1.4.6`
+- Updated **Devel Sixteen** to `v1.2`
+- Updated **More Weapon And Inventory Filters** to `v2.1`
+- Updated **Mark To Sell** to `v2.5.3`
+- Updated **Enhanced Craft** to `v4.0.6`
+- Updated **Revised Backpack** to `v0.9.1`
+- Updated **Named Saves** to `v2.6.2`
+- Updated **Muted Markers** to `v2.3.4`
+- Updated **Always First Equip** to `v2.1.1`
+- Updated **Virtual Car Dealer** to `v2.2.8`
+- Updated **RedFileSystem** to `v0.14.1`
+- Updated **RedData** to `v0.8.1`
+- Updated **Extra Hands** to `v2.2.1`
+- Updated **Alternative Berserk** to `v1.0.2`
+- Updated **Custom Quickslots** to `v5.1.7`
+- Updated **Immersive Fixers** to `v1.4`
+- Updated **Heat Converter** to `v1.2.1`
+- Updated **Megingjord** to `v1.3.3`
+- Updated **Jarngreipr** to `v1.3.3`
+- Updated **Extra Berserks** to `v1.2.2`
+- Updated **Looting QoL** to `v1.7`
+- Updated **Sort Ripperdoc Inventory** to `v1.1`
+- Updated **Redscript** to `v0.5.30`
+- Updated **Virtual Atelier Delivery** to `v1.0.7`
+- Updated **Streaming Bug Workaround** to `v0.25`
+
+---
+
+### 🗑 Removals:
+
+- Removed **2BT Mizutani Shion**
+- Removed **Big Bad Burya**
+- Removed **Advanced Implant Technologies – Virtual Atelier and Patches**
+- Removed **Raito Labs – Virtual Atelier**
+- Removed **DR-10 Wormhole and Patches**
+- Removed **Enhanced Byakko**
+- Removed **Herrera Outlaw Weiler**
+- Removed **Laser Sword – Pulse**
+- Removed **OneslowZZ Watches**
+- Removed **T40 Uragan**
+- Removed **Stealth Finishers**
+- Removed **Wilson’s Sparkler**
+- Removed **Prototype Thermal Longsword – Ignis**
+- Removed **Cyberware Improved Series (replaced with new consolidated version)**
+- Removed **Appearance Menu Mod**
+- Removed **Ultimate Kill Counter**
+
+---
+
+**Live Hard. Die Chrome.**
+
+</details>
+
+<details>
 <summary>v2.31 – August 3, 2025</summary>
 
 ## SAVE COMPATIBLE WITH v2.3.1!! NEW GAME NOT NEEDED.

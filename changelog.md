@@ -3,6 +3,8 @@
 <details>
 <summary>v2.32 – August 31, 2025</summary>
 
+## SAVE COMPATIBLE WITH v2.31!! NEW GAME NOT NEEDED.
+
 ## 🛠 Key Notes:
 1. This update introduces a new immersive profile built for **hardcore realism**, emphasizing gameplay over cosmetics or UI convenience:
 

@@ -142,6 +142,8 @@
 ### 🗑 Removals:
 
 - Removed **2BT Mizutani Shion**
+- Removed **Harder Gunfights**
+- Removed **No Shooting Delay**
 - Removed **Big Bad Burya**
 - Removed **Advanced Implant Technologies – Virtual Atelier and Patches**
 - Removed **Raito Labs – Virtual Atelier**

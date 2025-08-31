@@ -44,7 +44,7 @@ Every core system has been reworked, from **AI** and **combat mechanics** to **s
 - **Standard Profile**: A more flexible experience that retains all UI improvements, customization options, and cosmetic variety.  
   Recommended for players who want challenge but still enjoy full control over appearance, character builds, and casual quality-of-life enhancements.
 
-Both profiles retain the same core gameplay balance — but differ in *how much freedom vs. friction* you want in your journey through Night City.
+Both profiles retain the same core gameplay balance, but differ in *how much freedom vs. friction* you want in your journey through Night City.
 
 ---
 

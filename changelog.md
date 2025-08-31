@@ -16,7 +16,7 @@
    The standard profile remains unchanged with all customization and quality-of-life features intact.
 2. Modded weapon progression has been reworked. Sabbath weapons now appear across Tiers 1–5 and are only accessible through their own atelier. Other added weapons appear in stores at level 33 or in secret placements.
 3. Many bugs fixed, with major mod updates and compatibility checks.
-4. CyberwareEX slot unlock reworked to the follow progression perk milestones:
+4. CyberwareEX cyberware slot unlocks reworked to the following progression perk milestones:
    - Legs: `Air Dash 3/3`
    - Arms: `Ambidextrous`
    - Integumentary: `License To Chrome 2/3`

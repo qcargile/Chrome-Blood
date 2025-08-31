@@ -7,7 +7,7 @@
 <summary>Immersive-Only Mods</summary>
 
 - [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)  
-  Removes fast travel, mini‑map, and enemy awareness UI, adds environmental needs and survival mechanics, increasing immersion and difficulty.
+  Removes fast travel, mini-map, and enemy awareness UI, adds environmental needs and survival mechanics, increasing immersion and difficulty.
 
 - [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)  
   Locks gameplay essentials like inventory, scanner, and healthbar behind cyberware upgrades, making chrome a necessity rather than a convenience.
@@ -52,9 +52,6 @@
 - [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467)  
   Introduces new enemy archetypes and NPC diversity for more dangerous, varied encounters.
 
-- [Harder Gunfights](https://www.nexusmods.com/cyberpunk2077/mods/14544)  
-  Boosts enemy aggression, aim, and reaction speeds to make battles more punishing.
-
 - [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913)  
   Adds a manual flashlight—critical for exploring dark interiors.
 
@@ -75,6 +72,12 @@
 
 - [Damage Scaling And Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865)  
   Offers tailored multipliers for all weapon categories (melee, ranged, hacks) for both V and NPCs.
+
+- [Immersive Shooting AI](https://www.nexusmods.com/cyberpunk2077/mods/22782)  
+  Overhauls enemy AI in firefights, making NPCs fight more intelligently and aggressively.
+
+- [Disassemble Weapons for Recipes](https://www.nexusmods.com/cyberpunk2077/mods/21747)  
+  Lets you disassemble unique weapons to unlock their crafting recipes.
 
 </details>
 
@@ -136,9 +139,6 @@
 - [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)  
   Makes summoning more intuitive and glitch-free.
 
-- [Authentic Shift](https://www.nexusmods.com/cyberpunk2077/mods/6823)  
-  Adds gear-shift sounds and optional tuning to immersive driving.
-
 - [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675)  
   Adds speed boosts for cinematic, fast-paced driving sequences.
 
@@ -156,7 +156,7 @@
 <summary>Weapons</summary>
 
 - [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819)  
-  Reworks damage, penetration, range, and headshots to deliver impactful, low‑TTK combat.
+  Reworks damage, penetration, range, and headshots to deliver impactful, low-TTK combat.
 
 - [Replace Weapon Mods](https://www.nexusmods.com/cyberpunk2077/mods/15409)  
   Enables swapping out mods without losing the original component.
@@ -177,7 +177,7 @@
 <details>
 <summary>Cyberware / Skills / Progression</summary>
 
-- [Cyberware‑EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)  
+- [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)  
   Adds new cyberware upgrades and APIs for expansion.
 
 - [Ripperdoc Service Charge](https://www.nexusmods.com/cyberpunk2077/mods/11200)  
@@ -207,9 +207,6 @@
 - [Renaissance Punk – Perk Scaling](https://www.nexusmods.com/cyberpunk2077/mods/14037)  
   Overhauls perk progression for more reward-driven character builds.
 
-- [Lifepath Determines Starting Attributes](https://www.nexusmods.com/cyberpunk2077/mods/8358)  
-  Assigns starting stats based on chosen lifepath for identity-driven gameplay.
-
 </details>
 
 ---
@@ -217,20 +214,11 @@
 <details>
 <summary>Aesthetics</summary>
 
-- [Always Best Quality _ Ads & HUD](https://www.nexusmods.com/cyberpunk2077/mods/12700)  
-  Ensures top-tier rendering for UI, billboards, and in-game graphics.
-
-- [FX Begone (Vignette Removal)](https://www.nexusmods.com/cyberpunk2077/mods/9209)  
-  Strips postprocessing effects for clarity.
-
 - [Preem Scopes](https://www.nexusmods.com/cyberpunk2077/mods/10021)  
   Cleans up scope visuals by removing scanlines and depth distortion.
 
 - [Nova Rain & Ripples](https://www.nexusmods.com/cyberpunk2077/mods/13483)  
   Enhances rain and water effects with cinematic realism.
-
-- [Nova City Addons (Traffic & NV)](https://www.nexusmods.com/cyberpunk2077/mods/13429)  
-  Adds denser crowds, traffic, and optional night-vision tweaks.
 
 - [ReLUX – Lighting Redux](https://www.nexusmods.com/cyberpunk2077/mods/20808)  
   Rebuilds lighting systems for more realistic, stylized visuals.
@@ -238,14 +226,17 @@
 - [Weather Switcher](https://www.nexusmods.com/cyberpunk2077/mods/18027)  
   Gives manual control over weather and time settings.
 
-- [Unchained Textures Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12854)  
-  Replaces core textures with refined, high-resolution alternatives.
-
-- [Praedy’s 77 Retexture](https://www.nexusmods.com/cyberpunk2077/mods/19626)  
-  Applies gritty atmospheric style with noir-inspired re-texturing.
-
 - [NCPD Uniform 2.0](https://www.nexusmods.com/cyberpunk2077/mods/21577)  
   Enhances NCPD attire with high-quality models and textures.
+
+- [Environment Textures Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/13372)  
+  Upgrades a wide range of environmental textures for sharper visuals.
+
+- [Cyberpunk 2077 HD Reworked Project](https://www.nexusmods.com/cyberpunk2077/mods/7652)  
+  Comprehensive high-resolution texture overhaul for maximum detail.
+
+- [Hi-Res NPC Body Textures](https://www.nexusmods.com/cyberpunk2077/mods/22707)  
+  Improves NPC body models with sharper and more realistic textures.
 
 </details>
 
@@ -256,9 +247,6 @@
 
 - [Streamlined HUD](https://www.nexusmods.com/cyberpunk2077/mods/10759)  
   Declutters interface for a minimalist, immersive experience.
-
-- [Preem Scanner](https://www.nexusmods.com/cyberpunk2077/mods/9215)  
-  Refines scanner visuals to look sleek and modern.
 
 - [More Weapon Filters](https://www.nexusmods.com/cyberpunk2077/mods/16565)  
   Adds inventory filters to improve item management.
@@ -278,9 +266,6 @@
 - [Flavorful Descriptions](https://www.nexusmods.com/cyberpunk2077/mods/13575)  
   Adds lore-rich item and perk descriptions.
 
-- [HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)  
-  Lets you adjust position, scale, visibility of HUD elements.
-
 - [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)  
   Tones down garish on-screen icons.
 
@@ -297,8 +282,3 @@
   Centralized QoL enhancements for inventory—sorting, weight, layout.
 
 </details>
-
-
-
-
-

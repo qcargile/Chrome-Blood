@@ -22,16 +22,29 @@
 ##  Introduction
 
 **Chrome & Blood** is a complete *Cyberpunk 2077* overhaul, reforging the game into a darker, grittier, and more immersive experience.  
-Every core system has been reworked — from **AI** and **combat mechanics** to **stealth**, **hacking**, and **progression** — delivering a challenging, rewarding sandbox.
+Every core system has been reworked, from **AI** and **combat mechanics** to **stealth**, **hacking**, and **progression**, delivering a challenging, rewarding sandbox.
 
 - **Visual fidelity** is pushed to the limit with upgraded **lighting**, **weather**, and **textures**
 - The **UI** has been redesigned with a sleek, diegetic aesthetic that feels native to Night City
 - Combat is ruthless, with **enhanced enemy AI**, **overhauled behaviors**, and **lethal damage scaling** that punishes mistakes
 - A massive arsenal of **new cosmetics, cyberware, vehicles, and weapons** to increase player build diversity
 
-This isn’t just a modlist — it’s a **full-blown reimagining** of what *Cyberpunk 2077* can be.
+> *Step into a Night City where it takes more than just chrome to become a legend...*
 
-> *Step into a Night City where it takes more than just chrome to become a legend..*
+---
+
+### 🧠 Choose Your Playstyle
+
+**Chrome & Blood** now supports two distinct install profiles depending on the kind of experience you want:
+
+- **Immersive Profile**: Designed for players who want brutal realism and no hand-holding. Features mods like  
+  **Dark Future**, **Immersive Cyberware**, **Limited HUD**, **Wannabe Edgerunner**, and **Virtual Atelier Delivery**  
+  that reshape how you navigate, upgrade, and survive. Cosmetics are completely removed to ensure full gameplay focus.
+
+- **Standard Profile**: A more flexible experience that retains all UI improvements, customization options, and cosmetic variety.  
+  Recommended for players who want challenge but still enjoy full control over appearance, character builds, and casual quality-of-life enhancements.
+
+Both profiles retain the same core gameplay balance — but differ in *how much freedom vs. friction* you want in your journey through Night City.
 
 ---
 

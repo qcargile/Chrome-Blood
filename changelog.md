@@ -4,17 +4,26 @@
 <summary>v2.32 – August 31, 2025</summary>
 
 ## 🛠 Key Notes:
-1. This update introduces a new immersive profile built for **hardcore realism**. Mods like **Dark Future** (adds environmental darkness, needs management, and limits reliance on UI), **Immersive Cyberware** (locks basic interface features like inventory, scanner, and healthbar behind cyberware upgrades), **Limited HUD** (disables key HUD elements contextually to force player awareness), **Wannabe Edgerunner** (reintroduces cyberpsychosis with downsides for excessive augmentation), and **Virtual Atelier Delivery** (adds script-based delays to virtual shop deliveries) define the new progression loop. All cosmetic mods including body type swaps, clothing items, and character customization options are disabled in this profile for 100% gameplay focus. The standard profile remains unchanged, retaining all UI enhancements, customization features, and a more casual balance.
+1. This update introduces a new immersive profile built for **hardcore realism**, emphasizing gameplay over cosmetics or UI convenience:
+
+   - **Dark Future**: Adds environmental darkness, needs management, and minimizes player reliance on UI.
+   - **Immersive Cyberware**: Locks basic features like scanner, inventory, and healthbar behind cyberware upgrades.
+   - **Limited HUD**: Disables key UI elements during combat, driving, and stealth to increase immersion.
+   - **Wannabe Edgerunner**: Introduces cyberpsychosis mechanics as a tradeoff for excessive cyberware usage.
+   - **Virtual Atelier Delivery**: Adds timed delivery delays to virtual shop purchases, encouraging planning.
+
+   All cosmetic mods (e.g., body types, clothing, customization) are disabled in this profile to maintain focus on challenge and progression.  
+   The standard profile remains unchanged with all customization and quality-of-life features intact.
 2. Modded weapon progression has been reworked. Sabbath weapons now appear across Tiers 1–5 and are only accessible through their own atelier. Other added weapons appear in stores at level 33 or in secret placements.
 3. Many bugs fixed, with major mod updates and compatibility checks.
 4. CyberwareEX slot unlock reworked to the follow progression perk milestones:
-   - Legs: Air Dash 3/3
-   - Arms: Ambidextrous
-   - Integumentary: License To Chrome 2/3
-   - Cardiovascular: Adrenaline Rush 3/3
-   - Frontal Cortex: Overclock 3/3
-   - Eyes: Focus 2/2
-   - OS: Edgerunner
+   - Legs: `Air Dash 3/3`
+   - Arms: `Ambidextrous`
+   - Integumentary: `License To Chrome 2/3`
+   - Cardiovascular: `Adrenaline Rush 3/3`
+   - Frontal Cortex: `Overclock 3/3`
+   - Eyes: `Focus 2/2`
+   - OS: `Edgerunner`
 5. Economy rebalance: increased payouts for quests, gigs, and shards. Cyberpsychos now reward 15,000 for kills and 25,000 for non-lethal takedowns.
 
 ---

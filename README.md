@@ -265,21 +265,7 @@ Below is a list of important keybinds added or changed by mods in this list. Som
 
 ---
 
-### 1. Stealth Takedown Prevents "The Rescue" Mission Progression  
-**Responsible Mod:** `Stealthrunner`
-
-**Issue:**  
-During the main quest "The Rescue," selecting the **“Takedown and Hide Body”** option on the first scavenger enemy will cause the objective **“Neutralize the Scavenger”** to remain incomplete, blocking mission progress.
-
-<img width="1907" height="1070" alt="image" src="https://github.com/user-attachments/assets/ede6c3e4-1c85-4a78-a011-75a6faafe3f1" />
-
-**Fix:**  
-You must **kill** all scavengers in the area instead of using stealth takedowns.  
-Avoid using the **takedown prompt** entirely during this mission to ensure proper objective progression.
-
----
-
-### 2. CTD When Selecting Clothing in Virtual Atelier  
+### 1. CTD When Selecting Clothing in Virtual Atelier  
 **Responsible Mod(s):** Virtual Atelier + Gender-Locked Clothing Mods
 
 **Issue:**  

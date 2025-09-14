@@ -1,6 +1,73 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v2.33 – September 14, 2025</summary>
+
+## SAVE COMPATIBLE WITH v2.32!! NEW GAME NOT NEEDED.
+
+## 🛠 Key Notes:
+1. General compatibility update for Cyberpunk 2077 official patch 2.31.  
+2. Some mods have been temporarily disabled as they require updates for the latest game patch.  
+3. Added a few extra weapons and immersive profile mods.  
+
+---
+
+### 🆕 Additions:
+
+- Added **Fast Travel Time** `v1.2`
+- Added **Pay to Go** `v1.3`
+- Added **John Wick Combat Master Pistol** `v1.7`
+- Added **Arasaka JSH-X12 Nobunaga** `v1.1`
+- Added **Devil Sword Vergil** `v2.0.1`
+- Added **Exclusive Items Unlocker** `v1.2`
+- Added **Biotechnica Cache** `v1.0.2`
+- Added **Biotechnica Cache - Unlock Me a Slot Patch** `v1.0`
+
+---
+
+### 🔄 Updates:
+
+- Updated **General Shadows Fix** to `v0.75`
+- Updated **Browser Extension Framework** to `v0.9.6`
+- Updated **Trigger Mode Control** to `v2.8.1`
+- Updated **Looting QoL** to `v1.8`
+- Updated **Dark Future** to `v1.4.2`
+- Updated **Loot Icons Extension** to `v1.53`
+- Updated **Codeware** to `v1.18`
+- Updated **Tyger Cache** to `v1.0.3`
+- Updated **CET** to `v1.37`
+- Updated **ArchiveXL** to `v1.26`
+- Updated **Database Fixes** to `f1.09`
+- Updated **RedData** to `v0.9`
+- Updated **RedFileSystem** to `v0.15`
+- Updated **Untrack Quest Ultimate** to `v3.3`
+- Updated **RED4ext** to `v1.29.1`
+- Updated **Ammo Limiter** to `v2.4`
+- Updated **Radial Breach** to `v1.1.1`
+- Updated **Say Something Damn It** to `v1.10.1`
+- Updated **Auto Drive Enhanced** to `v0.0.0.14`
+- Updated **Redscript** to `v0.5.31`
+- Updated **Black Chrome** to `v1.1.10`
+- Updated **Chrome Ballistics – Weapon Rebalance** to `v2.3`
+- Updated **Chrome & Blood Modlist Settings** to `v1.17`
+- Updated **Night City Visuals Nulled** to `v3.1.10`
+
+---
+
+### 🗑 Removals:
+
+- Removed **King Code**
+- Removed **Ugly Building Removed**
+- Removed **Threadscape**
+- Removed **CPU Optimization**
+
+---
+
+**Live Hard. Die Chrome.**
+</details>
+
+
+<details>
 <summary>v2.32 – August 31, 2025</summary>
 
 ## SAVE COMPATIBLE WITH v2.31!! NEW GAME NOT NEEDED.

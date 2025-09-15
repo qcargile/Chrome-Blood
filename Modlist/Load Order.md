@@ -21,7 +21,14 @@
 - [Virtual Atelier Delivery](https://www.nexusmods.com/cyberpunk2077/mods/21482?tab=files)  
   Adds realistic delivery delays when purchasing from Virtual Atelier, reinforcing pacing and immersion while reducing instant gratification.
 
+- [Pay to Go](https://www.nexusmods.com/cyberpunk2077/mods/23415)  
+  Makes public transit and taxi services cost eddies, grounding travel in the game’s economy.
+
+- [Fast Travel Time](https://www.nexusmods.com/cyberpunk2077/mods/23250)  
+  Adds a passage of in-game time when fast traveling, balancing convenience with immersion.
+
 </details>
+
 
 ---
 

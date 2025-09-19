@@ -12,7 +12,7 @@ I will not be providing help, troubleshooting, or guidance for anyone who choose
 You can — just take precautions to avoid conflicts or accidental overwrites during updates:
 
 1. **Install your mod** normally.
-2. **Rename the mod folder** by adding `[NoDelete]` as a prefix.  
+2. **Rename the mod in MO2** by adding `[NoDelete]` as a prefix.  
    **Example:**  
    - Original: `Immersive Car Horn`  
    - Modified: `[NoDelete] Immersive Car Horn`

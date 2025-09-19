@@ -34,4 +34,4 @@ If you’re making extensive changes, create a custom profile:
 
 ---
 
-Tweak responsibly. This list is tuned for stability, performance, and vibe — once you go off-script, it’s yours to maintain. 🛠
+Tweak responsibly; once you go off-script, it’s yours to maintain. 🛠

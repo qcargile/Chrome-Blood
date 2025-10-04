@@ -122,7 +122,6 @@
 
 - Updated **Peachu Atelier Store** to `v10.0`
 - Updated **Veegee Shop 3** to `v1.3.4`
-- Updated **NC Fashion Virtual Atelier** to `v10.0.0.0.e`
 - Updated **Axellysse Virtual Atelier** to `v4.1`
 - Updated **NC Fashion Virtual Atelier** to `v10.0.0.0.g`
 

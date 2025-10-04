@@ -19,6 +19,8 @@
 
 4.  [Black Budget - Iconic Cyberarms Pack](https://www.nexusmods.com/cyberpunk2077/mods/24673) added to the list.
 
+5.  "Romanced Enhanced" mods reenabled. "Romance Hangouts Enhanced" still disabled, pending updates.
+
 ---
 
 ### 🆕 Additions (General):

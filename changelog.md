@@ -17,6 +17,8 @@
 
 3. Added some more graphical, clothing, vehicle, and QoL type mods.
 
+4.  [9Black Budget - Iconic Cyberarms Pack](https://www.nexusmods.com/cyberpunk2077/mods/24673) added to the list.
+
 ---
 
 ### 🆕 Additions (General):
@@ -59,7 +61,6 @@
 - Updated **Ammo Limiter** to `v2.5.1`
 - Updated **Encore** to `v3.0.1`
 - Updated **Flaming Crotch Man** to `v2.0.1`
-- Updated **Here’s Johnny** to `v1.1.1`
 - Updated **Kabuki Gun Range Enhanced** to `v1.2.1`
 - Updated **ETO 2K** to `v1.3`
 - Updated **Parking Spots Enhanced** to `v1.2.3`

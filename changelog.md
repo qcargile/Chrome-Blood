@@ -30,7 +30,6 @@
 - Added **Elite Screen – Realistic** `v2.3.0`
 - Added **Always Best Quality Adverts** `v4.0.2.31`
 - Added **Actually Smart Weapons** `v3.1`
-- Added **Lamborghini Evo 2 White** `v1.0`
 - Added **Tougher Security Turrets** `v0.1`
 - Added **Ram Bar Fix – Mod Settings** `v1.0`
 - Added **NCPD Cache – Unlock Me a Slot Patch** `v1.0`
@@ -43,7 +42,7 @@
 - Added **Vehicle Resources** `v1.0.4`
 - Added **Genesis X** `v0.9.5`
 - Added **Auto Block Bullet and Deflect** `f1.01`
-- Added **Health Perfect** `v1.2`
+- Added **Health Percent Display** `v1.2`
 - Added **Deceptious Quest Core Utilities and Settings** `v1.1.1`
 - Added **Black Budget – Iconic Cyberarms Pack** `v1.1`
 - Added **Repeatable NCPD Gigs** `v0.0.0.15`

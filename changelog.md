@@ -17,7 +17,7 @@
 
 3. Added some more graphical, clothing, vehicle, and QoL type mods.
 
-4.  [9Black Budget - Iconic Cyberarms Pack](https://www.nexusmods.com/cyberpunk2077/mods/24673) added to the list.
+4.  [Black Budget - Iconic Cyberarms Pack](https://www.nexusmods.com/cyberpunk2077/mods/24673) added to the list.
 
 ---
 

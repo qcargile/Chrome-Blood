@@ -1,6 +1,155 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v2.34 – October 4, 2025</summary>
+
+## 🛠 Key Notes:
+1. You're a merc, V. Not a trash collector! (Economy Overhaul
+   - **Core design:** Jobs and contracts (gigs, psychos, bounties) are now the main income source; loot serves as supplemental cash. This includes low-level bounty targets at NCPD type missions.
+   - **Rewards:** Boosted money shards, larger open-world money cache finds, and re-scaled activity earnings (fights, races, and arcades).
+   - **Quests & Gigs:** All fixer payouts re-tiered with clearer progression—late-game fixers (Rogue, Hands, Wakako) now pay significantly more.
+   - **Cyberpsychos & Bounties:** Non-lethal captures pay a premium; Named boss-level bounties deliver large single-contract rewards.
+   - **Phantom Liberty:** Hands and El Capitan gigs scaled up; main quest cash rewards up to 200k to reflect the high stakes of the PL DLC quest line.
+   - **Prices & Sinks:** Weapons, vehicles, cyberware, and quickhacks re-priced to create a smoother mid-game and meaningful late-game economy.
+   - **Sell Prices:** Weapons sell for `75%` less than vanilla prices, while cyberware sells for `25%` more. This was done to drive home the fact V is a merc who should be paid from jobs, not collecting & selling whatever trash they find on the street.
+   
+2. Minimal combat tweaks overall; Immersive profile received some more realism (reloading discards whatever ammo was still in your magazine) while the standard profile picked up FreeRunner.
+
+3. Added some more graphical, clothing, vehicle, and QoL type mods.
+
+---
+
+### 🆕 Additions (General):
+
+- Added **Praedy’s 77 Rexture 2K** `v1.1`
+- Added **Enable Advert Animations** `v2.11`
+- Added **Elite Screen – Realistic** `v2.3.0`
+- Added **Always Best Quality Adverts** `v4.0.2.31`
+- Added **Actually Smart Weapons** `v3.1`
+- Added **Lamborghini Evo 2 White** `v1.0`
+- Added **Tougher Security Turrets** `v0.1`
+- Added **Ram Bar Fix – Mod Settings** `v1.0`
+- Added **NCPD Cache – Unlock Me a Slot Patch** `v1.0`
+- Added **Path of Glory Afterlife Scene Bug Fixes** `v1.0`
+- Added **Path of Glory Shuttle Scene Restore Gun Equip** `v1.0`
+- Added **Easier Counter Attack** `v1.0`
+- Added **Air Inertia Returns** `v1.2`
+- Added **Shuriken Tornado Grenade** `v1.0`
+- Added **458 Spider** `v0.9.2`
+- Added **Vehicle Resources** `v1.0.4`
+- Added **Genesis X** `v0.9.5`
+- Added **Auto Block Bullet and Deflect** `f1.01`
+- Added **Health Perfect** `v1.2`
+- Added **Deceptious Quest Core Utilities and Settings** `v1.1.1`
+- Added **Black Budget – Iconic Cyberarms Pack** `v1.1`
+- Added **Repeatable NCPD Gigs** `v0.0.0.15`
+- Added **Quest Vehicle Motion Fixes** `v1.0.0`
+
+---
+
+### 🔄 Updates (General):
+
+- Updated **Ram Bar Fix** to `v1.2`
+- Updated **Nitrous** to `v1.5.1`
+- Updated **Reinforcements System** to `v1.1.3`
+- Updated **Gone Away** to `v1.0`
+- Updated **Rita Wheeler Romanced** to `v2.5.1`
+- Updated **Aurore Romanced** to `v1.2.1`
+- Updated **Deceptious Bug Fixes** to `v1.2.4`
+- Updated **Ammo Limiter** to `v2.5.1`
+- Updated **Encore** to `v3.0.1`
+- Updated **Flaming Crotch Man** to `v2.0.1`
+- Updated **Here’s Johnny** to `v1.1.1`
+- Updated **Kabuki Gun Range Enhanced** to `v1.2.1`
+- Updated **ETO 2K** to `v1.3`
+- Updated **Parking Spots Enhanced** to `v1.2.3`
+- Updated **Californication** to `v3.0.1`
+- Updated **One More Light** to `v2.1.3`
+- Updated **Hot Fuzz** to `v3.0.3`
+- Updated **Cronos** to `v1.1`
+- Updated **Max Tac Silencer** to `v1.1`
+- Updated **Immersive Rippers Dogtown** to `v1.3`
+- Updated **Inventory Adjustments Hub** to `v1.3`
+- Updated **NCPD Cache – New Iconic Weapons** to `v1.0.1`
+- Updated **Fix Advert Animations** to `v1.1`
+- Updated **Browser Extension Framework** to `v0.9.7`
+- Updated **AudioWare** to `v1.5`
+- Updated **They Will Remember** to `v1.8`
+- Updated **Flaming Crotch Man Romanced** to `v2.1`
+- Updated **Californication** to `v3.1`
+- Updated **Encore** to `v3.1`
+- Updated **One More Light** to `v2.1.4`
+- Updated **Hot Fuzz** to `v3.1`
+- Updated **Better Quality Sort** to `v2.0`
+- Updated **They Will Remember** to `v1.8.3`
+- Updated **Untrack Quest Ultimate** to `v3.3.2`
+- Updated **Native Settings UI Side Menu Addon** to `v1.3.11`
+- Updated **Radial Breach** to `v1.1.3`
+- Updated **CET** to `v1.37.1`
+- Updated **Deceptious Quest Core** to `v3.1.2`
+- Updated **Non-Canon Romances Enhanced**
+- Updated **Chrome Ballistics – Weapon Rebalance** to `v2.31`
+
+---
+### Removals (General):
+
+- Streamined AIO Hud
+- All Vanilla Clothes Atelier Store
+---
+
+### 🆕 Additions (Standard Profile Only):
+
+- Added **Monday Set – Archive XL** `v1.0`
+- Added **Casual Style Outfit** `f1.01`
+- Added **Combat Wear – Archive XL** `v1.0`
+- Added **Tottes x Zwei Imperator Dress** `v1.0`
+- Added **Snake Sneaking Suit** `v1.0`
+- Added **Tactical Style Outfit Pt4** `v1.0`
+- Added **Tactical Style Outfit Pt3** `f1.01`
+- Added **Denim Edgerunner Set** `v3.0`
+- Added **The RVC00n Dumpster 2** `v56.0`
+- Added **Netrunner’s Coat – TQ – Jade (Fem)** `v1.0`
+- Added **Netrunner’s Coat – TQ – Jade (Masc)**
+- Added **TQT Atelier** `v1.1`
+- Added **Axellysse – Street Outfit** `v1.1`
+- Added **Free Runner** `v1.0.1`
+- Added **Casual Style Outfit** `v1.0`
+- Added **Snake Sneaking Suit (Fem)** `v1.0`
+
+---
+
+### 🔄 Updates (Standard Profile Only):
+
+- Updated **Peachu Atelier Store** to `v10.0`
+- Updated **Veegee Shop 3** to `v1.3.4`
+- Updated **NC Fashion Virtual Atelier** to `v10.0.0.0.e`
+- Updated **Axellysse Virtual Atelier** to `v4.1`
+- Updated **NC Fashion Virtual Atelier** to `v10.0.0.0.g`
+
+---
+
+### 🆕 Additions (Immersive Profile Only):
+
+- Added **Better Enemy Health Bar (LHUD)** `v1.0`
+- Added **Preview Damage Color Fix (LHUD)** `v2.17.1`
+- Added **Manual Reload** `v1.2.4`
+- Added **Discard Ammo on Reload** `v1.2.8.5`
+
+---
+
+### 🔄 Updates (Immersive Profile Only):
+
+- Updated **Pay to Go** to `v1.4`
+- Updated **Fast Travel Time** to `v1.41`
+- Updated **Wannabe Edgerunner** to `v2.3.2`
+
+---
+
+**Live Hard. Die Chrome.**
+</details>
+
+
+<details>
 <summary>v2.33 – September 14, 2025</summary>
 
 ## SAVE COMPATIBLE WITH v2.32!! NEW GAME NOT NEEDED.

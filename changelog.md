@@ -6,11 +6,11 @@
 ## 🛠 Key Notes:
 1. **You're a merc, V. Not a trash collector! (Economy Overhaul)**
    - **Core design:** Jobs and contracts (gigs, psychos, bounties) are now the main income source; loot serves as supplemental cash. This includes low-level bounty targets at NCPD type missions.
-   - **Rewards:** Boosted money shards, larger open-world money cache finds, and re-scaled activity earnings (fights, races, and arcades).
-   - **Quests & Gigs:** All fixer payouts re-tiered with clearer progression—late-game fixers (Rogue, Hands, Wakako) now pay significantly more.
-   - **Cyberpsychos & Bounties:** Non-lethal captures pay a premium; Named boss-level bounties deliver large single-contract rewards.
-   - **Phantom Liberty:** Hands and El Capitan gigs scaled up; main quest cash rewards up to 200k to reflect the high stakes of the PL DLC quest line.
-   - **Prices & Sinks:** Weapons, vehicles, cyberware, and quickhacks re-priced to create a smoother mid-game and meaningful late-game economy.
+   - **Rewards: (100 - 20k range)** Boosted money shards, larger open-world money cache finds, and re-scaled activity earnings (fights, races, and arcades).
+   - **Quests & Gigs: (15k - 100k range)** All fixer payouts re-tiered with clearer progression—late-game fixers (Rogue, Hands, Wakako) now pay significantly more.
+   - **Cyberpsychos & Bounties: (35k - 60k range)** Non-lethal captures pay a premium; Named boss-level bounties deliver large single-contract rewards.
+   - **Phantom Liberty: (15k - 200k range)** Hands and El Capitan gigs scaled up; main quest cash rewards up to 200k to reflect the high stakes of the PL DLC quest line.
+   - **Prices & Sinks: (Least Expensive items - 20k / Most Expensive Items - 1 mil)** Weapons, vehicles, cyberware, and quickhacks re-priced to create a smoother mid-game and meaningful late-game economy.
    - **Sell Prices:** Weapons sell for `75%` less than vanilla prices, while cyberware sells for `25%` more. This was done to drive home the fact V is a merc who should be paid from jobs, not collecting & selling whatever trash they find on the street.
    
 2. Minimal combat tweaks overall; Immersive profile received some more realism (reloading discards whatever ammo was still in your magazine) while the standard profile picked up FreeRunner.

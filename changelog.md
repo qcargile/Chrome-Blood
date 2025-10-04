@@ -4,7 +4,7 @@
 <summary>v2.34 – October 4, 2025</summary>
 
 ## 🛠 Key Notes:
-1. You're a merc, V. Not a trash collector! (Economy Overhaul
+1. **You're a merc, V. Not a trash collector! (Economy Overhaul)**
    - **Core design:** Jobs and contracts (gigs, psychos, bounties) are now the main income source; loot serves as supplemental cash. This includes low-level bounty targets at NCPD type missions.
    - **Rewards:** Boosted money shards, larger open-world money cache finds, and re-scaled activity earnings (fights, races, and arcades).
    - **Quests & Gigs:** All fixer payouts re-tiered with clearer progression—late-game fixers (Rogue, Hands, Wakako) now pay significantly more.

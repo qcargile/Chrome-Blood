@@ -34,7 +34,7 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
   Check the mod **“Chrome and Blood modlist settings - Standard Profile”**, or back up **Overwrite** in MO2.
 
 **Q: How do I safely modify the list and not lose added mods between updates?**  
-**A:** Refer to **[Rule-11](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Rule%2011.md)** for the supported workflow. It explains how to layer your own mods, where to place overrides, and how to preserve changes across list updates.
+**A:** Refer to **[Rule-11](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Rule%2011.md)** documentation to get started.
 
 **Q: Do you have a list of the biggest mods in the list and what they do?**  
 **A:** See the **[Load Order](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)** guide. It highlights the most impactful mods by category for Chrome & Blood (not a fully comprehensive list).

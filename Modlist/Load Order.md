@@ -92,6 +92,10 @@
 - [Disassemble Weapons for Recipes](https://www.nexusmods.com/cyberpunk2077/mods/21747)  
   Lets you disassemble unique weapons to unlock their crafting recipes.
 
+- [Free Runner](https://www.nexusmods.com/cyberpunk2077/mods/24402)  
+  Advanced parkour mod adding wall running, wall jumping, and air dashing to Cyberpunk 2077.
+
+
 </details>
 
 ---

@@ -49,7 +49,7 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 
 ## 🎮 Gameplay
 
-**Q: Damage feels undertuned or overtuned. How can I adjust it?**  
+**Q: Damage feels undertuned/overtuned. How can I adjust it?**  
 **A:** In **Mod Settings**, tune either:
 - **[Dmg. Scaling](https://www.nexusmods.com/cyberpunk2077/mods/21865)** or 
 - **[ENC](https://www.nexusmods.com/cyberpunk2077/mods/8467?tab=description)**  

@@ -21,6 +21,8 @@
 
 5.  "Romanced Enhanced" mods reenabled. "Romance Hangouts Enhanced" still disabled, pending updates.
 
+6.  [FAQ](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md) created.
+
 ---
 
 ### 🆕 Additions (General):

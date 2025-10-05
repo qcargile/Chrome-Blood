@@ -27,6 +27,12 @@
 - [Fast Travel Time](https://www.nexusmods.com/cyberpunk2077/mods/23250)  
   Adds a passage of in-game time when fast traveling, balancing convenience with immersion.
 
+- [Discard Magazine Ammo on Reload](https://www.nexusmods.com/cyberpunk2077/mods/2819)
+  Exactly what the title says
+
+- [Manual Reload](https://www.nexusmods.com/cyberpunk2077/mods/2804)  
+  Disables automatic reloading; player must physically push the reload button 
+
 </details>
 
 

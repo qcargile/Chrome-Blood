@@ -1,18 +1,18 @@
 # ❓ Chrome & Blood — Frequently Asked Questions (FAQ)
 
-If you’re here for visuals/performance, jump to **[Graphics & Performance](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-graphics--performance)** — it includes the full step-by-step setup.
+If you’re here for visuals/performance, jump to **[Graphics & Performance](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-graphics--performance)** — it includes the full step-by-step setup.
 
 ---
 
 ## 📚 Table of Contents
 
 - [Backups & Updates](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#%EF%B8%8F-backups--updates)
-- [Gameplay](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-gameplay)
-- [HUD & UI](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-hud--ui)
-- [Progression & Crafting](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#%EF%B8%8F-progression--crafting)
-- [World & Content](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#%EF%B8%8F-world--content)
-- [Inventory & QoL](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-inventory--qol)
-- [Graphics & Performance](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-graphics--performance)
+- [Gameplay](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-gameplay)
+- [HUD & UI](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-hud--ui)
+- [Progression & Crafting](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#%EF%B8%8F-progression--crafting)
+- [World & Content](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#%EF%B8%8F-world--content)
+- [Inventory & QoL](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-inventory--qol)
+- [Graphics & Performance](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-graphics--performance)
 
 ---
 ## 🗄️ Backups & Updates

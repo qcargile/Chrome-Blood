@@ -6,6 +6,7 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](#gr
 
 ## 📚 Table of Contents
 
+- [Backups & Updates]()
 - [Gameplay](#gameplay)
 - [HUD & UI](#hud--ui)
 - [Progression & Crafting](#progression--crafting)
@@ -15,14 +16,34 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](#gr
 - [Final Tips](#final-tips)
 
 ---
+## 🗄️ Backups & Updates
+
+**Q: How do I back up my saves or user-specific mod settings before an update?**  
+**A:**
+
+**Immersive Profile**
+- **Saves:**  
+  `D:\Chrome & Blood - Compiled\profiles\Chrome & Blood - Immersive Profile\saves`
+- **Settings you’ve changed:**  
+  Check the mod **“Chrome and Blood modlist settings - Immersive Profile”**.  
+  If not found there, open MO2 and back up the contents of **Overwrite** (bottom of the left pane).
+
+**Standard Profile**
+- **Saves:**  
+  `D:\Chrome & Blood - Compiled\profiles\Chrome & Blood - Standard Profile\saves`
+- **Settings you’ve changed:**  
+  Check the mod **“Chrome and Blood modlist settings - Standard Profile”**, or back up **Overwrite** in MO2.
+  
+---
 
 ## 🎮 Gameplay
 
 **Q: Damage feels undertuned or overtuned. How can I adjust it?**  
 **A:** In **Mod Settings**, tune either:
-- **[Dmg. Scaling](https://www.nexusmods.com/cyberpunk2077/mods/21865)** (broad player damage scaling), or  
-- **[ENC](https://www.nexusmods.com/cyberpunk2077/mods/8467?tab=description)** (encounter scaling & pacing).  
-Adjust gradually, test in Watson/Dogtown, then fine-tune.
+- **[Dmg. Scaling](https://www.nexusmods.com/cyberpunk2077/mods/21865)** or 
+- **[ENC](https://www.nexusmods.com/cyberpunk2077/mods/8467?tab=description)**  
+I recommend starting with Dmg. scaling.
+
 
 **Q: Why can’t I quickhack enemies right away?**  
 **A:** The list uses **[Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)**. You must either:
@@ -33,11 +54,6 @@ Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning 
 ---
 
 ## 🧠 HUD & UI
-
-### `HUD Painter`
-- Used to **recolor** the HUD.
-- Several presets are included for users to choose from.
-- Change your preset using the HUD Painter button on the main menu. After changing presets, you **MUST** restart your game for changes to completely take effect, or you will crash.
 
 **Q: On the *Immersive* profile my HUD is missing — why?**  
 **A:** Two mods hide/lock HUD elements:
@@ -57,7 +73,7 @@ After changing presets, **restart the game** to avoid crashes and ensure the pal
 ## 🛠️ Progression & Crafting
 
 **Q: Why can’t I craft like vanilla?**  
-**A:** **[Immersive Crafting](https://www.nexusmods.com/cyberpunk2077/mods/16154)** requires crafting at a **stash** until you unlock the relevant **perk**. You can loosen this in the mod’s settings.
+**A:** **[Immersive Crafting](https://www.nexusmods.com/cyberpunk2077/mods/16154)** requires crafting at a **stash** until you unlock the relevant **perk**. 
 
 ---
 
@@ -75,7 +91,7 @@ After changing presets, **restart the game** to avoid crashes and ensure the pal
 
 **Q: I’m drowning in loot — how do I manage it?**  
 **A:** Configure **[Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687)** to auto-scrap by **tier/category**.  
-It’s **disabled by default** to prevent accidental scrapping. Set exclusions first, then enable.
+It’s **disabled by default** to prevent accidental scrapping.
 
 ---
 
@@ -86,7 +102,7 @@ It’s **disabled by default** to prevent accidental scrapping. Set exclusions f
 
 **Q: I’m using RT/PT and shadows look off.**  
 **A:** **[General Shadows Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20405)** includes an **RT/PT-specific** toggle.  
-The list defaults this **off**. Enable/tune it in Mod Settings if you’re seeing artifacts.
+The list defaults this **off**. Enable it in Mod Settings if you’re seeing artifacts.
 
 ### ✅ Step-by-Step: Maximize Visuals with Chrome & Blood (post-v1.13)
 
@@ -118,5 +134,5 @@ The list defaults this **off**. Enable/tune it in Mod Settings if you’re seein
 ## ✅ Final Tips
 
 - **Back up your configs**: Especially CET and NativeSettings tweaks after your first setup session.  
-- **Test before committing**: Run through Dogtown or Watson to stress-test visuals and combat after tweaks.  
+ 
 - **Be smart with stacking**: Too many overlapping AI/gameplay overhauls can create conflicts — tweak incrementally.

@@ -130,8 +130,3 @@ The list defaults this **off**. Enable it in Mod Settings if you’re seeing art
 
 ---
 
-## ✅ Final Tips
-
-- **Back up your configs**: Especially CET and NativeSettings tweaks after your first setup session.  
- 
-- **Be smart with stacking**: Too many overlapping AI/gameplay overhauls can create conflicts — tweak incrementally.

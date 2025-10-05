@@ -6,14 +6,13 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](#gr
 
 ## 📚 Table of Contents
 
-- [Backups & Updates]()
-- [Gameplay](#gameplay)
-- [HUD & UI](#hud--ui)
-- [Progression & Crafting](#progression--crafting)
-- [World & Content](#world--content)
-- [Inventory & QoL](#inventory--qol)
-- [Graphics & Performance](#graphics--performance)
-- [Final Tips](#final-tips)
+- [Backups & Updates](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#%EF%B8%8F-backups--updates)
+- [Gameplay](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-gameplay)
+- [HUD & UI](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-hud--ui)
+- [Progression & Crafting](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#%EF%B8%8F-progression--crafting)
+- [World & Content](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#%EF%B8%8F-world--content)
+- [Inventory & QoL](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-inventory--qol)
+- [Graphics & Performance](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-graphics--performance)
 
 ---
 ## 🗄️ Backups & Updates
@@ -23,14 +22,14 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](#gr
 
 **Immersive Profile**
 - **Saves:**  
-  `D:\Chrome & Blood - Compiled\profiles\Chrome & Blood - Immersive Profile\saves`
+  `D:\Chrome & Blood\profiles\Chrome & Blood - Immersive Profile\saves`
 - **Settings you’ve changed:**  
   Check the mod **“Chrome and Blood modlist settings - Immersive Profile”**.  
   If not found there, open MO2 and back up the contents of **Overwrite** (bottom of the left pane).
 
 **Standard Profile**
 - **Saves:**  
-  `D:\Chrome & Blood - Compiled\profiles\Chrome & Blood - Standard Profile\saves`
+  `D:\Chrome & Blood\profiles\Chrome & Blood - Standard Profile\saves`
 - **Settings you’ve changed:**  
   Check the mod **“Chrome and Blood modlist settings - Standard Profile”**, or back up **Overwrite** in MO2.
   

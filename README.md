@@ -53,7 +53,7 @@ Both profiles retain the same core gameplay balance, but differ in *how much fre
 - 📄 **Current Modlist**: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
 - 🛠️ **Modlist Changelog**: [v2.33](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
 - 💬 **Join the Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
-- 📚 **Chrome and Blood FAQ**: [Here]([https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md))
+- 📚 **Chrome and Blood FAQ**: [Here](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md)
 
 
 ## System Requirements

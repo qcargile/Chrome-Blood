@@ -76,7 +76,7 @@ Install/upgrade the appropriate cyberware or adjust each mod’s settings.
 **A:** Use **[HUD Painter](https://www.nexusmods.com/cyberpunk2077/mods/14935?tab=description)** from the **main menu** to pick a preset.  
 After changing presets, **restart the game** to avoid crashes and ensure the palette fully applies.
 
-**Q: My minimap is missing icons.**  
+**Q: My minimap and game HUD is missing loot icons.**  
 **A:** That’s **[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)**. Re-enable specific markers in its in-game settings.
 
 ---

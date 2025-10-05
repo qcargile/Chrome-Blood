@@ -78,6 +78,10 @@ Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning 
 - **[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)**: hides most widgets until context triggers.  
 Install/upgrade the appropriate cyberware or adjust each mod’s settings.
 
+**Q: On the Immersive profile, I can’t highlight enemies anymore. Why?**  
+**A:** On Immersive, only enemies revealed by the **Ping** quickhack are highlighted in red. This behavior comes from **LHUD Addons**.  
+ Open **Mod Settings → LHUD Addons** to change this.
+
 **Q: How do I change the game’s UI color theme?**  
 **A:** Use **[HUD Painter](https://www.nexusmods.com/cyberpunk2077/mods/14935?tab=description)** from the **main menu** to pick a preset.  
 After changing presets, **restart the game** to avoid crashes and ensure the palette fully applies.

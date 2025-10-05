@@ -1,6 +1,6 @@
 # ❓ Chrome & Blood — Frequently Asked Questions (FAQ)
 
-If you’re here for visuals/performance, jump to **[Graphics & Performance](#graphics--performance)** — it includes the full step-by-step setup.
+If you’re here for visuals/performance, jump to **[Graphics & Performance](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-graphics--performance)** — it includes the full step-by-step setup.
 
 ---
 

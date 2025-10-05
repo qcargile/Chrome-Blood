@@ -56,6 +56,12 @@ I recommend starting with Dmg. scaling.
 - Breach via an **access point**.  
 Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning toward vanilla access as you progress.
 
+**Q: Does the vanilla game difficulty setting still work?**  
+**A:** Yes. It still applies on top of the list—set it to your preference.
+
+**Q: What’s the recommended difficulty for Chrome & Blood?**  
+**A:** **Very Hard.** The list is balanced around **Very Hard** and that’s the only difficulty I play on. Other difficulties are not used for balance tuning.
+
 ---
 
 ## 🧠 HUD & UI

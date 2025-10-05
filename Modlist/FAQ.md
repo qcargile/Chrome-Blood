@@ -6,7 +6,7 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 
 ## 📚 Table of Contents
 
-- [Backups & Updates](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#%EF%B8%8F-backups--updates)
+- [Backups & Updates](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#%EF%B8%8F-backups--updates)
 - [Gameplay](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-gameplay)
 - [HUD & UI](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#-hud--ui)
 - [Progression & Crafting](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Tweaking%20Mod%20Settings.md#%EF%B8%8F-progression--crafting)

@@ -135,23 +135,17 @@ The list defaults this **off**. Enable it in Mod Settings if you’re seeing art
 1. Navigate to `D:\Chrome & Blood\Tools\DLSS Swapper`  
 2. Run `DLSS Swapper.exe`  
 3. On the **Games** home page, click **Cyberpunk 2077**.  
-4. Change the DLSS DLLs to the following versions:  
-   - **DLSS:** `310.2.1`  
-   - **DLSS Frame Generation:** `3.8.1`  
-   - **DLSS Ray Reconstruction:** `310.2.1`  
+4. Change the below settings to the following versions:  
+   - **DLSS:** `310.4`  
+   - **DLSS Frame Generation:** `310.4`  
+   - **DLSS Ray Reconstruction:** `310.4`
+   - **DLSS Preset:** `Always Use Latest`
 5. It should look like this when you’re done:  
-   ![image](https://github.com/user-attachments/assets/6761ecd0-9118-47eb-b0bb-bb626bf68f45)  
+<img width="697" height="637" alt="image" src="https://github.com/user-attachments/assets/4be8eb1f-526a-408d-bab4-b963b06402e2" />
+
 6. If you use **FSR** instead, follow the instructions on **[this mod page](https://www.nexusmods.com/site/mods/738)** to set up FSR3 for Cyberpunk 2077.  
 7. Close **DLSS Swapper** when complete.  
-8. Next, navigate to `D:\Chrome & Blood\Tools\NVIDIA Profile inspector\NVPI-Revamped`  
-9. Run `NVIDIA Profile Inspector.exe`  
-10. In the profile search bar, type **“cyberpunk”**, then click **Cyberpunk 2077**.  
-    ![image](https://github.com/user-attachments/assets/9af5561d-7f46-427f-80ec-9f9d84755d1c)  
-11. Go to **DLSS Overrides** and set **RR:Preset / SR:Preset** to **Preset k**.  
-    **IF YOU EDIT ANY OTHER SETTINGS OUTSIDE THE SCOPE OF THIS GUIDE, I WILL NOT PROVIDE SUPPORT FOR THAT.**  
-    ![image](https://github.com/user-attachments/assets/79cc64c4-927c-4ffa-9562-d37451d66fe4)  
-12. Click **Apply changes** (top right), then close **NVIDIA Profile Inspector**.  
-13. That’s it — you’re ready to play.
+8. That’s it — you’re ready to play.
 
 ---
 

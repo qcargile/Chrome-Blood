@@ -128,7 +128,7 @@ The list defaults this **off**. Enable it in Mod Settings if you’re seeing art
 **Q: Why is Chrome and Blood so dark, I can't see anything at night!**  
 **A:** This list uses **[Nova City 2,](https://www.nexusmods.com/cyberpunk2077/mods/12490)** which overhauls lighting, making things darker or brighter where applicable. To make night time brighter, navigate to Mod settings -> Nova City -> Shadow boost, and adjust to your liking. 
 
-### ✅ Step-by-Step: Maximize Visuals with Chrome & Blood (post-v1.13)
+### ✅ Step-by-Step: Maximize Visuals with Chrome & Blood
 
 > Follow these exactly. If you change settings outside this scope, support **won’t** be provided for those changes.
 

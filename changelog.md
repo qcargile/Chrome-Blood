@@ -39,19 +39,19 @@ The “one breach unlocks all” model has been removed. Networks now have indep
 - NPCs (Ultimate): `Tier 5`
 
 **INT Requirement**
-- Basic Devices: 5 
-- Cameras: 9
-- Turrets: 12 
-- NPCs (Covert): 14 
-- NPCs (Combat): 16 
-- NPCs (Control): 18 
-- NPCs (Ultimate): 20 
+- Basic Devices: `5 `
+- Cameras: `9`
+- Turrets: `12 `
+- NPCs (Covert): `14 `
+- NPCs (Combat): `16 `
+- NPCs (Control): `18 `
+- NPCs (Ultimate): `20` 
 
 **Enemy Tier Caps (quickhacks will only work UP TO the enemy tier listed below) **
-- NPCs (Covert): Officer 
-- NPCs (Combat): Elite 
-- NPCs (Control): Boss
-- NPCs (Ultimate): Maxtac
+- NPCs (Covert): `Officer `
+- NPCs (Combat): `Elite `
+- NPCs (Control): `Boss`
+- NPCs (Ultimate): `Maxtac`
 
 ---
 

@@ -168,9 +168,9 @@ ENV Tuner settings adjusted to fix extreme glare and overbloom:
 
 ### Hacks
 - Minimum time for quickhacks from same enemy: 20 seconds 
-- Minimum Delay between any two hacks: 15 seconds
+- Minimum Delay between any two hacks: 10 seconds
 
-This means an individual enemy can only hack the player every 20 seconds, and globally the player can't be hacked more than once every 15 seconds.
+This means an individual enemy can only hack the player every 20 seconds, and globally the player can't be hacked more than once every 10 seconds.
 
 ---
 

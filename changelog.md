@@ -194,7 +194,7 @@ This will force the player to actually analyze each enemies patterns, and add an
 - Added **Silver Pixel Cinema Gates Game Bug Patch** `v1.0`
 - Added **ENV Tuner** `v1.1.0.0s`
 - Added **Engine Oil** `v3.81.4`
-- Added **DLSS Swapper** `1.2.1`
+- Added **Stats Bar UI Fix** `v1.0.0`
 - Added **Vehicle Handling Settings** `2.3.1`
 - Added **Item Records Fixes** `v1.0`
 - Added **Crimson Echo - HUD Painter Preset** `v1.0`
@@ -252,8 +252,8 @@ This will force the player to actually analyze each enemies patterns, and add an
 - Updated **Gorilla Grapply** to `v1.4`
 - Updated **Genesis** to `v0.9.6.1`
 - Updated **458 Spider** to `v0.9.2.1`
-- Updated **Stats Bar UI Fix** to `v1.0.0`
 
+- Updated **DLSS Swapper** to `1.2.1`
 ---
 
 ### 🔄 Updates (Standard Profile)

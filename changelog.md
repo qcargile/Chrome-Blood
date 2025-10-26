@@ -228,7 +228,7 @@ This will force the player to actually analyze each enemies patterns, and add an
 
 ### 🆕 Additions (Immersive Profile)
 
-*(No immersive-only additions listed for this update)*
+*(No immersive-only additions for this update)*
 
 ---
 
@@ -320,13 +320,13 @@ This will force the player to actually analyze each enemies patterns, and add an
 
 ### 🗑 Removals (Standard Profile)
 
-*(No standard-profile-only removals listed for this update)*
+*(No standard-profile-only removals for this update)*
 
 ---
 
 ### 🗑 Removals (Immersive Profile)
 
-*(No immersive-profile-only removals listed for this update)*
+*(No immersive-profile-only removals for this update)*
 
 ---
 

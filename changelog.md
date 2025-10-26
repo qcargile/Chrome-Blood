@@ -3,6 +3,8 @@
 <details>
 <summary>v3.0 – (Date TBD)</summary>
 
+## NEW SAVE GAME REQUIRED FOR 3.0!!!
+
 Chrome and Blood 3.0 features a large gameplay rework that re-centers the list on meaningful progression, and brutal enemies. Changes include CyberwareEX additional slots, Better Netrunning subnet implementation, tuned ammo economy, weapons, driving, UI, graphics, enemy reinforcements, enemy stealth, and enemy quickhacking behaviour to match the new pacing. Additionally, mods that felt like overkill or random player cosmetics have been purged.
 
 ---

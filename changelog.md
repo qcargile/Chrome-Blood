@@ -29,7 +29,7 @@ The “one breach unlocks all” model has been removed. Networks now have indep
 - Remote Breach success costs **100% total RAM**.
 - Remote Breach failure **locks the network for 30 in-game minutes**.
 
-### The following milestones are required to unlock quickhacks without the need for breaching:
+### The following milestones are required to unlock quickhacks without the need for breaching (vanilla behaviour):
 
 **Cyberdeck Tier**
 - Basic Devices: `Tier 1 `

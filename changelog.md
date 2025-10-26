@@ -47,7 +47,7 @@ The “one breach unlocks all” model has been removed. Networks now have indep
 - NPCs (Control): `18 `
 - NPCs (Ultimate): `20` 
 
-**Enemy Tier Caps (quickhacks will only work UP TO the enemy tier listed below) **
+**Enemy Tier Caps (quickhacks will only work UP TO the enemy tier listed below)**
 - NPCs (Covert): `Officer `
 - NPCs (Combat): `Elite `
 - NPCs (Control): `Boss`

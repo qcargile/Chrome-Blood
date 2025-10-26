@@ -8,15 +8,13 @@ Major systemic overhaul to progression, infiltration, survivability, and combat 
 ---
 
 ## CyberEx Unlock Slots tweaked to the following milestones:
-| Slot | Unlock Requirement |
-
-| Operating System | `Edgerunner` |
-| Nervous System | `Air Dash Level 3` |
-| Musculoskeletal System | `Juggernaut` |
-| Frontal Cortex | `Overclock Level 3` |
-| Cardiovascular | `Adrenaline Rush Level 3` |
-| Integumentary | `Built Different` |
-| Legs | `Air Dash Level 1` |
+- Operating System: `Edgerunner` 
+- Nervous System: `Air Dash Level 3` 
+- Musculoskeletal System: `Juggernaut` 
+- Frontal Cortex: `Overclock Level 3` 
+- Cardiovascular: `Adrenaline Rush Level 3` 
+- Integumentary: `Built Different` 
+- Legs: `Air Dash Level 1` 
 
 ---
 
@@ -29,37 +27,31 @@ The “one breach unlocks all” model has been removed. Networks now have indep
 - Remote Breach success costs **100% total RAM**.
 - Remote Breach failure **locks the network for 30 in-game minutes**.
 
-### Quickhack Unlock Requirements
+### The following milestones are required to unlock quickhacks without the need for breaching:
 
 **Cyberdeck Tier**
-| Category | Tier |
-
-| Basic Devices | 1 |
-| Cameras | 2 |
-| Turrets | 3 |
-| NPCs (Covert) | 3+ |
-| NPCs (Combat) | 4 |
-| NPCs (Control) | 4+ |
-| Ultimate | 5 |
+- Basic Devices: `Tier 1 `
+- Cameras: `Tier 2`
+- Turrets: `Tier 3`
+- NPCs (Covert): `Tier 3+` 
+- NPCs (Combat): `Tier 4`
+- NPCs (Control): `Tier 4+`
+- NPCs (Ultimate): `Tier 5`
 
 **INT Requirement**
-| Category | INT |
+- Basic Devices: 5 
+- Cameras: 9
+- Turrets: 12 
+- NPCs (Covert): 14 
+- NPCs (Combat): 16 
+- NPCs (Control): 18 
+- NPCs (Ultimate): 20 
 
-| Basic Devices | 5 |
-| Cameras | 9 |
-| Turrets | 12 |
-| NPCs (Covert) | 14 |
-| NPCs (Combat) | 16 |
-| NPCs (Control) | 18 |
-| Ultimate | 20 |
-
-**Enemy Tier Caps**
-| Hack Type | Max Target |
-
-| Covert | Officer |
-| Combat | Elite |
-| Control | Boss |
-| Ultimate | MAX-TAC |
+**Enemy Tier Caps (quickhacks will only work UP TO the enemy tier listed below) **
+- NPCs (Covert): Officer 
+- NPCs (Combat): Elite 
+- NPCs (Control): Boss
+- NPCs (Ultimate): Maxtac
 
 ---
 
@@ -74,11 +66,7 @@ Armor is no longer passive damage reduction. It is now **Armor Integrity**, a co
 - Integrity does **not** passively regenerate
 - Must repair via Ripperdoc or ArmorUp consumables
 
-### Why
 This converts armor from infinite passive mitigation into a managed resource. The player is rewarded for timing, positioning, and disengagement.
-
-### Gameplay Impact
-You can win extended engagements if you manage integrity, but you cannot ignore attrition.
 
 ---
 
@@ -184,7 +172,7 @@ Stealth now favors **observation and timing**, not pattern abuse.
 
 ---
 
-
+</details>
 
 <details>
 <summary>v2.34 – October 4, 2025</summary>

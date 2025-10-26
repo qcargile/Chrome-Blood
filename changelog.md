@@ -285,7 +285,7 @@ This will force the player to actually analyze each enemies patterns, and add an
 - Removed **Ripperdoc Service Charge**
 - Removed **Nova City - Utils** (swapped with ENV Tuner)
 - Removed **Health Percent Display**
-
+- Removed **Better Armor Tooltips**
 
 ---
 
@@ -308,7 +308,6 @@ This will force the player to actually analyze each enemies patterns, and add an
 - Removed **Hyst Hair Collection**
 - Removed **Multicolored Hair Pack**
 - Removed **ND_Aeryn Hairs**
-- Removed **Better Armor Tooltips**
 - Removed **Black Sclera Version - Kiroshi**
 - Removed **Casion Aviators**
 - Removed **CCXL Everyday Megapak**

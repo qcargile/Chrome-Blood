@@ -184,7 +184,7 @@ This means an individual enemy can only hack the player every 20 seconds, and gl
 This will force the player to actually analyze each enemies patterns, and add an element of unpredictability.
 
 ---
-
+## Mod Changes
 ### 🆕 Additions (General)
 
 - Added **Armor Up** `v1.0.3`

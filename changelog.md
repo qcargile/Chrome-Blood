@@ -57,7 +57,7 @@ The “one breach unlocks all” model has been removed. Networks now have indep
 
 ---
 
-## Armor Integrity Rework
+## Armor Revamp (ArmorUp)
 
 ### What Changed
 Armor is no longer passive damage reduction. It is now **Armor Integrity**, a consumable layer of protection that absorbs physical damage until depleted.

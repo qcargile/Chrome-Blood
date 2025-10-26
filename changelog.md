@@ -207,7 +207,7 @@ This will force the player to actually analyze each enemies patterns, and add an
 - Added **People of Night City** `v2.21`
 - Added **Echoes of Joy** `v2.22`
 - Added **Realistics Faster Metro** `v1.1`
-- Added **Better UI Charact Lighting - Portrait Edition** `v2.0`
+- Added **Better UI Character Lighting - Portrait Edition** `v2.0`
 - Added **City Of Dreams menu Backgrounds** `v1.5`
 - Added **Immersive Vik** `v2.1`
 
@@ -252,8 +252,8 @@ This will force the player to actually analyze each enemies patterns, and add an
 - Updated **Gorilla Grapply** to `v1.4`
 - Updated **Genesis** to `v0.9.6.1`
 - Updated **458 Spider** to `v0.9.2.1`
-
 - Updated **DLSS Swapper** to `1.2.1`
+
 ---
 
 ### 🔄 Updates (Standard Profile)
@@ -270,10 +270,44 @@ This will force the player to actually analyze each enemies patterns, and add an
 
 ### 🗑 Removals (General)
 
+- Removed **CyberEx Custom Expansion Mode Optional Config** (swapped for custom config)
+- Removed **Grenade Aim Slow Time**
+- Removed **Unlock Me a Slot and all associated weapon patches**
+- Removed **Nova City - Night Vision**
+- Removed **Rogue's New Look**
+- Removed **Songbird's new look**
+- Removed **Splash Logo City Nights**
+- Removed **Unlock Me The Mods**
+- Removed **Unlock Me Malorian**
+- Removed **Monochrome UI HUD Painter Preset**
+- Removed **Throwable Aim Slow Time**
+- Removed **RAM Bar Fix** (replaced with Mod Settings version)
+- Removed **Ripperdoc Service Charge**
+- Removed **Nova City - Utils** (swapped with ENV Tuner)
+- Removed **Health Percent Display**
+
+
+---
+
+### 🗑 Removals (Standard Profile)
+
 - Removed **Natural Iris Glow**
 - Removed **NPC CCXL Hair Mod**
 - Removed **Beanie's CCXL Hair**
 - Removed **Alocarme Hair 25**
+- Removed **Cybereyes - Dual Moons**
+- Removed **Cybereyes - Kiroshi**
+- Removed **Cybereyes - Natural**
+- Removed **Cybereyes - Phantom**
+- Removed **FemV - Kylins Long Hair**
+- Removed **Multicolored Hair Core**
+- Removed **ND_Adele Hair CCXL**
+- Removed **ND_Elise Hair CCXL**
+- Removed **ND _Mia hair CCXL**
+- Removed **ND Updo Hair CCXL**
+- Removed **Hyst Hair Collection**
+- Removed **Multicolored Hair Pack**
+- Removed **ND_Aeryn Hairs**
 - Removed **Better Armor Tooltips**
 - Removed **Black Sclera Version - Kiroshi**
 - Removed **Casion Aviators**
@@ -281,46 +315,12 @@ This will force the player to actually analyze each enemies patterns, and add an
 - Removed **CCXL Sub Hair Pack AIO**
 - Removed **CCXL Sub Hair Pack Frost**
 - Removed **CC - Tied Up Hair**
-- Removed **CyberEx Custom Expansion Mode Optional Config** (swapped for custom config)
-- Removed **Cybereyes - Dual Moons**
-- Removed **Cybereyes - Kiroshi**
-- Removed **Cybereyes - Natural**
-- Removed **Cybereyes - Phantom**
-- Removed **FemV - Kylins Long Hair**
-- Removed **Grenade Aim Slow Time**
-- Removed **Hair 01 - Slickback Undercut**
-- Removed **Kala's Messy Pixie Bob CCXL**
-- Removed **Unlock Me a Slot and all associated weapon patches**
-- Removed **ND_Adele Hair CCXL**
-- Removed **ND_Elise Hair CCXL**
-- Removed **ND _Mia hair CCXL**
-- Removed **ND Updo Hair CCXL**
-- Removed **Nova City - Night Vision**
-- Removed **Rev's Cuts Hailey CCXL**
-- Removed **Rogue's New Look**
-- Removed **Rosanna Hair**
-- Removed **Songbird's new look**
-- Removed **Splash Logo City Nights**
-- Removed **Unlock Me The Mods**
-- Removed **Unlock Me Malorian**
 - Removed **Veegee Pheonicia Hair**
 - Removed **Veegee Roddy Hair**
-- Removed **Monochrome UI HUD Painter Preset**
-- Removed **Throwable Aim Slow Time**
-- Removed **RAM Bar Fix** (replaced with Mod Settings version)
-- Removed **Hyst Hair Collection**
-- Removed **Multicolored Hair Pack**
-- Removed **ND_Aeryn Hairs**
-- Removed **Ripperdoc Service Charge**
-- Removed **Nova City - Utils** (swapped with ENV Tuner)
-- Removed **Health Perfect Display**
-- Removed **Multicolored Hair Core**
-
----
-
-### 🗑 Removals (Standard Profile)
-
-*(No standard-profile-only removals for this update)*
+- Removed **Rosanna Hair**
+- Removed **Hair 01 - Slickback Undercut**
+- Removed **Kala's Messy Pixie Bob CCXL**
+- Removed **Rev's Cuts Hailey CCXL**
 
 ---
 

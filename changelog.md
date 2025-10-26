@@ -3,7 +3,7 @@
 <details>
 <summary>v3.0 – (Date TBD)</summary>
 
-Major systemic overhaul to progression, infiltration, survivability, and combat pacing. This update shifts Chrome & Blood toward a higher-agency, more tactical gameplay loop where cyberware progression, access, positioning, and attrition matter more than raw stat stacking.
+Chrome and Blood 3.0 features a large gameplay rework that re-centers the list on meaningful progression, and brutal enemies. Changes include CyberwareEX additional slots, Better Netrunning subnet implementation, tuned ammo economy, weapons, driving, UI, graphics, enemy reinforcements, enemy stealth, and enemy quickhacking behaviour to match the new pacing. Additionally, mods that felt like overkill or random player cosmetics have been purged.
 
 ---
 

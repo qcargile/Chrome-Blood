@@ -185,7 +185,154 @@ This will force the player to actually analyze each enemies patterns, and add an
 
 ---
 
+### 🆕 Additions (General)
+
+- Added **Armor Up** `v1.0.3`
+- Added **More Cautious and Chaotic Enemies** `v1.0`
+- Added **E3 Smart Windows** `v1.1`
+- Added **Semimaru Quest Restart Bug Fix** `v1.1`
+- Added **Silver Pixel Cinema Gates Game Bug Patch** `v1.0`
+- Added **ENV Tuner** `v1.1.0.0s`
+- Added **Engine Oil** `v3.81.4`
+- Added **DLSS Swapper** `1.2.1`
+- Added **Vehicle Handling Settings** `2.3.1`
+- Added **Item Records Fixes** `v1.0`
+- Added **Crimson Echo - HUD Painter Preset** `v1.0`
+- Added **Better Netrunning Fix** `v0.6.2`
+- Added **Even More Hackers (Global Hacking cooldowns)** `v1.0`
+- Added **Extract Weapon Mods in Shops** `v2.1`
+- Added **Ghosts of Night City Pt 1** `v2.21`
+- Added **Ghosts of Night City Pt 2** `v2.21`
+- Added **Echoes Of Loss** `v2.21`
+- Added **People of Night City** `v2.21`
+- Added **Echoes of Joy** `v2.22`
+- Added **Realistics Faster Metro** `v1.1`
+- Added **Better UI Charact Lighting - Portrait Edition** `v2.0`
+- Added **City Of Dreams menu Backgrounds** `v1.5`
+- Added **Immersive Vik** `v2.1`
+
+---
+
+### 🆕 Additions (Standard Profile)
+
+- Added **Scav Jacket** `v1.2`
+- Added **Bodytag** `v1.0`
+- Added **Wraith's Coat** `v0.4`
+- Added **Crystaljock Bomber Refit** `v1.3`
+- Added **Alex's Pants** `v0.1`
+- Added **Reeds Coat** `v0.8`
+- Added **Oda's Panths** `v2.0`
+- Added **Long Coat Dynamic** `v0.11`
+
+---
+
+### 🆕 Additions (Immersive Profile)
+
+*(No immersive-only additions listed for this update)*
+
+---
+
+### 🔄 Updates (General)
+
+- Updated **Virtual Atelier** to `1.4.7`
+- Updated **Say Something Damn It** to `v1.12`
+- Updated **Melee Attacks Fixes And Enhancements** to `v0.41.0`
+- Updated **Romance Hangouts Enhanced** to `v2.3`
+- Updated **Panam Romance Enhanced** to `v2.6.1`
+- Updated **Judy Romanced Enhanced** to `2.4.1`
+- Updated **Hot Fuzz** to `v3.1.2`
+- Updated **Extra Iconics** to `v2.1`
+- Updated **Camo Partial CD** to `v2.0.2`
+- Updated **Trace Position Overhaul** to `v2.1.2`
+- Updated **Radial Breach** to `1.2.2`
+- Updated **Revised Backpack** to `v0.9.1.2`
+- Updated **Immersive Fixers** to `1.v.1`
+- Updated **Uqest Vehicle Motion Fixes** to `1.2`
+- Updated **NCART Train Motion Fixers** to `v1.2`
+- Updated **Gorilla Grapply** to `v1.4`
+- Updated **Genesis** to `v0.9.6.1`
+- Updated **458 Spider** to `v0.9.2.1`
+- Updated **Stats Bar UI Fix** to `v1.0.0`
+
+---
+
+### 🔄 Updates (Standard Profile)
+
+- Updated **Snake Sneaking Suit** to `v1.1`
+
+---
+
+### 🔄 Updates (Immersive Profile)
+
+- Updated **Virtual Atelier Delivery** to `v1.0.9`
+
+---
+
+### 🗑 Removals (General)
+
+- Removed **Natural Iris Glow**
+- Removed **NPC CCXL Hair Mod**
+- Removed **Beanie's CCXL Hair**
+- Removed **Alocarme Hair 25**
+- Removed **Better Armor Tooltips**
+- Removed **Black Sclera Version - Kiroshi**
+- Removed **Casion Aviators**
+- Removed **CCXL Everyday Megapak**
+- Removed **CCXL Sub Hair Pack AIO**
+- Removed **CCXL Sub Hair Pack Frost**
+- Removed **CC - Tied Up Hair**
+- Removed **CyberEx Custom Expansion Mode Optional Config** (swapped for custom config)
+- Removed **Cybereyes - Dual Moons**
+- Removed **Cybereyes - Kiroshi**
+- Removed **Cybereyes - Natural**
+- Removed **Cybereyes - Phantom**
+- Removed **FemV - Kylins Long Hair**
+- Removed **Grenade Aim Slow Time**
+- Removed **Hair 01 - Slickback Undercut**
+- Removed **Kala's Messy Pixie Bob CCXL**
+- Removed **Unlock Me a Slot and all associated weapon patches**
+- Removed **ND_Adele Hair CCXL**
+- Removed **ND_Elise Hair CCXL**
+- Removed **ND _Mia hair CCXL**
+- Removed **ND Updo Hair CCXL**
+- Removed **Nova City - Night Vision**
+- Removed **Rev's Cuts Hailey CCXL**
+- Removed **Rogue's New Look**
+- Removed **Rosanna Hair**
+- Removed **Songbird's new look**
+- Removed **Splash Logo City Nights**
+- Removed **Unlock Me The Mods**
+- Removed **Unlock Me Malorian**
+- Removed **Veegee Pheonicia Hair**
+- Removed **Veegee Roddy Hair**
+- Removed **Monochrome UI HUD Painter Preset**
+- Removed **Throwable Aim Slow Time**
+- Removed **RAM Bar Fix** (replaced with Mod Settings version)
+- Removed **Hyst Hair Collection**
+- Removed **Multicolored Hair Pack**
+- Removed **ND_Aeryn Hairs**
+- Removed **Ripperdoc Service Charge**
+- Removed **Nova City - Utils** (swapped with ENV Tuner)
+- Removed **Health Perfect Display**
+- Removed **Multicolored Hair Core**
+
+---
+
+### 🗑 Removals (Standard Profile)
+
+*(No standard-profile-only removals listed for this update)*
+
+---
+
+### 🗑 Removals (Immersive Profile)
+
+*(No immersive-profile-only removals listed for this update)*
+
+---
+
+**Live Hard. Die Chrome.**
 </details>
+
 
 <details>
 <summary>v2.34 – October 4, 2025</summary>

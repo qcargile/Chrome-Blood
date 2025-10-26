@@ -1,6 +1,192 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v3.0 – (Date TBD)</summary>
+
+Major systemic overhaul to progression, infiltration, survivability, and combat pacing. This update shifts Chrome & Blood toward a higher-agency, more tactical gameplay loop where cyberware progression, access, positioning, and attrition matter more than raw stat stacking.
+
+---
+
+## CyberEx Unlock Slots tweaked to the following milestones:
+| Slot | Unlock Requirement |
+
+| Operating System | `Edgerunner` |
+| Nervous System | `Air Dash Level 3` |
+| Musculoskeletal System | `Juggernaut` |
+| Frontal Cortex | `Overclock Level 3` |
+| Cardiovascular | `Adrenaline Rush Level 3` |
+| Integumentary | `Built Different` |
+| Legs | `Air Dash Level 1` |
+
+---
+
+## Better Netrunning Tweaks
+
+The “one breach unlocks all” model has been removed. Networks now have independent security layers. You must breach *each subnet individually* (cameras, turrets, NPC access, etc.).
+
+- Subnet access persists **8 in-game hours** before resetting.
+- Remote Breach is now possible (cameras, turrets, vehicles, computers).
+- Remote Breach success costs **100% total RAM**.
+- Remote Breach failure **locks the network for 30 in-game minutes**.
+
+### Quickhack Unlock Requirements
+
+**Cyberdeck Tier**
+| Category | Tier |
+
+| Basic Devices | 1 |
+| Cameras | 2 |
+| Turrets | 3 |
+| NPCs (Covert) | 3+ |
+| NPCs (Combat) | 4 |
+| NPCs (Control) | 4+ |
+| Ultimate | 5 |
+
+**INT Requirement**
+| Category | INT |
+
+| Basic Devices | 5 |
+| Cameras | 9 |
+| Turrets | 12 |
+| NPCs (Covert) | 14 |
+| NPCs (Combat) | 16 |
+| NPCs (Control) | 18 |
+| Ultimate | 20 |
+
+**Enemy Tier Caps**
+| Hack Type | Max Target |
+
+| Covert | Officer |
+| Combat | Elite |
+| Control | Boss |
+| Ultimate | MAX-TAC |
+
+---
+
+## Armor Integrity Rework
+
+### What Changed
+Armor is no longer passive damage reduction. It is now **Armor Integrity**, a consumable layer of protection that absorbs physical damage until depleted.
+
+- 1 Armor = 1.5 Armor Integrity
+- As long as Integrity > 0%, physical damage is reduced by **90%**
+- Damage Reduction now reduces **integrity loss**, not incoming damage
+- Integrity does **not** passively regenerate
+- Must repair via Ripperdoc or ArmorUp consumables
+
+### Why
+This converts armor from infinite passive mitigation into a managed resource. The player is rewarded for timing, positioning, and disengagement.
+
+### Gameplay Impact
+You can win extended engagements if you manage integrity, but you cannot ignore attrition.
+
+---
+
+## Combat & Enemy Scaling
+
+### Player Scaling
+Power creep at high levels has been toned down:
+- Lvl 40: -5% outgoing damage
+- Lvl 50: -10% outgoing damage
+- Lvl 60: -15% outgoing damage
+- Mechs take **1.0x** damage (was 1.5x)
+- Monowire +10% baseline damage
+
+### Enemy Scaling
+Enemies now scale harder back into the player at high levels:
+- Lvl 40: +4% damage to V
+- Lvl 50: +8% damage to V
+- Lvl 60: +12% damage to V
+
+### Bosses
+- Non–Beat-on-the-Brat bosses:  
+  - Health 2.6× (was 1.5×)  
+  - Damage 1.3× (was 1.2×)
+- Beat on the Brat bosses:
+  - Slight nerf (more fair at low chrome)
+- MAX-TAC:
+  - Health 1.4× (was 1.2×)  
+  - Damage unchanged
+
+---
+
+## Economy Adjustments
+
+- Increased buy price of **Memory Chips** (Neuralware)
+- Increased buy price of **Sabbath Atelier Glock pistols**
+
+---
+
+## Ammo & Crafting
+
+- Sniper max ammo → **20**
+- Shotgun max ammo → **40**
+- Sniper ammo price ×10
+- Shotgun ammo price ×20
+
+**Craft Yields**
+| Type | Per Craft |
+|------|-----------|
+| Handgun | 72 |
+| Heavy | 144 |
+| Shotgun | 10 |
+| Sniper | 5 |
+
+Craft cost = 8 components → takes ~4–5 crafts to cap each ammo pool.
+
+---
+
+## Driving & Handling
+
+Vehicle physics reworked for more responsive handling:
+- Easier drift entry and exit
+- Higher responsiveness for braking/turning/acceleration
+
+---
+
+## LHUD & UI Tweaks
+
+- Health/Stamina only shown below 100% or in combat
+- Minimap only active when zooming (RMB) or inside vehicles
+- Standard profile: loot markers use **line-of-sight**
+- Immersive profile: **scan-only**
+
+---
+
+## Graphical Tweaks
+
+ENV Tuner settings adjusted to fix extreme glare and overbloom:
+- Reduced blinding daylight exposure
+- Improved nighttime visibility
+- A custom Chrome & Blood HUD PAINTER preset was added to establish a color palette identity for the list.
+
+---
+
+## Enemy Reinforcements
+
+- Minimum delay to call backup lowered to **18 seconds**
+
+---
+
+## Enemy Quickhacks
+
+- Minimum time for quickhacks from same enemy: 20 seconds 
+- Minimum Delay between any two hacks: 15 seconds
+
+This means an individual enemy can only hack the player every 20 seconds, and globally the player can't be hacked more than once every 15 seconds.
+
+---
+
+## Stealth Behavior
+
+Enemies remain alert longer with randomized cooldown back to passive state.  
+Stealth now favors **observation and timing**, not pattern abuse.
+
+---
+
+
+
+<details>
 <summary>v2.34 – October 4, 2025</summary>
 
 ## 🛠 Key Notes:

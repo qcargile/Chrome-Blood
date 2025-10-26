@@ -107,13 +107,10 @@ Enemies now scale harder back into the player at high levels:
 ---
 
 ## Ammo & Crafting
+- Slightly nerfed max ammo limits for sniper and shotgun weapons to 20 & 40 respectively.
+- Increased the price multiplier for sniper and shotgun weapons to 10x and 20x respectively. (you can only even carry 20/40 at a time, so this evens out.)
 
-- Sniper max ammo → **20**
-- Shotgun max ammo → **40**
-- Sniper ammo price ×10
-- Shotgun ammo price ×20
-
-**Craft Yields**
+**Craft Yields For Ammo Crafting**
 | Type | Per Craft |
 |------|-----------|
 | Handgun | 72 |
@@ -121,7 +118,14 @@ Enemies now scale harder back into the player at high levels:
 | Shotgun | 10 |
 | Sniper | 5 |
 
-Craft cost = 8 components → takes ~4–5 crafts to cap each ammo pool.
+Craft cost = 8 components → takes ~4–5 crafts to cap each ammo pool PER AMMO TYPE.
+---
+
+## Weapon Tweaks
+### Nerfed armor piercing muzzle attachments to the following:
+- Rare: +10% headshot multiplier, +10% armor penetration 
+- Epic: +15% headshot multiplier, +15% armor penetration 
+- Legendary: +20% headshot multiplier, +20% armor penetration
 
 ---
 

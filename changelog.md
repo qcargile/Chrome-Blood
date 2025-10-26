@@ -27,7 +27,7 @@ The “one breach unlocks all” model has been removed. Networks now have indep
 - Subnet access persists **8 in-game hours** after breaching a network before resetting.
 - Remote Breach is now possible (cameras, turrets, vehicles, computers).
 - Remote Breach success costs **100% total RAM**.
-- Remote Breach failure **locks the network for 30 in-game minutes**.
+- Remote Breach failure **locks the network for 15 in-game minutes**.
 
 ### The following milestones are required to unlock quickhacks without the need for breaching (vanilla behaviour):
 
@@ -105,6 +105,7 @@ Enemies now scale harder back into the player at high levels:
 
 - Increased buy price of **Memory Chips** (Neuralware)
 - Increased buy price of **Sabbath Atelier Glock pistols**
+- Removing weapon mods now require you to go to a vendor and pay a fee of 1k per mod upon selling the weapon, or dismantling the weapon altogether to get your mods back.
 
 ---
 

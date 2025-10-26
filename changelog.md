@@ -77,27 +77,27 @@ This converts armor from infinite passive mitigation into a managed resource. Th
 
 ### Player Scaling
 Power creep at high levels has been toned down:
-- Lvl 40: -5% outgoing damage
-- Lvl 50: -10% outgoing damage
-- Lvl 60: -15% outgoing damage
+- Lvl 40: `-5% outgoing damage`
+- Lvl 50: `-10% outgoing damage`
+- Lvl 60: `-15% outgoing damage`
 - Mechs take **1.0x** damage (was 1.5x)
-- Monowire +10% baseline damage
+- Monowire: `+10% baseline damage`
 
 ### Enemy Scaling
 Enemies now scale harder back into the player at high levels:
-- Lvl 40: +4% damage to V
-- Lvl 50: +8% damage to V
-- Lvl 60: +12% damage to V
+- Lvl 40: `+4% damage to V`
+- Lvl 50: `+8% damage to V`
+- Lvl 60: `+12% damage to V`
 
 ### Bosses
 - Non–Beat-on-the-Brat bosses:  
-  - Health 2.6× (was 1.5×)  
-  - Damage 1.3× (was 1.2×)
+  - Health Multiplier:  `2.6×` (was 1.5×)  
+  - Damage Multiplier: `1.3×` (was 1.2×)
 - Beat on the Brat bosses:
-  - Slight nerf (more fair at low chrome)
+  - Slight nerf to health and damage multipliers (more fair at low chrome)
 - MAX-TAC:
-  - Health 1.4× (was 1.2×)  
-  - Damage unchanged
+  - Health Multiplier: `1.4×` (was 1.2×)  
+  - Damage multiplier unchanged
 
 ---
 
@@ -126,9 +126,9 @@ Craft cost = 8 components → takes ~4–5 crafts to cap each ammo pool PER AMMO
 
 ## Weapon Tweaks
 ### Nerfed armor piercing muzzle attachments to the following:
-- Rare: +10% headshot multiplier, +10% armor penetration 
-- Epic: +15% headshot multiplier, +15% armor penetration 
-- Legendary: +20% headshot multiplier, +20% armor penetration
+- Rare: `+10% headshot multiplier, +10% armor penetration `
+- Epic: `+15% headshot multiplier, +15% armor penetration` 
+- Legendary: `+20% headshot multiplier, +20% armor penetration`
 
 ---
 

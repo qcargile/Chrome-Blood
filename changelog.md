@@ -9,7 +9,7 @@ Chrome and Blood 3.0 features a large gameplay rework that re-centers the list o
 
 ---
 
-## CyberEx Unlock Slots tweaked to the following milestones:
+## CyberEx Slots tweaked to the following milestones:
 - Extra Operating System Slot: `Edgerunner` 
 - Extra Nervous System Slot: `Air Dash Level 3` 
 - Extra Musculoskeletal System Slot: `Juggernaut` 

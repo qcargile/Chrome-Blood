@@ -139,10 +139,8 @@ Vehicle physics reworked for more responsive handling:
 
 ## LHUD & UI Tweaks
 
-- Health/Stamina only shown below 100% or in combat
-- Minimap only active when zooming (RMB) or inside vehicles
-- Standard profile: loot markers use **line-of-sight**
-- Immersive profile: **scan-only**
+- LHUD UI elements contextual triggers tweaked to make more sense. Health and Stamina appear if not at 100% in combat, minimap appears when holding right click to zoom or in a vehicle, combat UI elements appear when weapon is drawn.
+- Loot markers on the standard profile has been changed to "Line Of Sight" instead of only visible through scanning. Immersive profile is still *scanning only.*
 
 ---
 

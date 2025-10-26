@@ -22,7 +22,7 @@ Major systemic overhaul to progression, infiltration, survivability, and combat 
 
 The “one breach unlocks all” model has been removed. Networks now have independent security layers. You must breach *each subnet individually* (cameras, turrets, NPC access, etc.).
 
-- Subnet access persists **8 in-game hours** before resetting.
+- Subnet access persists **8 in-game hours** after breaching a network before resetting.
 - Remote Breach is now possible (cameras, turrets, vehicles, computers).
 - Remote Breach success costs **100% total RAM**.
 - Remote Breach failure **locks the network for 30 in-game minutes**.
@@ -62,6 +62,7 @@ Armor is no longer passive damage reduction. It is now **Armor Integrity**, a co
 
 - 1 Armor = 1.5 Armor Integrity
 - As long as Integrity > 0%, physical damage is reduced by **90%**
+- 30% increased armor effectiveness (each point of armor grants 30% more damage reduction, meaning you stack reduction faster)
 - Damage Reduction now reduces **integrity loss**, not incoming damage
 - Integrity does **not** passively regenerate
 - Must repair via Ripperdoc or ArmorUp consumables
@@ -156,8 +157,14 @@ ENV Tuner settings adjusted to fix extreme glare and overbloom:
 
 ---
 
-## Enemy Quickhacks
+## Enemy Quickhacks & Netrunners
 
+### Net Runners
+- Netrunner spawn rates across different factions has been buffed across the board.
+- Enemy behaviour concerning quickhacks has been nerfed. Only actual netrunners and elites/bosses can trace the player, after receiving a direct quickhack. (Previously, they could trace the player if ANY enemy on the network was hacked.)
+- **NO** enemy types can utilize the system collapse quickhack anymore.
+
+### Hacks
 - Minimum time for quickhacks from same enemy: 20 seconds 
 - Minimum Delay between any two hacks: 15 seconds
 
@@ -167,8 +174,9 @@ This means an individual enemy can only hack the player every 20 seconds, and gl
 
 ## Stealth Behavior
 
-Enemies remain alert longer with randomized cooldown back to passive state.  
-Stealth now favors **observation and timing**, not pattern abuse.
+- Enemies are now more cautious after entering an "alert" state (searching for the player, but not actively in combat) and have a randomized time range for when every enemy in the alert state will go back to normal. 
+
+This will force the player to actually analyze each enemies patterns, and add an element of unpredictability.
 
 ---
 

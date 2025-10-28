@@ -186,8 +186,6 @@ This means an individual enemy can only hack the player every 20 seconds, and gl
 - Enemies are now more cautious after entering an "alert" state (searching for the player, but not actively in combat) and have a randomized time range for when every enemy in the alert state will go back to normal.
 - Silenced pistol shots now aggro all hit targets `within 35m` if the target is not killed. If engaged from further than 35m, you have 2 shots before the target is automatically aggro'd.
 
-This will force the player to actually analyze each enemies patterns, and add an element of unpredictability.
-
 ---
 ## Mod Changes
 ### 🆕 Additions (General)

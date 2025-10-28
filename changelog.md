@@ -105,7 +105,9 @@ Enemies now scale harder back into the player at high levels:
 
 - Increased buy price of **Memory Chips** (Neuralware)
 - Increased buy price of **Sabbath Atelier Glock pistols**
+- Increased the buy price of all purchaseable apartments to fit the updated economy.
 - Removing weapon mods now require you to go to a vendor and pay a fee of 1k per mod upon selling the weapon, or dismantling the weapon altogether to get your mods back.
+
 
 ---
 

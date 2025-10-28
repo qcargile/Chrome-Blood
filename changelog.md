@@ -266,12 +266,14 @@ This means an individual enemy can only hack the player every 20 seconds, and gl
 ### 🔄 Updates (Standard Profile)
 
 - Updated **Snake Sneaking Suit** to `v1.1`
+- Updated **Modlist Settings - Standard Profile** to `v2.0`
 
 ---
 
 ### 🔄 Updates (Immersive Profile)
 
 - Updated **Virtual Atelier Delivery** to `v1.0.9`
+- Updated **Modlist Settings - Immersive Profile** to `v2.0`
 
 ---
 

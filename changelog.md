@@ -1,7 +1,7 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
-<summary>v3.0 – (28 OCT 2025)</summary>
+<summary>v3.0 – October 28, 2025 </summary>
 
 # NEW GAME REQUIRED FOR 3.0!!!
 

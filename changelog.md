@@ -213,8 +213,8 @@ This means an individual enemy can only hack the player every 20 seconds, and gl
 - Added **Better UI Character Lighting - Portrait Edition** `v2.0`
 - Added **City Of Dreams menu Backgrounds** `v1.5`
 - Added **Immersive Vik** `v2.1`
-- Added **Stash And Vendors QoL `v0.9`
-- Added Ragdoll Physics Overhaul `v2.0`
+- Added **Stash And Vendors QoL** `v0.9`
+- Added **Ragdoll Physics Overhaul** `v2.0`
 
 ---
 
@@ -258,7 +258,7 @@ This means an individual enemy can only hack the player every 20 seconds, and gl
 - Updated **Genesis** to `v0.9.6.1`
 - Updated **458 Spider** to `v0.9.2.1`
 - Updated **DLSS Swapper** to `1.2.1`
-- Updated **Custom Quickslots to `5.3.1.0`
+- Updated **Custom Quickslots** to `5.3.1.0`
 
 ---
 

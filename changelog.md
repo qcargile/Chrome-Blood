@@ -259,6 +259,7 @@ This means an individual enemy can only hack the player every 20 seconds, and gl
 - Updated **458 Spider** to `v0.9.2.1`
 - Updated **DLSS Swapper** to `1.2.1`
 - Updated **Custom Quickslots** to `5.3.1.0`
+- Updated **Chrome Ballistics - Weapon Rebalanced** to `v2.32`
 
 ---
 

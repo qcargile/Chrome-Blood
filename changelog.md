@@ -41,7 +41,7 @@ The “one breach unlocks all” model has been removed. Networks now have indep
 - NPCs (Ultimate): `Tier 5`
 
 **INT Requirement**
-- Basic Devices: `5 `
+- Basic Devices: `2 `
 - Cameras: `9`
 - Turrets: `12 `
 - NPCs (Covert): `14 `

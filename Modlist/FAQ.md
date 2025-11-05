@@ -61,7 +61,7 @@ I recommend starting with Dmg. scaling.
 **Q: My Armor integrity is 0 / I feel like I'm taking increased damage. Why is that?**  
 **A:** This list uses **[Armor Up](https://www.nexusmods.com/cyberpunk2077/mods/24801)**
 - Your current Armor Integrity is displayed in that blue percentage next to your health bar.
-- You must visit a ripper doc to repair your integrity.
+- You must visit a ripper doc to repair your integrity. Navigate to the cyberware trade screen, and press `C` by default.
 - Check the Armor Up mod page for other items you can use to repair your armor.
 
 **Q: Why can’t I quickhack enemies right away?**  

@@ -33,6 +33,9 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 - **Settings you’ve changed:**  
   Check the mod **“Chrome and Blood modlist settings - Standard Profile”**, or back up **Overwrite** in MO2.
 
+**Q: My saves aren't in the MO2 Saves Tab, how do I fix that?**
+**A:** Click on the profile drop down at the top of the left pane in MO2 --> Manage --> Ensure that "use profile specific Save Games" is ticked for whatever profile you're on.
+
 **Q: How do I safely modify the list and not lose added mods between updates?**  
 **A:** Refer to **[Rule-11](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Rule%2011.md)** documentation to get started.
 
@@ -54,6 +57,12 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 - **[Dmg. Scaling](https://www.nexusmods.com/cyberpunk2077/mods/21865)** or 
 - **[ENC](https://www.nexusmods.com/cyberpunk2077/mods/8467?tab=description)**  
 I recommend starting with Dmg. scaling.
+
+**Q: My Armor integrity is 0 / I feel like I'm taking increased damage. Why is that?
+**A:** This list uses **[Armor Up](https://www.nexusmods.com/cyberpunk2077/mods/24801)**
+- Your current Armor Integrity is displayed in that blue percentage next to your health bar.
+- You must visit a ripper doc to repair your integrity.
+- Check the Armor Up mod page for other items you can use to repair your armor.
 
 
 **Q: Why can’t I quickhack enemies right away?**  
@@ -77,6 +86,9 @@ Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning 
 - **[Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)**: gates HUD behind cyberware requirements.  
 - **[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)**: hides most widgets until context triggers.  
 Install/upgrade the appropriate cyberware or adjust each mod’s settings.
+
+**Q:** On the *Immersive Profile,* I have the required cyberware, and the mini-map still doesn't appear when I right-click. Why?
+**A:** There's a global keybind to quickly toggle the mini-map on/off. Press F6 or F8.
 
 **Q: On the Immersive profile, I can’t highlight enemies anymore. Why?**  
 **A:** On Immersive, only enemies revealed by the **Ping** quickhack are highlighted in red. This behavior comes from **LHUD Addons**.  

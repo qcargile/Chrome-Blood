@@ -58,12 +58,11 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 - **[ENC](https://www.nexusmods.com/cyberpunk2077/mods/8467?tab=description)**  
 I recommend starting with Dmg. scaling.
 
-**Q: My Armor integrity is 0 / I feel like I'm taking increased damage. Why is that?
+**Q: My Armor integrity is 0 / I feel like I'm taking increased damage. Why is that?**  
 **A:** This list uses **[Armor Up](https://www.nexusmods.com/cyberpunk2077/mods/24801)**
 - Your current Armor Integrity is displayed in that blue percentage next to your health bar.
 - You must visit a ripper doc to repair your integrity.
 - Check the Armor Up mod page for other items you can use to repair your armor.
-
 
 **Q: Why can’t I quickhack enemies right away?**  
 **A:** The list uses **[Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)**. You must either:
@@ -87,7 +86,7 @@ Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning 
 - **[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)**: hides most widgets until context triggers.  
 Install/upgrade the appropriate cyberware or adjust each mod’s settings.
 
-**Q:** On the *Immersive Profile,* I have the required cyberware, and the mini-map still doesn't appear when I right-click. Why?
+**Q: On the *Immersive Profile,* I have the required cyberware, and the mini-map still doesn't appear when I right-click. Why?**  
 **A:** There's a global keybind to quickly toggle the mini-map on/off. Press F6 or F8.
 
 **Q: On the Immersive profile, I can’t highlight enemies anymore. Why?**  

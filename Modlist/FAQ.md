@@ -33,7 +33,7 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 - **Settings you’ve changed:**  
   Check the mod **“Chrome and Blood modlist settings - Standard Profile”**, or back up **Overwrite** in MO2.
 
-**Q: My saves aren't in the MO2 Saves Tab, how do I fix that?**
+**Q: My saves aren't in the MO2 Saves Tab, how do I fix that?**  
 **A:** Click on the profile drop down at the top of the left pane in MO2 --> Manage --> Ensure that "use profile specific Save Games" is ticked for whatever profile you're on.
 
 **Q: How do I safely modify the list and not lose added mods between updates?**  

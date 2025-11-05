@@ -70,6 +70,9 @@ I recommend starting with Dmg. scaling.
 - Breach via an **access point**.  
 Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning toward vanilla access as you progress.
 
+**Q: Can I customize the grenade quickslots?**  
+**A:** Yes, through [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) in-game settings. You can change them to cyberware, healing items, other grenades, etc.
+
 **Q: Does the vanilla game difficulty setting still work?**  
 **A:** Yes. It still applies on top of the list—set it to your preference.
 

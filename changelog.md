@@ -5,8 +5,6 @@
 
 ## SAVE COMPATIBLE WITH v3.0 — NEW GAME NOT NEEDED
 
-A focused follow-up update refining the 3.0 systems. This patch tightens progression pressure, adjusts late-game difficulty, stabilizes recently introduced mechanics, and expands weapon and cyberarm content while pruning or pausing mods that need more bake time.
-
 ---
 
 ## 🛠 Key Notes

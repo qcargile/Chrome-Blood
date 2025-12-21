@@ -197,9 +197,6 @@
 - [Cyberware-EX](https://www.nexusmods.com/cyberpunk2077/mods/9429)  
   Adds new cyberware upgrades and APIs for expansion.
 
-- [Ripperdoc Service Charge](https://www.nexusmods.com/cyberpunk2077/mods/11200)  
-  Adds fees for upgrades, balancing early advantage.
-
 - [Black Chrome – Cyberware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/16031)  
   Adds new stylistic chrome enhancements inspired by the Black Chrome loreset.
 
@@ -215,8 +212,8 @@
 - [Gold-Plated Interface Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/15571)  
   Applies luxe gold visuals to existing chrome slots.
 
-- [Advanced Implant Technologies – Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/15759)  
-  Adds elite implants purchasable in the Virtual Atelier store.
+- [Black Budget Classified Limbs](https://www.nexusmods.com/cyberpunk2077/mods/24673)
+  Adds 21 new iconic cyberarms, spread across Mantis Blades, Gorilla Arms, Monowire, and Projectile Launcher System.
 
 - [Upgrade Weapons Unlocked](https://www.nexusmods.com/cyberpunk2077/mods/9889)  
   Allows free upgrade tweaking without costly limitations.
@@ -262,8 +259,8 @@
 <details>
 <summary>UI</summary>
 
-- [Streamlined HUD](https://www.nexusmods.com/cyberpunk2077/mods/10759)  
-  Declutters interface for a minimalist, immersive experience.
+- [Crimson Echo - HUD Painter Preset](https://www.nexusmods.com/cyberpunk2077/mods/25157)  
+  Crimson-themed HUD preset for Chrome & Blood modlist. Replaces vanilla colors with deep reds, white highlights, and ion-gold accents for a sharper interface.
 
 - [More Weapon Filters](https://www.nexusmods.com/cyberpunk2077/mods/16565)  
   Adds inventory filters to improve item management.

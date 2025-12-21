@@ -21,10 +21,10 @@ A focused follow-up update refining the 3.0 systems. This patch tightens progres
   **Better Netrunning Fix** and **Armor Up** have been temporarily disabled due to instability in their current versions. These will be monitored and re-introduced once updates stabilize.
 
 - **Black Budget Expansion**  
-  **Black Budget: Classified Limbs – Iconic Cyberarms Pack** has been updated and now includes **21 iconic cyberarms**. Community pitches are welcome for future additions.
+  **[Black Budget: Classified Limbs – Iconic Cyberarms Pack](https://www.nexusmods.com/cyberpunk2077/mods/24673)** has been updated and now includes **21 iconic cyberarms**. Community pitches are welcome for future additions. If you suggest something I like, I'll probably make it.
 
 - **Weapon Modding Flow Improved**  
-  **Unified Weapon Modification** has been added to streamline weapon modding into a more progression-based, readable system.
+  **[Unified Weapon Modification](https://www.nexusmods.com/cyberpunk2077/mods/25350)** has been added to streamline weapon modding into a more progression-based, readable system.
 
 ---
 

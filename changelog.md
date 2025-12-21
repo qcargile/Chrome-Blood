@@ -1,6 +1,159 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v3.1 – December 21, 2025</summary>
+
+## SAVE COMPATIBLE WITH v3.0 — NEW GAME NOT NEEDED
+
+A focused follow-up update refining the 3.0 systems. This patch tightens progression pressure, adjusts late-game difficulty, stabilizes recently introduced mechanics, and expands weapon and cyberarm content while pruning or pausing mods that need more bake time.
+
+---
+
+## 🛠 Key Notes
+
+- **Virtual Atelier Economy Rebalance**  
+  Weapons sold through Virtual Atelier have been made significantly more expensive. Since these items are accessible at *any point* in the game, prices now reflect that convenience and prevent bypassing natural progression.
+
+- **High-Level Damage Intake Adjusted**  
+  Damage taken by the player at higher levels has been slightly increased to preserve threat and tension as builds mature.
+
+- **Stability Pass (Temporary Disables)**  
+  **Better Netrunning Fix** and **Armor Up** have been temporarily disabled due to instability in their current versions. These will be monitored and re-introduced once updates stabilize.
+
+- **Black Budget Expansion**  
+  **Black Budget: Classified Limbs – Iconic Cyberarms Pack** has been updated and now includes **21 iconic cyberarms**. Community pitches are welcome for future additions.
+
+- **Weapon Modding Flow Improved**  
+  **Unified Weapon Modification** has been added to streamline weapon modding into a more progression-based, readable system.
+
+---
+
+## 🆕 Additions (General)
+
+- Added **Ultra Plus** `v7.6` *(optional separator — use at your own discretion)*
+- Added **Allow Highest AI LOD** `v0.1`
+- Added **Inventory Sorting Improved** `v1.0`
+- Added **Unified Weapon Modification** `v1.3.3`
+- Added **Silver Pixel Cloud Gates Game Bug Patch** `v1.0.1`
+- Added **Holdin' On – Kerry's Mansion Scene Bug Fixes** `v1.0`
+- Added **Here's Brendan** `v1.0.1`
+- Added **ReLUX Plus (Riders on the Storm)** `v2.0`
+- Added **Disabled Quest Weather** `v1.2`
+- Added **SPLAT – Physics Realistic Ragdoll Overhaul** `v4.2`
+- Added **Vendor Search** `v1.0`
+- Added **Throwing Weapon Kerenzikov Fix** `v1.0`
+- Added **Reimagined** `v0.2.17`
+- Added **MK VII Helio Trace** `v1.0`
+- Added **Armatech MK1** `v1.2`
+- Added **Ajax Raptor** `v1.1`
+
+---
+
+## 🆕 Additions (Standard Profile)
+
+- Added **ND Bad Habits Outfit** `v1.0`
+- Added **Dusty Eve Punk Style Outfit** `v1.1`
+
+---
+
+## 🆕 Additions (Immersive Profile)
+
+*(No immersive-profile-only additions for this update)*
+
+---
+
+## 🔄 Updates (General)
+
+- Updated **NCART Train Motion Fixes** to `v1.2.1`
+- Updated **Filter Saves** to `v1.6.2`
+- Updated **Named Saves** to `v2.6.3`
+- Updated **Better Netrunning Fix** to `v0.7.1`
+- Updated **Weapon Handling Control** to `v2.2.2`
+- Updated **Toyota GT86** to `v1.2.1`
+- Updated **ArchiveXL** to `v1.26.1`
+- Updated **Alternative Berserk** to `v1.0.3`
+- Updated **Virtual Atelier** to `v1.4.8`
+- Updated **RX7** to `v0.9.1`
+- Updated **RX4** to `v0.9.1`
+- Updated **Californication** to `v3.1.1`
+- Updated **Hot Fuzz** to `v3.1.3`
+- Updated **In-Place Sectors**
+- Updated **Say Something Damn It** to `v1.12.1`
+- Updated **TweakXL** to `v1.11.2`
+- Updated **Rita Wheeler Romanced** to `v3.0`
+- Updated **Night City Things Nulled** to `v2.3.250720`
+- Updated **Codeware** to `v1.18.1`
+- Updated **Night City Fog Nulled** to `v3.1.3`
+- Updated **Clear Skill Checks** to `v1.1.1`
+- Updated **ReLUX AIO** to `v2.1.1`
+- Updated **One More Light** to `v2.1.5`
+- Updated **Hangout Romances** to `vf1.08`
+- Updated **ReLUX – All Foods** to `v2.0.1.0af`
+- Updated **Muted Markers** to `v2.3.5`
+- Updated **They Will Remember** to `v2.1.4`
+- Updated **Crafting Recipe Owned and Iconic Labels** to `v1.1.1`
+- Updated **Vehicle Resources** to `v1.0.6`
+- Updated **Alternative Hair Material** to `v0.2`
+- Updated **Ammo Limiter** to `v2.5.4`
+- Updated **Status Bar Bug Fixes** to `v1.8`
+- Updated **Deceptious Quest Core Utilities and Settings** to `v1.1.3`
+- Updated **Deceptious Quest Core** to `v3.1.4`
+- Updated **VendorsXL** to `v2.0`
+- Updated **Kerry Romance Enhanced** to `v2.2.1`
+- Updated **Night City Visuals Nulled** to `v3.1.16.0`
+- Updated **Quickhack Fixes** to `v1.2.21`
+- Updated **Stealthrunner** to `v1.9.1`
+- Updated **Cyberware Improved** to `v1.2`
+- Updated **Black Budget – Iconic Cyberarms Pack** to `v2.2`
+
+---
+
+## 🔄 Updates (Standard Profile)
+
+- Updated **Dusty Virtual Atelier** to `v54`
+
+---
+
+## 🔄 Updates (Immersive Profile)
+
+- Updated **Raven Gemini II – Immersive Cyberware Compatibility Patch** to `v1.0.3`
+- Updated **Pay-To-Go** to `v1.5`
+- Updated **Virtual Atelier Delivery** to `v1.0.10`
+- Updated **Limited HUD** to `v2.21.5`
+
+---
+
+## 🗑 Removals (General)
+
+- Removed **Better Netrunning Fix** *(temporarily disabled)*
+- Removed **Armor Up** *(temporarily disabled)*
+- Removed **Engine Oil**
+- Removed **Ragdoll Physics Overhaul** *(swapped for SPLAT)*
+- Removed **Extract The Mods In Weapon Shops**
+- Removed **Better Quality Sort** *(swapped for Inventory Sorting Improved)*
+- Removed **ReLUX Variants** *(swapped for AIO version)*
+- Removed **Leap With Any Melee Weapon**
+
+---
+
+## 🗑 Removals (Standard Profile)
+
+*(No standard-profile-only removals for this update)*
+
+---
+
+## 🗑 Removals (Immersive Profile)
+
+*(No immersive-profile-only removals for this update)*
+
+---
+
+**Live Hard. Die Chrome.**
+
+</details>
+
+
+<details>
 <summary>v3.0 – October 28, 2025 </summary>
 
 # NEW GAME REQUIRED FOR 3.0!!!

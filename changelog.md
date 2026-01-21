@@ -21,7 +21,7 @@
   Several key mods updated including Dark Future, Stealthrunner, Damage Scaling, and others.
 
 - **Bloat Removal**  
-  Tons of redundant or bloat mods removed for a leaner, more focused experience.
+  Tons of redundant or bloat mods removed for better performance.
 
 > 💡 **TIP:** If you want to KEEP cosmetic mods, append the `[NoDelete]` tag to the mod name in MO2. This will prevent them (and any other mod you append it to) from being deleted!
 

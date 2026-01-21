@@ -21,8 +21,8 @@
 
 ## Introduction
 
-**Chrome & Blood** is a complete *Cyberpunk 2077* overhaul built for players who want a darker, faster, and more dangerous Night City.  
-Every core system has been reworked, from **combat** and **AI** to **economy**, **hacking**, **cyberware**, and **stealth**, turning the game into a brutal, reactive sandbox where buildcraft matters and survival is earned.
+**Chrome & Blood** is a complete *Cyberpunk 2077* overhaul built for players who want a faster, immersive, progression focused and more dangerous Night City.  
+Every core system has been reworked, from **combat** and **AI** to **economy**, **hacking**, **cyberware**, and **stealth**, turning the game into a brutal, reactive sandbox where builds matter and survival is earned.
 
 - **Visual fidelity** pushed to the limit with [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), HDR LUTs, and optimized weather/LOD/fog
 - **Combat redefined** with faster TTK, smarter AI, faction-based [reinforcements](https://www.nexusmods.com/cyberpunk2077/mods/21532), and [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467) as the foundation

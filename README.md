@@ -25,7 +25,7 @@
 Every core system has been reworked, from **combat** and **AI** to **economy**, **hacking**, **cyberware**, and **stealth**, turning the game into a brutal, reactive sandbox where buildcraft matters and survival is earned.
 
 - **Visual fidelity** pushed to the limit with [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), HDR LUTs, and optimized weather/LOD/fog
-- **Combat redefined** with faster TTK, smarter AI, faction-based reinforcements, and [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467) as the foundation
+- **Combat redefined** with faster TTK, smarter AI, faction-based [reinforcements](https://www.nexusmods.com/cyberpunk2077/mods/21532), and [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467) as the foundation
 - **Weapon rebalance** via [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819) and [Damage Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/21865) ensuring every archetype is viable
 - **Cyberware depth** with [Neuralware - Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798) and [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series
 - **Perk expansion** through [Merc Protocol](https://www.nexusmods.com/cyberpunk2077/mods/26751), adding 18 new perks with unique mechanics built specifically for Chrome & Blood

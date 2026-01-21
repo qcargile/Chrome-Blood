@@ -1,6 +1,153 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v3.2 – January 20, 2026</summary>
+
+## SAVE COMPATIBLE WITH v3.1 — NEW GAME NOT NEEDED
+
+> ⚠️ **IMPORTANT:** Change to vanilla clothes or your character will be naked after this update.
+
+---
+
+## 🛠 Key Notes
+
+- **Cosmetics Removed From Both Profiles**  
+  Chrome & Blood is now a fully gameplay-focused list to allow for more user freedom with cosmetic items. All clothing items, body refits, and non-weapon Virtual Ateliers have been removed.
+
+- **Merc Protocol Added**  
+  **[Merc Protocol – Perk Gameplay Expansion](https://www.nexusmods.com/cyberpunk2077/mods/26751)** (created specifically for Chrome & Blood) is officially added! Please test out the 18 new perks and provide feedback!
+
+- **Routine Mod Updates**  
+  Several key mods updated including Dark Future, Stealthrunner, Damage Scaling, and others.
+
+- **Bloat Removal**  
+  Tons of redundant or bloat mods removed for a leaner, more focused experience.
+
+> 💡 **TIP:** If you want to KEEP cosmetic mods, append the `[NoDelete]` tag to the mod name in MO2. This will prevent them (and any other mod you append it to) from being deleted!
+
+---
+
+## 🆕 Additions (General)
+
+- Added **Fast Travel To Apartment** `v0.0.0.9`
+- Added **Debuff Color Icon** `v1.1`
+- Added **Hammer Tooltip Fix** `v1.0.2`
+- Added **Damage Scaling And Balance** `v4.2.1`
+- Added **Surface Type Expansion Fine Tune** `v1.01`
+- Added **Map Search** `v1.1`
+- Added **Dead Body Alert** `v1.0`
+- Added **Shooting Stamina Cost Reduction Fix** `v1.0`
+- Added **Custom Perk Framework** `v2.0`
+- Added **Merc Protocol – Perk Gameplay Expansion** `v2.0`
+- Added **Better Armor Tooltip** `v1.0.1` *(until Armor Up is updated)*
+- Added **Alternative Hair Material – High Res** `v0.1`
+
+---
+
+## 🆕 Additions (Standard Profile)
+
+*(No standard-profile-only additions for this update)*
+
+---
+
+## 🆕 Additions (Immersive Profile)
+
+*(No immersive-profile-only additions for this update)*
+
+---
+
+## 🔄 Updates (General)
+
+- Updated **Streaming Bug Workaround** to `v0.26`
+- Updated **TweakXL** to `v1.11.3`
+- Updated **VendorsXL** to `v2.1`
+- Updated **Audioware** to `v1.8`
+- Updated **Responsive V** to `v1.4`
+- Updated **Stealthrunner** to `v1.9.2`
+- Updated **HUD Painter** to `v1.3`
+- Updated **Running Man** to `v1.1.2`
+- Updated **Quickhack Fixes** to `v1.2.22`
+- Updated **River Romanced Enhanced** to `v2.5.1`
+- Updated **Night City Visuals Nulled** to `v3.1.17.ob1` *(potential Fog Fix)*
+- Updated **They Will Remember** to `v2.2.6`
+- Updated **E3 Smart Windows** to `v1.2`
+- Updated **Non-Canon Romances Enhanced** to `v1.3`
+- Updated **Auto Drive Enhanced** to `v0.0.0.17`
+- Updated **Gone Away** to `v1.1`
+- Updated **No Weapon In Inventory** to `v1.2`
+- Updated **Revised Backpack** to `v0.9.13`
+- Updated **Quickhack Hotkeys** to `v2.3.1`
+- Updated **Named Saves** to `v2.6.4`
+- Updated **Muted Markers** to `v2.3.6`
+- Updated **Metro Pocket Guide** to `v1.2.11`
+- Updated **Mark To Sell** to `v2.5.4`
+- Updated **Immersive Timeskip** to `v2.2.2`
+- Updated **Hide Read Shards** to `v0.4.0`
+- Updated **Enhanced Craft** to `v4.0.7`
+- Updated **Red File System** to `v0.15.1`
+- Updated **Always First Equip** to `v2.1.2.0`
+- Updated **Deceptious Quest Core Utilities and Settings** to `v1.2.2`
+- Updated **Red Data** to `v0.10`
+- Updated **Damage Scaling And Balanced** to `v3.2`
+- Updated **Say Something Damn It** to `v1.14`
+- Updated **Aurore Romanced** to `v1.2.3`
+- Updated **Rita Wheeler Romanced** to `v3.1.1`
+- Updated **Quest Vehicle Motion Fixes** to `v1.3`
+- Updated **Alternative Hair Material** to `v0.3`
+- Updated **Vehicle Summon Tweaks – Sorting** to `v2.3.1`
+- Updated **Cyberware Improved** to `v1.5`
+- Updated **SPLAT – Physics Realistic Ragdoll Overhaul** to `v5.1`
+- Updated **Ammo Limiter** to `v2.6.1.0`
+
+---
+
+## 🔄 Updates (Standard Profile)
+
+*(No standard-profile-only updates for this update)*
+
+---
+
+## 🔄 Updates (Immersive Profile)
+
+- Updated **Limited HUD** to `v2.22`
+- Updated **Dark Future** to `v2.0.3.0`
+
+---
+
+## 🗑 Removals (General)
+
+- Removed **All Clothing Items**
+- Removed **All EBBRB/GYMFIEND Vanilla Clothing Refits**
+- Removed **All Virtual Ateliers** *(except gun-related Ateliers)*
+- Removed **Better Movement QoL** *(replaced by Running Man)*
+- Removed **Enhanced Air Traffic**
+- Removed **Hyst's NPCs Body Enhancements**
+- Removed **Panam Surprise Selfie**
+- Removed **Show Weapon + Quality**
+- Removed **The Community Palette Project**
+- Removed **Aim Reveals Enemies**
+- Removed **Free Runner**
+- Removed **Vehicle Handling Settings**
+
+---
+
+## 🗑 Removals (Standard Profile)
+
+*(No standard-profile-only removals for this update)*
+
+---
+
+## 🗑 Removals (Immersive Profile)
+
+*(No immersive-profile-only removals for this update)*
+
+---
+
+**Live Hard. Die Chrome.**
+
+</details>
+
+<details>
 <summary>v3.1 – December 21, 2025</summary>
 
 ## SAVE COMPATIBLE WITH v3.0 — NEW GAME NOT NEEDED

@@ -88,7 +88,7 @@
 - Updated **Always First Equip** to `v2.1.2.0`
 - Updated **Deceptious Quest Core Utilities and Settings** to `v1.2.2`
 - Updated **Red Data** to `v0.10`
-- Updated **Damage Scaling And Balanced** to `v3.2`
+- Updated **Damage Scaling And Balance - Extended** to `v3.2`
 - Updated **Say Something Damn It** to `v1.14`
 - Updated **Aurore Romanced** to `v1.2.3`
 - Updated **Rita Wheeler Romanced** to `v3.1.1`

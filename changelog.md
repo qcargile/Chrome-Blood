@@ -128,6 +128,7 @@
 - Removed **Aim Reveals Enemies**
 - Removed **Free Runner**
 - Removed **Vehicle Handling Settings**
+- Removed **Wannabe Edgerunner** (Dark future now has humanity loss as of v2.0)
 
 ---
 

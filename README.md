@@ -19,15 +19,18 @@
 - [🐞 Known Issues](https://github.com/qcargile/Chrome-Blood/blob/main/README.md#-known-issues)
 
 
-##  Introduction
+## Introduction
 
-**Chrome & Blood** is a complete *Cyberpunk 2077* overhaul, reforging the game into a darker, grittier, and more immersive experience.  
-Every core system has been reworked, from **AI** and **combat mechanics** to **stealth**, **hacking**, and **progression**, delivering a challenging, rewarding sandbox.
+**Chrome & Blood** is a complete *Cyberpunk 2077* overhaul built for players who want a darker, faster, and more dangerous Night City.  
+Every core system has been reworked, from **combat** and **AI** to **economy**, **hacking**, **cyberware**, and **stealth**, turning the game into a brutal, reactive sandbox where buildcraft matters and survival is earned.
 
-- **Visual fidelity** is pushed to the limit with upgraded **lighting**, **weather**, and **textures**
-- The **UI** has been redesigned with a sleek, diegetic aesthetic that feels native to Night City
-- Combat is ruthless, with **enhanced enemy AI**, **overhauled behaviors**, and **lethal damage scaling** that punishes mistakes
-- A massive arsenal of **new cosmetics, cyberware, vehicles, and weapons** to increase player build diversity
+- **Visual fidelity** pushed to the limit with [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), HDR LUTs, and optimized weather/LOD/fog
+- **Combat redefined** with faster TTK, smarter AI, faction-based reinforcements, and [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467) as the foundation
+- **Weapon rebalance** via [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819) and [Damage Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/22819) ensuring every archetype is viable
+- **Cyberware depth** with [Neuralware - Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798) and [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series
+- **Perk expansion** through [Merc Protocol](https://www.nexusmods.com/cyberpunk2077/mods/26751), adding 18 new perks with unique mechanics built specifically for Chrome & Blood
+- **Vehicles** with custom handling, [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675) integration, and a full library of lore-friendly cars and bikes
+- **Immersion systems** like [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460), ammo limits, bounty hunting, and enhanced ripperdoc functionality
 
 > *Step into a Night City where it takes more than just chrome to become a legend...*
 
@@ -35,14 +38,25 @@ Every core system has been reworked, from **AI** and **combat mechanics** to **s
 
 ### 🧠 Choose Your Playstyle
 
-**Chrome & Blood** now supports two distinct install profiles depending on the kind of experience you want:
+**Chrome & Blood** supports two distinct install profiles depending on the kind of experience you want:
 
-- **Immersive Profile**: Designed for players who want brutal realism and no hand-holding. Features mods like  
-  **Dark Future**, **Immersive Cyberware**, **Limited HUD**, **Wannabe Edgerunner**, and **Virtual Atelier Delivery**  
-  that reshape how you navigate, upgrade, and survive. Cosmetics are completely removed to ensure full gameplay focus.
+#### Immersive Profile
+A stripped-down, survival-focused version of the game that prioritizes gameplay, tactics, and immersion.
+- Darker visuals, needs management, and UI restrictions via [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)
+- Locked HUD elements (minimap, 3rd person driving, health bars) through [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)
+- HUD dynamically hidden unless specific context triggers are met with [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- Scripted delays for in-game deliveries via [Virtual Atelier Delivery](https://www.nexusmods.com/cyberpunk2077/mods/21482)
 
-- **Standard Profile**: A more flexible experience that retains all UI improvements, customization options, and cosmetic variety.  
-  Recommended for players who want challenge but still enjoy full control over appearance, character builds, and casual quality-of-life enhancements.
+#### Standard Profile
+The same deadly rework of Cyberpunk 2077, but without the survival and immersion restrictions.
+- Full UI and inventory access from the beginning
+- No cyberpsychosis or humanity management
+- No needs system or HUD limitations
+
+#### Cosmetics & Customization
+As of v3.2, all cosmetic mods have been removed from both profiles. Chrome & Blood is now a fully gameplay-focused list, giving users the freedom to add their own preferred cosmetic mods. Use the `[NoDelete]` tag in MO2 to preserve any personal additions across updates.
+
+---
 
 Both profiles retain the same core gameplay balance, but differ in *how much freedom vs. friction* you want in your journey through Night City.
 
@@ -51,7 +65,7 @@ Both profiles retain the same core gameplay balance, but differ in *how much fre
 ### 🔗 Useful Links
 
 - 📄 **Current Modlist**: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
-- 🛠️ **Modlist Changelog**: [v3.1](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
+- 🛠️ **Modlist Changelog**: [v3.20](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
 - 💬 **Join the Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
 - 📚 **Chrome and Blood FAQ**: [Here](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md)
 

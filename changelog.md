@@ -1,7 +1,7 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
-<summary>v3.2 – January 20, 2026</summary>
+<summary>v3.2 – January 22, 2026</summary>
 
 ## SAVE COMPATIBLE WITH v3.1 — NEW GAME NOT NEEDED
 

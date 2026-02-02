@@ -1,6 +1,111 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v3.30 – February 1, 2026</summary>
+
+## SAVE COMPATIBLE WITH v3.2 — NEW GAME NOT NEEDED
+
+---
+
+## 🛠 Key Notes
+
+- **Introduction of Much Better Netrunning**  
+  A huge product and collaboration between WTNC/THING dev team and myself to finally fix netrunning. Please provide feedback and bug reports.
+
+- **Standard Mod Updates**  
+  Several key mods updated.
+
+- **Problematic Mod Removals**  
+  A couple of problematic mods have been removed for stability.
+
+---
+
+## 🆕 Additions (General)
+
+- Added **HD Animated Crosswalks** `v2.0`
+- Added **Air Kerenzikov Bug Fix** `v1.0`
+- Added **Flatlined Exit** `v1.0`
+- Added **More Vigilant Enemies** `v1.01`
+- Added **Minor Activity Quest Fixes** `v1.0`
+- Added **Silent Bodies** `v0.1`
+- Added **Bolt Shot FX Reset Fix** `v1.1.4`
+- Added **Perk Addition Framework** `v1.0`
+
+---
+
+## 🆕 Additions (Standard Profile)
+
+*(No standard-profile-only additions for this update)*
+
+---
+
+## 🆕 Additions (Immersive Profile)
+
+*(No immersive-profile-only additions for this update)*
+
+---
+
+## 🔄 Updates (General)
+
+- Updated **Ultraskin** to `v7.9`
+- Updated **Ultra Plus** to `v8.0`
+- Updated **Quickhack Fixes** to `v1.2.24`
+- Updated **Rita Wheeler Romanced** to `v3.2`
+- Updated **Romance Hangouts Enhanced** to `v2.3.3`
+- Updated **Merc Protocol – Perk Gameplay Expansion** to `v2.1`
+- Updated **Custom Perk Framework** to `v2.1`
+- Updated **ArchiveXL** to `v1.26.2`
+- Updated **Kiroshi Optics - Deep Scan Protocol** to `v1.4.2`
+- Updated **Depche Mods** to `v1.3.4`
+- Updated **Ammo Limiter** to `v2.6.4`
+- Updated **They Will Remember** to `v2.2.8`
+- Updated **Hold to Overclock while Scanning** to `v1.0.2`
+- Updated **Codeware** to `v1.19`
+- Updated **Quest Vehicle Motion Fixes** to `v1.4`
+- Updated **Auto Drive Enhanced** to `v0.0.0.18`
+- Updated **Metro Pocket Guide** to `v1.2.12`
+
+---
+
+## 🔄 Updates (Standard Profile)
+
+*(No standard-profile-only updates for this update)*
+
+---
+
+## 🔄 Updates (Immersive Profile)
+
+*(No immersive-profile-only updates for this update)*
+
+---
+
+## 🗑 Removals (General)
+
+- Removed **Actually Smart Weapons**
+- Removed **Radial Breach**
+- Removed **Better Netrunning** *(swapped for Much Better Netrunning)*
+- Removed **Custom Hacking System**
+
+---
+
+## 🗑 Removals (Standard Profile)
+
+*(No standard-profile-only removals for this update)*
+
+---
+
+## 🗑 Removals (Immersive Profile)
+
+*(No immersive-profile-only removals for this update)*
+
+---
+
+**Live Hard. Die Chrome.**
+
+</details>
+
+
+<details>
 <summary>v3.2 – January 22, 2026</summary>
 
 ## SAVE COMPATIBLE WITH v3.1 — NEW GAME NOT NEEDED

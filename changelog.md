@@ -22,6 +22,7 @@
 
 ## 🆕 Additions (General)
 
+- Added **Much Better Netrunning** `v0.16`
 - Added **HD Animated Crosswalks** `v2.0`
 - Added **Air Kerenzikov Bug Fix** `v1.0`
 - Added **Flatlined Exit** `v1.0`

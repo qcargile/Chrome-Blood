@@ -55,6 +55,28 @@ As of v3.2, cosmetic mods have been pulled from both profiles. Chrome & Blood is
 
 ---
 
+### What Both Profiles Include
+
+- **Frameworks:** CET, redscript, RED4ext, ArchiveXL, TweakXL, Codeware, Mod Settings — everything you need is already set up.
+- **Visuals:** [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), HDR LUTs, upgraded civilians, and tuned weather/LOD/fog.
+- **Combat:** Faster TTK, smarter AI, faction [reinforcements](https://www.nexusmods.com/cyberpunk2077/mods/21532), and [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467) as the foundation. Fights are quick and punishing.
+- **Weapons:** [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819) and [Damage Scaling and Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865) make every weapon type — guns, blades, cyberware, hacks — worth building around.
+- **Cyberware:** Realistic slot limits and humanity costs. Powered by [Neuralware - Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798) and the [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series.
+- **Perks:** [Merc Protocol – Perk Gameplay Expansion](https://www.nexusmods.com/cyberpunk2077/mods/26751) adds 18 new perks with unique mechanics built for this list.
+- **Vehicles:** Reworked handling, [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675), and a full garage of lore-friendly cars and bikes through [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454).
+- **Stealth & Hacking:** [Stealth Runner](https://www.nexusmods.com/cyberpunk2077/mods/7616), [More Cautious Enemies](https://www.nexusmods.com/cyberpunk2077/mods/23575), [More Vigilant Enemies](https://www.nexusmods.com/cyberpunk2077/mods/26778), and [Dead Body Alert](https://www.nexusmods.com/cyberpunk2077/mods/26746) make stealth actually dangerous. [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) overhauls hacking from the ground up.
+- **Immersion:** [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460), [ammo limits](https://www.nexusmods.com/cyberpunk2077/mods/21807), [bounty hunting](https://www.nexusmods.com/cyberpunk2077/mods/21820), longer day/night cycles, and better ripperdocs all add depth to how the world feels.
+- **Economy:** [Gigs, loot, and rewards](https://www.nexusmods.com/cyberpunk2077/mods/16952) have been rebalanced with a custom Chrome & Blood preset not available anywhere else.
+- **Builds:** Dozens of weapon and cyberware mods give you real options no matter how you play.
+
+### The Bottom Line
+
+This list isn't meant to be easy. With all of the above tuned for **very hard**, in Chrome & Blood's Night City, **survival isn't a right — it's earned.**
+
+*Live Hard. Die Chrome.*
+
+---
+
 ### Links
 
 - **Current Modlist**: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)

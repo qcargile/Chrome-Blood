@@ -26,7 +26,13 @@
       "download": "https://authored-files.wabbajack.org/Chrome \u0026 Blood.wabbajack_b7c60e07-8a9f-4da9-8f16-5172c53f04e2",
       "machineURL": "SchoolBoyQ",
       "discordURL": "https://discord.gg/U65Nhdcns8",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": 408094,
+        "slug": "nfyovh",
+        "domainName": "cyberpunk2077",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "EUInHXIY6Mg=",

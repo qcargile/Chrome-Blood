@@ -156,7 +156,7 @@ You can install Chrome & Blood from [**Nexus Mods**](https://www.nexusmods.com/c
 
 2. Launch **Wabbajack** and go to **Browse Modlists**.
 
-3. Filter by **Cyberpunk 2077** and tick **Non-Featured**.
+3. Filter by **Cyberpunk 2077** and tick **Featured**.
 
 4. Search for **Chrome & Blood** if it doesn't show up right away.
 

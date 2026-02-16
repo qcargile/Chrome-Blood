@@ -233,15 +233,4 @@ Check each mod's page for additional keybind options.
 
 ## Known Issues
 
-### CTD When Selecting Clothing in Virtual Atelier
-**Mods:** Virtual Atelier + Gender-Locked Clothing Mods
 
-Selecting clothing meant for the opposite gender in any Virtual Atelier store will crash the game. Some clothing mods aren't set up for both body types.
-
-**Workaround:** Don't select items that aren't for your character's body type. If the preview looks like Picture 1 below, it'll crash. Picture 2 is what a compatible item looks like.
-
-#### 1
-<img width="825" height="362" alt="image" src="https://github.com/user-attachments/assets/e7f94cce-95f0-4c4a-ac2d-532d288f9703" />
-
-#### 2
-<img width="702" height="265" alt="image" src="https://github.com/user-attachments/assets/fe775a6f-9eaf-48ec-9279-0c718719c288" />

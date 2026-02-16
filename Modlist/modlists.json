@@ -23,29 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/cover.webp",
       "readme": "https://github.com/qcargile/Chrome-Blood/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Chrome \u0026 Blood.wabbajack_b7c60e07-8a9f-4da9-8f16-5172c53f04e2",
+      "download": "https://authored-files.wabbajack.org/Chrome \u0026 Blood.wabbajack_09d91f4c-a9e3-4739-bbd1-9591b57974a6",
       "machineURL": "SchoolBoyQ",
       "discordURL": "https://discord.gg/U65Nhdcns8",
-      "websiteURL": "",
-      "nexusCollection": {
-        "collectionId": 408094,
-        "slug": "nfyovh",
-        "domainName": "cyberpunk2077",
-        "lastRevisionNumber": 1
-      }
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "EUInHXIY6Mg=",
-      "Size": 4050810,
-      "NumberOfArchives": 550,
-      "SizeOfArchives": 11839477302,
-      "NumberOfInstalledFiles": 7522,
-      "SizeOfInstalledFiles": 10795743297,
-      "TotalSize": 22635220599
+      "Hash": "L4e1xud4PXU=",
+      "Size": 3916569,
+      "NumberOfArchives": 541,
+      "SizeOfArchives": 11834984261,
+      "NumberOfInstalledFiles": 7598,
+      "SizeOfInstalledFiles": 10803601138,
+      "TotalSize": 22638585399
     },
-    "version": "3.30",
+    "version": "3.32",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-02T16:18:55.0731523Z",
+    "dateUpdated": "2026-02-16T20:12:36.8647477Z",
     "repositoryName": ""
   }
 ]

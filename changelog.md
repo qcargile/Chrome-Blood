@@ -1,6 +1,110 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v3.32 – February 16, 2026</summary>
+
+## SAVE COMPATIBLE WITH v3.30 — NEW GAME NOT NEEDED
+
+---
+
+## 🛠 Key Notes
+
+- **Much Better Netrunning Feature Complete**  
+  **[Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237)** is now feature complete. Please report any issues or bugs with the mod.
+
+- **New Mod: Corpse Loot Fix**  
+  Created another mod, **[Corpse Loot Fix](https://www.nexusmods.com/cyberpunk2077/mods/27461)**. Please tell me if the vanilla bug this aims to fix is still occurring!
+
+- **Routine Updates**  
+  General mod updates, no other significant changes.
+
+---
+
+## 🆕 Additions (General)
+
+- Added **Minor Activities Quest Fixes** `v1.2`
+- Added **Challenging Breach Minigame** `v1.3.3`
+- Added **AI Trigger Overhaul** `v0.3`
+- Added **Better Lanterns** `v1.0.1`
+- Added **Ranger Combat Boomerang** `v1.0`
+- Added **More Vigilant Enemies - They Will Remember Compatibility Patch** `v1.0`
+- Added **Corpse Loot Fix** `v1.2`
+
+---
+
+## 🆕 Additions (Standard Profile)
+
+*(No standard-profile-only additions for this update)*
+
+---
+
+## 🆕 Additions (Immersive Profile)
+
+*(No immersive-profile-only additions for this update)*
+
+---
+
+## 🔄 Updates (General)
+
+- Updated **Tyger Cache** to `v1.0.4`
+- Updated **Silent Bodies** to `v0.21`
+- Updated **Custom Perk Framework** to `v2.11`
+- Updated **Merc Protocol – Perk Gameplay Expansion** to `v2.11`
+- Updated **Repeatable NCPD Gigs** to `v0.0.0.16`
+- Updated **ReLUX AIO** to `v2.2`
+- Updated **Virtual Car Dealer** to `v2.2.9`
+- Updated **SPLAT – Physics Realistic Ragdoll Overhaul** to `v6.1`
+- Updated **Cop Killer** to `v2.31`
+- Updated **Reimagined** to `v0.3.2`
+- Updated **Kiroshi Optics - Deep Scan Protocol** to `v1.7.1`
+- Updated **Much Better Netrunning** to `v2.0`
+- Updated **Night City Visuals Nulled** to `v3.2`
+- Updated **Night City Fog Nulled** to `v3.2`
+- Updated **Quickhack Fixes** to `v1.3.1`
+- Updated **Romance Hangouts Enhanced** to `v2.4`
+- Updated **Auto Drive Enhanced** to `v0.0.0.19`
+- Updated **Ultra Plus** to `v8.1`
+- Updated **Input QoL** to `v1.1`
+
+---
+
+## 🔄 Updates (Standard Profile)
+
+*(No standard-profile-only updates for this update)*
+
+---
+
+## 🔄 Updates (Immersive Profile)
+
+*(No immersive-profile-only updates for this update)*
+
+---
+
+## 🗑 Removals (General)
+
+- Removed **Hackable and Grabbable Civilians**
+- Removed **ReLUX - All Foods** *(wrapped in the AIO version)*
+
+---
+
+## 🗑 Removals (Standard Profile)
+
+*(No standard-profile-only removals for this update)*
+
+---
+
+## 🗑 Removals (Immersive Profile)
+
+*(No immersive-profile-only removals for this update)*
+
+---
+
+**Live Hard. Die Chrome.**
+
+</details>
+
+
+<details>
 <summary>v3.30 – February 1, 2026</summary>
 
 ## SAVE COMPATIBLE WITH v3.2 — NEW GAME NOT NEEDED

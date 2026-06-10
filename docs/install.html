@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Installation — Chrome &amp; Blood</title>
+<meta name="description" content="How to install Chrome & Blood, a Cyberpunk 2077 Wabbajack modlist: requirements, preinstallation, Wabbajack setup, post-install steps, and keybinds.">
+<meta name="theme-color" content="#0a0b0d">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23fcee0a'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff224c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M4 2h24v20l-8 8H4z" fill="#fcee0a"/><path d="M22 2 8 30H4V2z" fill="#ff224c"/></svg>
+      <span class="brand-name">Chrome <b>&amp;</b> Blood</span>
+    </a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="install.html">Install</a>
+      <a href="changelog.html">Changelog</a>
+      <a href="faq.html">FAQ</a>
+    </div>
+    <a class="nav-cta" href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a>
+  </div>
+</nav>
+
+<header class="page-head">
+  <div class="wrap">
+    <span class="crumb">// SETUP PROTOCOL</span>
+    <h1>Installation</h1>
+    <p class="lede">From clean game to first launch. Follow the steps in order — most install problems come from skipping the preinstallation list.</p>
+  </div>
+</header>
+
+<main class="doc">
+  <div class="wrap">
+
+    <div class="callout red">
+      <p><strong>Read first:</strong> Chrome &amp; Blood requires the <strong style="color:var(--text)">Phantom Liberty DLC</strong> and an <strong style="color:var(--text)">official copy</strong> of Cyberpunk 2077, updated to the latest version on Steam. An <strong style="color:var(--text)">SSD is required</strong> — do not try to run this on an HDD. Only <strong style="color:var(--text)">Windows 10/11</strong> is supported.</p>
+    </div>
+
+    <div class="sec-head" style="margin-top:50px;"><span class="sec-tag">01 · SYSTEM REQUIREMENTS</span><span class="rule"></span></div>
+    <h2 class="sec-title">System Requirements</h2>
+    <p style="color:var(--text-dim); max-width:720px;">Based on internal testing and community feedback. Your mileage will vary depending on hardware, background programs, and drivers.</p>
+    <figure class="frame" style="max-width:840px; margin-top:24px;">
+      <img src="assets/img/sysreq.png" alt="Chrome &amp; Blood system requirements chart" loading="lazy">
+    </figure>
+    <div class="spec-row">
+      <div class="spec-cell"><b>~84.6 GB</b><span>Base Game + DLC</span></div>
+      <div class="spec-cell"><b>~11 GB</b><span>Modlist Downloads</span></div>
+      <div class="spec-cell"><b>~9.6 GB</b><span>Modlist Install</span></div>
+      <div class="spec-cell"><b>~105 GB</b><span>Total Space</span></div>
+    </div>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">02 · PREINSTALLATION</span><span class="rule"></span></div>
+    <h2 class="sec-title">Before You Start</h2>
+    <p style="color:var(--text-dim);">Instructions assume the <strong style="color:var(--text)">Steam version</strong> of the game.</p>
+    <ol class="steps">
+      <li><strong><a href="https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game" target="_blank" rel="noopener">Perform a clean install</a> of Cyberpunk 2077</strong><p>Install it <strong>outside</strong> of <code style="font-family:var(--mono); color:var(--cyan);">Program Files</code>.</p></li>
+      <li><strong>Install the <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" rel="noopener">Visual C++ Redistributables (All-in-One)</a></strong><p>Extract and run <code style="font-family:var(--mono); color:var(--cyan);">install_all.bat</code>.</p></li>
+      <li><strong>Disable Steam auto-updates</strong>
+        <ul class="substeps">
+          <li>Right-click Cyberpunk 2077 in your Steam Library → <strong>Properties</strong></li>
+          <li>Go to the <strong>Updates</strong> tab</li>
+          <li>Set Automatic Updates to <strong>"Only update this game when I launch it"</strong></li>
+          <li>From now on, <strong>only launch the game through Mod Organizer 2</strong></li>
+        </ul>
+      </li>
+      <li><strong>Make sure all official DLC is installed</strong></li>
+      <li><strong>Install <a href="https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/" target="_blank" rel="noopener">REDmod</a></strong><p>It's a free DLC on Steam — Steam must show both <strong>Cyberpunk 2077: REDmod</strong> and <strong>Cyberpunk 2077: Phantom Liberty</strong> as installed.</p></li>
+      <li><strong>Update your GPU drivers</strong><p><a href="https://www.nvidia.com/en-us/software/nvidia-app/" target="_blank" rel="noopener">NVIDIA App</a> or <a href="https://www.amd.com/en/support/download/drivers.html" target="_blank" rel="noopener">AMD Adrenalin</a>.</p></li>
+      <li><strong>Install the <a href="https://dotnet.microsoft.com/en-us/download/dotnet/9.0" target="_blank" rel="noopener">.NET Runtime</a></strong> (latest version)</li>
+      <li><strong>Install the <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener">DirectX End-User Runtime</a></strong></li>
+    </ol>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">03 · INSTALLATION</span><span class="rule"></span></div>
+    <h2 class="sec-title">Install via Wabbajack</h2>
+    <p style="color:var(--text-dim); max-width:760px;">You can install Chrome &amp; Blood from <a href="https://www.nexusmods.com/cyberpunk2077/mods/20942" target="_blank" rel="noopener">Nexus Mods</a> or from the <a href="https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&amp;nsfw=true&amp;showUnofficial=true" target="_blank" rel="noopener">Wabbajack Gallery</a>.</p>
+    <ol class="steps">
+      <li><strong>Download <a href="https://www.wabbajack.org" target="_blank" rel="noopener">Wabbajack</a></strong><p>Put it somewhere safe — not inside your Cyberpunk folder and not in a protected location like Program Files. Example: <code style="font-family:var(--mono); color:var(--cyan);">D:\Wabbajack</code></p></li>
+      <li><strong>Launch Wabbajack and go to Browse Modlists</strong></li>
+      <li><strong>Filter by Cyberpunk 2077</strong> and tick <strong>Featured</strong></li>
+      <li><strong>Search for "Chrome &amp; Blood"</strong> if it doesn't show up right away</li>
+      <li><strong>Click the cover art</strong>, then download and install</li>
+      <li><strong>Set your paths</strong>
+        <ul class="substeps">
+          <li><strong>Installation:</strong> <code style="font-family:var(--mono); color:var(--cyan);">D:\Wabbajack\Chrome &amp; Blood</code></li>
+          <li><strong>Downloads:</strong> <code style="font-family:var(--mono); color:var(--cyan);">D:\Wabbajack\downloads</code> — a shared downloads folder lets different Wabbajack lists reuse the same archives</li>
+          <li>Both folders need to be on the <strong>same drive</strong> as your Cyberpunk install, and <strong>not</strong> inside the game directory or Program Files</li>
+        </ul>
+      </li>
+      <li><strong>Hit Install</strong> and let Wabbajack do its thing</li>
+      <li><strong>Open the install folder</strong> and launch <code style="font-family:var(--mono); color:var(--cyan);">ModOrganizer.exe</code></li>
+      <li><strong>Pick your profile — Immersive or Standard — then hit Run</strong></li>
+    </ol>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">04 · POST-INSTALL</span><span class="rule"></span></div>
+    <h2 class="sec-title">Post-Installation</h2>
+    <div class="callout red">
+      <p><strong>Antivirus warning:</strong> third-party antivirus software (especially BitDefender, Norton, and Webroot) will cause problems with MO2's Virtual File System. You may need to fully remove it for this list to work. <strong style="color:var(--text)">Windows Defender with smart browsing habits is enough.</strong></p>
+      <p>Also disable all overlays — Steam overlay, Discord overlay, GPU software overlays, Xbox Game Bar.</p>
+    </div>
+    <details class="fold">
+      <summary>How to add a Windows Defender exclusion</summary>
+      <div class="fold-body">
+        <ol class="substeps" style="margin-left:18px;">
+          <li>Open <strong>Windows Security</strong></li>
+          <li>Go to <strong>Virus &amp; threat protection</strong></li>
+          <li>Click <strong>Manage settings</strong></li>
+          <li>Scroll to <strong>Exclusions</strong> → <strong>Add or remove exclusions</strong></li>
+          <li>Add your Chrome &amp; Blood installation folder</li>
+          <li>(Optional) Also exclude <code style="font-family:var(--mono); color:var(--cyan);">ModOrganizer.exe</code> and <code style="font-family:var(--mono); color:var(--cyan);">Cyberpunk2077.exe</code></li>
+        </ol>
+      </div>
+    </details>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">05 · UPDATING</span><span class="rule"></span></div>
+    <h2 class="sec-title">Updating the Modlist</h2>
+    <ol class="steps">
+      <li><strong>Download the latest <code style="font-family:var(--mono); color:var(--cyan);">.wabbajack</code> file</strong><p>Or find the updated listing in the Wabbajack gallery.</p></li>
+      <li><strong>Follow the installation steps above</strong> starting from step 2</li>
+      <li><strong>Check the <code style="font-family:var(--mono); color:var(--cyan);">Overwrite</code> box</strong> before installing so updated files get replaced properly</li>
+    </ol>
+    <div class="callout">
+      <p><strong>Back up first:</strong> saves and personal settings live in your profile folder. The <a href="faq.html">FAQ</a> covers exactly what to back up before an update, and how to keep your own added mods safe with the <kbd>[NoDelete]</kbd> tag.</p>
+    </div>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">06 · CONTROLS</span><span class="rule"></span></div>
+    <h2 class="sec-title">Keybinds to Know</h2>
+    <p style="color:var(--text-dim); max-width:760px;">Some of these can be changed in-game or through the <strong style="color:var(--text)">Redscript and CET Mod Settings</strong> menus. The Cyber Engine Tweaks overlay bind is set by you on first launch.</p>
+    <table>
+      <thead><tr><th>Key</th><th>Action</th><th>Mod</th></tr></thead>
+      <tbody>
+        <tr><td><kbd>1</kbd> – <kbd>0</kbd></td><td>Quickhack hotkeys — assign quickhacks to keys for instant casting without the scanner</td><td>Quickhack Hotkeys</td></tr>
+        <tr><td><kbd>O</kbd></td><td>Immersive timeskip menu</td><td>Immersive Timeskip</td></tr>
+        <tr><td><kbd>L-Shift</kbd> / <kbd>Space</kbd></td><td>Nitrous boost (cars / bikes)</td><td>Nitrous</td></tr>
+        <tr><td>Hold <kbd>Shift</kbd> + ADS</td><td>Variable zoom on supported scopes</td><td>Zoomable Scopes</td></tr>
+        <tr><td><kbd>DPad-L Hold</kbd> / <kbd>Mouse 5</kbd></td><td>Toggle flashlight</td><td>Simple Flashlight</td></tr>
+        <tr><td><kbd>F3</kbd></td><td>Night vision (requires Kiroshi Optics)</td><td>Kiroshi Optics Night Vision</td></tr>
+        <tr><td><kbd>T</kbd></td><td>Cycle firing modes (single / burst / auto)</td><td>Trigger Mode Control</td></tr>
+      </tbody>
+    </table>
+    <p style="color:var(--text-dim);">Check each mod's page for additional keybind options.</p>
+
+    <div class="callout" style="margin-top:50px;">
+      <p><strong>Something broken?</strong> Check the <a href="faq.html">FAQ</a> first, then bring your issue to the <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a> — that's where support happens.</p>
+    </div>
+
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="footer-sign"><span class="lh">Live Hard.</span> <span class="dc">Die Chrome.</span></p>
+    <p class="footer-quote">Survival isn't a right — it's earned.</p>
+    <div class="footer-meta">
+      <span>CHROME &amp; BLOOD // A CYBERPUNK 2077 MODLIST</span>
+      <span><a href="https://github.com/qcargile/Chrome-Blood" target="_blank" rel="noopener">GITHUB</a> · <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">DISCORD</a> · NOT AFFILIATED WITH CD PROJEKT RED</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/site.js"></script>
+</body>
+</html>

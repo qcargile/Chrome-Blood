@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FAQ — Chrome &amp; Blood</title>
+<meta name="description" content="Frequently asked questions for the Chrome & Blood Cyberpunk 2077 modlist — backups, updates, gameplay tuning, HUD, performance, and more.">
+<meta name="theme-color" content="#0a0b0d">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23fcee0a'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff224c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M4 2h24v20l-8 8H4z" fill="#fcee0a"/><path d="M22 2 8 30H4V2z" fill="#ff224c"/></svg>
+      <span class="brand-name">Chrome <b>&amp;</b> Blood</span>
+    </a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="install.html">Install</a>
+      <a href="changelog.html">Changelog</a>
+      <a href="faq.html">FAQ</a>
+    </div>
+    <a class="nav-cta" href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a>
+  </div>
+</nav>
+
+<header class="page-head">
+  <div class="wrap">
+    <span class="crumb">// SUPPORT DATABASE</span>
+    <h1>FAQ</h1>
+    <p class="lede">Rendered live from the repository — always current. Can't find your answer? Bring it to the <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a>.</p>
+  </div>
+</header>
+
+<main class="doc">
+  <div class="wrap">
+    <div class="md" id="faq"><p class="loading">PULLING FEED FROM ARCHIVE…</p></div>
+    <p style="margin-top:40px;"><a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md" target="_blank" rel="noopener">View the raw FAQ on GitHub →</a></p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="footer-sign"><span class="lh">Live Hard.</span> <span class="dc">Die Chrome.</span></p>
+    <p class="footer-quote">Survival isn't a right — it's earned.</p>
+    <div class="footer-meta">
+      <span>CHROME &amp; BLOOD // A CYBERPUNK 2077 MODLIST</span>
+      <span><a href="https://github.com/qcargile/Chrome-Blood" target="_blank" rel="noopener">GITHUB</a> · <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">DISCORD</a> · NOT AFFILIATED WITH CD PROJEKT RED</span>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.5/dist/purify.min.js"></script>
+<script src="assets/site.js"></script>
+<script>
+renderMarkdown(
+  "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/FAQ.md",
+  "faq",
+  function (mount) {
+    var first = mount.querySelector("h1");
+    if (first) first.remove();
+
+    var headings = {};
+    mount.querySelectorAll("h2, h3").forEach(function (h) {
+      headings[h.textContent.replace(/[^a-z0-9]+/gi, "").toLowerCase()] = h.id;
+    });
+
+    mount.querySelectorAll("a[href]").forEach(function (a) {
+      var href = a.getAttribute("href");
+      if (href.indexOf("Modlist/FAQ.md#") !== -1 || href.charAt(0) === "#") {
+        var key = a.textContent.replace(/[^a-z0-9]+/gi, "").toLowerCase();
+        if (headings[key]) {
+          a.setAttribute("href", "#" + headings[key]);
+          a.removeAttribute("target");
+        }
+      } else if (href.indexOf("blob/main/changelog.md") !== -1) {
+        a.setAttribute("href", "changelog.html");
+        a.removeAttribute("target");
+      }
+    });
+  }
+);
+</script>
+</body>
+</html>

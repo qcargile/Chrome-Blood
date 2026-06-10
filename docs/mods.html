@@ -46,6 +46,9 @@
     <div class="callout">
       <p><strong>Every mod here is someone's work.</strong> If something in this list makes your game better, endorse it on Nexus — the authors are the reason any of this exists.</p>
     </div>
+
+    <div class="sec-head" style="margin-top:70px;"><span class="sec-tag">RULE 11 · MODIFYING THE LIST</span><span class="rule"></span></div>
+    <div class="md" id="rule11"><p class="loading">PULLING FEED FROM ARCHIVE…</p></div>
   </div>
 </main>
 
@@ -73,6 +76,11 @@ renderMarkdown(
     var blocks = mount.querySelectorAll("details");
     if (blocks.length) blocks[0].open = true;
   }
+);
+renderMarkdown(
+  "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/Rule%2011.md",
+  "rule11",
+  null
 );
 </script>
 </body>

@@ -45,6 +45,7 @@
     <h1 class="hero-title">Chrome <span class="amp">&amp;</span> Blood</h1>
     <p class="hero-tag">Live Hard. Die Chrome.</p>
     <p class="hero-sub">A full overhaul of Cyberpunk 2077 for players who want Night City to fight back. Combat is lethal, builds are everything, and nothing is handed to you.</p>
+    <p class="rel-chip" id="relchip" hidden></p>
     <div class="btn-row">
       <a class="btn btn-primary" href="install.html">Get Started</a>
       <a class="btn btn-ghost" href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Join the Discord</a>
@@ -58,6 +59,17 @@
     <div class="stat"><b>2</b><span>Profiles</span></div>
     <div class="stat"><b>Very Hard</b><span>Tuned For</span></div>
     <div class="stat"><b>2.31a</b><span>Game Patch</span></div>
+  </div>
+</div>
+
+<div class="ticker" aria-hidden="true">
+  <div class="ticker-track" id="ticker">
+    <span><i>NC-NET FEED</i> // CHROME &amp; BLOOD</span>
+    <span><b>500+</b> MODS ACTIVE</span>
+    <span>TUNED FOR <b>VERY HARD</b></span>
+    <span>TWO PROFILES — <i>IMMERSIVE</i> / <i>STANDARD</i></span>
+    <span>SUPPORT + COMMUNITY ON <i>DISCORD</i></span>
+    <span>SURVIVAL ISN'T A RIGHT — <b>IT'S EARNED</b></span>
   </div>
 </div>
 
@@ -301,6 +313,17 @@
   </div>
 </section>
 
+<div class="cta-band">
+  <div class="wrap">
+    <h2 class="reveal">Ready to <span class="accent">jack in?</span></h2>
+    <p class="reveal">Night City is waiting, and it isn't going to be nice about it.</p>
+    <div class="btn-row reveal">
+      <a class="btn btn-primary" href="install.html">Install Chrome &amp; Blood</a>
+      <a class="btn btn-ghost" href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Join the Discord</a>
+    </div>
+  </div>
+</div>
+
 <footer class="site-footer">
   <div class="wrap">
     <p class="footer-sign"><span class="lh">Live Hard.</span> <span class="dc">Die Chrome.</span></p>
@@ -313,5 +336,31 @@
 </footer>
 
 <script src="assets/site.js"></script>
+<script>
+(function () {
+  var pool = ["city.jpg", "combat.jpg", "stealth.jpg", "vehicles.jpg", "world.jpg", "whatis.jpg"];
+  var pick = pool[Math.floor(Math.random() * pool.length)];
+  if (pick !== "city.jpg") {
+    document.querySelector(".hero-bg").style.setProperty("--hero-img", "url('assets/img/" + pick + "')");
+  }
+
+  fetch("https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/changelog.md")
+    .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
+    .then(function (md) {
+      var m = md.match(/<summary>\s*(v[\d.]+\S*)\s*[–-]\s*([^<\n]+?)\s*<\/summary>/);
+      if (!m) return;
+      var chip = document.getElementById("relchip");
+      chip.innerHTML = '<i>CURRENT RELEASE</i> <b>' + m[1] + '</b> // ' + m[2].toUpperCase();
+      chip.hidden = false;
+      var t = document.getElementById("ticker");
+      t.insertAdjacentHTML("afterbegin", "<span>LATEST RELEASE <b>" + m[1] + "</b> — " + m[2].toUpperCase() + "</span>");
+    })
+    .catch(function () {})
+    .finally(function () {
+      var t = document.getElementById("ticker");
+      t.innerHTML += t.innerHTML;
+    });
+})();
+</script>
 </body>
 </html>

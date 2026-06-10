@@ -6,7 +6,7 @@
 <title>Installation — Chrome &amp; Blood</title>
 <meta name="description" content="How to install Chrome & Blood, a Cyberpunk 2077 Wabbajack modlist: requirements, preinstallation, Wabbajack setup, post-install steps, and keybinds.">
 <meta name="theme-color" content="#0a0b0d">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23fcee0a'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff224c'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23c9d7f0'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff2e44'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
@@ -17,12 +17,13 @@
 <nav class="site-nav">
   <div class="wrap">
     <a class="brand" href="index.html">
-      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M4 2h24v20l-8 8H4z" fill="#fcee0a"/><path d="M22 2 8 30H4V2z" fill="#ff224c"/></svg>
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M4 2h24v20l-8 8H4z" fill="#c9d7f0"/><path d="M22 2 8 30H4V2z" fill="#ff2e44"/></svg>
       <span class="brand-name">Chrome <b>&amp;</b> Blood</span>
     </a>
     <div class="nav-links">
       <a href="index.html">Home</a>
       <a href="install.html">Install</a>
+      <a href="mods.html">Mods</a>
       <a href="changelog.html">Changelog</a>
       <a href="faq.html">FAQ</a>
     </div>
@@ -62,8 +63,8 @@
     <h2 class="sec-title">Before You Start</h2>
     <p style="color:var(--text-dim);">Instructions assume the <strong style="color:var(--text)">Steam version</strong> of the game.</p>
     <ol class="steps">
-      <li><strong><a href="https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game" target="_blank" rel="noopener">Perform a clean install</a> of Cyberpunk 2077</strong><p>Install it <strong>outside</strong> of <code style="font-family:var(--mono); color:var(--cyan);">Program Files</code>.</p></li>
-      <li><strong>Install the <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" rel="noopener">Visual C++ Redistributables (All-in-One)</a></strong><p>Extract and run <code style="font-family:var(--mono); color:var(--cyan);">install_all.bat</code>.</p></li>
+      <li><strong><a href="https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game" target="_blank" rel="noopener">Perform a clean install</a> of Cyberpunk 2077</strong><p>Install it <strong>outside</strong> of <code style="font-family:var(--mono); color:var(--secondary);">Program Files</code>.</p></li>
+      <li><strong>Install the <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" rel="noopener">Visual C++ Redistributables (All-in-One)</a></strong><p>Extract and run <code style="font-family:var(--mono); color:var(--secondary);">install_all.bat</code>.</p></li>
       <li><strong>Disable Steam auto-updates</strong>
         <ul class="substeps">
           <li>Right-click Cyberpunk 2077 in your Steam Library → <strong>Properties</strong></li>
@@ -83,20 +84,20 @@
     <h2 class="sec-title">Install via Wabbajack</h2>
     <p style="color:var(--text-dim); max-width:760px;">You can install Chrome &amp; Blood from <a href="https://www.nexusmods.com/cyberpunk2077/mods/20942" target="_blank" rel="noopener">Nexus Mods</a> or from the <a href="https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&amp;nsfw=true&amp;showUnofficial=true" target="_blank" rel="noopener">Wabbajack Gallery</a>.</p>
     <ol class="steps">
-      <li><strong>Download <a href="https://www.wabbajack.org" target="_blank" rel="noopener">Wabbajack</a></strong><p>Put it somewhere safe — not inside your Cyberpunk folder and not in a protected location like Program Files. Example: <code style="font-family:var(--mono); color:var(--cyan);">D:\Wabbajack</code></p></li>
+      <li><strong>Download <a href="https://www.wabbajack.org" target="_blank" rel="noopener">Wabbajack</a></strong><p>Put it somewhere safe — not inside your Cyberpunk folder and not in a protected location like Program Files. Example: <code style="font-family:var(--mono); color:var(--secondary);">D:\Wabbajack</code></p></li>
       <li><strong>Launch Wabbajack and go to Browse Modlists</strong></li>
       <li><strong>Filter by Cyberpunk 2077</strong> and tick <strong>Featured</strong></li>
       <li><strong>Search for "Chrome &amp; Blood"</strong> if it doesn't show up right away</li>
       <li><strong>Click the cover art</strong>, then download and install</li>
       <li><strong>Set your paths</strong>
         <ul class="substeps">
-          <li><strong>Installation:</strong> <code style="font-family:var(--mono); color:var(--cyan);">D:\Wabbajack\Chrome &amp; Blood</code></li>
-          <li><strong>Downloads:</strong> <code style="font-family:var(--mono); color:var(--cyan);">D:\Wabbajack\downloads</code> — a shared downloads folder lets different Wabbajack lists reuse the same archives</li>
+          <li><strong>Installation:</strong> <code style="font-family:var(--mono); color:var(--secondary);">D:\Wabbajack\Chrome &amp; Blood</code></li>
+          <li><strong>Downloads:</strong> <code style="font-family:var(--mono); color:var(--secondary);">D:\Wabbajack\downloads</code> — a shared downloads folder lets different Wabbajack lists reuse the same archives</li>
           <li>Both folders need to be on the <strong>same drive</strong> as your Cyberpunk install, and <strong>not</strong> inside the game directory or Program Files</li>
         </ul>
       </li>
       <li><strong>Hit Install</strong> and let Wabbajack do its thing</li>
-      <li><strong>Open the install folder</strong> and launch <code style="font-family:var(--mono); color:var(--cyan);">ModOrganizer.exe</code></li>
+      <li><strong>Open the install folder</strong> and launch <code style="font-family:var(--mono); color:var(--secondary);">ModOrganizer.exe</code></li>
       <li><strong>Pick your profile — Immersive or Standard — then hit Run</strong></li>
     </ol>
 
@@ -115,7 +116,7 @@
           <li>Click <strong>Manage settings</strong></li>
           <li>Scroll to <strong>Exclusions</strong> → <strong>Add or remove exclusions</strong></li>
           <li>Add your Chrome &amp; Blood installation folder</li>
-          <li>(Optional) Also exclude <code style="font-family:var(--mono); color:var(--cyan);">ModOrganizer.exe</code> and <code style="font-family:var(--mono); color:var(--cyan);">Cyberpunk2077.exe</code></li>
+          <li>(Optional) Also exclude <code style="font-family:var(--mono); color:var(--secondary);">ModOrganizer.exe</code> and <code style="font-family:var(--mono); color:var(--secondary);">Cyberpunk2077.exe</code></li>
         </ol>
       </div>
     </details>
@@ -123,9 +124,9 @@
     <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">05 · UPDATING</span><span class="rule"></span></div>
     <h2 class="sec-title">Updating the Modlist</h2>
     <ol class="steps">
-      <li><strong>Download the latest <code style="font-family:var(--mono); color:var(--cyan);">.wabbajack</code> file</strong><p>Or find the updated listing in the Wabbajack gallery.</p></li>
+      <li><strong>Download the latest <code style="font-family:var(--mono); color:var(--secondary);">.wabbajack</code> file</strong><p>Or find the updated listing in the Wabbajack gallery.</p></li>
       <li><strong>Follow the installation steps above</strong> starting from step 2</li>
-      <li><strong>Check the <code style="font-family:var(--mono); color:var(--cyan);">Overwrite</code> box</strong> before installing so updated files get replaced properly</li>
+      <li><strong>Check the <code style="font-family:var(--mono); color:var(--secondary);">Overwrite</code> box</strong> before installing so updated files get replaced properly</li>
     </ol>
     <div class="callout">
       <p><strong>Back up first:</strong> saves and personal settings live in your profile folder. The <a href="faq.html">FAQ</a> covers exactly what to back up before an update, and how to keep your own added mods safe with the <kbd>[NoDelete]</kbd> tag.</p>

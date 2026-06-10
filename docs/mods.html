@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FAQ — Chrome &amp; Blood</title>
-<meta name="description" content="Frequently asked questions for the Chrome & Blood Cyberpunk 2077 modlist — backups, updates, gameplay tuning, HUD, performance, and more.">
+<title>The Mods — Chrome &amp; Blood</title>
+<meta name="description" content="The biggest gameplay mods in Chrome & Blood and what each one does — immersion, combat, quests, vehicles, weapons, progression, and UI, rendered live from the repository.">
 <meta name="theme-color" content="#0a0b0d">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23c9d7f0'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff2e44'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -33,16 +33,19 @@
 
 <header class="page-head">
   <div class="wrap">
-    <span class="crumb">// SUPPORT DATABASE</span>
-    <h1>FAQ</h1>
-    <p class="lede">Rendered live from the repository — always current. Can't find your answer? Bring it to the <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a>.</p>
+    <span class="crumb">// LOADOUT MANIFEST</span>
+    <h1>The Mods</h1>
+    <p class="lede">The biggest gameplay mods in the list and what they do — not a comprehensive inventory, just the work that defines the experience. For every single mod in priority order, see the <a href="https://loadorderlibrary.com/lists/chrome-blood-2" target="_blank" rel="noopener">full load order</a>.</p>
   </div>
 </header>
 
 <main class="doc">
   <div class="wrap">
-    <div class="md" id="faq"><p class="loading">PULLING FEED FROM ARCHIVE…</p></div>
-    <p style="margin-top:40px;"><a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md" target="_blank" rel="noopener">View the raw FAQ on GitHub →</a></p>
+    <div class="md" id="mods"><p class="loading">PULLING FEED FROM ARCHIVE…</p></div>
+    <p style="margin-top:40px;"><a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md" target="_blank" rel="noopener">View the raw document on GitHub →</a></p>
+    <div class="callout">
+      <p><strong>Every mod here is someone's work.</strong> If something in this list makes your game better, endorse it on Nexus — the authors are the reason any of this exists.</p>
+    </div>
   </div>
 </main>
 
@@ -62,33 +65,13 @@
 <script src="assets/site.js"></script>
 <script>
 renderMarkdown(
-  "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/FAQ.md",
-  "faq",
+  "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/Load%20Order.md",
+  "mods",
   function (mount) {
-    var first = mount.querySelector("h1");
+    var first = mount.querySelector("h2");
     if (first) first.remove();
-
-    var headings = {};
-    mount.querySelectorAll("h2, h3").forEach(function (h) {
-      headings[h.textContent.replace(/[^a-z0-9]+/gi, "").toLowerCase()] = h.id;
-    });
-
-    mount.querySelectorAll("a[href]").forEach(function (a) {
-      var href = a.getAttribute("href");
-      if (href.indexOf("Modlist/FAQ.md#") !== -1 || href.charAt(0) === "#") {
-        var key = a.textContent.replace(/[^a-z0-9]+/gi, "").toLowerCase();
-        if (headings[key]) {
-          a.setAttribute("href", "#" + headings[key]);
-          a.removeAttribute("target");
-        }
-      } else if (href.indexOf("blob/main/changelog.md") !== -1) {
-        a.setAttribute("href", "changelog.html");
-        a.removeAttribute("target");
-      } else if (href.indexOf("Load%20Order.md") !== -1 || href.indexOf("Load Order.md") !== -1) {
-        a.setAttribute("href", "mods.html");
-        a.removeAttribute("target");
-      }
-    });
+    var blocks = mount.querySelectorAll("details");
+    if (blocks.length) blocks[0].open = true;
   }
 );
 </script>

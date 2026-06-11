@@ -778,21 +778,31 @@ details.fold .fold-body { padding: 4px 22px 20px; color: var(--text-dim); }
 .lo-search:focus { outline: none; border-color: var(--primary-dim); }
 .lo-search::placeholder { color: var(--text-faint); }
 .lo-meta { font-family: var(--mono); font-size: 12px; letter-spacing: 0.1em; color: var(--text-faint); margin-bottom: 26px; }
-.lo-group { margin: 30px 0 6px; }
-.lo-group h3 {
+.lo-group { margin: 14px 0; }
+.lo-group summary {
+  cursor: pointer;
+  list-style: none;
   font-family: var(--label);
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--primary);
-  border-bottom: 1px solid var(--line-bright);
-  padding-bottom: 8px;
+  border: 1px solid var(--line);
+  background: var(--bg2);
+  padding: 13px 16px;
   display: flex;
   justify-content: space-between;
+  align-items: baseline;
   gap: 12px;
+  transition: border-color 0.15s;
 }
-.lo-group h3 small { font-family: var(--mono); font-weight: 400; font-size: 11px; color: var(--text-faint); letter-spacing: 0.1em; }
+.lo-group summary:hover { border-color: var(--primary-dim); }
+.lo-group summary::before { content: "▸ "; }
+.lo-group[open] summary::before { content: "▾ "; }
+.lo-group summary::-webkit-details-marker { display: none; }
+.lo-group summary small { font-family: var(--mono); font-weight: 400; font-size: 11px; color: var(--text-faint); letter-spacing: 0.1em; margin-left: auto; }
+.lo-group .lo-list { padding: 4px 6px 10px; }
 .lo-list { list-style: none; }
 .lo-row { display: flex; align-items: baseline; gap: 14px; padding: 7px 6px; border-bottom: 1px dashed rgba(61, 67, 76, 0.45); }
 .lo-row .idx { font-family: var(--mono); font-size: 11px; color: var(--text-faint); min-width: 34px; text-align: right; flex: none; }

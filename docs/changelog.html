@@ -66,6 +66,8 @@ renderMarkdown(
   "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/changelog.md",
   "changelog",
   function (mount) {
+    var note = mount.querySelector("blockquote");
+    if (note && note.textContent.indexOf("Click a version") !== -1) note.remove();
     var nav = document.getElementById("vernav");
     var blocks = mount.querySelectorAll("details");
     blocks.forEach(function (d, i) {

@@ -1,6 +1,7 @@
 ![chrome and blood](https://github.com/user-attachments/assets/51c77680-565a-42ce-895f-51848c845839)
 
 >[!IMPORTANT]
+>- Everything about the list — install guide, the mods, full load order, changelog, FAQ — lives on the **[Chrome & Blood website](https://qcargile.github.io/Chrome-Blood/)**.
 >- Chrome & Blood requires the Phantom Liberty DLC.
 >- This list has been updated for official game patch 2.31!
 
@@ -79,10 +80,12 @@ This list isn't meant to be easy. With all of the above tuned for **very hard**,
 
 ### Links
 
-- **Current Modlist**: [Chrome & Blood Load Order](https://qcargile.github.io/Chrome-Blood/loadorder.html)
-- **Changelog**: [v3.30](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
+- **Website**: [qcargile.github.io/Chrome-Blood](https://qcargile.github.io/Chrome-Blood/)
+- **Full Load Order**: [Every mod, searchable](https://qcargile.github.io/Chrome-Blood/loadorder.html)
+- **Mod Breakdown**: [The biggest mods and what they do](https://qcargile.github.io/Chrome-Blood/mods.html)
+- **Changelog**: [Every release](https://qcargile.github.io/Chrome-Blood/changelog.html)
+- **FAQ**: [Frequently Asked Questions](https://qcargile.github.io/Chrome-Blood/faq.html)
 - **Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
-- **FAQ**: [Here](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md)
 
 
 ## System Requirements
@@ -233,4 +236,5 @@ Check each mod's page for additional keybind options.
 
 ## Known Issues
 
+None tracked right now. Check the [FAQ](https://qcargile.github.io/Chrome-Blood/faq.html) for common questions, or ask in the [Discord](https://discord.gg/U65Nhdcns8).
 

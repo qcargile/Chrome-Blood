@@ -133,8 +133,12 @@
     metaEl.textContent = (q ? shown + " / " + total : total) + " MODS · " + active.toUpperCase() + " PROFILE · UPDATED " + data.generated + (data.release ? " · " + data.release.toUpperCase() : "");
   }
 
-  fetch("https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/loadorder.json")
-    .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+  var SRC = "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/loadorder.json";
+  function load(opts) {
+    return fetch(SRC, opts).then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); });
+  }
+  load({})
+    .catch(function () { return load({ cache: "reload" }); })
     .then(function (json) {
       data = json;
       var names = Object.keys(data.profiles);

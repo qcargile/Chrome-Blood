@@ -807,6 +807,8 @@ details.fold .fold-body { padding: 4px 22px 20px; color: var(--text-dim); }
 .lo-row { display: flex; align-items: baseline; gap: 14px; padding: 7px 6px; border-bottom: 1px dashed rgba(61, 67, 76, 0.45); }
 .lo-row .idx { font-family: var(--mono); font-size: 11px; color: var(--text-faint); min-width: 34px; text-align: right; flex: none; }
 .lo-row .nm { color: var(--text-dim); }
+.lo-row a.nm { color: var(--text-dim); }
+.lo-row a.nm:hover { color: var(--gold-bright); border-bottom-color: var(--gold-bright); }
 .lo-row .vv { font-family: var(--mono); font-size: 12px; color: var(--secondary-dim); margin-left: auto; flex: none; }
 .lo-row.hide, .lo-group.hide { display: none; }
 

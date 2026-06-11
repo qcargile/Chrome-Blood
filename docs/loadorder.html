@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=20260610g">
+<link rel="stylesheet" href="assets/style.css?v=20260610h">
 </head>
 <body>
 
@@ -35,7 +35,7 @@
   <div class="wrap">
     <span class="crumb">// PRIORITY MANIFEST</span>
     <h1>Load Order</h1>
-    <p class="lede">Every mod in the list, in the order MO2 loads them. Click a category to expand it, or just type to search. <a href="mods.html">The Mods</a> covers what the big ones actually do.</p>
+    <p class="lede">Every mod in the list, in the order MO2 loads them. Click a category to expand it, a mod to open its Nexus page, or just type to search. <a href="mods.html">The Mods</a> covers what the big ones actually do.</p>
   </div>
 </header>
 
@@ -62,7 +62,7 @@
   </div>
 </footer>
 
-<script src="assets/site.js?v=20260610g"></script>
+<script src="assets/site.js?v=20260610h"></script>
 <script>
 (function () {
   var data = null;
@@ -96,7 +96,15 @@
       var idx = document.createElement("span");
       idx.className = "idx";
       idx.textContent = String(i + 1).padStart(3, "0");
-      var nm = document.createElement("span");
+      var nm;
+      if (m.id) {
+        nm = document.createElement("a");
+        nm.href = "https://www.nexusmods.com/cyberpunk2077/mods/" + m.id;
+        nm.target = "_blank";
+        nm.rel = "noopener";
+      } else {
+        nm = document.createElement("span");
+      }
       nm.className = "nm";
       nm.textContent = m.n;
       li.appendChild(idx);

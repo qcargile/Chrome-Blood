@@ -1,4 +1,4 @@
-## [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
+## [Chrome & Blood Load Order](https://qcargile.github.io/Chrome-Blood/loadorder.html)
 
 ### Biggest gameplay mods in the list and what they do  
 > **This is not a comprehensive list**, just the mods that have the biggest impact on gameplay you should be aware of.

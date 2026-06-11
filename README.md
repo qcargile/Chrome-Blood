@@ -79,7 +79,7 @@ This list isn't meant to be easy. With all of the above tuned for **very hard**,
 
 ### Links
 
-- **Current Modlist**: [Chrome & Blood Load Order](https://loadorderlibrary.com/lists/chrome-blood-2)
+- **Current Modlist**: [Chrome & Blood Load Order](https://qcargile.github.io/Chrome-Blood/loadorder.html)
 - **Changelog**: [v3.30](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)
 - **Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
 - **FAQ**: [Here](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md)

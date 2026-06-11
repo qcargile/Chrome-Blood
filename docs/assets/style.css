@@ -323,9 +323,7 @@ section.block:last-of-type { padding-bottom: 96px; }
   gap: 60px;
   align-items: center;
   padding: 50px 0;
-  border-bottom: 1px solid var(--line);
 }
-.pillar:last-child { border-bottom: none; }
 .pillar.flip .pillar-media { order: -1; }
 
 .pillar-copy p { color: var(--text-dim); margin-bottom: 18px; }

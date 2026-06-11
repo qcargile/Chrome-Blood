@@ -49,6 +49,12 @@ function renderMarkdown(rawUrl, mountId, postProcess) {
         }
       });
       if (postProcess) postProcess(mount);
+      if (location.hash) {
+        var anchor = document.getElementById(location.hash.slice(1));
+        if (anchor) {
+          window.scrollTo({ top: anchor.getBoundingClientRect().top + window.scrollY - 84, behavior: "instant" });
+        }
+      }
     })
     .catch(function (err) {
       mount.innerHTML =

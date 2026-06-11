@@ -1,0 +1,5102 @@
+{
+  "generated": "2026-06-10",
+  "release": "v3.32+",
+  "instance": "Chrome & Blood",
+  "profiles": {
+    "Immersive": {
+      "count": 508,
+      "mods": [
+        {
+          "n": "disable CrashReporter (MO CET fix)",
+          "v": "",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Cyber Engine Tweaks",
+          "v": "1.37.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "RED4ext",
+          "v": "1.30",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "redscript",
+          "v": "0.5.31",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "ArchiveXL",
+          "v": "1.26.4",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "TweakXL",
+          "v": "1.11.3",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Codeware",
+          "v": "1.20.3",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Mod Settings",
+          "v": "0.2.21",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Native Settings UI",
+          "v": "1.96",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Trigger Mode Control",
+          "v": "2.8.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Input Loader",
+          "v": "0.2.3",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Reflex is Cool",
+          "v": "1.0.2",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Browser Extension",
+          "v": "0.9.7",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "VendorsXL",
+          "v": "2.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Reds Logging Headers",
+          "v": "1.0",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Audioware",
+          "v": "1.9.2",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "RedFileSystem",
+          "v": "0.15.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "RedData",
+          "v": "0.10",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Vehicle Resources",
+          "v": "1.0.6",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Archive Conflict Checker Tool",
+          "v": "0.5",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Throttled Activity Log",
+          "v": "1.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Deceptious Quest Core",
+          "v": "3.1.5",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Deceptious Quest Core Utilities and Settings",
+          "v": "1.2.2",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "ReImagined",
+          "v": "0.3.2",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Custom Perk Framework",
+          "v": "2.12",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Perk Addition Framework",
+          "v": "1.0",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Status Effect ReColor",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Map Search",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Limited HUD",
+          "v": "2.22",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Vendor Search",
+          "v": "1.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Inventory Sorting Improved",
+          "v": "1.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Stand Still Please",
+          "v": "2.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "No Default Equipped Weapon In Inventory",
+          "v": "1.2",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "More Weapon and Inventory Filters",
+          "v": "2.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "HUD Painter",
+          "v": "1.3",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Named Saves",
+          "v": "2.6.4",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Equipment-EX",
+          "v": "1.2.9",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Wardrobe Courier - EquipmentEx Addon",
+          "v": "1.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Crafting Component Quantity Text",
+          "v": "0.0.0.5",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Muted Markers",
+          "v": "2.3.6",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Backpack Search",
+          "v": "1.2.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Stash Search",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Stash Filters",
+          "v": "2.1.2",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Revised Backpack",
+          "v": "0.9.13",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Loot Icons Extension",
+          "v": "1.53",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Quickhack Hotkeys",
+          "v": "2.3.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Find-EX",
+          "v": "1.2",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "No Camera Auto Centering",
+          "v": "0.9",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Pre-2.0 NCPD Scanner Map Icons",
+          "v": "1.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Vehicle Durability Display - Top",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Alternative Quest Icons",
+          "v": "1.2",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Inventory Adjustments Hub",
+          "v": "1.3",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "City of Dreams Menu Backgrounds",
+          "v": "1.4",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Cleaner Main Menu and Pause Menu",
+          "v": "2.3",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Better UI Character Lighting",
+          "v": "2.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Flatlined Exit",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Fast Travel to Apartment",
+          "v": "0.0.0.9",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "SynthDose - More Drugs",
+          "v": "1.3.9",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Stash and Vendors QoL - move stack - select group - move group",
+          "v": "0.9",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Raven Gemini II - Full Body Conversion Cyberware - Complete",
+          "v": "1.4.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Raven Gemini II - Interlinked Weapon Modifications",
+          "v": "1.1.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Raven Gemini II - Gold Plated Interface Addon",
+          "v": "1.0.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Hold to Overclock while scanning",
+          "v": "1.0.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Disassemble Weapons for Recipes (DAWR)",
+          "v": "1.0.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "No Intro Videos",
+          "v": "0.5",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Air's Inertia Returns",
+          "v": "1.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Looting QoL",
+          "v": "1.8",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Input QoL",
+          "v": "1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Retrothrusters QoL",
+          "v": "1.3",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Remove the holes left by the injection (and other)",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Computer Scrolling",
+          "v": "1.30.0.0b",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Ping Tags Enemies",
+          "v": "1.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Numerals Get Commas",
+          "v": "1.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Real Vendor Names",
+          "v": "2.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Stand After Sliding",
+          "v": "0.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Disable W-S Keys For Select Dialogue Options (Patch 2.2 Compatible)",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Stealth Remote Control Cars and Turrets",
+          "v": "1.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Allow Unbound Actions (Keybinds)",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Clear Skill Checks",
+          "v": "1.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Don't Hide Stamina Bar on Holster (Bug Fix)",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Crafting Recipe Owned Labels",
+          "v": "1.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Custom Quickslots (Consumables Grenades and Cyberware Abilities)",
+          "v": "5.3.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Kabuki Gun Range Enhanced",
+          "v": "1.2.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "The Passenger - Feature Settings",
+          "v": "2.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Parking Spots Enhanced",
+          "v": "1.2.3",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "QoL - Faster Checkpoints",
+          "v": "1.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "QoL - Interactive Judy's Apartment Devices",
+          "v": "3.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Silent Silencers and Throwing Knives",
+          "v": "1.6.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Filter Saves by Lifepath and Type",
+          "v": "1.6.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Smarter Scrapper",
+          "v": "2.3.5",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Mark To Sell",
+          "v": "2.5.4",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Fighting Gangs Allowed - Reasonable Police",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Adaptive Sliders",
+          "v": "2024.0.0.0-06-10",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Faster Vehicle Knockback Animation",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Clean Computer Wallpaper",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Gorilla Grapple",
+          "v": "1.4",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Faster Iguana Hatch",
+          "v": "2.0.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Intuitive Projectile Launcher System",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Actual Chrome Compression",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Quickhack Loadouts",
+          "v": "1.4.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Improved NCPD Map Filters",
+          "v": "2.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Bolt Shot FX Reset Fix",
+          "v": "1.1.4",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Minor Activities Quest Fixes",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Stats Bar UI Fix",
+          "v": "1.0.0.0-for-2.31",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Item Records Fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Movement And Camera Tweaks",
+          "v": "1.41",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Air Kerenzikov Bug Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Buzzsaw VFX Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Semimaru Quest Restart Bug Fix (Reworked For 2.31)",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Silver Pixel Cloud Drive-in Gates Game Bug Patch",
+          "v": "1.0.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - NCART Train Motion Fixes",
+          "v": "1.2.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Path Of Glory - Afterlife scene bug fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Path of Glory - Restore Gun Equip in Shuttle Scene",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Quest Vehicle Motion Fixes",
+          "v": "1.4",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Holdin' On - Kerrys' mansion scene bug fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Anti-whiplash driving camera",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Finished Quests Sorted (2.21 Supported)",
+          "v": "f1.01",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Map Exit Nuclear Explosion Fix",
+          "v": "0.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Stamina Consumption Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Shooting Stamina Cost Reduction Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Hammers are not bats (tooltip fix)",
+          "v": "1.0.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Bounty class stars fix",
+          "v": "1.0.0.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Disable Quest Weather",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Throwing Weapon Kerenzikov Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Ragdoll Execution Fix",
+          "v": "1.0.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Melee Attacks Fixes And Enhancements",
+          "v": "0.41",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Streaming Bug Workaround",
+          "v": "0.26",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Vehicle Exit Fix for 2.3",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Flashback Fixer",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Psycho Killer Reward - Restored",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Damage Color Fix (LHUD)",
+          "v": "2.17.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Quickhack Damage Fix",
+          "v": "1.0.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Radio Port Vehicle Fix",
+          "v": "1.1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Crystal Coat Fix v2.12",
+          "v": "5.3",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Deceptious Bug Fixes",
+          "v": "1.2.4",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Enemies Dodging Fix",
+          "v": "0.11",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Status Bar Bug Fixes",
+          "v": "1.8",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Smart Gun Lock Speed Fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Quest Trigger Fixes (2.3 Supported)",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "RAM bar fix - Mod Settings",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Rasetsu screens bug fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Passenger Targeting Fix",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Bug Fix - Recon Grenade Bouce Fix",
+          "v": "2.12",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Dash Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Car Dodge Stutter Fix",
+          "v": "0.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "In Cold Blood - NPC Execution Fix",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Database Fixes",
+          "v": "f1.09",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Fix Advert Animations",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Mute Menu Humming (with Inventory - Scan options)",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "No uncrouching when melee attacking from stealth",
+          "v": "f1.01",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Eddies Notification Fix (2.21 Supported)",
+          "v": "f1.01",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Judy Identity Privacy - for Male V",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Game v2.0 patch - Quick Message Exit",
+          "v": "1.0.3",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Sensible Time Bomb",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Comrade's Hammer Restored",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Less Samurai",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Quickhack Fixes",
+          "v": "1.3.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Keep Drawing The Line (ricochet preview)",
+          "v": "3.4.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Keep Drawing The Line - Invisible Standby Line",
+          "v": "alt",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Deadeye Sound Remover",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Delete -A Few Weeks Tops- Vik Voiceline",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Sonic Shock Prevents Trace (restored)",
+          "v": "1.3",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "AI Trigger Overhaul - More Perceptive NPCs",
+          "v": "0.3",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Challenging Breach Minigame",
+          "v": "1.3.3",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "More Vigilant Enemies",
+          "v": "f1.01",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "More Vigilant Enemies - They Will Remember Compatibility Patch",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Silent Bodies",
+          "v": "0.21",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Dead Body Alert",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Allow Highest AI LOD",
+          "v": "0.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Barbed Wire Knockout Effect Disabled",
+          "v": "1.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Depeche Mods - Unified Weapon Modification",
+          "v": "1.3.4",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Damage Scaling and Balance (Formerly Level Scaling)",
+          "v": "4.3",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Damage Scaling and Balance - Extended",
+          "v": "3.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Dark Future - Urban Survival Gameplay",
+          "v": "2.0.3.0-for-2.31",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Immersive Shooting AI",
+          "v": "1.0.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "More Cautious And Chaotic Enemies",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Repeatable NCPD Gigs - WIP",
+          "v": "0.0.0.16",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Manual Reload",
+          "v": "1.2.4",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Discard magazine ammo on reload",
+          "v": "1.2.8.5",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Tougher Security Turrets",
+          "v": "0.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Ammo Limiter - Realistic Ammunition Management",
+          "v": "2.6.4",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Bounties Restored",
+          "v": "1.0.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Reinforcements System",
+          "v": "1.1.3",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Body Shield",
+          "v": "1.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Buttslinger Quickmelee",
+          "v": "2.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Trace Position Overhaul",
+          "v": "2.1.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Enhanced Craft",
+          "v": "4.0.7",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Pyro Extended Weapon Mods",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Always First Equip",
+          "v": "2.1.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Ricochet Redux",
+          "v": "4.1.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Humanity - Cyberpsycho Missions",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Optical Camo Realism and Utility - Partial CD",
+          "v": "cd-2.0.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Stealthrunner - Stealth Gameplay Expansion",
+          "v": "1.10",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Better Chimera Mods",
+          "v": "1.1.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Random Netrunners",
+          "v": "1.2.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Better Access Point Hacking Netrunner Rewards",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Enemy Aggro Improvements",
+          "v": "0.1.0.0a",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "They Will Remember",
+          "v": "2.2.8",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Enemies of Night City",
+          "v": "0.42",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Guns Redone V3.0 PL - Armor Pieces Improvements",
+          "v": "2.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Better Armor Scaling - Smooth Preset",
+          "v": "2.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "CyberwareEX",
+          "v": "1.5.5",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Heat Converter",
+          "v": "1.2.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Cyberware Improved",
+          "v": "1.5",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Megingjord (Hover Legs)",
+          "v": "1.3.3",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Jarngreipr (Lightning Projectile Launcher)",
+          "v": "1.3.3",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Black Budget Classified Limbs - Iconic Cyberarms Pack",
+          "v": "2.2",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "MK VII Helio Trace",
+          "v": "1.0",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Extra Hands (cyberware)",
+          "v": "2.2.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Kiroshi Optics Night Vision Mod",
+          "v": "1.81",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Black Chrome - Cyberware Expansion",
+          "v": "1.1.10",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Neuralware - Chipware Expansion",
+          "v": "1.2.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Raito Labs - Custom Cyberware",
+          "v": "4.7.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Gold-Plated Interface Cyberware - Complete Collection",
+          "v": "1.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Immersive Cyberware",
+          "v": "1.0.2",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Gold-Plated Interface Cyberware - Immersive Cyberware Compatibility Patch",
+          "v": "1.0.2",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Raito Labs - Immersive Cyberware Patch",
+          "v": "1.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Stealthrunner - Immersive Cyberware Patch",
+          "v": "1.0",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Raven Gemini II - Immersive Cyberware Compatibility Patch",
+          "v": "1.0.3",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Merc Protocol - Perk Gameplay Expansion",
+          "v": "2.11",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Running Man - New Sprinting Perks",
+          "v": "1.1.2",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Extra Berserks (ranged capable)",
+          "v": "1.2.2",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Upgrade Weapons Unlocked",
+          "v": "1.3",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Overclock Overheat",
+          "v": "1.6",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Renaissance Punk - Perk Scaling",
+          "v": "2.12.1",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Berserk Unchained",
+          "v": "2.3.1",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Berserk Unchained - Retain Unspent Charge",
+          "v": "1.1",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Alternative Berserk",
+          "v": "1.0.3",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Enhanced Air Kerenzikov",
+          "v": "1.0",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Pyromania Unchained",
+          "v": "1.1.3",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Lifepath Determines Starting Attributes",
+          "v": "1.0",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Ranger Combat Boomerang",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Weapon Handling Control",
+          "v": "2.2.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Muzzle Attachment Pack",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Suppressor Pack",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Suppressor Pack 2",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Bolt Shots Penetrate Cover",
+          "v": "1.0.5",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Better Kukri Custom Model",
+          "v": "2.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "supressor replacer for XC-10 Strix",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "AK Pack",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Pistol Pack 3",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Overwatch Classic - Wall Penetration and More",
+          "v": "f1.00-rel1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Militech M77 Viper",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Armatech MK.1 Rifle",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Militech Ajax Raptor",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Malorian Silverhand - Attachment fix",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Electric Hellfire (New Iconic Pistols)",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "M79 and XM25 Grenade Launchers",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Melee Weapon Pack",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Better HMGs - Heavy Machine Guns",
+          "v": "1.0.0.6",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Better HMGs - Heavy Machine Guns - Nerfed",
+          "v": "1.0.0.6",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Militech Particle Beam Rifle",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "SOR-22 Precision Rifle with Wall Penetration",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Arasaka JSH-X12 Nobunaga",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Devil Sword Vergil - ArchiveXL",
+          "v": "2.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "John Wick TTI STI 2011 Combat Master (New Standalone Iconic Weapon)",
+          "v": "1.7",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Biotechnica Cache - New Iconic Weapons",
+          "v": "1.0.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Extra Iconics",
+          "v": "2.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Extra Iconics - Chrome Look",
+          "v": "0.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Extra Iconics - High Doom Bigger Explosions",
+          "v": "0.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "NCPD Cache - New Iconic Weapons",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Animals Cache - New Iconic Weapons",
+          "v": "1.0.3",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Vanilla Reworks Explosive Pack - Standalone Iconic Weapons",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Jackie's Machete - New Iconic Weapon",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Tyger Cache - New Iconic Weapons",
+          "v": "1.0.4",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Iconic Glock Gun Pack",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Desert Eagle - 2K",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Borg Malorian Restored",
+          "v": "1.6",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "The Basilic",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Militech Stinger",
+          "v": "1.0.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Midas Collection",
+          "v": "1.0.3",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Plan C",
+          "v": "1.4",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Plan C - Japantown Stash Wall Fix",
+          "v": "swf-1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Arasaka Masayuki - Smart Pistol",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "RSh-12",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Lawgiver MK.III",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "VK-47 Flatline (Apex Legends)",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "MasterPiece Arms MPA30SST",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "XPR-50 Sniper Rifle",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "SLR Rifleworks AR-15",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "HS Produkt VHS-D2",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Pistol Pack 2",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "D-101 Longbow DMR",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "OTs-14 Groza",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "MJOLNIR",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "FN SCAR",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Nokota Stingray",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Nokota Taipan",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Masamune Revamp",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Nowaki Revamp",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Shuriken Tornado Grenade",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Damage Increase Patch",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Semi Auto Patch",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Explosive Secondary Fire patch",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Manual Trigger Swap Patch",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Iconic Variants Modslots",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Ronin - New Iconic Weapon",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Mox Cache - New Iconic Weapons",
+          "v": "1.0.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "MaxTac Silencer (New Iconic Weapon)",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Midnight Arms MA70 BSG Smart LMG",
+          "v": "1.1.3",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Cronos (New Iconic Weapon)",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Nomad Cache - New Iconic Weapons",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Overcompensator",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Ultra Skin",
+          "v": "7.9",
+          "g": "Player Character Appearance & Presets"
+        },
+        {
+          "n": "Preem Skin",
+          "v": "0.2.1.0a",
+          "g": "Player Character Appearance & Presets"
+        },
+        {
+          "n": "Preem Skin - Palette Fix - Textured",
+          "v": "1.1.0.0f-alt",
+          "g": "Player Character Appearance & Presets"
+        },
+        {
+          "n": "Hangout Romances",
+          "v": "f1.08",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Romance Hangouts Enhanced",
+          "v": "2.4",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Non-Canon Romances Enhanced",
+          "v": "1.3",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Judy Enhanced Body with 4K Texture",
+          "v": "1.0.4",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Hi-Res NPC Body Textures (No AI)",
+          "v": "0.1",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Low Quality Crowd No More",
+          "v": "0.15",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Panam Body Enhanced 2.2",
+          "v": "2.2",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "NCPD Uniform 2.0",
+          "v": "1.21",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Invisible Children No More",
+          "v": "1.12",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Better Children",
+          "v": "1.0",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Fixed NPC Vehicle Reactions",
+          "v": "1.0",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Kiroshi Optics - Deep Scan Protocol",
+          "v": "1.7.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "SPLAT Physics Realistic Ragdoll Overhaul",
+          "v": "6.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Here's Brendan",
+          "v": "1.0.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Ghosts of Night City - Small Immersive Encounters",
+          "v": "2.21",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Ghosts of Night City Pt 2 - Small Immersive Encounters",
+          "v": "2.21",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Echoes of Joy - Small Immersive Encounters",
+          "v": "2.22",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Echos of Loss - Immersive Encounters",
+          "v": "2.21",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "People of Night City - Small Immersive Encounters",
+          "v": "2.21",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Faster Metro (2.3)",
+          "v": "1.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Say Something Damn It",
+          "v": "1.14",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Responsive V",
+          "v": "1.4",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Pay-To-Go",
+          "v": "1.5",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Fast Travel Time",
+          "v": "1.41",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Forbidden Vehicle Movement No More",
+          "v": "0.11",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "No Game Pause When Using Phone or Radio",
+          "v": "1.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Dynamic Wanted Stars",
+          "v": "1.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Gone Away - Better Partner Suspended Behaviour",
+          "v": "1.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Cutscene Weapon Swapper",
+          "v": "1.3",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Rippers",
+          "v": "2.5",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Rippers - Dogtown",
+          "v": "1.3",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Vik",
+          "v": "2.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Crafting Access",
+          "v": "0.0.5",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Fixers",
+          "v": "1.4.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Wilson's Range",
+          "v": "2.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Hide Read Shards",
+          "v": "0.4",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Virtual Atelier",
+          "v": "1.4.9",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Virtual Atelier Delivery",
+          "v": "1.0.10",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Sabbath7991 Weapon and Attachment Shops - Virtual Atelier",
+          "v": "1.26",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Second Heart Fix",
+          "v": "1.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Metro Pocket Guide",
+          "v": "1.2.12",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "React To Horn - Get out of my way NPC",
+          "v": "1.2",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Better Bike Animations - Female",
+          "v": "f1.01",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Better Bike Animations - Male",
+          "v": "1.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Timeskip",
+          "v": "2.2.2",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive FPP Bike Cam",
+          "v": "2.3.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Auto Drive Enhanced",
+          "v": "0.0.0.19",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Limited Slip Differential",
+          "v": "2.21.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Dynamic Gravity Modifier",
+          "v": "2.21",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Dynamic Downforce",
+          "v": "2.21.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Surface Type Expansion - (Handling Mod)",
+          "v": "f1.01",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Cyber Grip - NFS",
+          "v": "2.21",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Cyber Drift",
+          "v": "2.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Nulled Angle Correction",
+          "v": "2.21",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Drive-by Shotguns - Use Shotguns in Vehicle",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Drive-by Rifles and Heavy Weapons - Use Various Guns from Vehicle",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "All Vehicles Can Steer",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Vehicle Summon Tweaks - Shorter Summon Distance",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Vehicle Summon Tweaks - Dismiss",
+          "v": "2.3.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Vehicle Summon Tweaks - Repair Cost",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Vehicle Summon Tweaks - Sorting",
+          "v": "2.3.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Extended and Improved Headlights",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Virtual Car Dealer",
+          "v": "2.2.9",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Cyber Kart",
+          "v": "1.0.6.0b",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Aston Martin DB11 - No Front License Plate",
+          "v": "1.10",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Bikes of the Dark Future --- Arch V4",
+          "v": "1.23",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Audi RS5",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Opel Corsa - Vauxhall Nova",
+          "v": "1.0.0.0a",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Rimac Nevera",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mazda RX-7 FD",
+          "v": "0.9",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Porsche Carrera GT 2003",
+          "v": "0.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Bugatti Tourbillon",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lotus Evija",
+          "v": "1.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lotus Evija - Handling update",
+          "v": "1.21",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mustang GTD",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mercedes-Benz SLR McLaren 2003",
+          "v": "0.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "2021 Porsche Taycan Turbo S",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "2021 BMW M4 Competition",
+          "v": "1.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lexus LC500 Liberty Walk",
+          "v": "1.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "2017 Mercedes AMG GT R",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Ferrari Daytona SP3",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Audi A8L Horch",
+          "v": "0.4",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Ducati Supersport",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lamborghini Murcielago SV",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Porsche Turbo S",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Dodge Challenger SRT Demon",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Toyota Supra Mk5 HKS Widebody",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Batcycle Archive XL",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Batmobile BVS Archive XL",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Aston Martin V8 Vantage 1977",
+          "v": "0.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lamborghini Miura SV Custom Widebody",
+          "v": "0.9.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "McLaren Senna",
+          "v": "f2.01",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Ferrari 458 Spider",
+          "v": "0.9.2.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Genesis X Gran Berlinetta",
+          "v": "0.9.6.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Devel Sixteen",
+          "v": "1.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Porsche 911 GT3 RS",
+          "v": "1.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "2019 Mercedes G63 AMG",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Aston Martin Valkyrie",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "The Tumbler",
+          "v": "1.0.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Dodge Viper 1999",
+          "v": "1.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Ferrari Purosangue",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lamborghini Temerario",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mitsubishi Eclipse GSX (1999)",
+          "v": "1.8",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mazda RX7 Fortune (Fast and Furious Edition)",
+          "v": "0.9.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mazda RX7 WBK",
+          "v": "0.9.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Toyota GT86",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Nissan 350Z",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Audi_R8_2020",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mclaren P1 GTR",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lamborghini Veneno",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mercedes One AMG",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mclaren P1",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Nitrous",
+          "v": "1.5.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Environment Textures Overhaul - ETO",
+          "v": "1.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Cyberpunk 2077 HD Reworked Project",
+          "v": "2.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Praedy's 77 Retexture",
+          "v": "1.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "High Contrast Leather",
+          "v": "1.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Better Lanterns",
+          "v": "1.0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Alternative Hair Material",
+          "v": "0.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Alternative Hair Material - High Res Textures",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Environment LODs",
+          "v": "3.21",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "More Detailed HD Animated Crosswalks",
+          "v": "2.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "E3 Smart Windows",
+          "v": "1.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Always Best Quality _ Ads - Map - Hud - Photo Mode - Vending Machines and more",
+          "v": "4.0.2.31",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Elite Screens (Ads - Holo)",
+          "v": "2.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Enable Advert Animations (Ads)",
+          "v": "2.11",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher 2",
+          "v": "2.4",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Fixes",
+          "v": "1.4.0.0fixes",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Cyberpunk Reloaded Pack",
+          "v": "1.0.0.0cr",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Nova LUT Pack (HDR ONLY)",
+          "v": "1.3.0.0nhdr",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - LUT Switcher Pack",
+          "v": "3.0.0.0s",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Edge LUT Pack",
+          "v": "1.1.1.0e",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - GITS LUT Pack",
+          "v": "1.0.0.0g",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Misc LUT Pack",
+          "v": "1.1.0.0m",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - NCLM Pack",
+          "v": "1.0.0.0nclm",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Preem LUT Pack",
+          "v": "1.1.1.0p",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Vanilla LUT Pack",
+          "v": "1.1.1.0x",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "The Lamp Lighter - Streetlamp Time Control",
+          "v": "1.8",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "General Shadows Fixes",
+          "v": "0.75",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "NPC LoD Tweak (for PT)",
+          "v": "1.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Night City Fog Nulled",
+          "v": "3.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Night City Things Nulled",
+          "v": "2.3.250720",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Night City Visuals Nulled",
+          "v": "3.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Inplace Streamingsectors Nulled",
+          "v": "0.13",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Distant Shadows (Volumetric Fog Leaking Fixed)",
+          "v": "0.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Vehicle Lights Draw Distance",
+          "v": "2.4",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Vehicle Glass Destruction Effects",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Bottles and Tableware",
+          "v": "0.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Faster Rainmap and Distant Shadows",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "ReLUX (Lighting Redux - Accurate Lighting - AIO)",
+          "v": "2.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "ReLUX Plus (Riders on the Storm)",
+          "v": "2.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Light Beams Fix",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Particles Flickering Fix (Watson)",
+          "v": "0.12",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Decals Flickering Fix",
+          "v": "0.12",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Horizon Sandstorm Flickering Fix",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Glow Begone (With variants)",
+          "v": "1.1.0.0a",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Preem Scopes",
+          "v": "0.17.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "FX Begone - Holocall",
+          "v": "1.0.0.0f",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "FX Begone - Inventory",
+          "v": "1.1.0.0a",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Blur Begone (Clear Materials with Refraction)",
+          "v": "1.25.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Nova City 2 (Custom Weather - Exposure Overhaul)",
+          "v": "2.2.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "ENV Tuner (Weather - Lighting - Vignette Adjustments without Conflict)",
+          "v": "1.1.0.0s",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Nova Rain (and Improved Ripples)",
+          "v": "1.0.1.0a",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Nova Rain - Ripples",
+          "v": "1.0.0.0-ripples",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Weather Switcher (Change Weather - Control Time - Customize Clouds)",
+          "v": "1.6.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Disable Fake Lights with Path Tracing",
+          "v": "0.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Effects Rendering Fix",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "No Paper Bags From Vending Machines",
+          "v": "1.2",
+          "g": "Miscellaneous"
+        },
+        {
+          "n": "Coffee maker and drink for other apartments",
+          "v": "1.1",
+          "g": "Miscellaneous"
+        },
+        {
+          "n": "Coffee maker and drink for dogtown",
+          "v": "2.0",
+          "g": "Miscellaneous"
+        },
+        {
+          "n": "Flaming Crotch Man Romanced",
+          "v": "2.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Judy Romanced Enhanced",
+          "v": "2.4.2",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Panam Romanced Enhanced",
+          "v": "2.6.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Aurore Romanced (Lady Marmalade)",
+          "v": "1.2.3",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Rita Wheeler Romanced",
+          "v": "3.2",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Kerry Romanced Enhanced",
+          "v": "2.2.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "River Romanced Enhanced",
+          "v": "2.5.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "New Quest - Hot Fuzz",
+          "v": "3.1.3",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "New Quest - One More Light",
+          "v": "2.1.5",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "New Quest - Encore",
+          "v": "3.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "New Quest - Californication",
+          "v": "3.1.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Chrome Ballistics - Weapon Rebalance",
+          "v": "2.32",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Player Character Editor - CET Extension",
+          "v": "1.3.1",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Reset Attributes always available - Redscript",
+          "v": "1.0.0.4",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Eurojank Colors - HUD Painter Preset",
+          "v": "0.10",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "HUD Painter presets - violet",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Vintage Pink - HUDPainter Preset",
+          "v": "f1.00",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "E3-ISH Color Scheme for HUD Painter",
+          "v": "1.1",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "GHOST UI (HUD Painter)",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "EVA UNIT 1 - EVANGELION HUDPainter PRESET",
+          "v": "1.0.0.0a",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Mox Theme Color Scheme for HUD Painter",
+          "v": "1.2",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "KAFU UI - HUD Painter preset",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "DARK - HUDPainterPreset",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Crimson Echo - HUD Painter Preset",
+          "v": "1.1",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Monochrome UI",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Exclusive Items Unlocker",
+          "v": "1.2",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Nova Scanner",
+          "v": "1.0.2.0a",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Nova Scanner - Alternate Reticle",
+          "v": "1.0.2.0b",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Much Better Netrunning",
+          "v": "2.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Modlist Settings - Immersive Profile",
+          "v": "3.10",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Much Better Eddies",
+          "v": "",
+          "g": "Armor, Clothing & Accessories"
+        }
+      ]
+    },
+    "Standard": {
+      "count": 509,
+      "mods": [
+        {
+          "n": "disable CrashReporter (MO CET fix)",
+          "v": "",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Cyber Engine Tweaks",
+          "v": "1.37.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "RED4ext",
+          "v": "1.30",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "redscript",
+          "v": "0.5.31",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "ArchiveXL",
+          "v": "1.26.4",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "TweakXL",
+          "v": "1.11.3",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Codeware",
+          "v": "1.20.3",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Mod Settings",
+          "v": "0.2.21",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Native Settings UI",
+          "v": "1.96",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Trigger Mode Control",
+          "v": "2.8.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Input Loader",
+          "v": "0.2.3",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Reflex is Cool",
+          "v": "1.0.2",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Browser Extension",
+          "v": "0.9.7",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "VendorsXL",
+          "v": "2.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Reds Logging Headers",
+          "v": "1.0",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "RedFileSystem",
+          "v": "0.15.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "RedData",
+          "v": "0.10",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Audioware",
+          "v": "1.9.2",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Vehicle Resources",
+          "v": "1.0.6",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Throttled Activity Log",
+          "v": "1.1",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Deceptious Quest Core",
+          "v": "3.1.5",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Deceptious Quest Core Utilities and Settings",
+          "v": "1.2.2",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Custom Perk Framework",
+          "v": "2.12",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Perk Addition Framework",
+          "v": "1.0",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "ReImagined",
+          "v": "0.3.2",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Archive Conflict Checker Tool",
+          "v": "0.5",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "RedHotTools",
+          "v": "d2026.5.10",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Pseudo New Game Plus",
+          "v": "2.4",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "World Builder",
+          "v": "1.0.81",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Stats Bar UI Fix",
+          "v": "1.0.0.0-for-2.31",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Status Effect ReColor",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Map Search",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Vendor Search",
+          "v": "1.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Much Better Quest Untracking",
+          "v": "",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Inventory Sorting Improved",
+          "v": "1.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Better UI Character Lighting",
+          "v": "2.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Show Player Health Bar When Scanning",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "More Weapon and Inventory Filters",
+          "v": "2.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Stand Still Please",
+          "v": "2.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "No Default Equipped Weapon In Inventory",
+          "v": "1.2",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "HUD Painter",
+          "v": "1.3",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Named Saves",
+          "v": "2.6.4",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Equipment-EX",
+          "v": "1.2.9",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Find-EX",
+          "v": "1.2",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Wardrobe Courier - EquipmentEx Addon",
+          "v": "1.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Crafting Component Quantity Text",
+          "v": "0.0.0.5",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Muted Markers",
+          "v": "2.3.6",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Backpack Search",
+          "v": "1.2.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Stash Search",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Stash Filters",
+          "v": "2.1.2",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Revised Backpack",
+          "v": "0.9.13",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Loot Icons Extension",
+          "v": "1.53",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Quickhack Hotkeys",
+          "v": "2.3.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "No Camera Auto Centering",
+          "v": "0.9",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Pre-2.0 NCPD Scanner Map Icons",
+          "v": "1.0",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Vehicle Durability Display - Top",
+          "v": "1.1",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Alternative Quest Icons",
+          "v": "1.2",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Inventory Adjustments Hub",
+          "v": "1.3",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "City of Dreams Menu Backgrounds",
+          "v": "1.4",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Cleaner Main Menu and Pause Menu",
+          "v": "2.3",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Flatlined Exit",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "No Intro Videos",
+          "v": "0.5",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Fast Travel to Apartment",
+          "v": "0.0.0.9",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Stash and Vendors QoL - move stack - select group - move group",
+          "v": "0.9",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Air's Inertia Returns",
+          "v": "1.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Disassemble Weapons for Recipes (DAWR)",
+          "v": "1.0.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Hold to Overclock while scanning",
+          "v": "1.0.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Input QoL",
+          "v": "1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Looting QoL",
+          "v": "1.8",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Retrothrusters QoL",
+          "v": "1.3",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Remove the holes left by the injection (and other)",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Computer Scrolling",
+          "v": "1.30.0.0b",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Ping Tags Enemies",
+          "v": "1.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Numerals Get Commas",
+          "v": "1.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Real Vendor Names",
+          "v": "2.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Stand After Sliding",
+          "v": "0.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Disable W-S Keys For Select Dialogue Options (Patch 2.2 Compatible)",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Stealth Remote Control Cars and Turrets",
+          "v": "1.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Allow Unbound Actions (Keybinds)",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Clear Skill Checks",
+          "v": "1.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Don't Hide Stamina Bar on Holster (Bug Fix)",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Crafting Recipe Owned Labels",
+          "v": "1.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Custom Quickslots (Consumables Grenades and Cyberware Abilities)",
+          "v": "5.3.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Kabuki Gun Range Enhanced",
+          "v": "1.2.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "The Passenger - Feature Settings",
+          "v": "2.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Parking Spots Enhanced",
+          "v": "1.2.3",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "QoL - Faster Checkpoints",
+          "v": "1.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "QoL - Interactive Judy's Apartment Devices",
+          "v": "3.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Silent Silencers and Throwing Knives",
+          "v": "1.6.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Filter Saves by Lifepath and Type",
+          "v": "1.6.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Smarter Scrapper",
+          "v": "2.3.5",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Mark To Sell",
+          "v": "2.5.4",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Fighting Gangs Allowed - Reasonable Police",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Adaptive Sliders",
+          "v": "2024.0.0.0-06-10",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Faster Vehicle Knockback Animation",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Clean Computer Wallpaper",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Gorilla Grapple",
+          "v": "1.4",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Faster Iguana Hatch",
+          "v": "2.0.2",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Intuitive Projectile Launcher System",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Actual Chrome Compression",
+          "v": "1.0",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Quickhack Loadouts",
+          "v": "1.4.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Improved NCPD Map Filters",
+          "v": "2.1.1",
+          "g": "Quality Of Life"
+        },
+        {
+          "n": "Barbed Wire Knockout Effect Disabled",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Bolt Shot FX Reset Fix",
+          "v": "1.1.4",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Item Records Fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Disable Quest Weather",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Minor Activities Quest Fixes",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Movement And Camera Tweaks",
+          "v": "1.41",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Semimaru Quest Restart Bug Fix (Reworked For 2.31)",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Anti-whiplash driving camera",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Finished Quests Sorted (2.21 Supported)",
+          "v": "f1.01",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Map Exit Nuclear Explosion Fix",
+          "v": "0.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Air Kerenzikov Bug Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Stamina Consumption Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Silver Pixel Cloud Drive-in Gates Game Bug Patch",
+          "v": "1.0.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Quest Vehicle Motion Fixes",
+          "v": "1.4",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - NCART Train Motion Fixes",
+          "v": "1.2.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Path Of Glory - Afterlife scene bug fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Path of Glory - Restore Gun Equip in Shuttle Scene",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Immersion Patch - Holdin' On - Kerrys' mansion scene bug fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Buzzsaw VFX Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Hammers are not bats (tooltip fix)",
+          "v": "1.0.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Shooting Stamina Cost Reduction Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Bounty class stars fix",
+          "v": "1.0.0.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Ragdoll Execution Fix",
+          "v": "1.0.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Throwing Weapon Kerenzikov Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Melee Attacks Fixes And Enhancements",
+          "v": "0.41",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Streaming Bug Workaround",
+          "v": "0.26",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Vehicle Exit Fix for 2.3",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Flashback Fixer",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Psycho Killer Reward - Restored",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Disappearing Enemy Health Bar Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Quickhack Damage Fix",
+          "v": "1.0.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Radio Port Vehicle Fix",
+          "v": "1.1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Crystal Coat Fix v2.12",
+          "v": "5.3",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Deceptious Bug Fixes",
+          "v": "1.2.4",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Enemies Dodging Fix",
+          "v": "0.11",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Status Bar Bug Fixes",
+          "v": "1.8",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Smart Gun Lock Speed Fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Quest Trigger Fixes (2.3 Supported)",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "RAM bar fix - Mod Settings",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Rasetsu screens bug fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Passenger Targeting Fix",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Bug Fix - Recon Grenade Bouce Fix",
+          "v": "2.12",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Dash Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Car Dodge Stutter Fix",
+          "v": "0.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "In Cold Blood - NPC Execution Fix",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Database Fixes",
+          "v": "f1.09",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Fix Advert Animations",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Mute Menu Humming (with Inventory - Scan options)",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "No uncrouching when melee attacking from stealth",
+          "v": "f1.01",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Eddies Notification Fix (2.21 Supported)",
+          "v": "f1.01",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Judy Identity Privacy - for Male V",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Game v2.0 patch - Quick Message Exit",
+          "v": "1.0.3",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Sensible Time Bomb",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Comrade's Hammer Restored",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Less Samurai",
+          "v": "1.2",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Quickhack Fixes",
+          "v": "1.3.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Keep Drawing The Line (ricochet preview)",
+          "v": "3.4.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Keep Drawing The Line - Invisible Standby Line",
+          "v": "alt",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Deadeye Sound Remover",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Delete -A Few Weeks Tops- Vik Voiceline",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Sonic Shock Prevents Trace (restored)",
+          "v": "1.3",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Challenging Breach Minigame",
+          "v": "1.3.3",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "AI Trigger Overhaul - More Perceptive NPCs",
+          "v": "0.3",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Depeche Mods - Unified Weapon Modification",
+          "v": "1.3.4",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Dead Body Alert",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Silent Bodies",
+          "v": "0.21",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "More Vigilant Enemies",
+          "v": "f1.01",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "More Vigilant Enemies - They Will Remember Compatibility Patch",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Allow Highest AI LOD",
+          "v": "0.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Damage Scaling and Balance (Formerly Level Scaling)",
+          "v": "4.3",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Damage Scaling and Balance - Extended",
+          "v": "3.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "SynthDose - More Drugs",
+          "v": "1.3.9",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Repeatable NCPD Gigs - WIP",
+          "v": "0.0.0.16",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "More Cautious And Chaotic Enemies",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Immersive Shooting AI",
+          "v": "1.0.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Tougher Security Turrets",
+          "v": "0.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Ammo Limiter - Realistic Ammunition Management",
+          "v": "2.6.4",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Bounties Restored",
+          "v": "1.0.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Reinforcements System",
+          "v": "1.1.3",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Body Shield",
+          "v": "1.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Buttslinger Quickmelee",
+          "v": "2.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Trace Position Overhaul",
+          "v": "2.1.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Enhanced Craft",
+          "v": "4.0.7",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Pyro Extended Weapon Mods",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Always First Equip",
+          "v": "2.1.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Ricochet Redux",
+          "v": "4.1.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Humanity - Cyberpsycho Missions",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Optical Camo Realism and Utility - Partial CD",
+          "v": "cd-2.0.2",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Stealthrunner - Stealth Gameplay Expansion",
+          "v": "1.10",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Better Chimera Mods",
+          "v": "1.1.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Random Netrunners",
+          "v": "1.2.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Better Access Point Hacking Netrunner Rewards",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Enemy Aggro Improvements",
+          "v": "0.1.0.0a",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "They Will Remember",
+          "v": "2.2.8",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Enemies of Night City",
+          "v": "0.42",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Guns Redone V3.0 PL - Armor Pieces Improvements",
+          "v": "2.1",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Better Armor Scaling - Smooth Preset",
+          "v": "2.0",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "CyberwareEX",
+          "v": "1.5.5",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Cyberware Improved",
+          "v": "1.5",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Heat Converter",
+          "v": "1.2.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Megingjord (Hover Legs)",
+          "v": "1.3.3",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Jarngreipr (Lightning Projectile Launcher)",
+          "v": "1.3.3",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Extra Hands (cyberware)",
+          "v": "2.2.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Kiroshi Optics Night Vision Mod",
+          "v": "1.81",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Raven Gemini II - Full Body Conversion Cyberware - Complete",
+          "v": "1.4.2",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Raven Gemini II - Interlinked Weapon Modifications",
+          "v": "1.1.2",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Raven Gemini II - Gold Plated Interface Addon",
+          "v": "1.0.2",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Black Budget Classified Limbs - Iconic Cyberarms Pack",
+          "v": "2.2",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "MK VII Helio Trace",
+          "v": "1.0",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Black Chrome - Cyberware Expansion",
+          "v": "1.1.10",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Neuralware - Chipware Expansion",
+          "v": "1.2.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Raito Labs - Custom Cyberware",
+          "v": "4.7.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Gold-Plated Interface Cyberware - Complete Collection",
+          "v": "1.1",
+          "g": "Cyberware & Augmentations"
+        },
+        {
+          "n": "Merc Protocol - Perk Gameplay Expansion",
+          "v": "2.11",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Running Man - New Sprinting Perks",
+          "v": "1.1.2",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Extra Berserks (ranged capable)",
+          "v": "1.2.2",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Alternative Berserk",
+          "v": "1.0.3",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Upgrade Weapons Unlocked",
+          "v": "1.3",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Overclock Overheat",
+          "v": "1.6",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Renaissance Punk - Perk Scaling",
+          "v": "2.12.1",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Berserk Unchained",
+          "v": "2.3.1",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Berserk Unchained - Retain Unspent Charge",
+          "v": "1.1",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Enhanced Air Kerenzikov",
+          "v": "1.0",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Pyromania Unchained",
+          "v": "1.1.3",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Lifepath Determines Starting Attributes",
+          "v": "1.0",
+          "g": "Skills & Progression"
+        },
+        {
+          "n": "Weapon Handling Control",
+          "v": "2.2.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Ranger Combat Boomerang",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Better Kukri Custom Model",
+          "v": "2.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Malorian Silverhand - Attachment fix",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Muzzle Attachment Pack",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Suppressor Pack",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Suppressor Pack 2",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Bolt Shots Penetrate Cover",
+          "v": "1.0.5",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "supressor replacer for XC-10 Strix",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Better HMGs - Heavy Machine Guns",
+          "v": "1.0.0.6",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Better HMGs - Heavy Machine Guns - Nerfed",
+          "v": "1.0.0.6",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Overwatch Classic - Wall Penetration and More",
+          "v": "f1.00-rel1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Shuriken Tornado Grenade",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Midnight Arms MA70 BSG Smart LMG",
+          "v": "1.1.3",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "SOR-22 Precision Rifle with Wall Penetration",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Vanilla Reworks Explosive Pack - Standalone Iconic Weapons",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Jackie's Machete - New Iconic Weapon",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Borg Malorian Restored",
+          "v": "1.6",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "The Basilic",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Plan C",
+          "v": "1.4",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Plan C - Japantown Stash Wall Fix",
+          "v": "swf-1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Arasaka JSH-X12 Nobunaga",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Devil Sword Vergil - ArchiveXL",
+          "v": "2.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "John Wick TTI STI 2011 Combat Master (New Standalone Iconic Weapon)",
+          "v": "1.7",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Melee Weapon Pack",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "M79 and XM25 Grenade Launchers",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Electric Hellfire (New Iconic Pistols)",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "AK Pack",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Militech M77 Viper",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Armatech MK.1 Rifle",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Militech Ajax Raptor",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Militech Particle Beam Rifle",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Iconic Glock Gun Pack",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Arasaka Masayuki - Smart Pistol",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "RSh-12",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Lawgiver MK.III",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Militech Stinger",
+          "v": "1.0.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "VK-47 Flatline (Apex Legends)",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Desert Eagle - 2K",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "MasterPiece Arms MPA30SST",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "XPR-50 Sniper Rifle",
+          "v": "1.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "SLR Rifleworks AR-15",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "HS Produkt VHS-D2",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Pistol Pack 2",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Pistol Pack 3",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "D-101 Longbow DMR",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "OTs-14 Groza",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Nokota Stingray",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Nokota Taipan",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "FN SCAR",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "MaxTac Silencer (New Iconic Weapon)",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Cronos (New Iconic Weapon)",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Damage Increase Patch",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Semi Auto Patch",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Explosive Secondary Fire patch",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Manual Trigger Swap Patch",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Modular Kyubi Revamp - Iconic Variants Modslots",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Ronin - New Iconic Weapon",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Midas Collection",
+          "v": "1.0.3",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "GLEIPNIR",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Masamune Revamp",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Nowaki Revamp",
+          "v": "1.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Overcompensator",
+          "v": "1.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Extra Iconics",
+          "v": "2.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Extra Iconics - Chrome Look",
+          "v": "0.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Extra Iconics - High Doom Bigger Explosions",
+          "v": "0.0",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Biotechnica Cache - New Iconic Weapons",
+          "v": "1.0.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Mox Cache - New Iconic Weapons",
+          "v": "1.0.2",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Nomad Cache - New Iconic Weapons",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "NCPD Cache - New Iconic Weapons",
+          "v": "1.0.1",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Animals Cache - New Iconic Weapons",
+          "v": "1.0.3",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Tyger Cache - New Iconic Weapons",
+          "v": "1.0.4",
+          "g": "Weapons & Attachments"
+        },
+        {
+          "n": "Hair Profiles CCXL",
+          "v": "f1.02",
+          "g": "Player Character Appearance & Presets"
+        },
+        {
+          "n": "Darker and Vibrant Eye Makeup Colors - Matte and Glossy Rework",
+          "v": "1.0",
+          "g": "Player Character Appearance & Presets"
+        },
+        {
+          "n": "Ultra Skin",
+          "v": "7.9",
+          "g": "Player Character Appearance & Presets"
+        },
+        {
+          "n": "Preem Skin",
+          "v": "0.2.1.0a",
+          "g": "Player Character Appearance & Presets"
+        },
+        {
+          "n": "Preem Skin - Palette Fix - Textured",
+          "v": "1.1.0.0f-alt",
+          "g": "Player Character Appearance & Presets"
+        },
+        {
+          "n": "Hangout Romances",
+          "v": "f1.08",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Romance Hangouts Enhanced",
+          "v": "2.4",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Non-Canon Romances Enhanced",
+          "v": "1.3",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Hi-Res NPC Body Textures (No AI)",
+          "v": "0.1",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Low Quality Crowd No More",
+          "v": "0.15",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Judy Enhanced Body with 4K Texture",
+          "v": "1.0.4",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Panam Body Enhanced 2.2",
+          "v": "2.2",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "NCPD Uniform 2.0",
+          "v": "1.21",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Invisible Children No More",
+          "v": "1.12",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Better Children",
+          "v": "1.0",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Fixed NPC Vehicle Reactions",
+          "v": "1.0",
+          "g": "NPCs & World Population"
+        },
+        {
+          "n": "Kiroshi Optics - Deep Scan Protocol",
+          "v": "1.7.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "SPLAT Physics Realistic Ragdoll Overhaul",
+          "v": "6.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Faster Metro (2.3)",
+          "v": "1.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Ghosts of Night City - Small Immersive Encounters",
+          "v": "2.21",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Ghosts of Night City Pt 2 - Small Immersive Encounters",
+          "v": "2.21",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Echos of Loss - Immersive Encounters",
+          "v": "2.21",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Echoes of Joy - Small Immersive Encounters",
+          "v": "2.22",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "People of Night City - Small Immersive Encounters",
+          "v": "2.21",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Here's Brendan",
+          "v": "1.0.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Say Something Damn It",
+          "v": "1.14",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Responsive V",
+          "v": "1.4",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Forbidden Vehicle Movement No More",
+          "v": "0.11",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "No Game Pause When Using Phone or Radio",
+          "v": "1.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Dynamic Wanted Stars",
+          "v": "1.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Gone Away - Better Partner Suspended Behaviour",
+          "v": "1.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Cutscene Weapon Swapper",
+          "v": "1.3",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Rippers",
+          "v": "2.5",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Rippers - Dogtown",
+          "v": "1.3",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Vik",
+          "v": "2.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Crafting Access",
+          "v": "0.0.5",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Fixers",
+          "v": "1.4.1",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Wilson's Range",
+          "v": "2.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Hide Read Shards",
+          "v": "0.4",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Virtual Atelier",
+          "v": "1.4.9",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Sabbath7991 Weapon and Attachment Shops - Virtual Atelier",
+          "v": "1.26",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Second Heart Fix",
+          "v": "1.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Metro Pocket Guide",
+          "v": "1.2.12",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "React To Horn - Get out of my way NPC",
+          "v": "1.2",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Better Bike Animations - Female",
+          "v": "f1.01",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Better Bike Animations - Male",
+          "v": "1.0",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive Timeskip",
+          "v": "2.2.2",
+          "g": "Immersion & Roleplay"
+        },
+        {
+          "n": "Immersive FPP Bike Cam",
+          "v": "2.3.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Auto Drive Enhanced",
+          "v": "0.0.0.19",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "All Vehicles Can Steer",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Surface Type Expansion - (Handling Mod)",
+          "v": "f1.01",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Nulled Angle Correction",
+          "v": "2.21",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Limited Slip Differential",
+          "v": "2.21.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Dynamic Gravity Modifier",
+          "v": "2.21",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Dynamic Downforce",
+          "v": "2.21.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Cyber Grip - NFS",
+          "v": "2.21",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Cyber Drift",
+          "v": "2.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Drive-by Shotguns - Use Shotguns in Vehicle",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Drive-by Rifles and Heavy Weapons - Use Various Guns from Vehicle",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Vehicle Summon Tweaks - Sorting",
+          "v": "2.3.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Vehicle Summon Tweaks - Shorter Summon Distance",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Vehicle Summon Tweaks - Repair Cost",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Vehicle Summon Tweaks - Dismiss",
+          "v": "2.3.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Extended and Improved Headlights",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Virtual Car Dealer",
+          "v": "2.2.9",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Cyber Kart",
+          "v": "1.0.6.0b",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Aston Martin DB11 - No Front License Plate",
+          "v": "1.10",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Bikes of the Dark Future --- Arch V4",
+          "v": "1.23",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Audi RS5",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Opel Corsa - Vauxhall Nova",
+          "v": "1.0.0.0a",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Rimac Nevera",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mazda RX-7 FD",
+          "v": "0.9",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Porsche Carrera GT 2003",
+          "v": "0.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Bugatti Tourbillon",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lotus Evija",
+          "v": "1.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lotus Evija - Handling update",
+          "v": "1.21",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mustang GTD",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mercedes-Benz SLR McLaren 2003",
+          "v": "0.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "2021 Porsche Taycan Turbo S",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "2021 BMW M4 Competition",
+          "v": "1.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lexus LC500 Liberty Walk",
+          "v": "1.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "2017 Mercedes AMG GT R",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Ferrari 458 Spider",
+          "v": "0.9.2.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Genesis X Gran Berlinetta",
+          "v": "0.9.6.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Ferrari Daytona SP3",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Audi A8L Horch",
+          "v": "0.4",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Ducati Supersport",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lamborghini Murcielago SV",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Porsche Turbo S",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Dodge Challenger SRT Demon",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Toyota Supra Mk5 HKS Widebody",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Batcycle Archive XL",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Batmobile BVS Archive XL",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Aston Martin V8 Vantage 1977",
+          "v": "0.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lamborghini Miura SV Custom Widebody",
+          "v": "0.9.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "McLaren Senna",
+          "v": "f2.01",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Devel Sixteen",
+          "v": "1.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "The Tumbler",
+          "v": "1.0.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Porsche 911 GT3 RS",
+          "v": "1.2",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "2019 Mercedes G63 AMG",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Aston Martin Valkyrie",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Dodge Viper 1999",
+          "v": "1.3",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Ferrari Purosangue",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lamborghini Temerario",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mitsubishi Eclipse GSX (1999)",
+          "v": "1.8",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Nissan 350Z",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Audi_R8_2020",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mclaren P1 GTR",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Lamborghini Veneno",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mercedes One AMG",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mclaren P1",
+          "v": "1.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Toyota GT86",
+          "v": "1.0",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mazda RX7 WBK",
+          "v": "0.9.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Mazda RX7 Fortune (Fast and Furious Edition)",
+          "v": "0.9.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "Nitrous",
+          "v": "1.5.1",
+          "g": "Vehicles & Driving"
+        },
+        {
+          "n": "More Detailed HD Animated Crosswalks",
+          "v": "2.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Environment Textures Overhaul - ETO",
+          "v": "1.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Cyberpunk 2077 HD Reworked Project",
+          "v": "2.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Praedy's 77 Retexture",
+          "v": "1.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "E3 Smart Windows",
+          "v": "1.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Always Best Quality _ Ads - Map - Hud - Photo Mode - Vending Machines and more",
+          "v": "4.0.2.31",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Elite Screens (Ads - Holo)",
+          "v": "2.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Better Lanterns",
+          "v": "1.0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Enable Advert Animations (Ads)",
+          "v": "2.11",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "High Contrast Leather",
+          "v": "1.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Alternative Hair Material",
+          "v": "0.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Alternative Hair Material - High Res Textures",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Environment LODs",
+          "v": "3.21",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher 2",
+          "v": "2.4",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Fixes",
+          "v": "1.4.0.0fixes",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Cyberpunk Reloaded Pack",
+          "v": "1.0.0.0cr",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Nova LUT Pack (HDR ONLY)",
+          "v": "1.3.0.0nhdr",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - LUT Switcher Pack",
+          "v": "3.0.0.0s",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Edge LUT Pack",
+          "v": "1.1.1.0e",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - GITS LUT Pack",
+          "v": "1.0.0.0g",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Misc LUT Pack",
+          "v": "1.1.0.0m",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - NCLM Pack",
+          "v": "1.0.0.0nclm",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Preem LUT Pack",
+          "v": "1.1.1.0p",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "LUT Switcher - Vanilla LUT Pack",
+          "v": "1.1.1.0x",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "The Lamp Lighter - Streetlamp Time Control",
+          "v": "1.8",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "General Shadows Fixes",
+          "v": "0.75",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "NPC LoD Tweak (for PT)",
+          "v": "1.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Night City Fog Nulled",
+          "v": "3.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Night City Things Nulled",
+          "v": "2.3.250720",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Night City Visuals Nulled",
+          "v": "3.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Inplace Streamingsectors Nulled",
+          "v": "0.13",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Distant Shadows (Volumetric Fog Leaking Fixed)",
+          "v": "0.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Vehicle Lights Draw Distance",
+          "v": "2.4",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Vehicle Glass Destruction Effects",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Improved Bottles and Tableware",
+          "v": "0.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Faster Rainmap and Distant Shadows",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "ReLUX (Lighting Redux - Accurate Lighting - AIO)",
+          "v": "2.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "ReLUX Plus (Riders on the Storm)",
+          "v": "2.0",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Light Beams Fix",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Particles Flickering Fix (Watson)",
+          "v": "0.12",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Decals Flickering Fix",
+          "v": "0.12",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Horizon Sandstorm Flickering Fix",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Glow Begone (With variants)",
+          "v": "1.1.0.0a",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Preem Scopes",
+          "v": "0.17.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "FX Begone - Holocall",
+          "v": "1.0.0.0f",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "FX Begone - Inventory",
+          "v": "1.1.0.0a",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Blur Begone (Clear Materials with Refraction)",
+          "v": "1.25.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Nova City 2 (Custom Weather - Exposure Overhaul)",
+          "v": "2.2.3",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "ENV Tuner (Weather - Lighting - Vignette Adjustments without Conflict)",
+          "v": "1.1.0.0s",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Nova Rain (and Improved Ripples)",
+          "v": "1.0.1.0a",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Nova Rain - Ripples",
+          "v": "1.0.0.0-ripples",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Weather Switcher (Change Weather - Control Time - Customize Clouds)",
+          "v": "1.6.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Disable Fake Lights with Path Tracing",
+          "v": "0.2",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "Effects Rendering Fix",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting"
+        },
+        {
+          "n": "No Paper Bags From Vending Machines",
+          "v": "1.2",
+          "g": "Miscellaneous"
+        },
+        {
+          "n": "Coffee maker and drink for other apartments",
+          "v": "1.1",
+          "g": "Miscellaneous"
+        },
+        {
+          "n": "Coffee maker and drink for dogtown",
+          "v": "2.0",
+          "g": "Miscellaneous"
+        },
+        {
+          "n": "Flaming Crotch Man Romanced",
+          "v": "2.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Judy Romanced Enhanced",
+          "v": "2.4.2",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Panam Romanced Enhanced",
+          "v": "2.6.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Aurore Romanced (Lady Marmalade)",
+          "v": "1.2.3",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Rita Wheeler Romanced",
+          "v": "3.2",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Kerry Romanced Enhanced",
+          "v": "2.2.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "River Romanced Enhanced",
+          "v": "2.5.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "New Quest - Hot Fuzz",
+          "v": "3.1.3",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "New Quest - One More Light",
+          "v": "2.1.5",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "New Quest - Encore",
+          "v": "3.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "New Quest - Californication",
+          "v": "3.1.1",
+          "g": "New Quests & Content"
+        },
+        {
+          "n": "Virtual Atelier Addon - Item Tag Registry",
+          "v": "f1.02",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Player Character Editor - CET Extension",
+          "v": "1.3.1",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Chrome Ballistics - Weapon Rebalance",
+          "v": "2.32",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Reset Attributes always available - Redscript",
+          "v": "1.0.0.4",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Eurojank Colors - HUD Painter Preset",
+          "v": "0.10",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "HUD Painter presets - violet",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Vintage Pink - HUDPainter Preset",
+          "v": "f1.00",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "E3-ISH Color Scheme for HUD Painter",
+          "v": "1.1",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "GHOST UI (HUD Painter)",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "EVA UNIT 1 - EVANGELION HUDPainter PRESET",
+          "v": "1.0.0.0a",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Mox Theme Color Scheme for HUD Painter",
+          "v": "1.2",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "KAFU UI - HUD Painter preset",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "DARK - HUDPainterPreset",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Crimson Echo - HUD Painter Preset",
+          "v": "1.1",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Monochrome UI",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Exclusive Items Unlocker",
+          "v": "1.2",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Nova Scanner",
+          "v": "1.0.2.0a",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Nova Scanner - Alternate Reticle",
+          "v": "1.0.2.0b",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Much Better Netrunning",
+          "v": "2.0",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Modlist Settings - Standard Profile",
+          "v": "3.10",
+          "g": "Late Loaders, Cheats, & Experimental"
+        },
+        {
+          "n": "Unified Mod Settings",
+          "v": "",
+          "g": "Optional Mods (Stability may vary)"
+        },
+        {
+          "n": "TDO",
+          "v": "d2026.4.7",
+          "g": "Optional Mods (Stability may vary)"
+        },
+        {
+          "n": "Better Flashlight",
+          "v": "",
+          "g": "Optional Mods (Stability may vary)"
+        },
+        {
+          "n": "FreeFly (Noclip)",
+          "v": "2.4",
+          "g": "Optional Mods (Stability may vary)"
+        },
+        {
+          "n": "Armor Up - Player Armor Rework",
+          "v": "1.0.3",
+          "g": "Optional Mods (Stability may vary)"
+        },
+        {
+          "n": "Much Better Eddies",
+          "v": "",
+          "g": "Armor, Clothing & Accessories"
+        }
+      ]
+    }
+  }
+}

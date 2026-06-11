@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=20260610f">
+<link rel="stylesheet" href="assets/style.css?v=20260610g">
 </head>
 <body>
 
@@ -35,7 +35,7 @@
   <div class="wrap">
     <span class="crumb">// SETUP PROTOCOL</span>
     <h1>Installation</h1>
-    <p class="lede">From clean game to first launch. Follow the steps in order — most install problems come from skipping the preinstallation list.</p>
+    <p class="lede">Follow the steps in order. Most install problems come from skipping the preinstallation list.</p>
   </div>
 </header>
 
@@ -58,14 +58,14 @@
       <div class="spec-cell"><b>~9.6 GB</b><span>Modlist Install</span></div>
       <div class="spec-cell"><b>~105 GB</b><span>Total Space</span></div>
     </div>
-    <p style="color:var(--text-dim); max-width:760px;">Aim for <strong style="color:var(--text)">~160 GB free on the SSD</strong> before you start — the final footprint is ~105 GB, but the install needs working room while Wabbajack downloads and extracts.</p>
+    <p style="color:var(--text-dim); max-width:760px;">Have at least <strong style="color:var(--text)">160 GB free on the SSD</strong> before you start. The final footprint is ~105 GB, but the install needs working room while Wabbajack downloads and extracts.</p>
 
     <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">02 · PREINSTALLATION</span><span class="rule"></span></div>
     <h2 class="sec-title">Before You Start</h2>
     <p style="color:var(--text-dim);">Instructions assume the <strong style="color:var(--text)">Steam version</strong> of the game.</p>
     <ol class="steps">
       <li><strong><a href="https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game" target="_blank" rel="noopener">Perform a clean install</a> of Cyberpunk 2077</strong><p>No mods, no leftover files, fully updated to the latest <strong>official</strong> patch (not a beta branch). Install it <strong>outside</strong> of <code style="font-family:var(--mono); color:var(--secondary);">Program Files</code>.</p></li>
-      <li><strong>Keep cloud sync away from the install</strong><p>Do <strong>not</strong> put the game, the modlist, or the downloads folder anywhere OneDrive, Dropbox, or any other sync service touches — synced folders lock files mid-install and break MO2's virtual file system.</p></li>
+      <li><strong>Keep cloud sync away from the install</strong><p>Do <strong>not</strong> put the game, the modlist, or the downloads folder anywhere OneDrive, Dropbox, or any other sync service touches. Synced folders lock files mid-install and break MO2's virtual file system.</p></li>
       <li><strong>Install the <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" rel="noopener">Visual C++ Redistributables (All-in-One)</a></strong><p>Extract and run <code style="font-family:var(--mono); color:var(--secondary);">install_all.bat</code>.</p></li>
       <li><strong>Disable Steam auto-updates</strong>
         <ul class="substeps">
@@ -84,7 +84,7 @@
 
     <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">03 · INSTALLATION</span><span class="rule"></span></div>
     <h2 class="sec-title">Install via Wabbajack</h2>
-    <p style="color:var(--text-dim); max-width:760px;">You can install Chrome &amp; Blood from <a href="https://www.nexusmods.com/cyberpunk2077/mods/20942" target="_blank" rel="noopener">Nexus Mods</a> or from the <a href="https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&amp;nsfw=true&amp;showUnofficial=true" target="_blank" rel="noopener">Wabbajack Gallery</a>. Running third-party antivirus? Add your install and downloads folders to its exclusions <strong style="color:var(--text)">before</strong> you hit Install — extraction is where false flags bite.</p>
+    <p style="color:var(--text-dim); max-width:760px;">You can install Chrome &amp; Blood from <a href="https://www.nexusmods.com/cyberpunk2077/mods/20942" target="_blank" rel="noopener">Nexus Mods</a> or from the <a href="https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&amp;nsfw=true&amp;showUnofficial=true" target="_blank" rel="noopener">Wabbajack Gallery</a>. Running third-party antivirus? Add your install and downloads folders to its exclusions <strong style="color:var(--text)">before</strong> you hit Install so nothing gets quarantined mid-extraction.</p>
     <ol class="steps">
       <li><strong>Download <a href="https://www.wabbajack.org" target="_blank" rel="noopener">Wabbajack</a></strong><p>Put it somewhere safe — not inside your Cyberpunk folder and not in a protected location like Program Files. Example: <code style="font-family:var(--mono); color:var(--secondary);">D:\Wabbajack</code></p></li>
       <li><strong>Launch Wabbajack and go to Browse Modlists</strong></li>
@@ -139,8 +139,8 @@
     <h2 class="sec-title">First Launch</h2>
     <ul class="feature-list" style="max-width:820px;">
       <li><strong>Pick your profile — Immersive or Standard — in MO2, then hit Run.</strong> Never launch Cyberpunk directly through Steam or a desktop shortcut.</li>
-      <li><strong>In-game Mod Settings and CET menus are yours to tweak freely.</strong> Changing the modlist itself — adding, removing, or reordering mods — voids support. Read <a href="mods.html#rule11">Rule 11</a> first if you want to customize.</li>
-      <li><strong>Dialing in performance?</strong> The <a href="faq.html#graphics-performance">FAQ's Graphics &amp; Performance section</a> has the full step-by-step setup — start there before touching anything else.</li>
+      <li><strong>You can tweak in-game Mod Settings and CET menus freely.</strong> Changing the modlist itself (adding, removing, or reordering mods) voids support — read <a href="mods.html#rule11">Rule 11</a> first if you want to customize.</li>
+      <li><strong>Performance not ideal?</strong> The <a href="faq.html#graphics-performance">FAQ's Graphics &amp; Performance section</a> has the full step-by-step setup.</li>
     </ul>
 
     <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">06 · UPDATING</span><span class="rule"></span></div>
@@ -172,7 +172,7 @@
     <p style="color:var(--text-dim);">Check each mod's page for additional keybind options.</p>
 
     <div class="callout" style="margin-top:50px;">
-      <p><strong>Something broken?</strong> Check the <a href="faq.html">FAQ</a> first, then bring your issue to the <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a> — that's where support happens.</p>
+      <p><strong>Something broken?</strong> Check the <a href="faq.html">FAQ</a> first, then ask in the <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a>.</p>
     </div>
 
   </div>
@@ -189,6 +189,6 @@
   </div>
 </footer>
 
-<script src="assets/site.js?v=20260610f"></script>
+<script src="assets/site.js?v=20260610g"></script>
 </body>
 </html>

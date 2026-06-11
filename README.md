@@ -81,9 +81,9 @@ This list isn't meant to be easy. With all of the above tuned for **very hard**,
 ### Links
 
 - **Website**: [qcargile.github.io/Chrome-Blood](https://qcargile.github.io/Chrome-Blood/)
-- **Full Load Order**: [Every mod, searchable](https://qcargile.github.io/Chrome-Blood/loadorder.html)
+- **Full Load Order**: [all mods](https://qcargile.github.io/Chrome-Blood/loadorder.html)
 - **Mod Breakdown**: [The biggest mods and what they do](https://qcargile.github.io/Chrome-Blood/mods.html)
-- **Changelog**: [Every release](https://qcargile.github.io/Chrome-Blood/changelog.html)
+- **Changelog**: [All Releases](https://qcargile.github.io/Chrome-Blood/changelog.html)
 - **FAQ**: [Frequently Asked Questions](https://qcargile.github.io/Chrome-Blood/faq.html)
 - **Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
 

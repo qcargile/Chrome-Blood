@@ -43,7 +43,7 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 **A:** See the **[Load Order](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)** guide. It highlights the most impactful mods by category for Chrome & Blood (not a fully comprehensive list).
 
 **Q: Do you have a full list of the entire load order somewhere?**  
-**A:** Yes — **[Chrome & Blood on Load Order Library](https://loadorderlibrary.com/lists/chrome-blood-2)**.
+**A:** Yes — **[full load order](https://qcargile.github.io/Chrome-Blood/loadorder.html)**.
 
 **Q: Do you post changelogs and where are they available?**  
 **A:** Yes — they’re published **[here](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)**.

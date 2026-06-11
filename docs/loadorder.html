@@ -4,13 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Load Order — Chrome &amp; Blood</title>
-<meta name="description" content="The full Chrome & Blood load order — every enabled mod in MO2 priority order, per profile, with versions. Regenerated with every release.">
+<meta name="description" content="The full Chrome & Blood load order — every mod in MO2 priority order, per profile, with versions.">
 <meta name="theme-color" content="#0a0b0d">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23c9d7f0'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff2e44'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=20260610f">
+<link rel="stylesheet" href="assets/style.css?v=20260610g">
 </head>
 <body>
 
@@ -35,7 +35,7 @@
   <div class="wrap">
     <span class="crumb">// PRIORITY MANIFEST</span>
     <h1>Load Order</h1>
-    <p class="lede">Every enabled mod, in MO2 priority order, per profile — regenerated with each release. For what the big ones actually do, see <a href="mods.html">The Mods</a>.</p>
+    <p class="lede">Every mod in the list, in the order MO2 loads them. Click a category to expand it, or just type to search. <a href="mods.html">The Mods</a> covers what the big ones actually do.</p>
   </div>
 </header>
 
@@ -47,7 +47,7 @@
     </div>
     <p class="lo-meta" id="meta">PULLING MANIFEST…</p>
     <div id="list"></div>
-    <p style="margin-top:40px;"><a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/loadorder.json" target="_blank" rel="noopener">View the raw manifest on GitHub →</a></p>
+    <p style="margin-top:40px;"><a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/loadorder.json" target="_blank" rel="noopener">View the raw file on GitHub →</a></p>
   </div>
 </main>
 
@@ -62,7 +62,7 @@
   </div>
 </footer>
 
-<script src="assets/site.js?v=20260610f"></script>
+<script src="assets/site.js?v=20260610g"></script>
 <script>
 (function () {
   var data = null;
@@ -81,9 +81,9 @@
     profile.mods.forEach(function (m, i) {
       if (m.g !== group) {
         group = m.g;
-        groupEl = document.createElement("div");
+        groupEl = document.createElement("details");
         groupEl.className = "lo-group";
-        var h = document.createElement("h3");
+        var h = document.createElement("summary");
         h.textContent = group || "Ungrouped";
         groupEl.appendChild(h);
         ulEl = document.createElement("ul");
@@ -110,7 +110,7 @@
       ulEl.appendChild(li);
     });
     document.querySelectorAll(".lo-group").forEach(function (g) {
-      var h = g.querySelector("h3");
+      var h = g.querySelector("summary");
       var small = document.createElement("small");
       small.textContent = g.querySelectorAll(".lo-row").length + " MODS";
       h.appendChild(small);
@@ -128,7 +128,9 @@
       if (hit) shown++;
     });
     document.querySelectorAll(".lo-group").forEach(function (g) {
-      g.classList.toggle("hide", g.querySelectorAll(".lo-row:not(.hide)").length === 0);
+      var hits = g.querySelectorAll(".lo-row:not(.hide)").length;
+      g.classList.toggle("hide", hits === 0);
+      g.open = q ? hits > 0 : false;
     });
     metaEl.textContent = (q ? shown + " / " + total : total) + " MODS · " + active.toUpperCase() + " PROFILE · UPDATED " + data.generated + (data.release ? " · " + data.release.toUpperCase() : "");
   }

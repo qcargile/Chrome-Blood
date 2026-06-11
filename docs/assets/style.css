@@ -10,6 +10,9 @@
   --secondary: #c9d7f0;
   --secondary-dim: rgba(201, 215, 240, 0.50);
   --secondary-faint: rgba(201, 215, 240, 0.08);
+  --gold: #f2b13d;
+  --gold-bright: #ffcf6a;
+  --gold-dim: rgba(242, 177, 61, 0.45);
   --blood: #ff2e44;
   --blood-dim: rgba(255, 46, 68, 0.55);
   --blood-faint: rgba(255, 46, 68, 0.10);
@@ -49,8 +52,8 @@ body::after {
 
 ::selection { background: var(--primary); color: #fff; }
 
-a { color: var(--secondary); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 0.15s, color 0.15s; }
-a:hover { border-bottom-color: var(--secondary); }
+a { color: var(--gold); text-decoration: none; border-bottom: 1px solid var(--gold-dim); transition: border-color 0.15s, color 0.15s; }
+a:hover { color: var(--gold-bright); border-bottom-color: var(--gold-bright); }
 a:focus-visible, button:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
 
 img { max-width: 100%; display: block; }

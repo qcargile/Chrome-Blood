@@ -15,7 +15,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v=20260610b">
 <noscript><style>.reveal { opacity: 1; transform: none; }</style></noscript>
 </head>
 <body>
@@ -335,10 +335,10 @@
   </div>
 </footer>
 
-<script src="assets/site.js"></script>
+<script src="assets/site.js?v=20260610b"></script>
 <script>
 (function () {
-  var pool = ["city.jpg", "combat.jpg", "stealth.jpg", "vehicles.jpg", "world.jpg", "whatis.jpg"];
+  var pool = ["city.jpg", "vehicles.jpg", "world.jpg", "whatis.jpg"];
   var pick = pool[Math.floor(Math.random() * pool.length)];
   if (pick !== "city.jpg") {
     document.querySelector(".hero-bg").style.setProperty("--hero-img", "url('assets/img/" + pick + "')");

@@ -3,7 +3,7 @@
 >[!IMPORTANT]
 >- Everything about the list — install guide, the mods, full load order, changelog, FAQ — lives on the **[Chrome & Blood website](https://qcargile.github.io/Chrome-Blood/)**.
 >- Chrome & Blood requires the Phantom Liberty DLC.
->- This list has been updated for official game patch 2.31!
+>- This list has been updated for official game patch 2.31a!
 
 >[!WARNING]
 >You must update Cyberpunk 2077 to the latest version on Steam to install this list.

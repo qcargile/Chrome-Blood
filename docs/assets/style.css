@@ -168,7 +168,7 @@ kbd {
   position: absolute;
   inset: 0;
   background-image:
-    linear-gradient(180deg, rgba(10, 11, 13, 0.82) 0%, rgba(10, 11, 13, 0.55) 45%, rgba(10, 11, 13, 0.96) 100%),
+    linear-gradient(180deg, rgba(10, 11, 13, 0.78) 0%, rgba(10, 11, 13, 0.45) 45%, rgba(10, 11, 13, 0.96) 100%),
     var(--hero-img, url("img/city.jpg"));
   background-size: cover;
   background-position: center 30%;

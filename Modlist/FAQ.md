@@ -40,10 +40,10 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 **A:** Refer to **[Rule-11](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Rule%2011.md)** documentation to get started.
 
 **Q: Do you have a list of the biggest mods in the list and what they do?**  
-**A:** See the **[Load Order](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md)** guide. It highlights the most impactful mods by category for Chrome & Blood (not a fully comprehensive list).
+**A:** The **[Player Guide](https://qcargile.github.io/Chrome-Blood/guide.html)** covers what the major systems do and how to play them. For every mod in priority order, see the **[Mods page](https://qcargile.github.io/Chrome-Blood/mods.html)**.
 
 **Q: Do you have a full list of the entire load order somewhere?**  
-**A:** Yes — **[full load order](https://qcargile.github.io/Chrome-Blood/loadorder.html)**.
+**A:** Yes — **[full load order](https://qcargile.github.io/Chrome-Blood/mods.html)**.
 
 **Q: Do you post changelogs and where are they available?**  
 **A:** Yes — they’re published **[here](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)**.

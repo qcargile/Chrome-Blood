@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Mods — Chrome &amp; Blood</title>
-<meta name="description" content="The biggest gameplay mods in Chrome & Blood and what they do — immersion, combat, quests, vehicles, weapons, progression, and UI.">
+<meta name="description" content="The full Chrome & Blood load order — every mod in MO2 priority order, per profile, with versions — plus Rule 11 on modifying the list.">
 <meta name="theme-color" content="#0a0b0d">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23c9d7f0'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff2e44'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -34,19 +34,21 @@
 
 <header class="page-head">
   <div class="wrap">
-    <span class="crumb">// LOADOUT MANIFEST</span>
+    <span class="crumb">// PRIORITY MANIFEST</span>
     <h1>The Mods</h1>
-    <p class="lede">The biggest gameplay mods in the list and what they do. Not a comprehensive list — just the mods with the biggest impact on gameplay. The <a href="loadorder.html">full load order</a> has every mod in priority order.</p>
+    <p class="lede">Every mod in the list, in the order MO2 loads them. Click a category to expand it, a mod to open its Nexus page, or just type to search. What the systems actually do is covered in the <a href="guide.html">Player Guide</a>; modifying the list yourself is <a href="#rule11">Rule 11</a>, below.</p>
   </div>
 </header>
 
 <main class="doc">
   <div class="wrap">
-    <div class="md" id="mods"><p class="loading">PULLING FEED FROM ARCHIVE…</p></div>
-    <p style="margin-top:40px;"><a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Load%20Order.md" target="_blank" rel="noopener">View the raw document on GitHub →</a></p>
-    <div class="callout">
-      <p><strong>If you enjoy this list, endorse the individual mods</strong> — the people who made them are the reason any of this works.</p>
+    <div class="lo-controls">
+      <div class="lo-tabs" id="tabs"></div>
+      <input class="lo-search" id="search" type="search" placeholder="FILTER BY MOD NAME…" aria-label="Filter mods by name">
     </div>
+    <p class="lo-meta" id="meta">PULLING MANIFEST…</p>
+    <div id="list"></div>
+    <p style="margin-top:40px;"><a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/loadorder.json" target="_blank" rel="noopener">View the raw file on GitHub →</a></p>
 
     <div class="sec-head" style="margin-top:70px;"><span class="sec-tag">RULE 11 · MODIFYING THE LIST</span><span class="rule"></span></div>
     <div class="md" id="rule11"><p class="loading">PULLING FEED FROM ARCHIVE…</p></div>
@@ -68,16 +70,116 @@
 <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.5/dist/purify.min.js"></script>
 <script src="assets/site.js?v=20260610i"></script>
 <script>
-renderMarkdown(
-  "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/Load%20Order.md",
-  "mods",
-  function (mount) {
-    var first = mount.querySelector("h2");
-    if (first) first.remove();
-    var blocks = mount.querySelectorAll("details");
-    if (blocks.length) blocks[0].open = true;
+(function () {
+  var data = null;
+  var active = null;
+  var listEl = document.getElementById("list");
+  var metaEl = document.getElementById("meta");
+  var tabsEl = document.getElementById("tabs");
+  var searchEl = document.getElementById("search");
+
+  function render() {
+    var profile = data.profiles[active];
+    listEl.innerHTML = "";
+    var group = null;
+    var groupEl = null;
+    var ulEl = null;
+    profile.mods.forEach(function (m, i) {
+      if (m.g !== group) {
+        group = m.g;
+        groupEl = document.createElement("details");
+        groupEl.className = "lo-group";
+        var h = document.createElement("summary");
+        h.textContent = group || "Ungrouped";
+        groupEl.appendChild(h);
+        ulEl = document.createElement("ul");
+        ulEl.className = "lo-list";
+        groupEl.appendChild(ulEl);
+        listEl.appendChild(groupEl);
+      }
+      var li = document.createElement("li");
+      li.className = "lo-row";
+      var idx = document.createElement("span");
+      idx.className = "idx";
+      idx.textContent = String(i + 1).padStart(3, "0");
+      var nm;
+      if (m.id) {
+        nm = document.createElement("a");
+        nm.href = "https://www.nexusmods.com/cyberpunk2077/mods/" + m.id;
+        nm.target = "_blank";
+        nm.rel = "noopener";
+      } else {
+        nm = document.createElement("span");
+      }
+      nm.className = "nm";
+      nm.textContent = m.n;
+      li.appendChild(idx);
+      li.appendChild(nm);
+      if (m.v) {
+        var vv = document.createElement("span");
+        vv.className = "vv";
+        vv.textContent = "v" + m.v;
+        li.appendChild(vv);
+      }
+      ulEl.appendChild(li);
+    });
+    document.querySelectorAll(".lo-group").forEach(function (g) {
+      var h = g.querySelector("summary");
+      var small = document.createElement("small");
+      small.textContent = g.querySelectorAll(".lo-row").length + " MODS";
+      h.appendChild(small);
+    });
+    applyFilter();
   }
-);
+
+  function applyFilter() {
+    var q = searchEl.value.trim().toLowerCase();
+    var shown = 0;
+    var total = data.profiles[active].mods.length;
+    document.querySelectorAll(".lo-row").forEach(function (row) {
+      var hit = !q || row.querySelector(".nm").textContent.toLowerCase().indexOf(q) !== -1;
+      row.classList.toggle("hide", !hit);
+      if (hit) shown++;
+    });
+    document.querySelectorAll(".lo-group").forEach(function (g) {
+      var hits = g.querySelectorAll(".lo-row:not(.hide)").length;
+      g.classList.toggle("hide", hits === 0);
+      g.open = q ? hits > 0 : false;
+    });
+    metaEl.textContent = (q ? shown + " / " + total : total) + " MODS · " + active.toUpperCase() + " PROFILE · UPDATED " + data.generated + (data.release ? " · " + data.release.toUpperCase() : "");
+  }
+
+  var SRC = "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/loadorder.json";
+  function load(opts) {
+    return fetch(SRC, opts).then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); });
+  }
+  load({})
+    .catch(function () { return load({ cache: "reload" }); })
+    .then(function (json) {
+      data = json;
+      var names = Object.keys(data.profiles);
+      names.sort(function (a, b) { return a === "Standard" ? -1 : b === "Standard" ? 1 : a.localeCompare(b); });
+      active = names[0];
+      names.forEach(function (name) {
+        var b = document.createElement("button");
+        b.className = "lo-tab";
+        b.textContent = name;
+        b.addEventListener("click", function () {
+          active = name;
+          document.querySelectorAll(".lo-tab").forEach(function (t) { t.classList.toggle("active", t.textContent === name); });
+          render();
+        });
+        tabsEl.appendChild(b);
+      });
+      tabsEl.firstChild.classList.add("active");
+      searchEl.addEventListener("input", applyFilter);
+      render();
+    })
+    .catch(function (err) {
+      metaEl.innerHTML = 'MANIFEST UNAVAILABLE — ' + err.message + '. <a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/loadorder.json">View the raw file on GitHub</a>.';
+    });
+})();
+
 renderMarkdown(
   "https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/Modlist/Rule%2011.md",
   "rule11",

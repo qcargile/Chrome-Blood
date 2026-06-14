@@ -29,6 +29,7 @@
     <div class="nav-links">
       <a href="index.html">Home</a>
       <a href="install.html">Install</a>
+      <a href="guide.html">Guide</a>
       <a href="mods.html">Mods</a>
       <a href="changelog.html">Changelog</a>
       <a href="faq.html">FAQ</a>
@@ -59,17 +60,6 @@
     <div class="stat"><b>2</b><span>Profiles</span></div>
     <div class="stat"><b>Very Hard</b><span>Tuned For</span></div>
     <div class="stat"><b>2.31a</b><span>Game Patch</span></div>
-  </div>
-</div>
-
-<div class="ticker" aria-hidden="true">
-  <div class="ticker-track" id="ticker">
-    <span><i>NC-NET FEED</i> // CHROME &amp; BLOOD</span>
-    <span><b>500+</b> MODS ACTIVE</span>
-    <span>TUNED FOR <b>VERY HARD</b></span>
-    <span>TWO PROFILES — <i>IMMERSIVE</i> / <i>STANDARD</i></span>
-    <span>SUPPORT + COMMUNITY ON <i>DISCORD</i></span>
-    <span>SURVIVAL ISN'T A RIGHT — <b>IT'S EARNED</b></span>
   </div>
 </div>
 
@@ -283,6 +273,7 @@
     <h2 class="sec-title reveal">Links</h2>
     <div class="links-grid">
       <a class="link-card reveal" href="install.html"><span class="lc-label">Start here</span><span class="lc-name">Install Guide</span><span class="lc-arrow">→</span></a>
+      <a class="link-card reveal" href="guide.html"><span class="lc-label">How to play</span><span class="lc-name">Player Guide</span><span class="lc-arrow">→</span></a>
       <a class="link-card reveal" href="changelog.html"><span class="lc-label">Every release</span><span class="lc-name">Changelog</span><span class="lc-arrow">→</span></a>
       <a class="link-card reveal" href="faq.html"><span class="lc-label">Answers</span><span class="lc-name">FAQ</span><span class="lc-arrow">→</span></a>
       <a class="link-card reveal" href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener"><span class="lc-label">Community + support</span><span class="lc-name">Discord</span><span class="lc-arrow">→</span></a>
@@ -352,14 +343,8 @@
       var chip = document.getElementById("relchip");
       chip.innerHTML = '<i>CURRENT RELEASE</i> <b>' + m[1] + '</b> // ' + m[2].toUpperCase();
       chip.hidden = false;
-      var t = document.getElementById("ticker");
-      t.insertAdjacentHTML("afterbegin", "<span>LATEST RELEASE <b>" + m[1] + "</b> — " + m[2].toUpperCase() + "</span>");
     })
-    .catch(function () {})
-    .finally(function () {
-      var t = document.getElementById("ticker");
-      t.innerHTML += t.innerHTML;
-    });
+    .catch(function () {});
 })();
 </script>
 </body>

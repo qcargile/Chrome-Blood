@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Player Guide — Chrome &amp; Blood</title>
+<meta name="description" content="How to play Chrome & Blood: getting started, controls and hotkeys, and the systems that work differently from vanilla — combat, hacking, time dilation, the economy, and builds.">
+<meta name="theme-color" content="#0a0b0d">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23c9d7f0'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff2e44'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css?v=20260610i">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M4 2h24v20l-8 8H4z" fill="#c9d7f0"/><path d="M22 2 8 30H4V2z" fill="#ff2e44"/></svg>
+      <span class="brand-name">Chrome <b>&amp;</b> Blood</span>
+    </a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="install.html">Install</a>
+      <a href="guide.html">Guide</a>
+      <a href="mods.html">Mods</a>
+      <a href="changelog.html">Changelog</a>
+      <a href="faq.html">FAQ</a>
+    </div>
+    <a class="nav-cta" href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a>
+  </div>
+</nav>
+
+<header class="page-head">
+  <div class="wrap">
+    <span class="crumb">// FIELD MANUAL</span>
+    <h1>Player Guide</h1>
+    <p class="lede">Chrome &amp; Blood changes how most of the game plays. This page covers what you need to know to get going — the controls, the systems that work differently, and how to deal with them.</p>
+  </div>
+</header>
+
+<main class="doc">
+  <div class="wrap">
+
+    <div class="callout">
+      <p>This is the how-to-play side of things. If you run into a specific problem instead, the <a href="faq.html">FAQ</a> has direct answers, and if you want to change how anything works, almost everything is adjustable in the in-game <strong style="color:var(--text)">Mod Settings</strong> menus.</p>
+    </div>
+
+    <div class="sec-head" style="margin-top:50px;"><span class="sec-tag">00 · GETTING STARTED</span><span class="rule"></span></div>
+    <h2 class="sec-title">Getting Started</h2>
+    <p style="color:var(--text-dim); max-width:760px;">A few things will catch you off guard if you walk in expecting vanilla. Here's what to do about the common ones.</p>
+    <ul class="feature-list" style="max-width:840px;">
+      <li><strong>Play on Very Hard.</strong> The list is balanced around it. The normal difficulty slider still works on top of everything if you want to nudge it one way or the other.</li>
+      <li><strong>If you're dying a lot early, that's mostly the point.</strong> Combat is genuinely lethal here. Use cover, don't run into the open, and pick your fights. If it's more punishing than you want, you can turn Damage Scaling down in Mod Settings.</li>
+      <li><strong>Money is tight at the start.</strong> You earn eddies from jobs — gigs, contracts, and bounties — not from looting, since most loot sells for almost nothing.</li>
+      <li><strong>You can't quickhack enemies on sight.</strong> You have to breach a network first: knock someone out and breach them directly, or breach an access point.</li>
+      <li><strong>On the Immersive profile, a lot of the HUD is hidden or locked behind cyberware.</strong> Install what it asks for, and if the minimap won't show up, toggle it with <kbd>F6</kbd> or <kbd>F8</kbd>.</li>
+      <li><strong>You can't craft just anywhere.</strong> Crafting happens at a stash until you unlock the perk for it.</li>
+      <li><strong>If fixers aren't calling, do some NCPD activity in that district first.</strong> That's what gets the local fixer to start sending you work.</li>
+      <li><strong>If your loot icons vanished, that's Muted Markers cleaning up the screen.</strong> Turn the ones you want back on in its settings.</li>
+      <li><strong>If it's too dark to see at night,</strong> raise Shadow Boost under ENV Tuner in Mod Settings.</li>
+    </ul>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">01 · CONTROLS</span><span class="rule"></span></div>
+    <h2 class="sec-title" id="hotkeys">Controls &amp; Hotkeys</h2>
+    <p style="color:var(--text-dim); max-width:760px;">The keys worth knowing across the list. Most of them can be rebound in the Redscript and CET <strong style="color:var(--text)">Mod Settings</strong> menus.</p>
+    <table>
+      <thead><tr><th>Key</th><th>Action</th><th>Mod</th></tr></thead>
+      <tbody>
+        <tr><td>Breach button <span style="color:var(--text-faint)">(set in Mod Settings)</span></td><td>Start the breach minigame on a network</td><td>Much Better Netrunning</td></tr>
+        <tr><td><kbd>T</kbd></td><td>Overload Breach — force one subnet open without the minigame (needs the perk)</td><td>Much Better Netrunning</td></tr>
+        <tr><td><kbd>1</kbd> – <kbd>0</kbd></td><td>Quickhack hotkeys — cast assigned quickhacks without the scanner</td><td>Quickhack Hotkeys</td></tr>
+        <tr><td>Quickslot keys</td><td>Grenades, consumables, and cyberware — assign them in the mod's settings</td><td>Custom Quickslots</td></tr>
+        <tr><td><kbd>T</kbd></td><td>Cycle firing modes (single / burst / auto)</td><td>Trigger Mode Control</td></tr>
+        <tr><td>Hold <kbd>Shift</kbd> + ADS</td><td>Variable zoom on supported scopes</td><td>Zoomable Scopes</td></tr>
+        <tr><td><kbd>F3</kbd></td><td>Night vision (requires Kiroshi Optics)</td><td>Kiroshi Optics Night Vision</td></tr>
+        <tr><td><kbd>F</kbd></td><td>Toggle flashlight</td><td>Better Flashlight</td></tr>
+        <tr><td><kbd>L-Shift</kbd> / <kbd>Space</kbd></td><td>Nitrous boost (cars / bikes)</td><td>Nitrous</td></tr>
+        <tr><td><kbd>O</kbd></td><td>Immersive timeskip menu</td><td>Immersive Timeskip</td></tr>
+        <tr><td><kbd>F6</kbd> / <kbd>F8</kbd></td><td>Toggle the mini-map (Immersive profile)</td><td>Limited HUD</td></tr>
+        <tr><td><kbd>C</kbd></td><td>Repair armor integrity at a ripperdoc's cyberware screen</td><td>Armor Up</td></tr>
+        <tr><td><kbd>K</kbd></td><td>Toggle Shared Fate, once you've unlocked the perk</td><td>Merc Protocol</td></tr>
+        <tr><td><kbd>Shift</kbd> + Right-click · <kbd>R3</kbd></td><td>Untrack the current objective (anywhere)</td><td>Much Better Quest Untracking</td></tr>
+        <tr><td>Character screen → <em>Additional Perk Trees</em></td><td>Open the Merc Protocol perks (<kbd>A</kbd>/<kbd>D</kbd> or <kbd>LT</kbd>/<kbd>RT</kbd> to switch trees)</td><td>Merc Protocol</td></tr>
+        <tr><td>Set on first launch</td><td>Open the Cyber Engine Tweaks overlay</td><td>Cyber Engine Tweaks</td></tr>
+      </tbody>
+    </table>
+    <div class="callout red">
+      <p><strong>Heads up:</strong> Trigger Mode Control and Better Netrunning's Overload Breach both default to <kbd>T</kbd>. If you use both, rebind Overload Breach under <strong style="color:var(--text)">Mods → Better Netrunning</strong>.</p>
+    </div>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">02 · COMBAT</span><span class="rule"></span></div>
+    <h2 class="sec-title">Combat &amp; Survival</h2>
+    <p style="color:var(--text-dim); max-width:760px;">Fights are quick and dangerous for everyone. Enemies flank, take cover, fall back, and call in reinforcements, and they spot you faster than they used to — so where you stand and what you stand behind matters a lot more than it does in vanilla. You can go down in a couple of hits, but so can they.</p>
+    <p style="color:var(--text-dim); max-width:760px;">Ammo isn't unlimited anymore, and reloading is manual. A reload also throws away whatever rounds were left in the magazine, so reload when you mean to rather than out of habit.</p>
+    <p style="color:var(--text-dim); max-width:760px;">Your armor has an integrity value — the blue percentage next to your health. It wears down over time, and you repair it at a ripperdoc on the cyberware screen.</p>
+    <p style="color:var(--text-dim); max-width:760px;">On the Immersive profile you've also got survival needs to keep up with, and stacking too much cyberware carries a humanity cost that can push you toward cyberpsychosis.</p>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">03 · HACKING &amp; STEALTH</span><span class="rule"></span></div>
+    <h2 class="sec-title">Hacking &amp; Stealth</h2>
+    <p style="color:var(--text-dim); max-width:760px;">Hacking works differently here. You can't scan an enemy and immediately quickhack them — quickhacks stay locked until you breach the network they're on. Knock someone unconscious and breach them directly, or breach a nearby access point. As your Cyberdeck and Intelligence improve, more of your quickhacks open back up, so it gets easier as you build into it.</p>
+    <p style="color:var(--text-dim); max-width:760px;">Enemy netrunners are out there too, and they react if you lean on hacking too hard — slowing your uploads, locking networks back down, and generally making your life difficult. Ease off, or deal with them directly.</p>
+    <p style="color:var(--text-dim); max-width:760px;">Stealth is tighter than vanilla. Enemies notice more and they react to bodies, so a corpse left out in the open can give you away. Drag them somewhere out of sight.</p>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">04 · TIME DILATION</span><span class="rule"></span></div>
+    <h2 class="sec-title">Time Dilation &amp; Sandevistans</h2>
+    <p style="color:var(--text-dim); max-width:760px;">The main thing to know going in: enemies can now move inside your time dilation. Hitting your Sandevistan doesn't freeze the world and make you safe the way it does in vanilla — anyone with the right cyberware keeps fighting, so you still have to dodge and use cover.</p>
+    <p style="color:var(--text-dim); max-width:760px;">Past that, there are eleven different Sandevistan operating systems and they each play completely differently — a few don't slow time at all. Slowing time hard enough strains your body, and queuing quickhacks in scanner slow-mo isn't free anymore either. Try a few and run whichever one fits how you play; the full roster and what each one does is on the mod's page, and everything's adjustable under <strong style="color:var(--text)">Mods → TDO</strong>.</p>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">05 · MONEY &amp; THE CITY</span><span class="rule"></span></div>
+    <h2 class="sec-title">Money &amp; The World</h2>
+    <p style="color:var(--text-dim); max-width:760px;">Your income comes from work, not loot. Gigs, fixer contracts, and bounties are where the real eddies are — selling off junk barely moves the needle. Later fixers pay much better than the early ones, and bringing cyberpsychos in alive pays more than killing them.</p>
+    <p style="color:var(--text-dim); max-width:760px;">Vendors also react to your reputation in each district. The more jobs you do in a part of the city, the better the prices get with the vendors there, so it pays to put in work locally.</p>
+    <p style="color:var(--text-dim); max-width:760px;">A few things are gated behind that work. Fixers won't start calling about a district until you've done some NCPD activity there. The list's added weapons and clothing are sold through Virtual Atelier, which you open from the Net menu on any computer. Fast travel and public transit cost time and money now, so getting across town isn't free.</p>
+    <p style="color:var(--text-dim); max-width:760px;">There's new content woven in as well — a handful of extra quests, and NPCs that remember how you've treated them.</p>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">06 · BUILDS &amp; CHROME</span><span class="rule"></span></div>
+    <h2 class="sec-title">Builds, Perks &amp; Cyberware</h2>
+    <p style="color:var(--text-dim); max-width:760px;">Merc Protocol adds a whole second layer of perks on top of the vanilla trees. You earn its points by doing merc work — gigs, cyberpsychos, side jobs, and NCPD assaults — and spend them in extra perk trees you open from the Character screen, under the <strong style="color:var(--text)">Additional Perk Trees</strong> button. These perks give you new abilities rather than bigger numbers, and you can only earn about half of what you'd need to buy everything, so you'll have to make choices.</p>
+    <p style="color:var(--text-dim); max-width:760px;">Cyberware carries more weight than vanilla. You're working with real slot limits and a humanity cost, so loading up on everything isn't an option — what you install is part of your build. On the Immersive profile, your cyberware also decides how much of your HUD you get. There's a lot of new chrome to find across the list, including a set of iconic cyberarms that each do something specific.</p>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">07 · DRIVING</span><span class="rule"></span></div>
+    <h2 class="sec-title">Getting Around</h2>
+    <p style="color:var(--text-dim); max-width:760px;">Driving feels different than vanilla — handling has been reworked across cars and bikes, so they grip and steer differently, and it takes a minute to adjust. There's also a nitrous boost if you want a burst of speed; the key for it is in the table above.</p>
+
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">08 · GRAPHICS &amp; FIXES</span><span class="rule"></span></div>
+    <h2 class="sec-title">Graphics, Performance &amp; Fixes</h2>
+    <p style="color:var(--text-dim); max-width:760px;">If performance or visuals aren't where you want them, the <a href="faq.html#graphics-performance">FAQ's Graphics &amp; Performance section</a> walks through the full setup — the DLSS Swapper versions to use, LUT Switcher for changing the color grade, and the fix for night being too dark.</p>
+    <div class="callout" style="margin-top:30px;">
+      <p><strong>Stuck on something the guide doesn't cover?</strong> The <a href="faq.html">FAQ</a> handles specific problems, and the <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">Discord</a> is there if you're still stuck.</p>
+    </div>
+
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p class="footer-sign"><span class="lh">Live Hard.</span> <span class="dc">Die Chrome.</span></p>
+    <p class="footer-quote">Survival isn't a right — it's earned.</p>
+    <div class="footer-meta">
+      <span>CHROME &amp; BLOOD // A CYBERPUNK 2077 MODLIST</span>
+      <span><a href="https://github.com/qcargile/Chrome-Blood" target="_blank" rel="noopener">GITHUB</a> · <a href="https://discord.gg/U65Nhdcns8" target="_blank" rel="noopener">DISCORD</a> · NOT AFFILIATED WITH CD PROJEKT RED</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/site.js?v=20260610i"></script>
+</body>
+</html>

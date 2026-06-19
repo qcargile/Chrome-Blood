@@ -17,6 +17,9 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 ---
 ## 🗄️ Backups & Updates
 
+**Q: I’m updating to a new version — do I need to do anything special first?**  
+**A:** When a version changes or removes cyberware and weapon mods, strip every modded item off your character **before** updating. Make a save, update the list, then reload that save and confirm you load in clean and stable before continuing. This avoids broken or missing items left behind by removed mods.
+
 **Q: How do I back up my saves or user-specific mod settings before an update?**  
 **A:**
 
@@ -65,7 +68,7 @@ I recommend starting with Dmg. scaling.
 - Check the Armor Up mod page for other items you can use to repair your armor.
 
 **Q: Why can’t I quickhack enemies right away?**  
-**A:** The list uses **[Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)**. You must either:
+**A:** The list uses **[Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237)**. You must either:
 - Knock a target **unconscious** and breach their network directly, or  
 - Breach via an **access point**.  
 Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning toward vanilla access as you progress.
@@ -78,6 +81,18 @@ Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning 
 
 **Q: What’s the recommended difficulty for Chrome & Blood?**  
 **A:** **Very Hard.** The list is balanced around **Very Hard** and that’s the only difficulty I play on. Other difficulties are not used for balance tuning.
+
+**Q: My Sandevistan / time dilation works differently now. Why?**  
+**A:** The list uses **[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)**, which reworks nearly every time-dilation system — Sandevistans, Kerenzikovs, and new attunements. Tune it in its in-game **Mod Settings**.
+
+**Q: Why can’t I buy or use some modded weapons yet?**  
+**A:** Modded weapons are now **level-gated**. Their Virtual Atelier prices also scale with the economy, and you can craft them once you’ve unlocked the schematic. They open up as you level.
+
+**Q: How do I order services from my phone / what’s the “dead channel”?**  
+**A:** That’s **[Much Better Eddies](https://www.nexusmods.com/cyberpunk2077/mods/30532)** (it replaced Economy Punk this version). It adds a phone-based dead-channel system for ordering services, on top of steeper economy scaling and bigger gig payouts.
+
+**Q: Melee combat feels heavier now — is that intended?**  
+**A:** Yes. **[Much Better Impacts](https://www.nexusmods.com/cyberpunk2077/mods/30561)** enables the game’s native hitstop; the heavier the weapon class, the more impact you’ll feel on each hit.
 
 ---
 
@@ -102,6 +117,9 @@ After changing presets, **restart the game** to avoid crashes and ensure the pal
 
 **Q: My minimap and game HUD is missing loot icons.**  
 **A:** That’s **[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)**. Re-enable specific markers in its in-game settings.
+
+**Q: Where did the second mod-settings menu go?**  
+**A:** **[Unified Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/28308)** merged the modlist’s two settings menus into one. You’ll also find a favorites tab and per-mod profiles in there.
 
 ---
 

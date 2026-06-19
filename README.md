@@ -67,7 +67,7 @@ As of v3.2, cosmetic mods have been pulled from both profiles. Chrome & Blood is
 - **Vehicles:** Reworked handling, [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675), and a full garage of lore-friendly cars and bikes through [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454).
 - **Stealth & Hacking:** [Stealth Runner](https://www.nexusmods.com/cyberpunk2077/mods/7616), [More Cautious Enemies](https://www.nexusmods.com/cyberpunk2077/mods/23575), [More Vigilant Enemies](https://www.nexusmods.com/cyberpunk2077/mods/26778), and [Dead Body Alert](https://www.nexusmods.com/cyberpunk2077/mods/26746) make stealth actually dangerous. [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) overhauls hacking from the ground up.
 - **Immersion:** [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460), [ammo limits](https://www.nexusmods.com/cyberpunk2077/mods/21807), [bounty hunting](https://www.nexusmods.com/cyberpunk2077/mods/21820), longer day/night cycles, and better ripperdocs all add depth to how the world feels.
-- **Economy:** [Gigs, loot, and rewards](https://www.nexusmods.com/cyberpunk2077/mods/16952) have been rebalanced with a custom Chrome & Blood preset not available anywhere else.
+- **Economy:** [Gigs, loot, and rewards](https://www.nexusmods.com/cyberpunk2077/mods/30532) have been rebalanced through Much Better Eddies — steeper scaling, bigger payouts, and phone-ordered services.
 - **Builds:** Dozens of weapon and cyberware mods give you real options no matter how you play.
 
 ### The Bottom Line

@@ -86,6 +86,7 @@ This list isn't meant to be easy. With all of the above tuned for **very hard**,
 - **Changelog**: [All Releases](https://qcargile.github.io/Chrome-Blood/changelog.html)
 - **FAQ**: [Frequently Asked Questions](https://qcargile.github.io/Chrome-Blood/faq.html)
 - **Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
+- **Nexus Collection**: [Add to Wabbajack](https://www.nexusmods.com/games/cyberpunk2077/collections/lrcdrr)
 
 
 ## System Requirements
@@ -148,7 +149,7 @@ Based on internal testing and community feedback. Your mileage will vary dependi
 
 ## Installation
 
-You can install Chrome & Blood from [**Nexus Mods**](https://www.nexusmods.com/cyberpunk2077/mods/20942?tab=description) or from the [**Wabbajack Gallery**](https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&nsfw=true&showUnofficial=true).
+You can install Chrome & Blood from the [**Nexus Collection**](https://www.nexusmods.com/games/cyberpunk2077/collections/lrcdrr), [**Nexus Mods**](https://www.nexusmods.com/cyberpunk2077/mods/20942?tab=description), or the [**Wabbajack Gallery**](https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&nsfw=true&showUnofficial=true) — all of them route into Wabbajack for the install.
 
 ---
 

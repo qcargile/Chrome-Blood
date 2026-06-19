@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-10",
-  "release": "v3.32+",
+  "generated": "2026-06-18",
+  "release": "v4.0",
   "instance": "Chrome & Blood",
   "profiles": {
     "Immersive": {
-      "count": 508,
+      "count": 524,
       "mods": [
         {
           "n": "disable CrashReporter (MO CET fix)",
@@ -31,7 +31,7 @@
         },
         {
           "n": "ArchiveXL",
-          "v": "1.26.4",
+          "v": "1.26.8",
           "g": "Core Mods & Frameworks",
           "id": 4198
         },
@@ -85,7 +85,7 @@
         },
         {
           "n": "VendorsXL",
-          "v": "2.1",
+          "v": "2.1.1",
           "g": "Core Mods & Frameworks",
           "id": 19679
         },
@@ -109,7 +109,7 @@
         },
         {
           "n": "RedData",
-          "v": "0.10",
+          "v": "0.10.1",
           "g": "Core Mods & Frameworks",
           "id": 14139
         },
@@ -145,13 +145,13 @@
         },
         {
           "n": "ReImagined",
-          "v": "0.3.2",
+          "v": "0.5.2",
           "g": "Core Mods & Frameworks",
           "id": 25845
         },
         {
           "n": "Custom Perk Framework",
-          "v": "2.12",
+          "v": "2.13",
           "g": "Core Mods & Frameworks",
           "id": 26771
         },
@@ -160,6 +160,39 @@
           "v": "1.0",
           "g": "Core Mods & Frameworks",
           "id": 22758
+        },
+        {
+          "n": "RedHotTools",
+          "v": "d2026.5.10",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "Show Player Health Bar When Scanning",
+          "v": "1.1",
+          "g": "UI & HUD",
+          "id": 19815
+        },
+        {
+          "n": "Unified Mod Settings",
+          "v": "",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Compact Abilities",
+          "v": "2.0",
+          "g": "UI & HUD",
+          "id": 24853
+        },
+        {
+          "n": "Much Better Quest Untracking",
+          "v": "",
+          "g": "UI & HUD"
+        },
+        {
+          "n": "Untrack Map Pins",
+          "v": "1.0.1",
+          "g": "UI & HUD",
+          "id": 28875
         },
         {
           "n": "Status Effect ReColor",
@@ -175,7 +208,7 @@
         },
         {
           "n": "Limited HUD",
-          "v": "2.22",
+          "v": "2.22.3",
           "g": "UI & HUD",
           "id": 2592
         },
@@ -199,7 +232,7 @@
         },
         {
           "n": "No Default Equipped Weapon In Inventory",
-          "v": "1.2",
+          "v": "1.3",
           "g": "UI & HUD",
           "id": 20311
         },
@@ -228,12 +261,6 @@
           "id": 6945
         },
         {
-          "n": "Wardrobe Courier - EquipmentEx Addon",
-          "v": "1.0",
-          "g": "UI & HUD",
-          "id": 18519
-        },
-        {
           "n": "Crafting Component Quantity Text",
           "v": "0.0.0.5",
           "g": "UI & HUD",
@@ -259,13 +286,13 @@
         },
         {
           "n": "Stash Filters",
-          "v": "2.1.2",
+          "v": "2.1.3",
           "g": "UI & HUD",
           "id": 5298
         },
         {
           "n": "Revised Backpack",
-          "v": "0.9.13",
+          "v": "0.9.14",
           "g": "UI & HUD",
           "id": 17642
         },
@@ -277,7 +304,7 @@
         },
         {
           "n": "Quickhack Hotkeys",
-          "v": "2.3.1",
+          "v": "2.3.2",
           "g": "UI & HUD",
           "id": 7238
         },
@@ -313,7 +340,7 @@
         },
         {
           "n": "Inventory Adjustments Hub",
-          "v": "1.3",
+          "v": "1.4",
           "g": "UI & HUD",
           "id": 19632
         },
@@ -334,6 +361,18 @@
           "v": "2.0",
           "g": "UI & HUD",
           "id": 22734
+        },
+        {
+          "n": "Night City Cinematic Loading Screens",
+          "v": "2.0",
+          "g": "UI & HUD",
+          "id": 28338
+        },
+        {
+          "n": "Night City Cinematic Loading Screens - Vanilla addon",
+          "v": "2.0",
+          "g": "UI & HUD",
+          "id": 28338
         },
         {
           "n": "Flatlined Exit",
@@ -360,24 +399,6 @@
           "id": 25315
         },
         {
-          "n": "Raven Gemini II - Full Body Conversion Cyberware - Complete",
-          "v": "1.4.2",
-          "g": "Quality Of Life",
-          "id": 16209
-        },
-        {
-          "n": "Raven Gemini II - Interlinked Weapon Modifications",
-          "v": "1.1.2",
-          "g": "Quality Of Life",
-          "id": 16955
-        },
-        {
-          "n": "Raven Gemini II - Gold Plated Interface Addon",
-          "v": "1.0.2",
-          "g": "Quality Of Life",
-          "id": 16209
-        },
-        {
           "n": "Hold to Overclock while scanning",
           "v": "1.0.2",
           "g": "Quality Of Life",
@@ -385,7 +406,7 @@
         },
         {
           "n": "Disassemble Weapons for Recipes (DAWR)",
-          "v": "1.0.1",
+          "v": "1.1.1",
           "g": "Quality Of Life",
           "id": 21747
         },
@@ -403,7 +424,7 @@
         },
         {
           "n": "Looting QoL",
-          "v": "1.8",
+          "v": "1.9",
           "g": "Quality Of Life",
           "id": 14730
         },
@@ -493,7 +514,7 @@
         },
         {
           "n": "Custom Quickslots (Consumables Grenades and Cyberware Abilities)",
-          "v": "5.3.1",
+          "v": "5.6",
           "g": "Quality Of Life",
           "id": 3096
         },
@@ -511,13 +532,13 @@
         },
         {
           "n": "Parking Spots Enhanced",
-          "v": "1.2.3",
+          "v": "1.2.4",
           "g": "Quality Of Life",
           "id": 15708
         },
         {
           "n": "QoL - Faster Checkpoints",
-          "v": "1.1.1",
+          "v": "1.2",
           "g": "Quality Of Life",
           "id": 9724
         },
@@ -541,7 +562,7 @@
         },
         {
           "n": "Smarter Scrapper",
-          "v": "2.3.5",
+          "v": "2.3.6",
           "g": "Quality Of Life",
           "id": 2687
         },
@@ -612,6 +633,42 @@
           "id": 17488
         },
         {
+          "n": "Breach Protocol - Personal Link Animations Patch",
+          "v": "1.1.5",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 28624
+        },
+        {
+          "n": "Cyberarms Stutter Fix",
+          "v": "0.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 28109
+        },
+        {
+          "n": "Low Stamina Dash Fix",
+          "v": "f1.02",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 30523
+        },
+        {
+          "n": "ThrowingWeaponBugFix2.3",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 25830
+        },
+        {
+          "n": "NCPD Fixes",
+          "v": "cpdf-1.5",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 22838
+        },
+        {
+          "n": "Impact Kill Looting Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 28099
+        },
+        {
           "n": "Bolt Shot FX Reset Fix",
           "v": "1.1.4",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -619,7 +676,7 @@
         },
         {
           "n": "Immersion Patch - Minor Activities Quest Fixes",
-          "v": "1.2",
+          "v": "1.10.1",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 27162
         },
@@ -666,6 +723,18 @@
           "id": 23573
         },
         {
+          "n": "Immersion Patch - Cyberpunk Story Quest Fixes",
+          "v": "1.7",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 29152
+        },
+        {
+          "n": "Immersion Patch - Waiting for Dodger Quest Fixes",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 28037
+        },
+        {
           "n": "Immersion Patch - NCART Train Motion Fixes",
           "v": "1.2.1",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -685,7 +754,7 @@
         },
         {
           "n": "Immersion Patch - Quest Vehicle Motion Fixes",
-          "v": "1.4",
+          "v": "1.10",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 24772
         },
@@ -811,7 +880,7 @@
         },
         {
           "n": "Deceptious Bug Fixes",
-          "v": "1.2.4",
+          "v": "1.3.3",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 18318
         },
@@ -943,7 +1012,7 @@
         },
         {
           "n": "Quickhack Fixes",
-          "v": "1.3.1",
+          "v": "1.3.3",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 18290
         },
@@ -976,6 +1045,41 @@
           "v": "1.3",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 11438
+        },
+        {
+          "n": "Much Better Netrunning",
+          "v": "2.19",
+          "g": "Gameplay & Mechanics",
+          "id": 27237
+        },
+        {
+          "n": "Time Dilation Overhaul",
+          "v": "2.0",
+          "g": "Gameplay & Mechanics",
+          "id": 4931
+        },
+        {
+          "n": "Armor Up - Player Armor Rework",
+          "v": "1.0.4",
+          "g": "Gameplay & Mechanics",
+          "id": 24801
+        },
+        {
+          "n": "Better Flashlight",
+          "v": "1.33",
+          "g": "Gameplay & Mechanics",
+          "id": 27721
+        },
+        {
+          "n": "Much Better Eddies",
+          "v": "1.10",
+          "g": "Gameplay & Mechanics",
+          "id": 30532
+        },
+        {
+          "n": "Much Better Impacts",
+          "v": "",
+          "g": "Gameplay & Mechanics"
         },
         {
           "n": "AI Trigger Overhaul - More Perceptive NPCs",
@@ -1051,7 +1155,7 @@
         },
         {
           "n": "Immersive Shooting AI",
-          "v": "1.0.2",
+          "v": "1.1",
           "g": "Gameplay & Mechanics",
           "id": 22782
         },
@@ -1063,7 +1167,7 @@
         },
         {
           "n": "Repeatable NCPD Gigs - WIP",
-          "v": "0.0.0.16",
+          "v": "0.0.0.20",
           "g": "Gameplay & Mechanics",
           "id": 18968
         },
@@ -1087,7 +1191,7 @@
         },
         {
           "n": "Ammo Limiter - Realistic Ammunition Management",
-          "v": "2.6.4",
+          "v": "2.7.1",
           "g": "Gameplay & Mechanics",
           "id": 21807
         },
@@ -1099,7 +1203,7 @@
         },
         {
           "n": "Reinforcements System",
-          "v": "1.1.3",
+          "v": "1.2",
           "g": "Gameplay & Mechanics",
           "id": 21532
         },
@@ -1117,13 +1221,13 @@
         },
         {
           "n": "Trace Position Overhaul",
-          "v": "2.1.2",
+          "v": "2.1.3",
           "g": "Gameplay & Mechanics",
           "id": 12445
         },
         {
           "n": "Enhanced Craft",
-          "v": "4.0.7",
+          "v": "4.0.9",
           "g": "Gameplay & Mechanics",
           "id": 4378
         },
@@ -1135,7 +1239,7 @@
         },
         {
           "n": "Always First Equip",
-          "v": "2.1.2",
+          "v": "2.1.5",
           "g": "Gameplay & Mechanics",
           "id": 2557
         },
@@ -1159,7 +1263,7 @@
         },
         {
           "n": "Stealthrunner - Stealth Gameplay Expansion",
-          "v": "1.10",
+          "v": "1.11.1",
           "g": "Gameplay & Mechanics",
           "id": 7616
         },
@@ -1189,7 +1293,7 @@
         },
         {
           "n": "They Will Remember",
-          "v": "2.2.8",
+          "v": "2.4.2.0c",
           "g": "Gameplay & Mechanics",
           "id": 19747
         },
@@ -1213,7 +1317,7 @@
         },
         {
           "n": "CyberwareEX",
-          "v": "1.5.5",
+          "v": "1.5.6",
           "g": "Cyberware & Augmentations",
           "id": 9429
         },
@@ -1243,7 +1347,7 @@
         },
         {
           "n": "Black Budget Classified Limbs - Iconic Cyberarms Pack",
-          "v": "2.2",
+          "v": "2.3",
           "g": "Cyberware & Augmentations",
           "id": 24673
         },
@@ -1278,46 +1382,16 @@
           "id": 19798
         },
         {
-          "n": "Raito Labs - Custom Cyberware",
-          "v": "4.7.1",
-          "g": "Cyberware & Augmentations",
-          "id": 13008
-        },
-        {
-          "n": "Gold-Plated Interface Cyberware - Complete Collection",
-          "v": "1.1",
-          "g": "Cyberware & Augmentations",
-          "id": 15571
-        },
-        {
           "n": "Immersive Cyberware",
           "v": "1.0.2",
           "g": "Cyberware & Augmentations",
           "id": 21916
         },
         {
-          "n": "Gold-Plated Interface Cyberware - Immersive Cyberware Compatibility Patch",
-          "v": "1.0.2",
-          "g": "Cyberware & Augmentations",
-          "id": 22764
-        },
-        {
-          "n": "Raito Labs - Immersive Cyberware Patch",
-          "v": "1.1",
-          "g": "Cyberware & Augmentations",
-          "id": 23011
-        },
-        {
           "n": "Stealthrunner - Immersive Cyberware Patch",
           "v": "1.0",
           "g": "Cyberware & Augmentations",
           "id": 23014
-        },
-        {
-          "n": "Raven Gemini II - Immersive Cyberware Compatibility Patch",
-          "v": "1.0.3",
-          "g": "Cyberware & Augmentations",
-          "id": 22765
         },
         {
           "n": "Merc Protocol - Perk Gameplay Expansion",
@@ -1327,7 +1401,7 @@
         },
         {
           "n": "Running Man - New Sprinting Perks",
-          "v": "1.1.2",
+          "v": "1.1.3",
           "g": "Skills & Progression",
           "id": 26611
         },
@@ -1566,6 +1640,12 @@
           "id": 15889
         },
         {
+          "n": "Iconic Weapon Loadouts - Morgan Blackhand",
+          "v": "2.1",
+          "g": "Weapons & Attachments",
+          "id": 28305
+        },
+        {
           "n": "NCPD Cache - New Iconic Weapons",
           "v": "1.0.1",
           "g": "Weapons & Attachments",
@@ -1704,6 +1784,30 @@
           "id": 17771
         },
         {
+          "n": "Mateba 6 Unica",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 27495
+        },
+        {
+          "n": "MK.78 SAW",
+          "v": "1.2",
+          "g": "Weapons & Attachments",
+          "id": 27085
+        },
+        {
+          "n": "HCAR Black With Attachments",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 29724
+        },
+        {
+          "n": "DTIR 30 06 Black With Attachments",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 29724
+        },
+        {
           "n": "OTs-14 Groza",
           "v": "1.0",
           "g": "Weapons & Attachments",
@@ -1747,7 +1851,7 @@
         },
         {
           "n": "Shuriken Tornado Grenade",
-          "v": "1.0",
+          "v": "1.0.1",
           "g": "Weapons & Attachments",
           "id": 24484
         },
@@ -1855,13 +1959,13 @@
         },
         {
           "n": "Romance Hangouts Enhanced",
-          "v": "2.4",
+          "v": "2.5.1",
           "g": "NPCs & World Population",
           "id": 11590
         },
         {
           "n": "Non-Canon Romances Enhanced",
-          "v": "1.3",
+          "v": "1.5",
           "g": "NPCs & World Population",
           "id": 20466
         },
@@ -1891,7 +1995,7 @@
         },
         {
           "n": "NCPD Uniform 2.0",
-          "v": "1.21",
+          "v": "2.0",
           "g": "NPCs & World Population",
           "id": 21577
         },
@@ -1915,19 +2019,19 @@
         },
         {
           "n": "Kiroshi Optics - Deep Scan Protocol",
-          "v": "1.7.1",
+          "v": "2.3.1",
           "g": "Immersion & Roleplay",
           "id": 27018
         },
         {
           "n": "SPLAT Physics Realistic Ragdoll Overhaul",
-          "v": "6.1",
+          "v": "10.99",
           "g": "Immersion & Roleplay",
           "id": 23539
         },
         {
           "n": "Here's Brendan",
-          "v": "1.0.1",
+          "v": "1.1.1",
           "g": "Immersion & Roleplay",
           "id": 25629
         },
@@ -2011,7 +2115,7 @@
         },
         {
           "n": "Gone Away - Better Partner Suspended Behaviour",
-          "v": "1.1",
+          "v": "1.1.1",
           "g": "Immersion & Roleplay",
           "id": 19412
         },
@@ -2065,13 +2169,13 @@
         },
         {
           "n": "Virtual Atelier",
-          "v": "1.4.9",
+          "v": "1.5",
           "g": "Immersion & Roleplay",
           "id": 2987
         },
         {
           "n": "Virtual Atelier Delivery",
-          "v": "1.0.10",
+          "v": "1.0.11",
           "g": "Immersion & Roleplay",
           "id": 21482
         },
@@ -2125,7 +2229,7 @@
         },
         {
           "n": "Auto Drive Enhanced",
-          "v": "0.0.0.19",
+          "v": "0.0.0.20",
           "g": "Vehicles & Driving",
           "id": 23157
         },
@@ -2137,13 +2241,13 @@
         },
         {
           "n": "Dynamic Gravity Modifier",
-          "v": "2.21",
+          "v": "2.31.2",
           "g": "Vehicles & Driving",
           "id": 13986
         },
         {
           "n": "Dynamic Downforce",
-          "v": "2.21.1",
+          "v": "2.31",
           "g": "Vehicles & Driving",
           "id": 12841
         },
@@ -2197,7 +2301,7 @@
         },
         {
           "n": "Vehicle Summon Tweaks - Dismiss",
-          "v": "2.3.3",
+          "v": "2.3.4",
           "g": "Vehicles & Driving",
           "id": 4658
         },
@@ -2221,7 +2325,7 @@
         },
         {
           "n": "Virtual Car Dealer",
-          "v": "2.2.9",
+          "v": "2.2.10",
           "g": "Vehicles & Driving",
           "id": 4454
         },
@@ -2605,7 +2709,7 @@
         },
         {
           "n": "LUT Switcher 2",
-          "v": "2.4",
+          "v": "2.5.2",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
@@ -2622,20 +2726,14 @@
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Nova LUT Pack (HDR ONLY)",
-          "v": "1.3.0.0nhdr",
+          "n": "LUT Switcher - Edge LUT Pack",
+          "v": "1.1.1.0e",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - LUT Switcher Pack",
-          "v": "3.0.0.0s",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 11622
-        },
-        {
-          "n": "LUT Switcher - Edge LUT Pack",
-          "v": "1.1.1.0e",
+          "n": "LUT Switcher - Nova LUT Pack",
+          "v": "1.4.0.0n",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
@@ -2677,7 +2775,7 @@
         },
         {
           "n": "General Shadows Fixes",
-          "v": "0.75",
+          "v": "0.94",
           "g": "Visuals, Graphics, & Lighting",
           "id": 20405
         },
@@ -2701,7 +2799,7 @@
         },
         {
           "n": "Night City Visuals Nulled",
-          "v": "3.2",
+          "v": "3.2.3",
           "g": "Visuals, Graphics, & Lighting",
           "id": 13524
         },
@@ -2713,13 +2811,19 @@
         },
         {
           "n": "Improved Distant Shadows (Volumetric Fog Leaking Fixed)",
-          "v": "0.3",
+          "v": "0.35",
           "g": "Visuals, Graphics, & Lighting",
           "id": 20623
         },
         {
+          "n": "Improved Vegetation LODs",
+          "v": "3.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 3627
+        },
+        {
           "n": "Improved Vehicle Lights Draw Distance",
-          "v": "2.4",
+          "v": "2.7",
           "g": "Visuals, Graphics, & Lighting",
           "id": 5082
         },
@@ -2839,7 +2943,7 @@
         },
         {
           "n": "Disable Fake Lights with Path Tracing",
-          "v": "0.2",
+          "v": "0.4",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16060
         },
@@ -2869,7 +2973,7 @@
         },
         {
           "n": "Flaming Crotch Man Romanced",
-          "v": "2.1",
+          "v": "2.1.1",
           "g": "New Quests & Content",
           "id": 9573
         },
@@ -2887,13 +2991,13 @@
         },
         {
           "n": "Aurore Romanced (Lady Marmalade)",
-          "v": "1.2.3",
+          "v": "1.2.7",
           "g": "New Quests & Content",
           "id": 11097
         },
         {
           "n": "Rita Wheeler Romanced",
-          "v": "3.2",
+          "v": "3.3",
           "g": "New Quests & Content",
           "id": 9191
         },
@@ -2911,25 +3015,25 @@
         },
         {
           "n": "New Quest - Hot Fuzz",
-          "v": "3.1.3",
+          "v": "3.1.4",
           "g": "New Quests & Content",
           "id": 7832
         },
         {
           "n": "New Quest - One More Light",
-          "v": "2.1.5",
+          "v": "2.1.6",
           "g": "New Quests & Content",
           "id": 7834
         },
         {
           "n": "New Quest - Encore",
-          "v": "3.1",
+          "v": "3.2.1",
           "g": "New Quests & Content",
           "id": 8413
         },
         {
           "n": "New Quest - Californication",
-          "v": "3.1.1",
+          "v": "3.1.2",
           "g": "New Quests & Content",
           "id": 7833
         },
@@ -3036,26 +3140,15 @@
           "id": 13434
         },
         {
-          "n": "Much Better Netrunning",
-          "v": "2.0",
-          "g": "Late Loaders, Cheats, & Experimental",
-          "id": 27237
-        },
-        {
           "n": "Modlist Settings - Immersive Profile",
-          "v": "3.10",
+          "v": "4.0",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 20942
-        },
-        {
-          "n": "Much Better Eddies",
-          "v": "",
-          "g": "Armor, Clothing & Accessories"
         }
       ]
     },
     "Standard": {
-      "count": 509,
+      "count": 517,
       "mods": [
         {
           "n": "disable CrashReporter (MO CET fix)",
@@ -3082,7 +3175,7 @@
         },
         {
           "n": "ArchiveXL",
-          "v": "1.26.4",
+          "v": "1.26.8",
           "g": "Core Mods & Frameworks",
           "id": 4198
         },
@@ -3136,7 +3229,7 @@
         },
         {
           "n": "VendorsXL",
-          "v": "2.1",
+          "v": "2.1.1",
           "g": "Core Mods & Frameworks",
           "id": 19679
         },
@@ -3154,7 +3247,7 @@
         },
         {
           "n": "RedData",
-          "v": "0.10",
+          "v": "0.10.1",
           "g": "Core Mods & Frameworks",
           "id": 14139
         },
@@ -3190,7 +3283,7 @@
         },
         {
           "n": "Custom Perk Framework",
-          "v": "2.12",
+          "v": "2.13",
           "g": "Core Mods & Frameworks",
           "id": 26771
         },
@@ -3202,7 +3295,7 @@
         },
         {
           "n": "ReImagined",
-          "v": "0.3.2",
+          "v": "0.5.2",
           "g": "Core Mods & Frameworks",
           "id": 25845
         },
@@ -3218,16 +3311,15 @@
           "g": "Core Mods & Frameworks"
         },
         {
-          "n": "Pseudo New Game Plus",
-          "v": "2.4",
-          "g": "Core Mods & Frameworks",
-          "id": 5144
+          "n": "Unified Mod Settings",
+          "v": "",
+          "g": "UI & HUD"
         },
         {
-          "n": "World Builder",
-          "v": "1.0.81",
+          "n": "Compact Abilities",
+          "v": "2.0",
           "g": "UI & HUD",
-          "id": 20660
+          "id": 24853
         },
         {
           "n": "Stats Bar UI Fix",
@@ -3290,7 +3382,7 @@
         },
         {
           "n": "No Default Equipped Weapon In Inventory",
-          "v": "1.2",
+          "v": "1.3",
           "g": "UI & HUD",
           "id": 20311
         },
@@ -3307,22 +3399,16 @@
           "id": 4521
         },
         {
-          "n": "Equipment-EX",
-          "v": "1.2.9",
-          "g": "UI & HUD",
-          "id": 6945
-        },
-        {
           "n": "Find-EX",
           "v": "1.2",
           "g": "UI & HUD",
           "id": 8340
         },
         {
-          "n": "Wardrobe Courier - EquipmentEx Addon",
-          "v": "1.0",
+          "n": "Equipment-EX",
+          "v": "1.2.9",
           "g": "UI & HUD",
-          "id": 18519
+          "id": 6945
         },
         {
           "n": "Crafting Component Quantity Text",
@@ -3350,13 +3436,13 @@
         },
         {
           "n": "Stash Filters",
-          "v": "2.1.2",
+          "v": "2.1.3",
           "g": "UI & HUD",
           "id": 5298
         },
         {
           "n": "Revised Backpack",
-          "v": "0.9.13",
+          "v": "0.9.14",
           "g": "UI & HUD",
           "id": 17642
         },
@@ -3368,7 +3454,7 @@
         },
         {
           "n": "Quickhack Hotkeys",
-          "v": "2.3.1",
+          "v": "2.3.2",
           "g": "UI & HUD",
           "id": 7238
         },
@@ -3398,7 +3484,7 @@
         },
         {
           "n": "Inventory Adjustments Hub",
-          "v": "1.3",
+          "v": "1.4",
           "g": "UI & HUD",
           "id": 19632
         },
@@ -3413,6 +3499,18 @@
           "v": "2.3",
           "g": "UI & HUD",
           "id": 10285
+        },
+        {
+          "n": "Night City Cinematic Loading Screens",
+          "v": "2.0",
+          "g": "UI & HUD",
+          "id": 28338
+        },
+        {
+          "n": "Night City Cinematic Loading Screens - Vanilla addon",
+          "v": "2.0",
+          "g": "UI & HUD",
+          "id": 28338
         },
         {
           "n": "Flatlined Exit",
@@ -3446,7 +3544,7 @@
         },
         {
           "n": "Disassemble Weapons for Recipes (DAWR)",
-          "v": "1.0.1",
+          "v": "1.1.1",
           "g": "Quality Of Life",
           "id": 21747
         },
@@ -3464,7 +3562,7 @@
         },
         {
           "n": "Looting QoL",
-          "v": "1.8",
+          "v": "1.9",
           "g": "Quality Of Life",
           "id": 14730
         },
@@ -3548,7 +3646,7 @@
         },
         {
           "n": "Custom Quickslots (Consumables Grenades and Cyberware Abilities)",
-          "v": "5.3.1",
+          "v": "5.6",
           "g": "Quality Of Life",
           "id": 3096
         },
@@ -3566,13 +3664,13 @@
         },
         {
           "n": "Parking Spots Enhanced",
-          "v": "1.2.3",
+          "v": "1.2.4",
           "g": "Quality Of Life",
           "id": 15708
         },
         {
           "n": "QoL - Faster Checkpoints",
-          "v": "1.1.1",
+          "v": "1.2",
           "g": "Quality Of Life",
           "id": 9724
         },
@@ -3596,7 +3694,7 @@
         },
         {
           "n": "Smarter Scrapper",
-          "v": "2.3.5",
+          "v": "2.3.6",
           "g": "Quality Of Life",
           "id": 2687
         },
@@ -3667,6 +3765,12 @@
           "id": 17488
         },
         {
+          "n": "Untrack Map Pins",
+          "v": "1.0.1",
+          "g": "Quality Of Life",
+          "id": 28875
+        },
+        {
           "n": "Barbed Wire Knockout Effect Disabled",
           "v": "1.1",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -3692,7 +3796,7 @@
         },
         {
           "n": "Immersion Patch - Minor Activities Quest Fixes",
-          "v": "1.2",
+          "v": "1.10.1",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 27162
         },
@@ -3746,7 +3850,7 @@
         },
         {
           "n": "Immersion Patch - Quest Vehicle Motion Fixes",
-          "v": "1.4",
+          "v": "1.10",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 24772
         },
@@ -3773,6 +3877,12 @@
           "v": "1.0",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 25792
+        },
+        {
+          "n": "Immersion Patch - Waiting for Dodger Quest Fixes",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 28037
         },
         {
           "n": "Buzzsaw VFX Fix",
@@ -3847,6 +3957,36 @@
           "id": 19815
         },
         {
+          "n": "Low Stamina Dash Fix",
+          "v": "f1.02",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 30523
+        },
+        {
+          "n": "Immersion Patch - Cyberpunk Story Quest Fixes",
+          "v": "1.7",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 29152
+        },
+        {
+          "n": "Cyberarms Stutter Fix",
+          "v": "0.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 28109
+        },
+        {
+          "n": "Impact Kill Looting Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 28099
+        },
+        {
+          "n": "Breach Protocol - Personal Link Animations Patch",
+          "v": "1.1.5",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 28624
+        },
+        {
           "n": "Quickhack Damage Fix",
           "v": "1.0.2",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -3866,7 +4006,7 @@
         },
         {
           "n": "Deceptious Bug Fixes",
-          "v": "1.2.4",
+          "v": "1.3.3",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 18318
         },
@@ -3998,7 +4138,7 @@
         },
         {
           "n": "Quickhack Fixes",
-          "v": "1.3.1",
+          "v": "1.3.3",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 18290
         },
@@ -4031,6 +4171,53 @@
           "v": "1.3",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 11438
+        },
+        {
+          "n": "NCPD Fixes",
+          "v": "cpdf-1.5",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 22838
+        },
+        {
+          "n": "ThrowingWeaponBugFix2.3",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 25830
+        },
+        {
+          "n": "Much Better Netrunning",
+          "v": "2.19",
+          "g": "Gameplay & Mechanics",
+          "id": 27237
+        },
+        {
+          "n": "Much Better Eddies",
+          "v": "1.10",
+          "g": "Gameplay & Mechanics",
+          "id": 30532
+        },
+        {
+          "n": "Armor Up - Player Armor Rework",
+          "v": "1.0.4",
+          "g": "Gameplay & Mechanics",
+          "id": 24801
+        },
+        {
+          "n": "Time Dilation Overhaul",
+          "v": "2.0",
+          "g": "Gameplay & Mechanics",
+          "id": 4931
+        },
+        {
+          "n": "Much Better Impacts",
+          "v": "",
+          "g": "Gameplay & Mechanics"
+        },
+        {
+          "n": "Better Flashlight",
+          "v": "1.33",
+          "g": "Gameplay & Mechanics",
+          "id": 27721
         },
         {
           "n": "Challenging Breach Minigame",
@@ -4100,7 +4287,7 @@
         },
         {
           "n": "Repeatable NCPD Gigs - WIP",
-          "v": "0.0.0.16",
+          "v": "0.0.0.20",
           "g": "Gameplay & Mechanics",
           "id": 18968
         },
@@ -4112,7 +4299,7 @@
         },
         {
           "n": "Immersive Shooting AI",
-          "v": "1.0.2",
+          "v": "1.1",
           "g": "Gameplay & Mechanics",
           "id": 22782
         },
@@ -4124,7 +4311,7 @@
         },
         {
           "n": "Ammo Limiter - Realistic Ammunition Management",
-          "v": "2.6.4",
+          "v": "2.7.1",
           "g": "Gameplay & Mechanics",
           "id": 21807
         },
@@ -4136,7 +4323,7 @@
         },
         {
           "n": "Reinforcements System",
-          "v": "1.1.3",
+          "v": "1.2",
           "g": "Gameplay & Mechanics",
           "id": 21532
         },
@@ -4154,13 +4341,13 @@
         },
         {
           "n": "Trace Position Overhaul",
-          "v": "2.1.2",
+          "v": "2.1.3",
           "g": "Gameplay & Mechanics",
           "id": 12445
         },
         {
           "n": "Enhanced Craft",
-          "v": "4.0.7",
+          "v": "4.0.9",
           "g": "Gameplay & Mechanics",
           "id": 4378
         },
@@ -4172,7 +4359,7 @@
         },
         {
           "n": "Always First Equip",
-          "v": "2.1.2",
+          "v": "2.1.5",
           "g": "Gameplay & Mechanics",
           "id": 2557
         },
@@ -4196,7 +4383,7 @@
         },
         {
           "n": "Stealthrunner - Stealth Gameplay Expansion",
-          "v": "1.10",
+          "v": "1.11.1",
           "g": "Gameplay & Mechanics",
           "id": 7616
         },
@@ -4226,7 +4413,7 @@
         },
         {
           "n": "They Will Remember",
-          "v": "2.2.8",
+          "v": "2.4.2.0c",
           "g": "Gameplay & Mechanics",
           "id": 19747
         },
@@ -4250,7 +4437,7 @@
         },
         {
           "n": "CyberwareEX",
-          "v": "1.5.5",
+          "v": "1.5.6",
           "g": "Cyberware & Augmentations",
           "id": 9429
         },
@@ -4291,26 +4478,8 @@
           "id": 8326
         },
         {
-          "n": "Raven Gemini II - Full Body Conversion Cyberware - Complete",
-          "v": "1.4.2",
-          "g": "Cyberware & Augmentations",
-          "id": 16209
-        },
-        {
-          "n": "Raven Gemini II - Interlinked Weapon Modifications",
-          "v": "1.1.2",
-          "g": "Cyberware & Augmentations",
-          "id": 16955
-        },
-        {
-          "n": "Raven Gemini II - Gold Plated Interface Addon",
-          "v": "1.0.2",
-          "g": "Cyberware & Augmentations",
-          "id": 16209
-        },
-        {
           "n": "Black Budget Classified Limbs - Iconic Cyberarms Pack",
-          "v": "2.2",
+          "v": "2.3",
           "g": "Cyberware & Augmentations",
           "id": 24673
         },
@@ -4333,18 +4502,6 @@
           "id": 19798
         },
         {
-          "n": "Raito Labs - Custom Cyberware",
-          "v": "4.7.1",
-          "g": "Cyberware & Augmentations",
-          "id": 13008
-        },
-        {
-          "n": "Gold-Plated Interface Cyberware - Complete Collection",
-          "v": "1.1",
-          "g": "Cyberware & Augmentations",
-          "id": 15571
-        },
-        {
           "n": "Merc Protocol - Perk Gameplay Expansion",
           "v": "2.11",
           "g": "Skills & Progression",
@@ -4352,7 +4509,7 @@
         },
         {
           "n": "Running Man - New Sprinting Perks",
-          "v": "1.1.2",
+          "v": "1.1.3",
           "g": "Skills & Progression",
           "id": 26611
         },
@@ -4490,7 +4647,7 @@
         },
         {
           "n": "Shuriken Tornado Grenade",
-          "v": "1.0",
+          "v": "1.0.1",
           "g": "Weapons & Attachments",
           "id": 24484
         },
@@ -4577,6 +4734,30 @@
           "v": "1.2",
           "g": "Weapons & Attachments",
           "id": 14518
+        },
+        {
+          "n": "DTIR 30 06 Black With Attachments",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 29724
+        },
+        {
+          "n": "HCAR Black With Attachments",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 29724
+        },
+        {
+          "n": "Mateba 6 Unica",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 27495
+        },
+        {
+          "n": "MK.78 SAW",
+          "v": "1.2",
+          "g": "Weapons & Attachments",
+          "id": 27085
         },
         {
           "n": "AK Pack",
@@ -4837,6 +5018,12 @@
           "id": 19234
         },
         {
+          "n": "Iconic Weapon Loadouts - Morgan Blackhand",
+          "v": "2.1",
+          "g": "Weapons & Attachments",
+          "id": 28305
+        },
+        {
           "n": "NCPD Cache - New Iconic Weapons",
           "v": "1.0.1",
           "g": "Weapons & Attachments",
@@ -4892,13 +5079,13 @@
         },
         {
           "n": "Romance Hangouts Enhanced",
-          "v": "2.4",
+          "v": "2.5.1",
           "g": "NPCs & World Population",
           "id": 11590
         },
         {
           "n": "Non-Canon Romances Enhanced",
-          "v": "1.3",
+          "v": "1.5",
           "g": "NPCs & World Population",
           "id": 20466
         },
@@ -4928,7 +5115,7 @@
         },
         {
           "n": "NCPD Uniform 2.0",
-          "v": "1.21",
+          "v": "2.0",
           "g": "NPCs & World Population",
           "id": 21577
         },
@@ -4952,13 +5139,13 @@
         },
         {
           "n": "Kiroshi Optics - Deep Scan Protocol",
-          "v": "1.7.1",
+          "v": "2.3.1",
           "g": "Immersion & Roleplay",
           "id": 27018
         },
         {
           "n": "SPLAT Physics Realistic Ragdoll Overhaul",
-          "v": "6.1",
+          "v": "10.99",
           "g": "Immersion & Roleplay",
           "id": 23539
         },
@@ -5000,7 +5187,7 @@
         },
         {
           "n": "Here's Brendan",
-          "v": "1.0.1",
+          "v": "1.1.1",
           "g": "Immersion & Roleplay",
           "id": 25629
         },
@@ -5036,7 +5223,7 @@
         },
         {
           "n": "Gone Away - Better Partner Suspended Behaviour",
-          "v": "1.1",
+          "v": "1.1.1",
           "g": "Immersion & Roleplay",
           "id": 19412
         },
@@ -5090,7 +5277,7 @@
         },
         {
           "n": "Virtual Atelier",
-          "v": "1.4.9",
+          "v": "1.5",
           "g": "Immersion & Roleplay",
           "id": 2987
         },
@@ -5144,7 +5331,7 @@
         },
         {
           "n": "Auto Drive Enhanced",
-          "v": "0.0.0.19",
+          "v": "0.0.0.20",
           "g": "Vehicles & Driving",
           "id": 23157
         },
@@ -5174,13 +5361,13 @@
         },
         {
           "n": "Dynamic Gravity Modifier",
-          "v": "2.21",
+          "v": "2.31.2",
           "g": "Vehicles & Driving",
           "id": 13986
         },
         {
           "n": "Dynamic Downforce",
-          "v": "2.21.1",
+          "v": "2.31",
           "g": "Vehicles & Driving",
           "id": 12841
         },
@@ -5228,7 +5415,7 @@
         },
         {
           "n": "Vehicle Summon Tweaks - Dismiss",
-          "v": "2.3.3",
+          "v": "2.3.4",
           "g": "Vehicles & Driving",
           "id": 4658
         },
@@ -5240,7 +5427,7 @@
         },
         {
           "n": "Virtual Car Dealer",
-          "v": "2.2.9",
+          "v": "2.2.10",
           "g": "Vehicles & Driving",
           "id": 4454
         },
@@ -5624,7 +5811,7 @@
         },
         {
           "n": "LUT Switcher 2",
-          "v": "2.4",
+          "v": "2.5.2",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
@@ -5641,16 +5828,10 @@
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Nova LUT Pack (HDR ONLY)",
-          "v": "1.3.0.0nhdr",
+          "n": "LUT Switcher - Nova LUT Pack",
+          "v": "1.4.0.0n",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
-        },
-        {
-          "n": "LUT Switcher - LUT Switcher Pack",
-          "v": "3.0.0.0s",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 11622
         },
         {
           "n": "LUT Switcher - Edge LUT Pack",
@@ -5696,7 +5877,7 @@
         },
         {
           "n": "General Shadows Fixes",
-          "v": "0.75",
+          "v": "0.94",
           "g": "Visuals, Graphics, & Lighting",
           "id": 20405
         },
@@ -5720,7 +5901,7 @@
         },
         {
           "n": "Night City Visuals Nulled",
-          "v": "3.2",
+          "v": "3.2.3",
           "g": "Visuals, Graphics, & Lighting",
           "id": 13524
         },
@@ -5732,13 +5913,13 @@
         },
         {
           "n": "Improved Distant Shadows (Volumetric Fog Leaking Fixed)",
-          "v": "0.3",
+          "v": "0.35",
           "g": "Visuals, Graphics, & Lighting",
           "id": 20623
         },
         {
           "n": "Improved Vehicle Lights Draw Distance",
-          "v": "2.4",
+          "v": "2.7",
           "g": "Visuals, Graphics, & Lighting",
           "id": 5082
         },
@@ -5749,16 +5930,22 @@
           "id": 17837
         },
         {
+          "n": "Improved Vegetation LODs",
+          "v": "3.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 3627
+        },
+        {
           "n": "Improved Bottles and Tableware",
           "v": "0.2",
           "g": "Visuals, Graphics, & Lighting",
           "id": 14672
         },
         {
-          "n": "Faster Rainmap and Distant Shadows",
-          "v": "0.1",
+          "n": "FX Begone - Inventory",
+          "v": "1.1.0.0a",
           "g": "Visuals, Graphics, & Lighting",
-          "id": 8610
+          "id": 9209
         },
         {
           "n": "ReLUX (Lighting Redux - Accurate Lighting - AIO)",
@@ -5815,12 +6002,6 @@
           "id": 9209
         },
         {
-          "n": "FX Begone - Inventory",
-          "v": "1.1.0.0a",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 9209
-        },
-        {
           "n": "Blur Begone (Clear Materials with Refraction)",
           "v": "1.25.3",
           "g": "Visuals, Graphics, & Lighting",
@@ -5851,6 +6032,12 @@
           "id": 13483
         },
         {
+          "n": "Faster Rainmap and Distant Shadows",
+          "v": "0.1",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 8610
+        },
+        {
           "n": "Weather Switcher (Change Weather - Control Time - Customize Clouds)",
           "v": "1.6.1",
           "g": "Visuals, Graphics, & Lighting",
@@ -5858,7 +6045,7 @@
         },
         {
           "n": "Disable Fake Lights with Path Tracing",
-          "v": "0.2",
+          "v": "0.4",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16060
         },
@@ -5888,7 +6075,7 @@
         },
         {
           "n": "Flaming Crotch Man Romanced",
-          "v": "2.1",
+          "v": "2.1.1",
           "g": "New Quests & Content",
           "id": 9573
         },
@@ -5906,13 +6093,13 @@
         },
         {
           "n": "Aurore Romanced (Lady Marmalade)",
-          "v": "1.2.3",
+          "v": "1.2.7",
           "g": "New Quests & Content",
           "id": 11097
         },
         {
           "n": "Rita Wheeler Romanced",
-          "v": "3.2",
+          "v": "3.3",
           "g": "New Quests & Content",
           "id": 9191
         },
@@ -5930,33 +6117,27 @@
         },
         {
           "n": "New Quest - Hot Fuzz",
-          "v": "3.1.3",
+          "v": "3.1.4",
           "g": "New Quests & Content",
           "id": 7832
         },
         {
           "n": "New Quest - One More Light",
-          "v": "2.1.5",
+          "v": "2.1.6",
           "g": "New Quests & Content",
           "id": 7834
         },
         {
           "n": "New Quest - Encore",
-          "v": "3.1",
+          "v": "3.2.1",
           "g": "New Quests & Content",
           "id": 8413
         },
         {
           "n": "New Quest - Californication",
-          "v": "3.1.1",
+          "v": "3.1.2",
           "g": "New Quests & Content",
           "id": 7833
-        },
-        {
-          "n": "Virtual Atelier Addon - Item Tag Registry",
-          "v": "f1.02",
-          "g": "Late Loaders, Cheats, & Experimental",
-          "id": 27347
         },
         {
           "n": "Player Character Editor - CET Extension",
@@ -6061,48 +6242,10 @@
           "id": 13434
         },
         {
-          "n": "Much Better Netrunning",
-          "v": "2.0",
-          "g": "Late Loaders, Cheats, & Experimental",
-          "id": 27237
-        },
-        {
           "n": "Modlist Settings - Standard Profile",
-          "v": "3.10",
+          "v": "4.0",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 20942
-        },
-        {
-          "n": "Unified Mod Settings",
-          "v": "",
-          "g": "Optional Mods (Stability may vary)"
-        },
-        {
-          "n": "TDO",
-          "v": "d2026.4.7",
-          "g": "Optional Mods (Stability may vary)"
-        },
-        {
-          "n": "Better Flashlight",
-          "v": "",
-          "g": "Optional Mods (Stability may vary)"
-        },
-        {
-          "n": "FreeFly (Noclip)",
-          "v": "2.4",
-          "g": "Optional Mods (Stability may vary)",
-          "id": 780
-        },
-        {
-          "n": "Armor Up - Player Armor Rework",
-          "v": "1.0.3",
-          "g": "Optional Mods (Stability may vary)",
-          "id": 24801
-        },
-        {
-          "n": "Much Better Eddies",
-          "v": "",
-          "g": "Armor, Clothing & Accessories"
         }
       ]
     }

@@ -1,6 +1,235 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v4.0 – June 18, 2026</summary>
+
+## SAVE COMPATIBLE WITH v3.32 — NEW GAME NOT NEEDED
+
+> ⚠️ **Before you update:** a lot of cyberware and weapon mods changed or were removed this version. Strip every modded item off your character *first*, then make a save. Update the list, reload that save, and confirm you load in clean and stable before carrying on as normal.
+
+---
+
+## 🛠 Key Notes
+
+- **Time Dilation Overhaul is Back**  
+  Built in coordination with the Cyberpunk THING team, **[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)** is finally here — four years in the making — and it reworks nearly every aspect of time dilation in the game.
+
+- **Much Better Eddies Release**  
+  **[Much Better Eddies](https://www.nexusmods.com/cyberpunk2077/mods/30532)** replaces the EconomyPunk preset it grew out of — same philosophy, slightly steeper scaling, bigger gig payouts, and a new "dead channel" system that lets you order services right from your phone.
+
+- **Much Better Netrunning – Major Progress**  
+  **[Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237)** jumped from `v2.0` to `v2.19` with heavy feature and stability work.
+
+- **Modded Weapon Overhaul**  
+  Big tuning pass across all modded weapons: Virtual Atelier pricing now scales with Much Better Eddies' economy, schematics for every modded weapon are craftable, and modded weapons are now level-gated. The list's weapon rebalance also seeds standalone modded weapons onto enemies — iconic weapon packs stay untouched.
+
+- **Armor Up Restored**  
+  **[Armor Up](https://www.nexusmods.com/cyberpunk2077/mods/24801)** is back as a core part of the list and significantly reshapes survivability. Early game will feel *very* punishing — tune the settings if it's too much — but late game leaves you noticeably tankier.
+
+- **Unified Mod Settings Release**  
+  **[Unified Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/28308)** merges the two separate mod-settings menus into one and adds favorites and profile sections.
+
+- **Much Better Impacts Release**  
+  **[Much Better Impacts](https://www.nexusmods.com/cyberpunk2077/mods/30561)** enables the game's native hitstop — melee hits land with real weight that scales as you move up in weapon class.
+
+- **Major Bloat Removal**  
+  A large cleanup pass cutting superfluous mods — overpowered cyberware and unnecessary mechanics that were quietly making the game too easy.
+
+- **Routine Updates**  
+  ~70 mods updated for current-patch compatibility and bug fixes.
+
+---
+
+## 🆕 Additions (General)
+
+- Added **Time Dilation Overhaul** `v2.0`
+- Added **Much Better Eddies** `v1.10`
+- Added **Much Better Impacts** `v1.0`
+- Added **Much Better Quest Untracking** `v1.0.1`
+- Added **Unified Mod Settings** `v1.41.1`
+- Added **Better Flashlight** `v1.33`
+- Added **Compact Abilities** `v2.0`
+- Added **Cyberarms Stutter Fix** `v0.1`
+- Added **Impact Kill Looting Fix** `v1.0`
+- Added **Low Stamina Dash Fix** `vf1.02`
+- Added **Throwing Weapon Bug Fix 2.3** `v1.0`
+- Added **Untrack Map Pins** `v1.0.1`
+- Added **Breach Protocol - Personal Link Animations Patch** `v1.1.5`
+- Added **NCPD Fixes** `vcpdf-1.5`
+- Added **Show Player Health Bar When Scanning** `v1.1`
+- Added **Night City Cinematic Loading Screens** `v2.0`
+- Added **Night City Cinematic Loading Screens - Vanilla addon** `v2.0`
+- Added **Iconic Weapon Loadouts - Morgan Blackhand** `v2.1`
+- Added **Mateba 6 Unica** `v1.0`
+- Added **MK.78 SAW** `v1.2`
+- Added **DTIR 30-06 Black With Attachments** `v1.0`
+- Added **HCAR Black With Attachments** `v1.0`
+- Added **Cyberpunk Story Quest Fixes** `v1.7`
+- Added **Waiting for Dodger Quest Fixes** `v1.1`
+- Added **Improved Vegetation LODs** `v3.3`
+- Added **LUT Switcher - Nova LUT Pack** `v1.4.0.0n`
+- Added **RedHotTools** `vd2026.5.10`
+
+---
+
+## 🆕 Additions (Standard Profile)
+
+*(No standard-profile-only additions for this update)*
+
+---
+
+## 🆕 Additions (Immersive Profile)
+
+*(No immersive-profile-only additions for this update)*
+
+---
+
+## 🔄 Updates (General)
+
+- Updated **Much Better Netrunning** to `v2.19`
+- Updated **Custom Perk Framework** to `v2.13`
+- Updated **Damage Scaling and Balance** to `v4.3`
+- Updated **Black Budget – Iconic Cyberarms Pack** to `v2.3`
+- Updated **Armor Up – Player Armor Rework** to `v1.0.4`
+- Updated **ArchiveXL** to `v1.26.8`
+- Updated **Codeware** to `v1.20.3`
+- Updated **RED4ext** to `v1.30`
+- Updated **Audioware** to `v1.9.2`
+- Updated **RedData** to `v0.10.1`
+- Updated **Equipment-EX** to `v1.2.9`
+- Updated **CyberwareEX** to `v1.5.6`
+- Updated **VendorsXL** to `v2.1.1`
+- Updated **Virtual Atelier** to `v1.5`
+- Updated **Reinforcements System** to `v1.2`
+- Updated **Immersive Shooting AI** to `v1.1`
+- Updated **They Will Remember** to `v2.4.2.0c`
+- Updated **Trace Position Overhaul** to `v2.1.3`
+- Updated **Quickhack Fixes** to `v1.3.3`
+- Updated **Quickhack Hotkeys** to `v2.3.2`
+- Updated **Stealthrunner** to `v1.11.1`
+- Updated **SPLAT – Physics Realistic Ragdoll Overhaul** to `v10.99`
+- Updated **Running Man** to `v1.1.3`
+- Updated **Kiroshi Optics - Deep Scan Protocol** to `v2.3.1`
+- Updated **Shuriken Tornado Grenade** to `v1.0.1`
+- Updated **Vehicle Summon Tweaks – Dismiss** to `v2.3.4`
+- Updated **Disassemble Weapons for Recipes** to `v1.1.1`
+- Updated **Upgrade Weapons Unlocked** to `v1.3`
+- Updated **NCPD Uniform 2.0** to `v2.0`
+- Updated **Ammo Limiter** to `v2.7.1`
+- Updated **Auto Drive Enhanced** to `v0.0.0.20`
+- Updated **Custom Quickslots** to `v5.6`
+- Updated **Always First Equip** to `v2.1.5`
+- Updated **Looting QoL** to `v1.9`
+- Updated **Inventory Adjustments Hub** to `v1.4`
+- Updated **Stash Filters** to `v2.1.3`
+- Updated **Revised Backpack** to `v0.9.14`
+- Updated **Enhanced Craft** to `v4.0.9`
+- Updated **No Default Equipped Weapon In Inventory** to `v1.3`
+- Updated **QoL - Faster Checkpoints** to `v1.2`
+- Updated **Parking Spots Enhanced** to `v1.2.4`
+- Updated **New Quest - Californication** to `v3.1.2`
+- Updated **New Quest - Encore** to `v3.2.1`
+- Updated **New Quest - Hot Fuzz** to `v3.1.4`
+- Updated **New Quest - One More Light** to `v2.1.6`
+- Updated **Deceptious Bug Fixes** to `v1.3.3`
+- Updated **Aurore Romanced** to `v1.2.7`
+- Updated **Rita Wheeler Romanced** to `v3.3`
+- Updated **Romance Hangouts Enhanced** to `v2.5.1`
+- Updated **Flaming Crotch Man Romanced** to `v2.1.1`
+- Updated **Non-Canon Romances Enhanced** to `v1.5`
+- Updated **Gone Away** to `v1.1.1`
+- Updated **Here's Brendan** to `v1.1.1`
+- Updated **Repeatable NCPD Gigs** to `v0.0.0.20`
+- Updated **Minor Activities Quest Fixes** to `v1.10.1`
+- Updated **Quest Vehicle Motion Fixes** to `v1.10`
+- Updated **Night City Visuals Nulled** to `v3.2.3`
+- Updated **General Shadows Fixes** to `v0.94`
+- Updated **Improved Distant Shadows** to `v0.35`
+- Updated **Improved Vehicle Lights Draw Distance** to `v2.7`
+- Updated **Disable Fake Lights with Path Tracing** to `v0.4`
+- Updated **Dynamic Gravity Modifier** to `v2.31.2`
+- Updated **Dynamic Downforce** to `v2.31`
+- Updated **Virtual Car Dealer** to `v2.2.10`
+- Updated **ReImagined** to `v0.5.2`
+- Updated **LUT Switcher 2** to `v2.5.2`
+- Updated **Smarter Scrapper** to `v2.3.6`
+
+---
+
+## 🔄 Updates (Standard Profile)
+
+- Updated **Modlist Settings - Standard Profile** to `v4.0`
+
+---
+
+## 🔄 Updates (Immersive Profile)
+
+- Updated **Limited HUD** to `v2.22.3`
+- Updated **Virtual Atelier Delivery** to `v1.0.11`
+- Updated **Modlist Settings - Immersive Profile** to `v4.0`
+
+---
+
+## 🗑 Removals (General)
+
+- Removed **Cop Killer**
+- Removed **Simple Flashlight** *(swapped for Better Flashlight)*
+- Removed **Untrack Quest Ultimate** *(swapped for Much Better Quest Untracking)*
+- Removed **EconomyPunk** *(swapped for Much Better Eddies)*
+- Removed **Even More Hackers**
+- Removed **Native Settings UI Side Menu Add-on** *(replaced by Unified Mod Settings)*
+- Removed **Redscript and CET Mods Settings** *(replaced by Unified Mod Settings)*
+- Removed **Better Armor Tooltip** *(no longer needed — Armor Up restored)*
+- Removed **Upgrade Weapons Unlocked 2.12 FIX** *(rolled into the main mod's update)*
+- Removed **Corpse Loot Fix** *(didn't fully work)*
+- Removed **LUT Switcher - LUT Switcher Pack** *(consolidated into the new Nova LUT Pack)*
+- Removed **LUT Switcher - Nova LUT Pack (HDR ONLY)** *(consolidated into the new Nova LUT Pack)*
+- Removed **Raven Gemini II - Full Body Conversion Cyberware**
+- Removed **Raven Gemini II - Gold Plated Interface Addon**
+- Removed **Raven Gemini II - Immersive Cyberware Compatibility Patch**
+- Removed **Raven Gemini II - Interlinked Weapon Modifications**
+- Removed **Raito Labs - Custom Cyberware**
+- Removed **Raito Labs - Immersive Cyberware Patch**
+- Removed **Gold-Plated Interface Cyberware - Complete Collection**
+- Removed **Gold-Plated Interface Cyberware - Immersive Cyberware Compatibility Patch**
+- Removed **Cyberware Mesh Ext**
+- Removed **Dogtown Location Visuals Nulled**
+- Removed **Easier Counter Attack**
+- Removed **Enhanced Bloodlust**
+- Removed **Enhanced Focus**
+- Removed **Flavorfull Descriptions**
+- Removed **Force Overclock HUD**
+- Removed **Kills Counter Display**
+- Removed **More Weapon Columns**
+- Removed **Mute Loading Screens**
+- Removed **Mute Loading Screens - PL**
+- Removed **Preem Map**
+- Removed **Quiet Menus**
+- Removed **RAM Based Scanner Time Dilation**
+- Removed **Sticky Grenades**
+- Removed **Wardrobe Courier - EquipmentEx Addon**
+- Removed **Who Was That Again**
+
+---
+
+## 🗑 Removals (Standard Profile)
+
+*(No standard-profile-only removals for this update)*
+
+---
+
+## 🗑 Removals (Immersive Profile)
+
+*(No immersive-profile-only removals for this update)*
+
+---
+
+**Live Hard. Die Chrome.**
+
+</details>
+
+
+<details>
 <summary>v3.32 – February 16, 2026</summary>
 
 ## SAVE COMPATIBLE WITH v3.30 — NEW GAME NOT NEEDED

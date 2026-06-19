@@ -15,9 +15,6 @@
 - [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)  
   Hides HUD elements dynamically except during combat or interaction, keeping players focused on the world, not the UI.
 
-- [Wannabe Edgerunner](https://www.nexusmods.com/cyberpunk2077/mods/5646)  
-  Introduces a cyberpsychosis system: gain humanity penalties from over-augmentation, adding tension and realism to cyberware use.
-
 - [Virtual Atelier Delivery](https://www.nexusmods.com/cyberpunk2077/mods/21482?tab=files)  
   Adds realistic delivery delays when purchasing from Virtual Atelier, reinforcing pacing and immersion while reducing instant gratification.
 
@@ -41,11 +38,20 @@
 <details>
 <summary>Gameplay Mechanics</summary>
 
-- [Enhanced Air Traffic](https://www.nexusmods.com/cyberpunk2077/mods/20208)  
-  Adds flying AVs and landing pads, increasing verticality and world realism.
+- [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237)  
+  Reworks netrunning into a subnet-based breach system — breach each network layer individually, while Cyberdeck tier and INT unlock higher quickhack tiers as you progress.
 
-- [Sticky Grenade](https://www.nexusmods.com/cyberpunk2077/mods/18910)  
-  Lets you stick grenades to surfaces for tactical explosives.
+- [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)  
+  Overhauls nearly every aspect of time dilation — Sandevistans, Kerenzikovs, and more — with new attunements and reworked mechanics.
+
+- [Armor Up – Player Armor Rework](https://www.nexusmods.com/cyberpunk2077/mods/24801)  
+  Turns armor into a consumable Armor Integrity layer you repair at ripperdocs — punishing early, but tankier late-game.
+
+- [Much Better Impacts](https://www.nexusmods.com/cyberpunk2077/mods/30561)  
+  Enables the game’s native hitstop, so melee hits land with real weight that scales as you move up in weapon class.
+
+- [Much Better Eddies](https://www.nexusmods.com/cyberpunk2077/mods/30532)  
+  Economy overhaul — steeper scaling, bigger gig payouts, and a dead-channel system that lets you order services straight from your phone.
 
 - [Body Shield](https://www.nexusmods.com/cyberpunk2077/mods/10533)  
   Allows using fallen bodies as cover—perfect for improvisation in tight combat.
@@ -65,20 +71,11 @@
 - [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467)  
   Introduces new enemy archetypes and NPC diversity for more dangerous, varied encounters.
 
-- [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913)  
-  Adds a manual flashlight—critical for exploring dark interiors.
+- [Better Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/27721)  
+  Adds a manual flashlight with controller support—critical for exploring dark interiors.
 
 - [Reinforcements System](https://www.nexusmods.com/cyberpunk2077/mods/21532)  
   Enables faction-specific mid-combat back-up, escalating firefights realistically.
-
-- [Enhanced Weakspot](https://www.nexusmods.com/cyberpunk2077/mods/17658)  
-  Makes precision hits on enemy weak points more rewarding and impactful.
-
-- [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952)  
-  Overhauls money, loot, and vendor systems for a gritty, survival-based economy.
-
-- [Better Armor Scaling](https://www.nexusmods.com/cyberpunk2077/mods/13582)  
-  Balances damage reduction so armor is realistic and less exploitable at high levels.
 
 - [Ammo Limiter](https://www.nexusmods.com/cyberpunk2077/mods/21807)  
   Auto-manages ammo and enforces scarcity to encourage resource planning.
@@ -91,9 +88,6 @@
 
 - [Disassemble Weapons for Recipes](https://www.nexusmods.com/cyberpunk2077/mods/21747)  
   Lets you disassemble unique weapons to unlock their crafting recipes.
-
-- [Free Runner](https://www.nexusmods.com/cyberpunk2077/mods/24402)  
-  Advanced parkour mod adding wall running, wall jumping, and air dashing to Cyberpunk 2077.
 
 
 </details>
@@ -124,9 +118,6 @@
 
 - [Hangout Romances](https://www.nexusmods.com/cyberpunk2077/mods/18972)  
   Adds spend-time hangouts with romance options for deeper relationships.
-
-- [Hackable and Grabbable Civilians](https://www.nexusmods.com/cyberpunk2077/mods/18847)  
-  Increases interactivity by letting you hack or physically push NPCs.
 
 - [Better Children](https://www.nexusmods.com/cyberpunk2077/mods/16462)  
   Enhances child NPC realism and behavior.
@@ -173,13 +164,7 @@
 <summary>Weapons</summary>
 
 - [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819)  
-  Reworks damage, penetration, range, and headshots to deliver impactful, low-TTK combat.
-
-- [Replace Weapon Mods](https://www.nexusmods.com/cyberpunk2077/mods/15409)  
-  Enables swapping out mods without losing the original component.
-
-- [Better Attachments – CET](https://www.nexusmods.com/cyberpunk2077/mods/10822)  
-  Enhances both the function and look of weapon attachments.
+  Reworks damage, penetration, range, and headshots for impactful, low-TTK combat. Modded weapons are now level-gated, seeded onto enemies, and have craftable schematics.
 
 - [Extra Iconics](https://www.nexusmods.com/cyberpunk2077/mods/15889)  
   Adds more legendary guns into your arsenal.
@@ -202,15 +187,6 @@
 
 - [Neuralware – Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798)  
   Expands chip and neuralware options for deeper playstyles.
-
-- [Raven Gemini II – Full Body Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/16209)  
-  Adds full-body cyber conversion for heavy chrome builds.
-
-- [Raito Labs – Custom Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/13008)  
-  Introduces stylized, lore-consistent chrome from Raito Labs.
-
-- [Gold-Plated Interface Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/15571)  
-  Applies luxe gold visuals to existing chrome slots.
 
 - [Black Budget Classified Limbs](https://www.nexusmods.com/cyberpunk2077/mods/24673)
   Adds 21 new iconic cyberarms, spread across Mantis Blades, Gorilla Arms, Monowire, and Projectile Launcher System.
@@ -262,23 +238,14 @@
 - [Crimson Echo - HUD Painter Preset](https://www.nexusmods.com/cyberpunk2077/mods/25157)  
   Crimson-themed HUD preset for Chrome & Blood modlist. Replaces vanilla colors with deep reds, white highlights, and ion-gold accents for a sharper interface.
 
+- [Unified Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/28308)  
+  Merges the modlist’s two settings menus into one, with favorites and per-mod profile sections.
+
 - [More Weapon Filters](https://www.nexusmods.com/cyberpunk2077/mods/16565)  
   Adds inventory filters to improve item management.
 
-- [RAM-based Scanner Speed](https://www.nexusmods.com/cyberpunk2077/mods/16108)  
-  Adapts reload speed dynamically to available memory.
-
 - [HUD Painter](https://www.nexusmods.com/cyberpunk2077/mods/14935)  
   Lets you customize HUD element colors.
-
-- [Preem Map](https://www.nexusmods.com/cyberpunk2077/mods/18269)  
-  Overhauls world map with clean icons and layout.
-
-- [Wardrobe Courier – EquipmentEx Addon](https://www.nexusmods.com/cyberpunk2077/mods/18519)  
-  Enables outfit delivery via the EquipmentEx framework.
-
-- [Flavorful Descriptions](https://www.nexusmods.com/cyberpunk2077/mods/13575)  
-  Adds lore-rich item and perk descriptions.
 
 - [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)  
   Tones down garish on-screen icons.

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Installation — Chrome &amp; Blood</title>
-<meta name="description" content="How to install Chrome & Blood, a Cyberpunk 2077 Wabbajack modlist: the one-click setup tool, system requirements, manual preinstallation, Wabbajack setup, and post-install steps.">
+<meta name="description" content="How to install Chrome & Blood, a Cyberpunk 2077 Wabbajack modlist: the one-click setup tool, system requirements, the full manual route, antivirus notes, and how to update.">
 <meta name="theme-color" content="#0a0b0d">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M4 2h24v20l-8 8H4z' fill='%23c9d7f0'/%3E%3Cpath d='M22 2 8 30H4V2z' fill='%23ff2e44'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -77,6 +77,7 @@
       <li><strong>Hit "Run all automatic steps"</strong><p>Runtimes, Windows long paths, the Steam update setting, the Wabbajack download, and an optional clean-up of old mod files. All at once, or one at a time.</p></li>
       <li><strong>Clear the checks</strong><p>It reads your system and the game and flags anything that needs your attention, with a button to get you there.</p></li>
       <li><strong>Do your part</strong><p>The handful of steps only you can do, each with a link. Click a step's circle to mark it done as you go.</p></li>
+      <li><strong>Install the list and launch</strong><p>Send Chrome &amp; Blood to Wabbajack, set your install folder, and hit Install. When it finishes, launch through <code style="font-family:var(--mono); color:var(--secondary);">ModOrganizer.exe</code> and head to First Launch below. Never start Cyberpunk from Steam or a desktop shortcut.</p></li>
     </ol>
 
     <div class="callout red" style="margin-top:34px;">
@@ -88,9 +89,9 @@
 
     <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">03 · BY HAND</span><span class="rule"></span></div>
     <h2 class="sec-title">Prefer to Do It Yourself?</h2>
-    <p style="color:var(--text-dim); max-width:800px;">Everything the tool automates, by hand. You only need this if you skipped the tool, so don't do both. Instructions assume the <strong style="color:var(--text)">Steam version</strong> of the game.</p>
+    <p style="color:var(--text-dim); max-width:800px;">Everything the tool automates, by hand, all the way to launch. You only need this if you skipped the tool, so don't do both. Instructions assume the <strong style="color:var(--text)">Steam version</strong> of the game.</p>
     <details class="fold" style="margin-top:18px;">
-      <summary>Show the manual preinstallation steps</summary>
+      <summary>Show the full manual setup</summary>
       <div class="fold-body">
     <ol class="steps">
       <li><strong><a href="https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game" target="_blank" rel="noopener">Perform a clean install</a> of Cyberpunk 2077</strong><p>No mods, no leftover files, fully updated to the latest <strong>official</strong> patch (not a beta branch). Install it <strong>outside</strong> of <code style="font-family:var(--mono); color:var(--secondary);">Program Files</code>.</p></li>
@@ -110,19 +111,11 @@
       <li><strong>Install the <a href="https://dotnet.microsoft.com/en-us/download/dotnet/9.0" target="_blank" rel="noopener">.NET Runtime</a></strong> (latest version)</li>
       <li><strong>Install the <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener">DirectX End-User Runtime</a></strong></li>
     </ol>
-      </div>
-    </details>
 
-    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">04 · INSTALLATION</span><span class="rule"></span></div>
-    <h2 class="sec-title">Install via Wabbajack</h2>
-    <p style="color:var(--text-dim); max-width:760px;"><strong style="color:var(--text)">Used the setup tool?</strong> Wabbajack is already downloaded and you can send Chrome &amp; Blood straight to it, so pick up at step 6 to set your paths.</p>
-    <p style="color:var(--text-dim); max-width:760px;">You can install Chrome &amp; Blood from the <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/lrcdrr" target="_blank" rel="noopener">Nexus Collection</a>, <a href="https://www.nexusmods.com/cyberpunk2077/mods/20942" target="_blank" rel="noopener">Nexus Mods</a>, or the <a href="https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&amp;nsfw=true&amp;showUnofficial=true" target="_blank" rel="noopener">Wabbajack Gallery</a> — all of them route into Wabbajack. Running third-party antivirus? Add your install and downloads folders to its exclusions <strong style="color:var(--text)">before</strong> you hit Install so nothing gets quarantined mid-extraction.</p>
+    <p style="color:var(--text-dim); margin-top:22px;"><strong style="color:var(--text)">Then install the list with Wabbajack:</strong></p>
     <ol class="steps">
       <li><strong>Download <a href="https://www.wabbajack.org" target="_blank" rel="noopener">Wabbajack</a></strong><p>Put it somewhere safe — not inside your Cyberpunk folder and not in a protected location like Program Files. Example: <code style="font-family:var(--mono); color:var(--secondary);">D:\Wabbajack</code></p></li>
-      <li><strong>Launch Wabbajack and go to Browse Modlists</strong></li>
-      <li><strong>Filter by Cyberpunk 2077</strong> and tick <strong>Featured</strong></li>
-      <li><strong>Search for "Chrome &amp; Blood"</strong> if it doesn't show up right away</li>
-      <li><strong>Click the cover art</strong>, then download and install</li>
+      <li><strong>Open Browse Modlists, filter by Cyberpunk 2077, and find Chrome &amp; Blood</strong><p>Tick <strong>Featured</strong>, or search the name if it doesn't show right away. You can also reach it from the <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/lrcdrr" target="_blank" rel="noopener">Nexus Collection</a> or <a href="https://www.nexusmods.com/cyberpunk2077/mods/20942" target="_blank" rel="noopener">Nexus page</a> — both route into Wabbajack.</p></li>
       <li><strong>Set your paths</strong>
         <ul class="substeps">
           <li><strong>Installation:</strong> <code style="font-family:var(--mono); color:var(--secondary);">D:\Wabbajack\Chrome &amp; Blood</code></li>
@@ -130,16 +123,16 @@
           <li>Both folders need to be on the <strong>same drive</strong> as your Cyberpunk install, and <strong>not</strong> inside the game directory or Program Files</li>
         </ul>
       </li>
-      <li><strong>Hit Install</strong> and let Wabbajack do its thing — don't interrupt it mid-run; it can take a while depending on your connection and hardware</li>
-      <li><strong>Open the install folder</strong> and launch <code style="font-family:var(--mono); color:var(--secondary);">ModOrganizer.exe</code></li>
-      <li><strong>Pick your profile — Immersive or Standard — then hit Run</strong></li>
+      <li><strong>Hit Install</strong><p>Let Wabbajack run — don't interrupt it; it can take a while depending on your connection and hardware. Running third-party antivirus? Set your exclusions first (see Antivirus below).</p></li>
+      <li><strong>Open the install folder and launch <code style="font-family:var(--mono); color:var(--secondary);">ModOrganizer.exe</code></strong><p>Head to First Launch below.</p></li>
     </ol>
+      </div>
+    </details>
 
-    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">05 · POST-INSTALL</span><span class="rule"></span></div>
-    <h2 class="sec-title">Post-Installation</h2>
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">04 · ANTIVIRUS</span><span class="rule"></span></div>
+    <h2 class="sec-title">Antivirus</h2>
     <div class="callout red">
-      <p><strong>Antivirus warning:</strong> third-party antivirus software (especially BitDefender, Norton, and Webroot) will cause problems with MO2's Virtual File System. You may need to fully remove it for this list to work. <strong style="color:var(--text)">Windows Defender with smart browsing habits is enough.</strong></p>
-      <p>Also disable all overlays — Steam overlay, Discord overlay, GPU software overlays, Xbox Game Bar.</p>
+      <p><strong>Third-party antivirus breaks this list.</strong> Software like BitDefender, Norton, and Webroot fights MO2's virtual file system and can quarantine files mid-install. Add your install and downloads folders to its exclusions before you install, or remove it entirely for this list. <strong style="color:var(--text)">Windows Defender with smart browsing habits is enough</strong>, and the setup tool flags this for you.</p>
     </div>
     <details class="fold">
       <summary>How to add a Windows Defender exclusion</summary>
@@ -154,20 +147,7 @@
         </ol>
       </div>
     </details>
-    <details class="fold">
-      <summary>How to disable the overlays</summary>
-      <div class="fold-body">
-        <ul class="substeps" style="margin-left:18px;">
-          <li><strong>Steam:</strong> right-click Cyberpunk 2077 in your Library → <strong>Properties</strong> → untick <strong>"Enable the Steam Overlay while in-game"</strong></li>
-          <li><strong>NVIDIA:</strong> open the NVIDIA App → <strong>Settings</strong> (gear icon) → disable <strong>"NVIDIA Overlay"</strong></li>
-          <li><strong>AMD:</strong> open Adrenalin → <strong>Settings</strong> → <strong>Preferences</strong> → disable <strong>"In-Game Overlay"</strong></li>
-          <li><strong>Xbox Game Bar:</strong> Windows <strong>Settings</strong> → <strong>Gaming</strong> → <strong>Xbox Game Bar</strong> → off. While you're there, toggling <strong>Game Mode</strong> off doesn't hurt either.</li>
-          <li><strong>Discord:</strong> overlay toggle lives in Discord's settings under Game Overlay</li>
-        </ul>
-      </div>
-    </details>
-
-    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">06 · FIRST LAUNCH</span><span class="rule"></span></div>
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">05 · FIRST LAUNCH</span><span class="rule"></span></div>
     <h2 class="sec-title">First Launch</h2>
     <ul class="feature-list" style="max-width:820px;">
       <li><strong>Pick your profile — Immersive or Standard — in MO2, then hit Run.</strong> Never launch Cyberpunk directly through Steam or a desktop shortcut.</li>
@@ -175,18 +155,18 @@
       <li><strong>Performance not ideal?</strong> The <a href="faq.html#graphics-performance">FAQ's Graphics &amp; Performance section</a> has the full step-by-step setup.</li>
     </ul>
 
-    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">07 · UPDATING</span><span class="rule"></span></div>
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">06 · UPDATING</span><span class="rule"></span></div>
     <h2 class="sec-title">Updating the Modlist</h2>
     <ol class="steps">
-      <li><strong>Download the latest <code style="font-family:var(--mono); color:var(--secondary);">.wabbajack</code> file</strong><p>Or find the updated listing in the Wabbajack gallery.</p></li>
-      <li><strong>Follow the installation steps above</strong> starting from step 2</li>
-      <li><strong>Check the <code style="font-family:var(--mono); color:var(--secondary);">Overwrite</code> box</strong> before installing so updated files get replaced properly</li>
+      <li><strong>Open Wabbajack and find Chrome &amp; Blood</strong><p>The gallery listing always points to the latest version — there's no separate file to download.</p></li>
+      <li><strong>Point it at the same install folder you used before</strong><p>Use the exact same installation path. Wabbajack overwrites the old version with the current one — nothing to tick, no boxes to check.</p></li>
+      <li><strong>Install, then launch through Mod Organizer 2</strong></li>
     </ol>
     <div class="callout">
       <p><strong>Back up first:</strong> saves and personal settings live in your profile folder. The <a href="faq.html">FAQ</a> covers exactly what to back up before an update, and how to keep your own added mods safe with the <kbd>[NoDelete]</kbd> tag.</p>
     </div>
 
-    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">08 · CONTROLS</span><span class="rule"></span></div>
+    <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">07 · CONTROLS</span><span class="rule"></span></div>
     <h2 class="sec-title">Controls &amp; Hotkeys</h2>
     <p style="color:var(--text-dim); max-width:760px;">The full controls and hotkey reference — netrunning, Sandevistans, vehicles, and UI — lives in the <a href="guide.html#hotkeys">Player Guide</a>, along with how the reworked systems actually play. Most binds can be changed in the in-game <strong style="color:var(--text)">Mod Settings</strong> menus; the Cyber Engine Tweaks overlay bind is set by you on first launch.</p>
 

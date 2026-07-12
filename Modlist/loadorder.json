@@ -3088,7 +3088,7 @@
       ]
     },
     "Standard": {
-      "count": 507,
+      "count": 506,
       "mods": [
         {
           "n": "disable CrashReporter (MO CET fix)",
@@ -3244,11 +3244,6 @@
           "v": "0.5",
           "g": "Core Mods & Frameworks",
           "id": 11126
-        },
-        {
-          "n": "RedHotTools",
-          "v": "d2026.5.10",
-          "g": "Core Mods & Frameworks"
         },
         {
           "n": "RedSocket",

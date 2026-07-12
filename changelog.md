@@ -138,6 +138,7 @@
 - Removed **Suppressor Pack 2**
 - Removed **They Will Remember**
 - Removed **Vanilla Reworks Explosive Pack**
+- Temporarily disabled **RedHotTools**
 
 ---
 
@@ -149,7 +150,7 @@
 
 ## 🗑 Removals (Immersive Profile)
 
-- Temporarily disabled **RedHotTools**
+*(No immersive-profile-only removals for this update)*
 
 ---
 

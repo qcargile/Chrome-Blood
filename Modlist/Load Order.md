@@ -38,6 +38,15 @@
 <details>
 <summary>Gameplay Mechanics</summary>
 
+- [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402)  
+  Overhauls enemy decision-making across combat and stealth. Squads coordinate, react to what you're doing, search your last known position, respond to noise and bodies, and use netrunners more effectively.
+
+- [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)  
+  Gives enemies new cyberware abilities that change what you have to watch for in combat.
+
+- [Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)  
+  Gives factions distinct combat traits. Chrome & Blood tunes each faction to exactly one immunity so matchups stay different without shutting down entire builds.
+
 - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237)  
   Reworks netrunning into a subnet-based breach system — breach each network layer individually, while Cyberdeck tier and INT unlock higher quickhack tiers as you progress.
 
@@ -65,12 +74,6 @@
 - [Random Netrunners](https://www.nexusmods.com/cyberpunk2077/mods/16475)  
   Populates Night City with unpredictable netrunner encounters for added hacking variety.
 
-- [They Will Remember](https://www.nexusmods.com/cyberpunk2077/mods/19747)  
-  Adds persistent NPC reactions—your choices echo across game relationships and reputation.
-
-- [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467)  
-  Introduces new enemy archetypes and NPC diversity for more dangerous, varied encounters.
-
 - [Better Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/27721)  
   Adds a manual flashlight with controller support—critical for exploring dark interiors.
 
@@ -82,9 +85,6 @@
 
 - [Damage Scaling And Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865)  
   Offers tailored multipliers for all weapon categories (melee, ranged, hacks) for both V and NPCs.
-
-- [Immersive Shooting AI](https://www.nexusmods.com/cyberpunk2077/mods/22782)  
-  Overhauls enemy AI in firefights, making NPCs fight more intelligently and aggressively.
 
 - [Disassemble Weapons for Recipes](https://www.nexusmods.com/cyberpunk2077/mods/21747)  
   Lets you disassemble unique weapons to unlock their crafting recipes.

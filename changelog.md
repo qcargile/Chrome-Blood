@@ -1,6 +1,163 @@
 > 📌 Click a version tab below to expand and view the changelog for that update.
 
 <details>
+<summary>v4.1 – July 11, 2026</summary>
+
+## SAVE COMPATIBLE WITH v4.0 — NEW GAME NOT NEEDED
+
+> ⚠️ **Before you update:** several vehicles were removed this version. Go inside an apartment, make a new save, then update the list. Load that save after updating and confirm everything is clean and stable before carrying on as normal.
+
+---
+
+## 🛠 Key Notes
+
+- **New Combat Foundation**  
+  **[Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402)**, **[Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)**, and **[Lifepath Bonuses & Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)** now form the core of combat. MBAI handles enemy decision-making and coordination, Cyber Enemies adds new cyberware abilities, and Gang-Corp Traits gives every faction its own strengths with exactly one immunity.
+
+- **Much Better AI Replaces the Old AI Stack**  
+  MBAI now handles coordinated firefights, faction doctrine, stealth reactions, searches, player noise, body and takedown reactions, and netrunner tactics. This replaces a large stack of overlapping combat and stealth mods with one system built around the full encounter.
+
+- **Nova Optics Replaces ENV Tuner**  
+  **[Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190)** now handles exposure tuning and the first-person vehicle exposure fix. Shadow Boost has moved to **Nova Optics → Exposure Overrides** in the CET overlay.
+
+- **More Colorful Visual Tuning**  
+  Graphics settings received another tuning pass. Night City is more colorful now without changing the list's overall visual direction.
+
+- **Vehicle Garage Cleanup**  
+  The vehicle lineup was trimmed and refreshed with the Aprilia RS660, Audi R8 V10+, and Ducati 916.
+
+- **REDscope Added**  
+  **[REDscope](https://www.nexusmods.com/cyberpunk2077/mods/30739)** adds a dedicated crash log, in-game crash panel, and clearer reports when something goes wrong.
+
+---
+
+## 🆕 Additions (General)
+
+- Added **Aprilia RS660** `v1.0`
+- Added **Audi R8 V10+** `v1.0`
+- Added **Chippin' In Ebunike Combat Fixes** `v1.0`
+- Added **Cyber Enemies** `v1.0.1`
+- Added **Double Calibre** `v1.0.7`
+- Added **Ducati 916** `v1.0`
+- Added **Easier Controller Sprint** `v1.1`
+- Added **HK416-M4-XM7** `v1.3`
+- Added **Killing Moon - Lifepath Dialog Restored** `v1.0`
+- Added **KV and KVD Sniper and Marksman Rifles** `v1.1`
+- Added **L85A3** `v1.0`
+- Added **Ladders Improved** `v1.0`
+- Added **Leaky Interiors Fixed** `v1.1`
+- Added **Lifepath Bonuses and Gang-Corp Traits** `v4.3.2`
+- Added **Map LUT Begone** `v1.0`
+- Added **Much Better AI** `v1.10.1`
+- Added **Nova Optics** `v1.3`
+- Added **Orbital Air Traffic Enhanced** `v1.0.1`
+- Added **Ray Traced Lighting Fixes** `v0.3`
+- Added **Realistic NPC FOV** `v1.0`
+- Added **REDscope** `v0.8`
+- Added **RedSocket** `vd2026.6.19`
+- Added **Respect Your Weapon 2.0** `v2.1`
+
+---
+
+## 🆕 Additions (Standard Profile)
+
+*(No standard-profile-only additions for this update)*
+
+---
+
+## 🆕 Additions (Immersive Profile)
+
+- Added **Hidden Dialog Checks** `v1.0`
+
+---
+
+## 🔄 Updates (General)
+
+- Updated **Better Traffic Lights** to `v1.0`
+- Updated **DLC Liberation Protocol** to `v1.0`
+- Updated **Cyber Drift** to `v2.31`
+- Updated **Cyberware Improved** to `v1.6`
+- Updated **Disable Fake Lights with Path Tracing** to `v0.5`
+- Updated **Dynamic Gravity Modifier** to `v2.31.3`
+- Updated **Cyberpunk Story Quest Fixes** to `v1.10`
+- Updated **Minor Activities Quest Fixes** to `v1.12`
+- Updated **Improved Vegetation LODs** to `v3.4`
+- Updated **Much Better Eddies** to `v1.3`
+- Updated **NPC Actions Stutter Fix** to `v0.1`
+- Updated **Say Something Damn It** to `v1.16`
+- Updated **Virtual Atelier** to `v1.6`
+
+---
+
+## 🔄 Updates (Standard Profile)
+
+*(No standard-profile-only updates for this update)*
+
+---
+
+## 🔄 Updates (Immersive Profile)
+
+- Updated **Virtual Atelier Delivery** to `v1.1.1`
+
+---
+
+## 🗑 Removals (General)
+
+- Removed **2019 Mercedes G63 AMG**
+- Removed **2021 BMW M4 Competition**
+- Removed **2021 Porsche Taycan Turbo S**
+- Removed **AI Trigger Overhaul** *(replaced by Much Better AI)*
+- Removed **Aston Martin V8 Vantage 1977**
+- Removed **Audi A8L Horch**
+- Removed **Audi RS5**
+- Removed **Audi R8 2020**
+- Removed **Better Bike Animations - Female**
+- Removed **Better Bike Animations - Male**
+- Removed **Cyber Kart**
+- Removed **Dead Body Alert** *(replaced by Much Better AI)*
+- Removed **Enemies of Night City** *(replaced by the new combat foundation)*
+- Removed **ENV Tuner** *(replaced by Nova Optics)*
+- Removed **Ferrari Purosangue**
+- Removed **Immersive FPP Bike Cam**
+- Removed **Immersive Shooting AI** *(replaced by Much Better AI)*
+- Removed **Judy Enhanced Body with 4K Texture**
+- Removed **Kiroshi Optics - Deep Scan Protocol**
+- Removed **Mercedes-Benz SLR McLaren 2003**
+- Removed **More Cautious and Chaotic Enemies** *(replaced by Much Better AI)*
+- Removed **More Vigilant Enemies** *(replaced by Much Better AI)*
+- Removed **More Vigilant Enemies - They Will Remember Compatibility Patch**
+- Removed **Muzzle Attachment Pack**
+- Removed **Opel Corsa - Vauxhall Nova**
+- Removed **Panam Body Enhanced 2.2**
+- Removed **Ping Tags Enemies**
+- Removed **Repeatable NCPD Gigs**
+- Removed **Rimac Nevera**
+- Removed **Silent Bodies** *(replaced by Much Better AI)*
+- Removed **Silent Silencers and Throwing Knives**
+- Removed **Suppressor Pack**
+- Removed **Suppressor Pack 2**
+- Removed **They Will Remember**
+- Removed **Vanilla Reworks Explosive Pack**
+
+---
+
+## 🗑 Removals (Standard Profile)
+
+*(No standard-profile-only removals for this update)*
+
+---
+
+## 🗑 Removals (Immersive Profile)
+
+- Temporarily disabled **RedHotTools**
+
+---
+
+**Live Hard. Die Chrome.**
+
+</details>
+
+<details>
 <summary>v4.0 – June 18, 2026</summary>
 
 ## SAVE COMPATIBLE WITH v3.32 — NEW GAME NOT NEEDED

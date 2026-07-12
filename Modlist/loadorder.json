@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-18",
-  "release": "v4.0",
+  "generated": "2026-07-11",
+  "release": "v4.1",
   "instance": "Chrome & Blood",
   "profiles": {
     "Immersive": {
-      "count": 524,
+      "count": 514,
       "mods": [
         {
           "n": "disable CrashReporter (MO CET fix)",
@@ -162,8 +162,14 @@
           "id": 22758
         },
         {
-          "n": "RedHotTools",
-          "v": "d2026.5.10",
+          "n": "REDscope",
+          "v": "0.8",
+          "g": "Core Mods & Frameworks",
+          "id": 30739
+        },
+        {
+          "n": "RedSocket",
+          "v": "d2026.6.19",
           "g": "Core Mods & Frameworks"
         },
         {
@@ -375,6 +381,30 @@
           "id": 28338
         },
         {
+          "n": "Orbital Air Traffic Enhanced",
+          "v": "1.0.1",
+          "g": "Quality Of Life",
+          "id": 31355
+        },
+        {
+          "n": "Killing Moon - Lifepath Dialog Restored",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 22987
+        },
+        {
+          "n": "Ladders Improved",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 31318
+        },
+        {
+          "n": "Easier Controller Sprint",
+          "v": "1.1",
+          "g": "Quality Of Life",
+          "id": 26610
+        },
+        {
           "n": "Flatlined Exit",
           "v": "1.0",
           "g": "Quality Of Life",
@@ -451,12 +481,6 @@
           "v": "1.30.0.0b",
           "g": "Quality Of Life",
           "id": 7879
-        },
-        {
-          "n": "Ping Tags Enemies",
-          "v": "1.2",
-          "g": "Quality Of Life",
-          "id": 9950
         },
         {
           "n": "Numerals Get Commas",
@@ -549,12 +573,6 @@
           "id": 8099
         },
         {
-          "n": "Silent Silencers and Throwing Knives",
-          "v": "1.6.2",
-          "g": "Quality Of Life",
-          "id": 4070
-        },
-        {
           "n": "Filter Saves by Lifepath and Type",
           "v": "1.6.2",
           "g": "Quality Of Life",
@@ -639,6 +657,18 @@
           "id": 28624
         },
         {
+          "n": "NPC Actions Stutter Fix",
+          "v": "0.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 16720
+        },
+        {
+          "n": "Chippin' In Ebunike Combat Fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 30209
+        },
+        {
           "n": "Cyberarms Stutter Fix",
           "v": "0.1",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -676,7 +706,7 @@
         },
         {
           "n": "Immersion Patch - Minor Activities Quest Fixes",
-          "v": "1.10.1",
+          "v": "1.12",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 27162
         },
@@ -724,7 +754,7 @@
         },
         {
           "n": "Immersion Patch - Cyberpunk Story Quest Fixes",
-          "v": "1.7",
+          "v": "1.10",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 29152
         },
@@ -939,12 +969,6 @@
           "id": 16272
         },
         {
-          "n": "Car Dodge Stutter Fix",
-          "v": "0.1",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 16720
-        },
-        {
           "n": "In Cold Blood - NPC Execution Fix",
           "v": "1.2",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -1047,6 +1071,42 @@
           "id": 11438
         },
         {
+          "n": "Realistic NPC FOV",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics",
+          "id": 31188
+        },
+        {
+          "n": "Respect Your Weapon 2.0",
+          "v": "2.1",
+          "g": "Gameplay & Mechanics",
+          "id": 27287
+        },
+        {
+          "n": "Much Better AI",
+          "v": "1.10.1",
+          "g": "Gameplay & Mechanics",
+          "id": 31402
+        },
+        {
+          "n": "Cyber Enemies",
+          "v": "1.0.1",
+          "g": "Gameplay & Mechanics",
+          "id": 30585
+        },
+        {
+          "n": "Enemy Aggro Improvements",
+          "v": "0.1.0.0a",
+          "g": "Gameplay & Mechanics",
+          "id": 19351
+        },
+        {
+          "n": "Lifepath Bonuses and Gang-Corp Traits",
+          "v": "4.3.2",
+          "g": "Gameplay & Mechanics",
+          "id": 2217
+        },
+        {
           "n": "Much Better Netrunning",
           "v": "2.19",
           "g": "Gameplay & Mechanics",
@@ -1072,7 +1132,7 @@
         },
         {
           "n": "Much Better Eddies",
-          "v": "1.10",
+          "v": "1.3",
           "g": "Gameplay & Mechanics",
           "id": 30532
         },
@@ -1082,46 +1142,16 @@
           "g": "Gameplay & Mechanics"
         },
         {
-          "n": "AI Trigger Overhaul - More Perceptive NPCs",
-          "v": "0.3",
-          "g": "Gameplay & Mechanics",
-          "id": 27199
-        },
-        {
           "n": "Challenging Breach Minigame",
           "v": "1.3.3",
           "g": "Gameplay & Mechanics",
           "id": 3661
         },
         {
-          "n": "More Vigilant Enemies",
-          "v": "f1.01",
-          "g": "Gameplay & Mechanics",
-          "id": 26778
-        },
-        {
-          "n": "More Vigilant Enemies - They Will Remember Compatibility Patch",
-          "v": "1.0",
-          "g": "Gameplay & Mechanics",
-          "id": 26778
-        },
-        {
-          "n": "Silent Bodies",
-          "v": "0.21",
-          "g": "Gameplay & Mechanics",
-          "id": 26906
-        },
-        {
-          "n": "Dead Body Alert",
-          "v": "1.0",
-          "g": "Gameplay & Mechanics",
-          "id": 26746
-        },
-        {
           "n": "Allow Highest AI LOD",
           "v": "0.1",
           "g": "Gameplay & Mechanics",
-          "id": 25545
+          "id": 16720
         },
         {
           "n": "Barbed Wire Knockout Effect Disabled",
@@ -1152,24 +1182,6 @@
           "v": "2.0.3.0-for-2.31",
           "g": "Gameplay & Mechanics",
           "id": 16300
-        },
-        {
-          "n": "Immersive Shooting AI",
-          "v": "1.1",
-          "g": "Gameplay & Mechanics",
-          "id": 22782
-        },
-        {
-          "n": "More Cautious And Chaotic Enemies",
-          "v": "1.0",
-          "g": "Gameplay & Mechanics",
-          "id": 23575
-        },
-        {
-          "n": "Repeatable NCPD Gigs - WIP",
-          "v": "0.0.0.20",
-          "g": "Gameplay & Mechanics",
-          "id": 18968
         },
         {
           "n": "Manual Reload",
@@ -1286,24 +1298,6 @@
           "id": 10355
         },
         {
-          "n": "Enemy Aggro Improvements",
-          "v": "0.1.0.0a",
-          "g": "Gameplay & Mechanics",
-          "id": 19351
-        },
-        {
-          "n": "They Will Remember",
-          "v": "2.4.2.0c",
-          "g": "Gameplay & Mechanics",
-          "id": 19747
-        },
-        {
-          "n": "Enemies of Night City",
-          "v": "0.42",
-          "g": "Gameplay & Mechanics",
-          "id": 8467
-        },
-        {
           "n": "Guns Redone V3.0 PL - Armor Pieces Improvements",
           "v": "2.1",
           "g": "Gameplay & Mechanics",
@@ -1329,7 +1323,7 @@
         },
         {
           "n": "Cyberware Improved",
-          "v": "1.5",
+          "v": "1.6",
           "g": "Cyberware & Augmentations",
           "id": 23554
         },
@@ -1476,24 +1470,6 @@
           "v": "2.2.2",
           "g": "Weapons & Attachments",
           "id": 11474
-        },
-        {
-          "n": "Muzzle Attachment Pack",
-          "v": "1.0",
-          "g": "Weapons & Attachments",
-          "id": 21530
-        },
-        {
-          "n": "Suppressor Pack",
-          "v": "1.1",
-          "g": "Weapons & Attachments",
-          "id": 21433
-        },
-        {
-          "n": "Suppressor Pack 2",
-          "v": "1.1",
-          "g": "Weapons & Attachments",
-          "id": 22152
         },
         {
           "n": "Bolt Shots Penetrate Cover",
@@ -1658,12 +1634,6 @@
           "id": 23129
         },
         {
-          "n": "Vanilla Reworks Explosive Pack - Standalone Iconic Weapons",
-          "v": "1.0.1",
-          "g": "Weapons & Attachments",
-          "id": 17483
-        },
-        {
           "n": "Jackie's Machete - New Iconic Weapon",
           "v": "1.0.1",
           "g": "Weapons & Attachments",
@@ -1682,6 +1652,18 @@
           "id": 14406
         },
         {
+          "n": "HK416-M4-XM7 with custom attachments",
+          "v": "1.3",
+          "g": "Weapons & Attachments",
+          "id": 15486
+        },
+        {
+          "n": "KV and KVD Sniper and Marksman Rifles",
+          "v": "1.1",
+          "g": "Weapons & Attachments",
+          "id": 30913
+        },
+        {
           "n": "Desert Eagle - 2K",
           "v": "1.1",
           "g": "Weapons & Attachments",
@@ -1698,6 +1680,12 @@
           "v": "1.1",
           "g": "Weapons & Attachments",
           "id": 18681
+        },
+        {
+          "n": "L85A3",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 30647
         },
         {
           "n": "Militech Stinger",
@@ -1970,12 +1958,6 @@
           "id": 20466
         },
         {
-          "n": "Judy Enhanced Body with 4K Texture",
-          "v": "1.0.4",
-          "g": "NPCs & World Population",
-          "id": 10150
-        },
-        {
           "n": "Hi-Res NPC Body Textures (No AI)",
           "v": "0.1",
           "g": "NPCs & World Population",
@@ -1986,12 +1968,6 @@
           "v": "0.15",
           "g": "NPCs & World Population",
           "id": 11734
-        },
-        {
-          "n": "Panam Body Enhanced 2.2",
-          "v": "2.2",
-          "g": "NPCs & World Population",
-          "id": 4843
         },
         {
           "n": "NCPD Uniform 2.0",
@@ -2018,10 +1994,10 @@
           "id": 19530
         },
         {
-          "n": "Kiroshi Optics - Deep Scan Protocol",
-          "v": "2.3.1",
+          "n": "Hidden Dialog Checks",
+          "v": "1.0",
           "g": "Immersion & Roleplay",
-          "id": 27018
+          "id": 30708
         },
         {
           "n": "SPLAT Physics Realistic Ragdoll Overhaul",
@@ -2073,7 +2049,7 @@
         },
         {
           "n": "Say Something Damn It",
-          "v": "1.14",
+          "v": "1.16",
           "g": "Immersion & Roleplay",
           "id": 22228
         },
@@ -2169,13 +2145,13 @@
         },
         {
           "n": "Virtual Atelier",
-          "v": "1.5",
+          "v": "1.6",
           "g": "Immersion & Roleplay",
           "id": 2987
         },
         {
           "n": "Virtual Atelier Delivery",
-          "v": "1.0.11",
+          "v": "1.1.1",
           "g": "Immersion & Roleplay",
           "id": 21482
         },
@@ -2204,28 +2180,10 @@
           "id": 16965
         },
         {
-          "n": "Better Bike Animations - Female",
-          "v": "f1.01",
-          "g": "Immersion & Roleplay",
-          "id": 18524
-        },
-        {
-          "n": "Better Bike Animations - Male",
-          "v": "1.0",
-          "g": "Immersion & Roleplay",
-          "id": 18524
-        },
-        {
           "n": "Immersive Timeskip",
           "v": "2.2.2",
           "g": "Immersion & Roleplay",
           "id": 5115
-        },
-        {
-          "n": "Immersive FPP Bike Cam",
-          "v": "2.3.3",
-          "g": "Vehicles & Driving",
-          "id": 14292
         },
         {
           "n": "Auto Drive Enhanced",
@@ -2241,7 +2199,7 @@
         },
         {
           "n": "Dynamic Gravity Modifier",
-          "v": "2.31.2",
+          "v": "2.31.3",
           "g": "Vehicles & Driving",
           "id": 13986
         },
@@ -2265,7 +2223,7 @@
         },
         {
           "n": "Cyber Drift",
-          "v": "2.3",
+          "v": "2.31",
           "g": "Vehicles & Driving",
           "id": 8306
         },
@@ -2330,12 +2288,6 @@
           "id": 4454
         },
         {
-          "n": "Cyber Kart",
-          "v": "1.0.6.0b",
-          "g": "Vehicles & Driving",
-          "id": 20456
-        },
-        {
           "n": "Aston Martin DB11 - No Front License Plate",
           "v": "1.10",
           "g": "Vehicles & Driving",
@@ -2346,24 +2298,6 @@
           "v": "1.23",
           "g": "Vehicles & Driving",
           "id": 18736
-        },
-        {
-          "n": "Audi RS5",
-          "v": "1.1",
-          "g": "Vehicles & Driving",
-          "id": 14115
-        },
-        {
-          "n": "Opel Corsa - Vauxhall Nova",
-          "v": "1.0.0.0a",
-          "g": "Vehicles & Driving",
-          "id": 13399
-        },
-        {
-          "n": "Rimac Nevera",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 14112
         },
         {
           "n": "Mazda RX-7 FD",
@@ -2402,24 +2336,6 @@
           "id": 19552
         },
         {
-          "n": "Mercedes-Benz SLR McLaren 2003",
-          "v": "0.3",
-          "g": "Vehicles & Driving",
-          "id": 19251
-        },
-        {
-          "n": "2021 Porsche Taycan Turbo S",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 14668
-        },
-        {
-          "n": "2021 BMW M4 Competition",
-          "v": "1.2",
-          "g": "Vehicles & Driving",
-          "id": 15299
-        },
-        {
           "n": "Lexus LC500 Liberty Walk",
           "v": "1.3",
           "g": "Vehicles & Driving",
@@ -2436,12 +2352,6 @@
           "v": "1.0",
           "g": "Vehicles & Driving",
           "id": 13465
-        },
-        {
-          "n": "Audi A8L Horch",
-          "v": "0.4",
-          "g": "Vehicles & Driving",
-          "id": 20514
         },
         {
           "n": "Ducati Supersport",
@@ -2486,12 +2396,6 @@
           "id": 20605
         },
         {
-          "n": "Aston Martin V8 Vantage 1977",
-          "v": "0.3",
-          "g": "Vehicles & Driving",
-          "id": 20291
-        },
-        {
           "n": "Lamborghini Miura SV Custom Widebody",
           "v": "0.9.1",
           "g": "Vehicles & Driving",
@@ -2522,16 +2426,34 @@
           "id": 19407
         },
         {
+          "n": "Aprilia RS660",
+          "v": "1.0",
+          "g": "Vehicles & Driving",
+          "id": 26035
+        },
+        {
+          "n": "Audi R8 V10+",
+          "v": "1.0",
+          "g": "Vehicles & Driving",
+          "id": 24800
+        },
+        {
+          "n": "Double Calibre",
+          "v": "1.0.7",
+          "g": "Vehicles & Driving",
+          "id": 27074
+        },
+        {
+          "n": "Ducati 916",
+          "v": "1.0",
+          "g": "Vehicles & Driving",
+          "id": 27794
+        },
+        {
           "n": "Porsche 911 GT3 RS",
           "v": "1.2",
           "g": "Vehicles & Driving",
           "id": 11180
-        },
-        {
-          "n": "2019 Mercedes G63 AMG",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 12167
         },
         {
           "n": "Aston Martin Valkyrie",
@@ -2550,12 +2472,6 @@
           "v": "1.3",
           "g": "Vehicles & Driving",
           "id": 21052
-        },
-        {
-          "n": "Ferrari Purosangue",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 13591
         },
         {
           "n": "Lamborghini Temerario",
@@ -2592,12 +2508,6 @@
           "v": "1.0",
           "g": "Vehicles & Driving",
           "id": 18759
-        },
-        {
-          "n": "Audi_R8_2020",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 17627
         },
         {
           "n": "Mclaren P1 GTR",
@@ -2780,6 +2690,36 @@
           "id": 20405
         },
         {
+          "n": "Nova Optics (Gameplay ENV Tuning with Vehicle Exposure Fix)",
+          "v": "1.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29190
+        },
+        {
+          "n": "Better Traffic Lights",
+          "v": "1.0",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 14316
+        },
+        {
+          "n": "Leaky Interiors Fixed",
+          "v": "1.1",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29002
+        },
+        {
+          "n": "Ray Traced Lighting Fixes",
+          "v": "0.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29720
+        },
+        {
+          "n": "Map LUT Begone (HDR Fix)",
+          "v": "1.0",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29837
+        },
+        {
           "n": "NPC LoD Tweak (for PT)",
           "v": "1.0",
           "g": "Visuals, Graphics, & Lighting",
@@ -2817,7 +2757,7 @@
         },
         {
           "n": "Improved Vegetation LODs",
-          "v": "3.3",
+          "v": "3.4",
           "g": "Visuals, Graphics, & Lighting",
           "id": 3627
         },
@@ -2918,12 +2858,6 @@
           "id": 12490
         },
         {
-          "n": "ENV Tuner (Weather - Lighting - Vignette Adjustments without Conflict)",
-          "v": "1.1.0.0s",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 23079
-        },
-        {
           "n": "Nova Rain (and Improved Ripples)",
           "v": "1.0.1.0a",
           "g": "Visuals, Graphics, & Lighting",
@@ -2943,7 +2877,7 @@
         },
         {
           "n": "Disable Fake Lights with Path Tracing",
-          "v": "0.4",
+          "v": "0.5",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16060
         },
@@ -3122,6 +3056,12 @@
           "id": 17602
         },
         {
+          "n": "DLC Liberation Protocol",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental",
+          "id": 12322
+        },
+        {
           "n": "Exclusive Items Unlocker",
           "v": "1.2",
           "g": "Late Loaders, Cheats, & Experimental",
@@ -3148,7 +3088,7 @@
       ]
     },
     "Standard": {
-      "count": 517,
+      "count": 507,
       "mods": [
         {
           "n": "disable CrashReporter (MO CET fix)",
@@ -3309,6 +3249,17 @@
           "n": "RedHotTools",
           "v": "d2026.5.10",
           "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "RedSocket",
+          "v": "d2026.6.19",
+          "g": "Core Mods & Frameworks"
+        },
+        {
+          "n": "REDscope",
+          "v": "0.8",
+          "g": "Core Mods & Frameworks",
+          "id": 30739
         },
         {
           "n": "Unified Mod Settings",
@@ -3513,6 +3464,12 @@
           "id": 28338
         },
         {
+          "n": "Orbital Air Traffic Enhanced",
+          "v": "1.0.1",
+          "g": "Quality Of Life",
+          "id": 31355
+        },
+        {
           "n": "Flatlined Exit",
           "v": "1.0",
           "g": "Quality Of Life",
@@ -3555,6 +3512,18 @@
           "id": 21656
         },
         {
+          "n": "Killing Moon - Lifepath Dialog Restored",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 22987
+        },
+        {
+          "n": "Ladders Improved",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 31318
+        },
+        {
           "n": "Input QoL",
           "v": "1.1",
           "g": "Quality Of Life",
@@ -3583,12 +3552,6 @@
           "v": "1.30.0.0b",
           "g": "Quality Of Life",
           "id": 7879
-        },
-        {
-          "n": "Ping Tags Enemies",
-          "v": "1.2",
-          "g": "Quality Of Life",
-          "id": 9950
         },
         {
           "n": "Numerals Get Commas",
@@ -3681,12 +3644,6 @@
           "id": 8099
         },
         {
-          "n": "Silent Silencers and Throwing Knives",
-          "v": "1.6.2",
-          "g": "Quality Of Life",
-          "id": 4070
-        },
-        {
           "n": "Filter Saves by Lifepath and Type",
           "v": "1.6.2",
           "g": "Quality Of Life",
@@ -3771,6 +3728,12 @@
           "id": 28875
         },
         {
+          "n": "NPC Actions Stutter Fix",
+          "v": "0.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 16720
+        },
+        {
           "n": "Barbed Wire Knockout Effect Disabled",
           "v": "1.1",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -3783,10 +3746,22 @@
           "id": 19036
         },
         {
+          "n": "Easier Controller Sprint",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 26610
+        },
+        {
           "n": "Item Records Fixes",
           "v": "1.0",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 25019
+        },
+        {
+          "n": "Chippin' In Ebunike Combat Fixes",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 30209
         },
         {
           "n": "Disable Quest Weather",
@@ -3796,7 +3771,7 @@
         },
         {
           "n": "Immersion Patch - Minor Activities Quest Fixes",
-          "v": "1.10.1",
+          "v": "1.12",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 27162
         },
@@ -3964,7 +3939,7 @@
         },
         {
           "n": "Immersion Patch - Cyberpunk Story Quest Fixes",
-          "v": "1.7",
+          "v": "1.10",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 29152
         },
@@ -4063,12 +4038,6 @@
           "v": "1.0",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 16272
-        },
-        {
-          "n": "Car Dodge Stutter Fix",
-          "v": "0.1",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 16720
         },
         {
           "n": "In Cold Blood - NPC Execution Fix",
@@ -4185,6 +4154,18 @@
           "id": 25830
         },
         {
+          "n": "Realistic NPC FOV",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics",
+          "id": 31188
+        },
+        {
+          "n": "Much Better AI",
+          "v": "1.10.1",
+          "g": "Gameplay & Mechanics",
+          "id": 31402
+        },
+        {
           "n": "Much Better Netrunning",
           "v": "2.19",
           "g": "Gameplay & Mechanics",
@@ -4192,9 +4173,33 @@
         },
         {
           "n": "Much Better Eddies",
-          "v": "1.10",
+          "v": "1.3",
           "g": "Gameplay & Mechanics",
           "id": 30532
+        },
+        {
+          "n": "Respect Your Weapon 2.0",
+          "v": "2.1",
+          "g": "Gameplay & Mechanics",
+          "id": 27287
+        },
+        {
+          "n": "Lifepath Bonuses and Gang-Corp Traits",
+          "v": "4.3.2",
+          "g": "Gameplay & Mechanics",
+          "id": 2217
+        },
+        {
+          "n": "Enemy Aggro Improvements",
+          "v": "0.1.0.0a",
+          "g": "Gameplay & Mechanics",
+          "id": 19351
+        },
+        {
+          "n": "Cyber Enemies",
+          "v": "1.0.1",
+          "g": "Gameplay & Mechanics",
+          "id": 30585
         },
         {
           "n": "Armor Up - Player Armor Rework",
@@ -4226,46 +4231,16 @@
           "id": 3661
         },
         {
-          "n": "AI Trigger Overhaul - More Perceptive NPCs",
-          "v": "0.3",
-          "g": "Gameplay & Mechanics",
-          "id": 27199
-        },
-        {
           "n": "Depeche Mods - Unified Weapon Modification",
           "v": "1.3.4",
           "g": "Gameplay & Mechanics",
           "id": 25350
         },
         {
-          "n": "Dead Body Alert",
-          "v": "1.0",
-          "g": "Gameplay & Mechanics",
-          "id": 26746
-        },
-        {
-          "n": "Silent Bodies",
-          "v": "0.21",
-          "g": "Gameplay & Mechanics",
-          "id": 26906
-        },
-        {
-          "n": "More Vigilant Enemies",
-          "v": "f1.01",
-          "g": "Gameplay & Mechanics",
-          "id": 26778
-        },
-        {
-          "n": "More Vigilant Enemies - They Will Remember Compatibility Patch",
-          "v": "1.0",
-          "g": "Gameplay & Mechanics",
-          "id": 26778
-        },
-        {
           "n": "Allow Highest AI LOD",
           "v": "0.1",
           "g": "Gameplay & Mechanics",
-          "id": 25545
+          "id": 16720
         },
         {
           "n": "Damage Scaling and Balance (Formerly Level Scaling)",
@@ -4284,24 +4259,6 @@
           "v": "1.3.9",
           "g": "Gameplay & Mechanics",
           "id": 14094
-        },
-        {
-          "n": "Repeatable NCPD Gigs - WIP",
-          "v": "0.0.0.20",
-          "g": "Gameplay & Mechanics",
-          "id": 18968
-        },
-        {
-          "n": "More Cautious And Chaotic Enemies",
-          "v": "1.0",
-          "g": "Gameplay & Mechanics",
-          "id": 23575
-        },
-        {
-          "n": "Immersive Shooting AI",
-          "v": "1.1",
-          "g": "Gameplay & Mechanics",
-          "id": 22782
         },
         {
           "n": "Tougher Security Turrets",
@@ -4406,24 +4363,6 @@
           "id": 10355
         },
         {
-          "n": "Enemy Aggro Improvements",
-          "v": "0.1.0.0a",
-          "g": "Gameplay & Mechanics",
-          "id": 19351
-        },
-        {
-          "n": "They Will Remember",
-          "v": "2.4.2.0c",
-          "g": "Gameplay & Mechanics",
-          "id": 19747
-        },
-        {
-          "n": "Enemies of Night City",
-          "v": "0.42",
-          "g": "Gameplay & Mechanics",
-          "id": 8467
-        },
-        {
           "n": "Guns Redone V3.0 PL - Armor Pieces Improvements",
           "v": "2.1",
           "g": "Gameplay & Mechanics",
@@ -4443,7 +4382,7 @@
         },
         {
           "n": "Cyberware Improved",
-          "v": "1.5",
+          "v": "1.6",
           "g": "Cyberware & Augmentations",
           "id": 23554
         },
@@ -4598,24 +4537,6 @@
           "id": 15443
         },
         {
-          "n": "Muzzle Attachment Pack",
-          "v": "1.0",
-          "g": "Weapons & Attachments",
-          "id": 21530
-        },
-        {
-          "n": "Suppressor Pack",
-          "v": "1.1",
-          "g": "Weapons & Attachments",
-          "id": 21433
-        },
-        {
-          "n": "Suppressor Pack 2",
-          "v": "1.1",
-          "g": "Weapons & Attachments",
-          "id": 22152
-        },
-        {
           "n": "Bolt Shots Penetrate Cover",
           "v": "1.0.5",
           "g": "Weapons & Attachments",
@@ -4662,12 +4583,6 @@
           "v": "1.0",
           "g": "Weapons & Attachments",
           "id": 14782
-        },
-        {
-          "n": "Vanilla Reworks Explosive Pack - Standalone Iconic Weapons",
-          "v": "1.0.1",
-          "g": "Weapons & Attachments",
-          "id": 17483
         },
         {
           "n": "Jackie's Machete - New Iconic Weapon",
@@ -4836,6 +4751,24 @@
           "v": "1.1",
           "g": "Weapons & Attachments",
           "id": 19275
+        },
+        {
+          "n": "HK416-M4-XM7 with custom attachments",
+          "v": "1.3",
+          "g": "Weapons & Attachments",
+          "id": 15486
+        },
+        {
+          "n": "L85A3",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 30647
+        },
+        {
+          "n": "KV and KVD Sniper and Marksman Rifles",
+          "v": "1.1",
+          "g": "Weapons & Attachments",
+          "id": 30913
         },
         {
           "n": "XPR-50 Sniper Rifle",
@@ -5102,18 +5035,6 @@
           "id": 11734
         },
         {
-          "n": "Judy Enhanced Body with 4K Texture",
-          "v": "1.0.4",
-          "g": "NPCs & World Population",
-          "id": 10150
-        },
-        {
-          "n": "Panam Body Enhanced 2.2",
-          "v": "2.2",
-          "g": "NPCs & World Population",
-          "id": 4843
-        },
-        {
           "n": "NCPD Uniform 2.0",
           "v": "2.0",
           "g": "NPCs & World Population",
@@ -5136,12 +5057,6 @@
           "v": "1.0",
           "g": "NPCs & World Population",
           "id": 19530
-        },
-        {
-          "n": "Kiroshi Optics - Deep Scan Protocol",
-          "v": "2.3.1",
-          "g": "Immersion & Roleplay",
-          "id": 27018
         },
         {
           "n": "SPLAT Physics Realistic Ragdoll Overhaul",
@@ -5193,7 +5108,7 @@
         },
         {
           "n": "Say Something Damn It",
-          "v": "1.14",
+          "v": "1.16",
           "g": "Immersion & Roleplay",
           "id": 22228
         },
@@ -5277,7 +5192,7 @@
         },
         {
           "n": "Virtual Atelier",
-          "v": "1.5",
+          "v": "1.6",
           "g": "Immersion & Roleplay",
           "id": 2987
         },
@@ -5306,28 +5221,10 @@
           "id": 16965
         },
         {
-          "n": "Better Bike Animations - Female",
-          "v": "f1.01",
-          "g": "Immersion & Roleplay",
-          "id": 18524
-        },
-        {
-          "n": "Better Bike Animations - Male",
-          "v": "1.0",
-          "g": "Immersion & Roleplay",
-          "id": 18524
-        },
-        {
           "n": "Immersive Timeskip",
           "v": "2.2.2",
           "g": "Immersion & Roleplay",
           "id": 5115
-        },
-        {
-          "n": "Immersive FPP Bike Cam",
-          "v": "2.3.3",
-          "g": "Vehicles & Driving",
-          "id": 14292
         },
         {
           "n": "Auto Drive Enhanced",
@@ -5361,7 +5258,7 @@
         },
         {
           "n": "Dynamic Gravity Modifier",
-          "v": "2.31.2",
+          "v": "2.31.3",
           "g": "Vehicles & Driving",
           "id": 13986
         },
@@ -5379,7 +5276,7 @@
         },
         {
           "n": "Cyber Drift",
-          "v": "2.3",
+          "v": "2.31",
           "g": "Vehicles & Driving",
           "id": 8306
         },
@@ -5432,12 +5329,6 @@
           "id": 4454
         },
         {
-          "n": "Cyber Kart",
-          "v": "1.0.6.0b",
-          "g": "Vehicles & Driving",
-          "id": 20456
-        },
-        {
           "n": "Aston Martin DB11 - No Front License Plate",
           "v": "1.10",
           "g": "Vehicles & Driving",
@@ -5448,24 +5339,6 @@
           "v": "1.23",
           "g": "Vehicles & Driving",
           "id": 18736
-        },
-        {
-          "n": "Audi RS5",
-          "v": "1.1",
-          "g": "Vehicles & Driving",
-          "id": 14115
-        },
-        {
-          "n": "Opel Corsa - Vauxhall Nova",
-          "v": "1.0.0.0a",
-          "g": "Vehicles & Driving",
-          "id": 13399
-        },
-        {
-          "n": "Rimac Nevera",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 14112
         },
         {
           "n": "Mazda RX-7 FD",
@@ -5504,24 +5377,6 @@
           "id": 19552
         },
         {
-          "n": "Mercedes-Benz SLR McLaren 2003",
-          "v": "0.3",
-          "g": "Vehicles & Driving",
-          "id": 19251
-        },
-        {
-          "n": "2021 Porsche Taycan Turbo S",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 14668
-        },
-        {
-          "n": "2021 BMW M4 Competition",
-          "v": "1.2",
-          "g": "Vehicles & Driving",
-          "id": 15299
-        },
-        {
           "n": "Lexus LC500 Liberty Walk",
           "v": "1.3",
           "g": "Vehicles & Driving",
@@ -5550,12 +5405,6 @@
           "v": "1.0",
           "g": "Vehicles & Driving",
           "id": 13465
-        },
-        {
-          "n": "Audi A8L Horch",
-          "v": "0.4",
-          "g": "Vehicles & Driving",
-          "id": 20514
         },
         {
           "n": "Ducati Supersport",
@@ -5594,16 +5443,28 @@
           "id": 14088
         },
         {
+          "n": "Aprilia RS660",
+          "v": "1.0",
+          "g": "Vehicles & Driving",
+          "id": 26035
+        },
+        {
+          "n": "Ducati 916",
+          "v": "1.0",
+          "g": "Vehicles & Driving",
+          "id": 27794
+        },
+        {
+          "n": "Audi R8 V10+",
+          "v": "1.0",
+          "g": "Vehicles & Driving",
+          "id": 24800
+        },
+        {
           "n": "Batmobile BVS Archive XL",
           "v": "1.1",
           "g": "Vehicles & Driving",
           "id": 20605
-        },
-        {
-          "n": "Aston Martin V8 Vantage 1977",
-          "v": "0.3",
-          "g": "Vehicles & Driving",
-          "id": 20291
         },
         {
           "n": "Lamborghini Miura SV Custom Widebody",
@@ -5616,6 +5477,12 @@
           "v": "f2.01",
           "g": "Vehicles & Driving",
           "id": 18170
+        },
+        {
+          "n": "Double Calibre",
+          "v": "1.0.7",
+          "g": "Vehicles & Driving",
+          "id": 27074
         },
         {
           "n": "Devel Sixteen",
@@ -5636,12 +5503,6 @@
           "id": 11180
         },
         {
-          "n": "2019 Mercedes G63 AMG",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 12167
-        },
-        {
           "n": "Aston Martin Valkyrie",
           "v": "1.0",
           "g": "Vehicles & Driving",
@@ -5652,12 +5513,6 @@
           "v": "1.3",
           "g": "Vehicles & Driving",
           "id": 21052
-        },
-        {
-          "n": "Ferrari Purosangue",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 13591
         },
         {
           "n": "Lamborghini Temerario",
@@ -5676,12 +5531,6 @@
           "v": "1.0",
           "g": "Vehicles & Driving",
           "id": 18759
-        },
-        {
-          "n": "Audi_R8_2020",
-          "v": "1.0",
-          "g": "Vehicles & Driving",
-          "id": 17627
         },
         {
           "n": "Mclaren P1 GTR",
@@ -5804,10 +5653,16 @@
           "id": 12184
         },
         {
-          "n": "Improved Environment LODs",
-          "v": "3.21",
+          "n": "Map LUT Begone (HDR Fix)",
+          "v": "1.0",
           "g": "Visuals, Graphics, & Lighting",
-          "id": 4923
+          "id": 29837
+        },
+        {
+          "n": "Ray Traced Lighting Fixes",
+          "v": "0.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29720
         },
         {
           "n": "LUT Switcher 2",
@@ -5882,6 +5737,18 @@
           "id": 20405
         },
         {
+          "n": "Better Traffic Lights",
+          "v": "1.0",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 14316
+        },
+        {
+          "n": "Leaky Interiors Fixed",
+          "v": "1.1",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29002
+        },
+        {
           "n": "NPC LoD Tweak (for PT)",
           "v": "1.0",
           "g": "Visuals, Graphics, & Lighting",
@@ -5912,6 +5779,12 @@
           "id": 14197
         },
         {
+          "n": "Improved Environment LODs",
+          "v": "3.21",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 4923
+        },
+        {
           "n": "Improved Distant Shadows (Volumetric Fog Leaking Fixed)",
           "v": "0.35",
           "g": "Visuals, Graphics, & Lighting",
@@ -5931,7 +5804,7 @@
         },
         {
           "n": "Improved Vegetation LODs",
-          "v": "3.3",
+          "v": "3.4",
           "g": "Visuals, Graphics, & Lighting",
           "id": 3627
         },
@@ -6014,12 +5887,6 @@
           "id": 12490
         },
         {
-          "n": "ENV Tuner (Weather - Lighting - Vignette Adjustments without Conflict)",
-          "v": "1.1.0.0s",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 23079
-        },
-        {
           "n": "Nova Rain (and Improved Ripples)",
           "v": "1.0.1.0a",
           "g": "Visuals, Graphics, & Lighting",
@@ -6030,6 +5897,12 @@
           "v": "1.0.0.0-ripples",
           "g": "Visuals, Graphics, & Lighting",
           "id": 13483
+        },
+        {
+          "n": "Nova Optics (Gameplay ENV Tuning with Vehicle Exposure Fix)",
+          "v": "1.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29190
         },
         {
           "n": "Faster Rainmap and Distant Shadows",
@@ -6045,7 +5918,7 @@
         },
         {
           "n": "Disable Fake Lights with Path Tracing",
-          "v": "0.4",
+          "v": "0.5",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16060
         },
@@ -6228,6 +6101,12 @@
           "v": "1.2",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 24025
+        },
+        {
+          "n": "DLC Liberation Protocol",
+          "v": "1.0",
+          "g": "Late Loaders, Cheats, & Experimental",
+          "id": 12322
         },
         {
           "n": "Nova Scanner",

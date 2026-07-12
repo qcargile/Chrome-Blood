@@ -55,6 +55,9 @@ If you’re here for visuals/performance, jump to **[Graphics & Performance](htt
 
 ## 🎮 Gameplay
 
+**Q: What controls enemy combat and stealth behavior?**  
+**A:** The combat foundation is **[Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402)**, **[Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)**, and **[Lifepath Bonuses & Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)**. MBAI handles coordinated combat, stealth reactions, searches, player noise, and netrunner tactics. Cyber Enemies adds enemy cyberware abilities, while Gang-Corp Traits gives each faction its own strengths and exactly one immunity.
+
 **Q: Damage feels undertuned/overtuned. How can I adjust it?**  
 **A:** In **Mod Settings**, tune either:
 - **[Dmg. Scaling](https://www.nexusmods.com/cyberpunk2077/mods/21865)** or 
@@ -157,8 +160,11 @@ It’s **disabled by default** to prevent accidental scrapping.
 **A:** **[General Shadows Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20405)** includes an **RT/PT-specific** toggle.  
 The list defaults this **off**. Enable it in Mod Settings if you’re seeing artifacts.
 
+**Q: Where are the old ENV Tuner controls?**  
+**A:** ENV Tuner was removed. **[Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190)** now handles exposure, adaptation, bloom, vignette, lens flare, and chromatic aberration through its CET window. Leave **Enable Mod** and **Auto** checked for the list's tuned setup, or turn Auto off to use the manual controls. Do not install ENV Tuner Lite alongside Nova Optics.
+
 **Q: Why is Chrome and Blood so dark, I can't see anything at night!**  
-**A:** This list uses **[Nova City 2,](https://www.nexusmods.com/cyberpunk2077/mods/12490)** which overhauls lighting, making things darker or brighter where applicable. To make night time brighter, navigate to Mod settings -> ENV Tuner -> Shadow boost, and adjust to your liking. 
+**A:** This list uses **[Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490)**, which overhauls lighting and can make some areas darker or brighter. To brighten shadows, open the CET overlay, go to **Nova Optics → Exposure Overrides**, and adjust **Shadow Boost**.
 
 ### ✅ Step-by-Step: Maximize Visuals with Chrome & Blood
 
@@ -180,4 +186,3 @@ The list defaults this **off**. Enable it in Mod Settings if you’re seeing art
 8. That’s it — you’re ready to play.
 
 ---
-

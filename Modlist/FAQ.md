@@ -108,7 +108,7 @@ Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning 
 Install/upgrade the appropriate cyberware or adjust each mod’s settings.
 
 **Q: On the *Immersive Profile,* I have the required cyberware, and the mini-map still doesn't appear when I right-click. Why?**  
-**A:** There's a global keybind to quickly toggle the mini-map on/off. Press F6 or F8.
+**A:** Press **F6** to toggle the minimap. **F8** toggles the full Limited HUD configuration.
 
 **Q: On the Immersive profile, I can’t highlight enemies anymore. Why?**  
 **A:** On Immersive, only enemies revealed by the **Ping** quickhack are highlighted in red. This behavior comes from **LHUD Addons**.  

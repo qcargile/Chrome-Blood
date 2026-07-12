@@ -215,23 +215,37 @@ Also disable any overlays — Steam overlay, Discord overlay, GPU software overl
 
 ## Keybinds to Know (Modded Controls)
 
-Some of these can be changed in-game or through the **Redscript and CET Mod Settings** menu.
+These defaults come from the Chrome & Blood UMS profiles. Most can be changed under **Unified Mod Settings**.
 
-### Gameplay / Interface
+### Global Controls
 
 | Key | Action | Mod |
 |---|---|---|
-| `1` – `0` | Quickhack hotkeys — assign quickhacks to keys for instant casting without the scanner | Quickhack Hotkeys |
+| `Numpad 0` | Open Unified Mod Settings | Unified Mod Settings |
+| `Mouse 4` / `Square` | Toggle flashlight | Better Flashlight |
+| `1` – `8` | Quickhack hotkeys | Quickhack Hotkeys |
+| `5` – `9` | Custom item and cyberware quickslots | Custom Quickslots |
+| `Left Shift` (cars) / `Left Ctrl` (bikes) | Nitrous boost | Nitrous |
+| `T` / `D-pad Down` | Cycle firing modes | Trigger Mode Control |
+| `T` while scanning | Overload Breach after unlocking it | Much Better Netrunning |
 | `O` | Immersive timeskip menu | Immersive Timeskip |
-| `Left Shift` (vehicles) / `Spacebar` (bikes) | Nitrous boost | Nitrous |
-| `Hold Shift` while ADS | Variable zoom on supported scopes | Zoomable Scopes |
-| `DPad Left Hold` (controller) / `Mouse 5` (KB) | Toggle flashlight | Simple Flashlight |
 | `F3` | Night vision (requires Kiroshi Optics) | Kiroshi Optics Night Vision |
-| `T` | Cycle firing modes (single/burst/auto) | Trigger Mode Control |
+| `C` / `Triangle` | Repair Armor Integrity at a ripperdoc | Armor Up |
+| `K` / `Square` | Toggle Shared Fate after unlocking it | Merc Protocol |
+| `Shift` + Right-click / hold `R3` | Untrack the current objective | Much Better Quest Untracking |
+| `R` / `D-pad Up` | Dismiss your vehicle | Vehicle Dismiss |
+| Set in UMS | Breach an unconscious NPC | Much Better Netrunning |
+| Set in CET | Open the CET overlay | Cyber Engine Tweaks |
 
-The **Cyber Engine Tweaks** keybind is set by you the first time you launch with CET installed.
+### Immersive Profile Only
 
-Check each mod's page for additional keybind options.
+| Key | Action | Mod |
+|---|---|---|
+| `F8` | Toggle the full HUD configuration | Limited HUD |
+| `F6` | Toggle the minimap only | Limited HUD |
+| `X` / `D-pad Right` | Sleep in a vehicle | Dark Future |
+
+`T` is currently shared by Trigger Mode Control and Much Better Netrunning's Overload Breach. Rebind either action in UMS if they interfere with each other.
 
 ---
 

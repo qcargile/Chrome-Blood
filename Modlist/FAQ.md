@@ -174,15 +174,23 @@ The list defaults this **off**. Enable it in Mod Settings if you’re seeing art
 2. Run `DLSS Swapper.exe`  
 3. On the **Games** home page, click **Cyberpunk 2077**.  
 4. Change the below settings to the following versions:  
-   - **DLSS:** `310.4`  
-   - **DLSS Frame Generation:** `310.4`  
-   - **DLSS Ray Reconstruction:** `310.4`
-   - **DLSS Preset:** `Always Use Latest`
+   - **DLSS:** `310.7`
+   - **DLSS Preset:** `Default`
+   - **DLSS Ray Reconstruction:** `310.7`
+   - **DLSS RR Preset:** `Default`
+   - **DLSS Frame Generation:** `310.7`
+   - **DLSS FG Preset:** `Default`
 5. It should look like this when you’re done:  
-<img width="697" height="637" alt="image" src="https://github.com/user-attachments/assets/4be8eb1f-526a-408d-bab4-b963b06402e2" />
+<img width="685" height="370" alt="DLSS Swapper settings for Cyberpunk 2077 using 310.7 and Default presets" src="assets/img/dlss.png" />
 
-6. If you use **FSR** instead, follow the instructions on **[this mod page](https://www.nexusmods.com/site/mods/738)** to set up FSR3 for Cyberpunk 2077.  
-7. Close **DLSS Swapper** when complete.  
-8. That’s it — you’re ready to play.
+6. Leave the presets on **Default** unless you are testing. Forcing presets is more fragile than it looks:
+   - For **DLSS Quality**, **Balanced**, or **DLAA**, `K` is the safest manual pick.
+   - For **DLSS Performance**, `M` can look better on newer RTX cards, but may cost more FPS.
+   - For **DLSS Ultra Performance**, `L` is the intended newer model.
+   - On RTX 20/30 cards, `M` and `L` can hit performance harder. Use `K` if you want the safer balance.
+   - For **Ray Reconstruction**, leave **Default**. If you force it manually, `D` is the safer stability pick.
+7. If you use **FSR** instead, follow the instructions on **[this mod page](https://www.nexusmods.com/site/mods/738)** to set up FSR3 for Cyberpunk 2077.
+8. Close **DLSS Swapper** when complete.
+9. That’s it — you’re ready to play.
 
 ---

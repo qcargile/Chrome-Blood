@@ -7,7 +7,7 @@
 <summary>Immersive-Only Mods</summary>
 
 - [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)  
-  Removes fast travel, mini-map, and enemy awareness UI, adds environmental needs and survival mechanics, increasing immersion and difficulty.
+  Adds environmental needs and survival mechanics. Chrome & Blood keeps map fast travel available and pairs it with payment and elapsed travel time.
 
 - [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)  
   Locks gameplay essentials like inventory, scanner, and healthbar behind cyberware upgrades, making chrome a necessity rather than a convenience.

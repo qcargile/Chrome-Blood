@@ -68,7 +68,7 @@ Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**. The guide cove
 ![Night City Reborn](https://i.ibb.co/FkxLWVxb/Night-City-Reborn.png)The city looks different. The light hits different. Weather rolls through Night City like it belongs there.
 
 - [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808) and [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490) transform the visual foundation
-- [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190) handles exposure tuning and the first-person vehicle exposure fix
+- [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190) handles exposure, adaptation, bloom, vignette, lens flare, and chromatic aberration
 - [HDR LUTs](https://www.nexusmods.com/cyberpunk2077/mods/16310), tuned weather, upgraded fog, and improved LOD
 - [Upgraded civilian](https://www.nexusmods.com/cyberpunk2077/mods/22707) variety for a city that feels alive
 
@@ -112,7 +112,7 @@ Press **Numpad 0** to open Unified Mod Settings. Chrome & Blood groups the setti
 - **INVENTORY & QUALITY OF LIFE**
 - **VISUALS & PERFORMANCE**
 
-Search and favorites remain available when you already know what you want. Change one system at a time and test it before changing another; replacing or removing mods is still covered by Rule 11 in the [FAQ](https://qcargile.github.io/Chrome-Blood/faq.html).
+Search and favorites remain available when you already know what you want. Change one system at a time and test it before changing another; replacing or removing mods is still covered by [Rule 11](https://qcargile.github.io/Chrome-Blood/mods.html#rule11).
 
 ***
 
@@ -125,7 +125,7 @@ The survival-focused option, built around earning everything.
 - Survival needs through [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)
 - HUD elements locked behind cyberware through [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)
 - HUD hidden unless the situation demands it through [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-- Manual reloads, paid travel, and deliveries that take time through [Virtual Atelier Delivery](https://www.nexusmods.com/cyberpunk2077/mods/21482)
+- Manual reloads and paid, time-advancing fast travel; Virtual Atelier purchases arrive through [timed deliveries](https://www.nexusmods.com/cyberpunk2077/mods/21482)
 
 ### Standard Profile
 
@@ -175,7 +175,7 @@ The current control list and profile-specific bindings are maintained in **C&B -
 
 ***
 
-### ![Links](https://i.ibb.co/LDWNSbq7/links.png)**Modlist:** [Chrome & Blood Load Order](https://qcargile.github.io/Chrome-Blood/loadorder.html)
+### ![Links](https://i.ibb.co/LDWNSbq7/links.png)**Modlist:** [Chrome & Blood Load Order](https://qcargile.github.io/Chrome-Blood/mods.html)
 
 ### **Changelog:** [Latest Release](https://qcargile.github.io/Chrome-Blood/changelog.html)
 

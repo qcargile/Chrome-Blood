@@ -1,196 +1,132 @@
-# ❓ Chrome & Blood — Frequently Asked Questions (FAQ)
+# ❓ Chrome & Blood — Frequently Asked Questions
 
-If you’re here for visuals/performance, jump to **[Graphics & Performance](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-graphics--performance)** — it includes the full step-by-step setup.
-
----
-
-## 📚 Table of Contents
-
-- [Backups & Updates](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#%EF%B8%8F-backups--updates)
-- [Gameplay](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-gameplay)
-- [HUD & UI](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-hud--ui)
-- [Progression & Crafting](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#%EF%B8%8F-progression--crafting)
-- [World & Content](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#%EF%B8%8F-world--content)
-- [Inventory & QoL](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-inventory--qol)
-- [Graphics & Performance](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/FAQ.md#-graphics--performance)
+This page is for updates, troubleshooting, and common technical problems. For controls and gameplay systems, pause the game, open **Database**, select the first category, and use the sections beginning with **C&B**. For settings, press **`Numpad 0`** to open Unified Mod Settings.
 
 ---
+
 ## 🗄️ Backups & Updates
 
-**Q: I’m updating to a new version — do I need to do anything special first?**  
-**A:** When a version changes or removes cyberware and weapon mods, strip every modded item off your character **before** updating. Make a save, update the list, then reload that save and confirm you load in clean and stable before continuing. This avoids broken or missing items left behind by removed mods.
+**Q: Do I need to prepare my save before updating?**
 
-**Q: How do I back up my saves or user-specific mod settings before an update?**  
-**A:**
+**A:** Read the newest [changelog](https://qcargile.github.io/Chrome-Blood/changelog.html). If a release needs special preparation, the warning will appear directly under its save-compatibility line. If there is no warning, update normally.
 
-**Immersive Profile**
-- **Saves:**  
-  `D:\Chrome & Blood\profiles\Chrome & Blood - Immersive Profile\saves`
-- **Settings you’ve changed:**  
-  Check the mod **“Chrome and Blood modlist settings - Immersive Profile”**.  
-  If not found there, open MO2 and back up the contents of **Overwrite** (bottom of the left pane).
+**Q: How do I back up my saves and personal settings?**
 
-**Standard Profile**
-- **Saves:**  
-  `D:\Chrome & Blood\profiles\Chrome & Blood - Standard Profile\saves`
-- **Settings you’ve changed:**  
-  Check the mod **“Chrome and Blood modlist settings - Standard Profile”**, or back up **Overwrite** in MO2.
+**A:** Open your Chrome & Blood installation folder, then back up the folder for the profile you use:
 
-**Q: My saves aren't in the MO2 Saves Tab, how do I fix that?**  
-**A:** Click on the profile drop down at the top of the left pane in MO2 --> Manage --> Ensure that "use profile specific Save Games" is ticked for whatever profile you're on.
+- `profiles\Chrome & Blood - Immersive Profile\saves`
+- `profiles\Chrome & Blood - Standard Profile\saves`
 
-**Q: How do I safely modify the list and not lose added mods between updates?**  
-**A:** Refer to **[Rule-11](https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/Rule%2011.md)** documentation to get started.
+Settings supplied by the list live in the matching **Chrome and Blood modlist settings** mod. Settings changed by you may also appear in **Overwrite** at the bottom of MO2's left pane.
 
-**Q: Do you have a list of the biggest mods in the list and what they do?**  
-**A:** The **[Player Guide](https://qcargile.github.io/Chrome-Blood/guide.html)** covers what the major systems do and how to play them. For every mod in priority order, see the **[Mods page](https://qcargile.github.io/Chrome-Blood/mods.html)**.
+**Q: My saves are not in MO2's Saves tab.**
 
-**Q: Do you have a full list of the entire load order somewhere?**  
-**A:** Yes — **[full load order](https://qcargile.github.io/Chrome-Blood/mods.html)**.
+**A:** Open the profile drop-down at the top of MO2, select **Manage**, and enable **Use profile-specific Save Games** for the active profile.
 
-**Q: Do you post changelogs and where are they available?**  
-**A:** Yes — they’re published **[here](https://github.com/qcargile/Chrome-Blood/blob/main/changelog.md)**.
-  
----
+**Q: How do I keep mods I added myself between updates?**
 
-## 🎮 Gameplay
-
-**Q: What controls enemy combat and stealth behavior?**  
-**A:** The combat foundation is **[Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402)**, **[Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)**, and **[Lifepath Bonuses & Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)**. MBAI handles coordinated combat, stealth reactions, searches, player noise, and netrunner tactics. Cyber Enemies adds enemy cyberware abilities, while Gang-Corp Traits gives each faction its own strengths and exactly one immunity.
-
-**Q: Damage feels undertuned/overtuned. How can I adjust it?**  
-**A:** In **Mod Settings**, tune either:
-- **[Dmg. Scaling](https://www.nexusmods.com/cyberpunk2077/mods/21865)** or 
-- **[ENC](https://www.nexusmods.com/cyberpunk2077/mods/8467?tab=description)**  
-I recommend starting with Dmg. scaling.
-
-**Q: My Armor integrity is 0 / I feel like I'm taking increased damage. Why is that?**  
-**A:** This list uses **[Armor Up](https://www.nexusmods.com/cyberpunk2077/mods/24801)**
-- Your current Armor Integrity is displayed in that blue percentage next to your health bar.
-- You must visit a ripper doc to repair your integrity. Navigate to the cyberware trade screen, and press `C` by default.
-- Check the Armor Up mod page for other items you can use to repair your armor.
-
-**Q: Why can’t I quickhack enemies right away?**  
-**A:** The list uses **[Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237)**. You must either:
-- Knock a target **unconscious** and breach their network directly, or  
-- Breach via an **access point**.  
-Higher **Cyberdeck** tiers and **INT** unlock higher quickhack tiers, returning toward vanilla access as you progress.
-
-**Q: Can I customize the grenade quickslots?**  
-**A:** Yes, through [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) in-game settings. You can change them to cyberware, healing items, other grenades, etc.
-
-**Q: Does the vanilla game difficulty setting still work?**  
-**A:** Yes. It still applies on top of the list—set it to your preference.
-
-**Q: What’s the recommended difficulty for Chrome & Blood?**  
-**A:** **Very Hard.** The list is balanced around **Very Hard** and that’s the only difficulty I play on. Other difficulties are not used for balance tuning.
-
-**Q: My Sandevistan / time dilation works differently now. Why?**  
-**A:** The list uses **[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)**, which reworks nearly every time-dilation system — Sandevistans, Kerenzikovs, and new attunements. Tune it in its in-game **Mod Settings**.
-
-**Q: Why can’t I buy or use some modded weapons yet?**  
-**A:** Modded weapons are now **level-gated**. Their Virtual Atelier prices also scale with the economy, and you can craft them once you’ve unlocked the schematic. They open up as you level.
-
-**Q: How do I order services from my phone / what’s the “dead channel”?**  
-**A:** That’s **[Much Better Eddies](https://www.nexusmods.com/cyberpunk2077/mods/30532)** (it replaced Economy Punk this version). It adds a phone-based dead-channel system for ordering services, on top of steeper economy scaling and bigger gig payouts.
-
-**Q: Melee combat feels heavier now — is that intended?**  
-**A:** Yes. **[Much Better Impacts](https://www.nexusmods.com/cyberpunk2077/mods/30561)** enables the game’s native hitstop; the heavier the weapon class, the more impact you’ll feel on each hit.
+**A:** Read [Rule 11](https://qcargile.github.io/Chrome-Blood/mods.html#rule11) before changing the list. It explains the `[NoDelete]` tag, load-order backups, and the limits of support for a modified installation.
 
 ---
 
-## 🧠 HUD & UI
+## 🛠️ Installation & Launch
 
-**Q: On the *Immersive* profile my HUD is missing — why?**  
-**A:** Two mods hide/lock HUD elements:
-- **[Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)**: gates HUD behind cyberware requirements.  
-- **[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)**: hides most widgets until context triggers.  
-Install/upgrade the appropriate cyberware or adjust each mod’s settings.
+**Q: Where are the current installation instructions?**
 
-**Q: On the *Immersive Profile,* I have the required cyberware, and the mini-map still doesn't appear when I right-click. Why?**  
-**A:** Press **F6** to toggle the minimap. **F8** toggles the full Limited HUD configuration.
+**A:** Use the [Installation page](https://qcargile.github.io/Chrome-Blood/install.html). The setup tool is the shortest route; the complete manual process is available there if you prefer it.
 
-**Q: On the Immersive profile, I can’t highlight enemies anymore. Why?**  
-**A:** On Immersive, only enemies revealed by the **Ping** quickhack are highlighted in red. This behavior comes from **LHUD Addons**.  
- Open **Mod Settings → LHUD Addons** to change this.
+**Q: How should I launch the game?**
 
-**Q: How do I change the game’s UI color theme?**  
-**A:** Use **[HUD Painter](https://www.nexusmods.com/cyberpunk2077/mods/14935?tab=description)** from the **main menu** to pick a preset.  
-After changing presets, **restart the game** to avoid crashes and ensure the palette fully applies.
+**A:** Open `ModOrganizer.exe`, choose the Immersive or Standard profile, and press **Run**. Do not launch Cyberpunk 2077 through Steam or a desktop shortcut.
 
-**Q: My minimap and game HUD is missing loot icons.**  
-**A:** That’s **[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)**. Re-enable specific markers in its in-game settings.
+**Q: The game will not launch or files disappear after installation.**
 
-**Q: Where did the second mod-settings menu go?**  
-**A:** **[Unified Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/28308)** merged the modlist’s two settings menus into one. You’ll also find a favorites tab and per-mod profiles in there.
+**A:** Check your antivirus first. Third-party antivirus commonly interferes with MO2's virtual file system, and Windows Defender may quarantine unfamiliar mod files. Add the Chrome & Blood installation folder to its exclusions, reinstall through Wabbajack, and launch through MO2.
+
+**Q: The game still crashes after a clean reinstall.**
+
+**A:** Reproduce it without added mods, then bring the REDscope crash report and what you were doing to the [Discord](https://discord.gg/U65Nhdcns8). That gives support something concrete to trace.
 
 ---
 
-## 🛠️ Progression & Crafting
+## 🎮 Gameplay & Settings
 
-**Q: Why can’t I craft like vanilla?**  
-**A:** **[Immersive Crafting](https://www.nexusmods.com/cyberpunk2077/mods/16154)** requires crafting at a **stash** until you unlock the relevant **perk**. 
+**Q: Where are the controls and explanations for the reworked systems?**
+
+**A:** They are in the in-game Player Guide. Pause, open **Database**, select the first category, then open **C&B - Start Here** or the section for the system you need. The [Player Guide page](https://qcargile.github.io/Chrome-Blood/guide.html) shows the exact path.
+
+**Q: Where did the second mod-settings menu go?**
+
+**A:** [Unified Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/28308) combines the list's settings into one menu. Press **`Numpad 0`** to open it. Use its categories, search, favorites, or per-mod profiles to find what you need.
+
+**Q: Damage feels too high or too low. What should I change first?**
+
+**A:** Open UMS and start in **COMBAT, ENEMIES & DIFFICULTY**. Change one setting at a time, then test it before adjusting another. The included profiles are balanced around **Very Hard**, but the vanilla difficulty selector still works.
+
+**Q: Quickhacks, armor, time dilation, crafting, or weapon access work differently from vanilla. Is that intended?**
+
+**A:** Usually. Those systems are all reworked by the list. Use the matching **C&B** Database section for the current rules, progression gates, counters, and profile-specific behavior.
 
 ---
 
-## 🗺️ World & Content
+## 🧠 HUD, World & Inventory
 
-**Q: Regina isn’t calling about Cyberpsychos; fixer gigs aren’t spawning.**  
-**A:** **[Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460)** adds criteria for fixer calls and gigs. Complete **NCPD activities in the district** so the local fixer “notices” you.
+**Q: The Immersive profile is hiding HUD elements.**
 
-**Q: Where do I buy the new weapons/clothes added by the list?**  
-**A:** On any computer → **Net** → **[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)** icon. Browse the added stores there.
+**A:** That profile intentionally restricts parts of the HUD through cyberware requirements and contextual visibility. Open **C&B - UI & Inventory** in the Database for the current requirements and controls. Relevant options are under **HUD, ACCESSIBILITY & CONTROLS** in UMS.
 
----
+**Q: How do I change the UI color theme?**
 
-## 🎒 Inventory & QoL
+**A:** Open [HUD Painter](https://www.nexusmods.com/cyberpunk2077/mods/14935) from the main menu, choose a preset, then restart the game so the new palette loads cleanly.
 
-**Q: I’m drowning in loot — how do I manage it?**  
-**A:** Configure **[Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687)** to auto-scrap by **tier/category**.  
-It’s **disabled by default** to prevent accidental scrapping.
+**Q: Loot icons are missing from the minimap or HUD.**
+
+**A:** Check [Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727) under **HUD, ACCESSIBILITY & CONTROLS** in UMS and re-enable the markers you want.
+
+**Q: Regina is not calling about Cyberpsychos or fixer gigs are not appearing.**
+
+**A:** [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) adds district progression. Complete NCPD activities in that district so the local fixer notices you.
+
+**Q: Where do I buy gear added by the list?**
+
+**A:** Use any computer, open **Net**, then select [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987). The in-game **C&B - Economy** section explains stores, level gates, schematics, and delivery differences between profiles.
+
+**Q: I am drowning in loot.**
+
+**A:** Configure [Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687) under **INVENTORY & QUALITY OF LIFE** in UMS. It is disabled by default to prevent accidental scrapping.
 
 ---
 
 ## 🎨 Graphics & Performance
 
-**Q: How do I change the overall color tone/grade of the game quickly?**  
-**A:** Use **[LUT Switcher 2](https://www.nexusmods.com/cyberpunk2077/mods/16310)** in the **CET overlay**. There are hundreds of LUTs (vibrant/noir/realistic/neon). Swap in-game without restarts.
+**Q: How do I change the overall color grade quickly?**
 
-**Q: I’m using RT/PT and shadows look off.**  
-**A:** **[General Shadows Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20405)** includes an **RT/PT-specific** toggle.  
-The list defaults this **off**. Enable it in Mod Settings if you’re seeing artifacts.
+**A:** Open **LUT Switcher** in the CET overlay. You can swap between the included LUT packs in-game without restarting.
 
-**Q: Where are the old ENV Tuner controls?**  
-**A:** ENV Tuner was removed. **[Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190)** now handles exposure, adaptation, bloom, vignette, lens flare, and chromatic aberration through its CET window. Leave **Enable Mod** and **Auto** checked for the list's tuned setup, or turn Auto off to use the manual controls. Do not install ENV Tuner Lite alongside Nova Optics.
+**Q: RT or path-traced shadows look wrong.**
 
-**Q: Why is Chrome and Blood so dark, I can't see anything at night!**  
-**A:** This list uses **[Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490)**, which overhauls lighting and can make some areas darker or brighter. To brighten shadows, open the CET overlay, go to **Nova Optics → Exposure Overrides**, and adjust **Shadow Boost**.
+**A:** [General Shadows Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20405) includes an RT/PT-specific option. The list leaves it off by default; enable it under **VISUALS & PERFORMANCE** in UMS if you see artifacts.
 
-### ✅ Step-by-Step: Maximize Visuals with Chrome & Blood
+**Q: Where are the old ENV Tuner controls?**
 
-> Follow these exactly. If you change settings outside this scope, support **won’t** be provided for those changes.
+**A:** ENV Tuner was removed. [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190) now handles exposure, adaptation, bloom, vignette, lens flare, and chromatic aberration through its CET window. Leave **Enable Mod** checked; the list ships with **Auto** disabled. Do not install ENV Tuner Lite beside it.
 
-1. Navigate to `D:\Chrome & Blood\Tools\DLSS Swapper`  
-2. Run `DLSS Swapper.exe`  
-3. On the **Games** home page, click **Cyberpunk 2077**.  
-4. Change the below settings to the following versions:  
-   - **DLSS:** `310.7`
-   - **DLSS Preset:** `Default`
-   - **DLSS Ray Reconstruction:** `310.7`
-   - **DLSS RR Preset:** `Default`
-   - **DLSS Frame Generation:** `310.7`
-   - **DLSS FG Preset:** `Default`
-5. It should look like this when you’re done:  
-<img width="685" height="370" alt="DLSS Swapper settings for Cyberpunk 2077 using 310.7 and Default presets" src="assets/img/dlss.png" />
+**Q: Night City is too dark.**
 
-6. Leave the presets on **Default** unless you are testing. Forcing presets is more fragile than it looks:
-   - For **DLSS Quality**, **Balanced**, or **DLAA**, `K` is the safest manual pick.
-   - For **DLSS Performance**, `M` can look better on newer RTX cards, but may cost more FPS.
-   - For **DLSS Ultra Performance**, `L` is the intended newer model.
-   - On RTX 20/30 cards, `M` and `L` can hit performance harder. Use `K` if you want the safer balance.
-   - For **Ray Reconstruction**, leave **Default**. If you force it manually, `D` is the safer stability pick.
-7. If you use **FSR** instead, follow the instructions on **[this mod page](https://www.nexusmods.com/site/mods/738)** to set up FSR3 for Cyberpunk 2077.
-8. Close **DLSS Swapper** when complete.
-9. That’s it — you’re ready to play.
+**A:** Open the CET overlay, go to **Nova Optics → Exposure Overrides**, and adjust **Shadow Boost**.
+
+### ✅ Recommended NVIDIA Setup
+
+1. Open `Tools\DLSS Swapper` inside your Chrome & Blood installation.
+2. Run `DLSS Swapper.exe` and select **Cyberpunk 2077**.
+3. Set DLSS, Ray Reconstruction, and Frame Generation to `310.7`.
+4. Leave each preset on **Default**.
+5. Close DLSS Swapper when finished.
+
+<img width="685" height="370" alt="DLSS Swapper settings for Cyberpunk 2077 using 310.7 and Default presets" src="https://qcargile.github.io/Chrome-Blood/assets/img/dlss.png" />
+
+If you force a DLSS preset manually, `K` is the safer choice for Quality, Balanced, and DLAA. `M` may improve Performance mode on newer RTX cards at a frame-rate cost, while `L` is intended for Ultra Performance. Leave Ray Reconstruction on **Default** unless you are testing.
+
+For FSR, follow the instructions on the [DLSS Enabler mod page](https://www.nexusmods.com/site/mods/738).
 
 ---

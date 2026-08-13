@@ -16,7 +16,7 @@
 - [Installation](#installation)
 - [Post-Installation](#post-installation)
 - [Updating the Modlist](#updating-the-modlist)
-- [Keybinds to Know](#keybinds-to-know-modded-controls)
+- [In-Game Guide & Settings](#in-game-guide--settings)
 - [Known Issues](#known-issues)
 
 
@@ -25,7 +25,7 @@
 **Chrome & Blood** is a full overhaul of *Cyberpunk 2077* for players who want a faster, harder, and more rewarding Night City. Combat, AI, economy, hacking, cyberware, stealth — all of it has been reworked. Builds matter, fights are lethal, and nothing is handed to you.
 
 - **Visuals** pushed with [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190), HDR LUTs, and tuned weather/LOD/fog
-- **Combat** built around [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402), [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585), and [Lifepath Bonuses & Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)
+- **Combat** built around low Health, layered [ME Armor](https://www.nexusmods.com/cyberpunk2077/mods/30548), [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402), and [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)
 - **Weapons** rebalanced via [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819) and [Damage Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/21865) — every archetype is worth building around
 - **Cyberware** expanded with [Neuralware - Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798) and the [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series
 - **Perks** expanded through [Merc Protocol](https://www.nexusmods.com/cyberpunk2077/mods/26751) — 18 new perks with unique mechanics built for this list
@@ -48,7 +48,6 @@ The hardcore option. Stripped down, survival-focused, built around earning every
 #### Standard Profile
 Same reworked combat and systems, just without the survival layer.
 - Full UI and inventory access from the start
-- No cyberpsychosis or humanity system
 - No needs or HUD restrictions
 
 #### Cosmetics
@@ -58,11 +57,11 @@ As of v3.2, cosmetic mods have been pulled from both profiles. Chrome & Blood is
 
 ### What Both Profiles Include
 
-- **Frameworks:** CET, redscript, RED4ext, ArchiveXL, TweakXL, Codeware, Mod Settings — everything you need is already set up.
+- **Frameworks:** CET, redscript, RED4ext, ArchiveXL, TweakXL, Codeware, and Unified Mod Settings — everything you need is already set up.
 - **Visuals:** [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190), HDR LUTs, upgraded civilians, and tuned weather/LOD/fog.
-- **Combat:** [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402), [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585), and [Lifepath Bonuses & Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) form the new foundation. Enemies coordinate, use new cyberware abilities, and fight according to faction traits. Each faction is immune to exactly one damage type, status effect, or quickhack category.
+- **Combat:** Every enemy tier uses the same low Health baseline. [ME Armor](https://www.nexusmods.com/cyberpunk2077/mods/30548), [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402), [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585), and faction traits create the difference between ordinary enemies and serious threats.
 - **Weapons:** [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819) and [Damage Scaling and Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865) make every weapon type — guns, blades, cyberware, hacks — worth building around.
-- **Cyberware:** Realistic slot limits and humanity costs. Powered by [Neuralware - Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798) and the [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series.
+- **Cyberware:** Realistic slot limits and expanded build options through [Neuralware - Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798) and the [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series.
 - **Perks:** [Merc Protocol – Perk Gameplay Expansion](https://www.nexusmods.com/cyberpunk2077/mods/26751) adds 18 new perks with unique mechanics built for this list.
 - **Vehicles:** Reworked handling, [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675), and a full garage of lore-friendly cars and bikes through [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454).
 - **Stealth & Hacking:** [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) makes enemies investigate noise, react to bodies and takedowns, search your last known position, and coordinate after spotting you. Enemy netrunners reposition and support their squad, while [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) overhauls hacking from the ground up.
@@ -83,6 +82,7 @@ This list isn't meant to be easy. With all of the above tuned for **very hard**,
 - **Website**: [qcargile.github.io/Chrome-Blood](https://qcargile.github.io/Chrome-Blood/)
 - **Full Load Order**: [all mods](https://qcargile.github.io/Chrome-Blood/loadorder.html)
 - **Mod Breakdown**: [The biggest mods and what they do](https://qcargile.github.io/Chrome-Blood/mods.html)
+- **Player Guide**: [Find the in-game Database guide](https://qcargile.github.io/Chrome-Blood/guide.html)
 - **Changelog**: [All Releases](https://qcargile.github.io/Chrome-Blood/changelog.html)
 - **FAQ**: [Frequently Asked Questions](https://qcargile.github.io/Chrome-Blood/faq.html)
 - **Discord**: [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
@@ -178,7 +178,7 @@ You can install Chrome & Blood from the [**Nexus Collection**](https://www.nexus
 
 8. Once it's done, open the install folder and launch `ModOrganizer.exe`.
 
-9. In MO2, make sure the profile is set to **Chrome & Blood**, then hit **Run** in the top right.
+9. In MO2, choose either the **Standard** or **Immersive** profile, then hit **Run** in the top right.
 
 
 ## Post-Installation
@@ -208,44 +208,16 @@ Also disable any overlays — Steam overlay, Discord overlay, GPU software overl
 
 ## Updating the Modlist
 
-1. Download the latest `.wabbajack` file (or find the updated listing in the Wabbajack gallery).
-2. Follow the installation steps above starting from step 2.
-3. **Check the `Overwrite` box** before installing so updated files get replaced properly.
+1. Open Wabbajack and find Chrome & Blood in the gallery.
+2. Point it at the same installation folder you used before.
+3. Install, then launch through Mod Organizer 2.
 
 
-## Keybinds to Know (Modded Controls)
+## In-Game Guide & Settings
 
-These defaults come from the Chrome & Blood UMS profiles. Most can be changed under **Unified Mod Settings**.
+The current controls, mechanics, counters, and profile-specific instructions are inside the game. Pause, open **Database**, select the first category, then open any section beginning with **C&B**. Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**.
 
-### Global Controls
-
-| Key | Action | Mod |
-|---|---|---|
-| `Numpad 0` | Open Unified Mod Settings | Unified Mod Settings |
-| `Mouse 4` / `Square` | Toggle flashlight | Better Flashlight |
-| `1` – `8` | Quickhack hotkeys | Quickhack Hotkeys |
-| `5` – `9` | Custom item and cyberware quickslots | Custom Quickslots |
-| `Left Shift` (cars) / `Left Ctrl` (bikes) | Nitrous boost | Nitrous |
-| `T` / `D-pad Down` | Cycle firing modes | Trigger Mode Control |
-| `T` while scanning | Overload Breach after unlocking it | Much Better Netrunning |
-| `O` | Immersive timeskip menu | Immersive Timeskip |
-| `F3` | Night vision (requires Kiroshi Optics) | Kiroshi Optics Night Vision |
-| `C` / `Triangle` | Repair Armor Integrity at a ripperdoc | Armor Up |
-| `K` / `Square` | Toggle Shared Fate after unlocking it | Merc Protocol |
-| `Shift` + Right-click / hold `R3` | Untrack the current objective | Much Better Quest Untracking |
-| `R` / `D-pad Up` | Dismiss your vehicle | Vehicle Dismiss |
-| Set in UMS | Breach an unconscious NPC | Much Better Netrunning |
-| Set in CET | Open the CET overlay | Cyber Engine Tweaks |
-
-### Immersive Profile Only
-
-| Key | Action | Mod |
-|---|---|---|
-| `F8` | Toggle the full HUD configuration | Limited HUD |
-| `F6` | Toggle the minimap only | Limited HUD |
-| `X` / `D-pad Right` | Sleep in a vehicle | Dark Future |
-
-`T` is currently shared by Trigger Mode Control and Much Better Netrunning's Overload Breach. Rebind either action in UMS if they interfere with each other.
+Press **`Numpad 0`** to open Unified Mod Settings. Its browser is grouped by the part of the game you want to change, and it also includes search, favorites, and per-mod profiles. The [Player Guide page](https://qcargile.github.io/Chrome-Blood/guide.html) shows where both systems live.
 
 ---
 

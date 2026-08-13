@@ -1,4 +1,6 @@
-# Chrome & Blood — Next Release Draft
+# v4.2 — August 13, 2026
+
+## SAVE COMPATIBLE WITH v4.1 — NEW GAME NOT NEEDED
 
 ***
 
@@ -15,7 +17,7 @@
 - **Unified Mod Settings Reorganized Around Player Intent**\
   UMS now groups the list by the part of the game you want to change: combat, weapons, netrunning, builds, economy, vehicles, the world, HUD and controls, inventory and quality of life, and visuals and performance. Press **Numpad 0** to open it; search and favorites remain available.
 - **Core Gameplay Mods Updated Together**\
-  Damage Scaling and Balance - Extended, Much Better AI, Much Better Netrunning, Time Dilation Overhaul, Much Better Eddies, Cyberware Improved, Custom Quickslots, and REDscope all received major updates in the same list pass.
+  Damage Scaling and Balance - Extended, Much Better AI, Much Better Netrunning, Time Dilation Overhaul, Much Better Eddies, Cyberware Improved, Custom Quickslots, and REDscope all moved forward in the same list pass.
 - **Visual and Performance Stack Refreshed**\
   Draw Distance ReImagined, Better Tree Textures, Reference Path Tracing, the LUT Switcher 3.1 core and current LUT packs, and new visual fixes replace several older draw-distance, lighting, rain, and Nulled overrides.
 - **Inventory and Quality-of-Life Pass**\
@@ -80,53 +82,51 @@
 
 ## 🔄 Updates (General)
 
-- Updated **ArchiveXL** from `v1.26.8` to `v1.27.1`
-- Updated **Audioware** from `v1.9.2` to `v1.9.9`
-- Updated **Custom Quickslots** from `v5.6` to `v5.7`
-- Updated **Cyberware Improved** from `v1.6` to `v1.7.1`
-- Updated **Damage Scaling and Balance - Extended** from `v3.2` to `v3.43`
-- Updated **Deceptious Bug Fixes** from `v1.3.3` to `v1.4`
-- Updated **Deceptious Quest Core** from `v3.1.5` to `v3.2.1`
-- Updated **Deceptious Quest Core Utilities and Settings** from `v1.2.2` to `v1.3.1`
-- Updated **Exclusive Items Unlocker** from `v1.2` to `v2.0`
-- Updated **Cyberpunk Story Quest Fixes** from `v1.10` to `v1.14`
-- Updated **Minor Activities Quest Fixes** from `v1.12` to `v1.14`
-- Updated **NCART Train Motion Fixes** from `v1.2.1` to `v1.4`
-- Updated **Judy Romanced Enhanced** from `v2.4.2` to `v2.4.3`
-- Updated **Ladders Improved** from `v1.0` to `v2.0`
-- Updated **Limited HUD** from `v2.22.3` to `v2.22.4`
-- Updated **Map Exit Nuclear Explosion Fix** from `v0.1` to `v0.25`
-- Updated **Modlist Settings - Immersive Profile** from `v4.0` to `v4.2`
-- Updated **Modlist Settings - Standard Profile** from `v4.0` to `v4.2`
-- Updated **Movement and Camera Tweaks** from `v1.41` to `v1.5`
-- Updated **Much Better AI** from `v1.10.1` to `v2.12`
-- Updated **Much Better Eddies** from `v1.3` to `v1.4.1`
-- Updated **Much Better Impacts** to the current melee-hitstop package `v1.0`
-- Updated **Much Better Netrunning** from `v2.19` to `v2.30`
-- Updated **Nova City 2** from `v2.2.3` to `v2.3.2`
-- Updated **Nova Optics** from `v1.3` to `v1.3.3`
-- Updated **Panam Romanced Enhanced** from `v2.6.1` to `v2.6.2`
-- Updated **Realistic NPC FOV** from `v1.0` to `v1.01`
-- Updated **REDscope** from `v0.8` to `v1.2`
-- Updated **ReImagined** from `v0.5.2` to `v0.5.5`
-- Updated **Reset Attributes Always Available - Redscript** from `v1.0.0.4` to `v1.0.0.5`
-- Updated **Respect Your Weapon 2.0** from `v2.1` to `v2.2`
-- Updated **Revised Backpack** from `v0.9.14` to `v0.9.15`
-- Updated **Rita Wheeler Romanced** from `v3.3` to `v3.4`
-- Updated **Romance Hangouts Enhanced** from `v2.5.1` to `v2.5.3`
-- Updated **Running Man - New Sprinting Perks** from `v1.1.3` to `v1.2`
-- Updated **SPLAT Physics Realistic Ragdoll Overhaul** from `v10.99` to `v11.2`
-- Updated **Time Dilation Overhaul** from `v2.0` to `v2.34`
-- Updated **TweakXL** from `v1.11.3` to `v1.11.4`
-- Updated **Ultra+** from `v9.0.4` to `v9.1.3`
+- Updated **ArchiveXL** to `v1.27.1`
+- Updated **Audioware** to `v1.9.9`
+- Updated **Custom Quickslots** to `v5.7`
+- Updated **Cyberware Improved** to `v1.7.1`
+- Updated **Damage Scaling and Balance - Extended** to `v3.43`
+- Updated **Deceptious Bug Fixes** to `v1.4`
+- Updated **Deceptious Quest Core** to `v3.2.1`
+- Updated **Deceptious Quest Core Utilities and Settings** to `v1.3.1`
+- Updated **Exclusive Items Unlocker** to `v2.0`
+- Updated **Cyberpunk Story Quest Fixes** to `v1.14`
+- Updated **Minor Activities Quest Fixes** to `v1.14`
+- Updated **NCART Train Motion Fixes** to `v1.4`
+- Updated **Judy Romanced Enhanced** to `v2.4.3`
+- Updated **Ladders Improved** to `v2.0`
+- Updated **Limited HUD** to `v2.22.4`
+- Updated **Map Exit Nuclear Explosion Fix** to `v0.25`
+- Updated **Modlist Settings - Immersive Profile** to `v4.2`
+- Updated **Modlist Settings - Standard Profile** to `v4.2`
+- Updated **Movement and Camera Tweaks** to `v1.5`
+- Updated **Much Better AI** to `v2.12`
+- Updated **Much Better Eddies** to `v1.4.1`
+- Updated **Much Better Impacts** to `v1.0`
+- Updated **Much Better Netrunning** to `v2.30`
+- Updated **Nova City 2** to `v2.3.2`
+- Updated **Nova Optics** to `v1.3.3`
+- Updated **Panam Romanced Enhanced** to `v2.6.2`
+- Updated **Realistic NPC FOV** to `v1.01`
+- Updated **REDscope** to `v1.2`
+- Updated **ReImagined** to `v0.5.5`
+- Updated **Reset Attributes Always Available - Redscript** to `v1.0.0.5`
+- Updated **Respect Your Weapon 2.0** to `v2.2`
+- Updated **Revised Backpack** to `v0.9.15`
+- Updated **Rita Wheeler Romanced** to `v3.4`
+- Updated **Romance Hangouts Enhanced** to `v2.5.3`
+- Updated **Running Man - New Sprinting Perks** to `v1.2`
+- Updated **SPLAT Physics Realistic Ragdoll Overhaul** to `v11.2`
+- Updated **Time Dilation Overhaul** to `v2.34`
+- Updated **TweakXL** to `v1.11.4`
 - Updated **Unified Mod Settings** to `v2.4.1`
-- Updated **Vehicle Resources** from `v1.0.6` to `v1.0.9`
-- Updated **VendorsXL** from `v2.1.1` to `v2.2`
-- Updated **Virtual Atelier** from `v1.6` to `v1.6.2`
-- Updated **Virtual Atelier Addon - Item Tag Registry** from `v1.3` to `v1.43`
-- Updated **Virtual Atelier Delivery** from `v1.1.1` to `v1.1.3`
-- Updated **Virtual Car Dealer** from `v2.2.10` to `v2.2.11`
-- Updated **Weather Switcher** from `v1.6.1` to `v1.7.6`
+- Updated **Vehicle Resources** to `v1.0.9`
+- Updated **VendorsXL** to `v2.2`
+- Updated **Virtual Atelier** to `v1.6.2`
+- Updated **Virtual Atelier Delivery** to `v1.1.3`
+- Updated **Virtual Car Dealer** to `v2.2.11`
+- Updated **Weather Switcher** to `v1.7.6`
 
 ***
 

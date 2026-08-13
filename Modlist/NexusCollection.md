@@ -7,32 +7,48 @@
 
 ***
 
-![What Is Chrome & Blood](https://i.ibb.co/Cp58dHVd/what-is-chrome-and-blood.png)Tuned extensively for **Very Hard** difficulty, C&B is a full overhaul of Cyberpunk 2077 for players who want Night City to fight back. Combat is lethal, builds are everything, and nothing is handed to you.
+![What Is Chrome & Blood](https://i.ibb.co/Cp58dHVd/what-is-chrome-and-blood.png)Tuned extensively for **Very Hard** difficulty, C\&B is a full overhaul of Cyberpunk 2077 for players who want Night City to fight back. Combat is lethal, builds are everything, and nothing is handed to you.
 
-500+ mods. Two profiles. Every system - to include combat, AI, hacking, stealth, economy, cyberware, and vehicles - has been reworked from the ground up.
+500+ mods. Two profiles. Combat, AI, hacking, stealth, economy, cyberware, vehicles, and the world around them have been rebuilt as one list.
 
 ![IMG](https://i.ibb.co/7xjhnnNL/n4e-CHr-Y.png)
 
 ***
 
-![Combat](https://i.ibb.co/gZmwGKtJ/combat.png)Fights in Chrome & Blood last seconds, not minutes. AI flanks, retreats, and calls reinforcements. Every faction fights differently.
+## The Player Guide Is In-Game
 
-- Smarter squads through [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) and new enemy cyberware from [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)
-- [Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) gives every faction its own strengths and exactly one immunity
-- Faction [reinforcements](https://www.nexusmods.com/cyberpunk2077/mods/21532) that escalate every fight
-- Reworked Sandevistans and time dilation through [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)
-- Modded weapons are level-gated and seeded onto enemies — nothing handed to you
-- [Damage Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/21865) makes every weapon archetype worth building around
+The detailed Chrome & Blood guide now lives inside Cyberpunk 2077 and follows the profile you launched.
 
-![IMG](https://i.ibb.co/C3pF9rNF/Ef-M85Iz.png)
+1. Pause the game and open **Database**.
+2. Select the first Database category.
+3. Open any section beginning with **C&B**.
+
+Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**. The guide covers UI and inventory, combat, netrunning, builds and cyberware, the economy, vehicles and travel, jobs and the world, both profiles, and troubleshooting.
+
+![Database highlighted in the pause menu](https://qcargile.github.io/Chrome-Blood/assets/img/guide-database.jpg)
+
+![Chrome and Blood sections in the Database](https://qcargile.github.io/Chrome-Blood/assets/img/guide-sections.jpg)
 
 ***
 
-![Builds](https://i.ibb.co/yFPs5Nfh/builds.png)Your chrome defines you. Cyberware has real costs, perks have real impact, and every build plays differently.
+![Combat](https://i.ibb.co/gZmwGKtJ/combat.png)Fights in Chrome & Blood last seconds, not minutes. The included profiles keep base enemy Health low across every rarity tier. Armor, abilities, equipment, AI, and encounter role create the difference between ordinary enemies and serious threats.
 
-- 18 new perks via [Merc Protocol](https://www.nexusmods.com/cyberpunk2077/mods/26751) — designed specifically for this list
+- Smarter squads through [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) and new enemy cyberware from [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)
+- [Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) gives every faction its own strengths and exactly one immunity
+- Faction [reinforcements](https://www.nexusmods.com/cyberpunk2077/mods/21532) that escalate fights you let drag on
+- Reworked Sandevistans and time dilation through [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)
+- Enemy armor with visible segments, armored hit zones, penetration, repair abilities, and counters explained in the in-game guide
+- [Damage Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/21865) keeps combat lethal in both directions
+
+![Damage and Lethality in the in-game guide](https://qcargile.github.io/Chrome-Blood/assets/img/guide-combat.jpg)
+
+***
+
+![Builds](https://i.ibb.co/yFPs5Nfh/builds.png)Your chrome defines you. Cyberware has real capacity and slot costs, perks have real impact, and every build plays differently.
+
+- 18 new perks via [Merc Protocol](https://www.nexusmods.com/cyberpunk2077/mods/26751), designed specifically for this list
 - Expanded cyberware through [Neuralware](https://www.nexusmods.com/cyberpunk2077/mods/19798) and the [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series
-- Realistic [slot limits](https://www.nexusmods.com/cyberpunk2077/mods/9429) and humanity costs
+- Realistic [slot limits](https://www.nexusmods.com/cyberpunk2077/mods/9429) and cyberware capacity costs
 
 ![IMG](https://i.ibb.co/FLDVk1DY/photomode-19062025-234643.png)
 
@@ -42,7 +58,7 @@
 
 - [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) makes enemies investigate noise, react to bodies and takedowns, and search your last known position
 - Enemy netrunners reposition and support their squad instead of standing still
-- [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) overhauls hacking from the ground up
+- [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) overhauls hacking from network access through trace management
 - Ghost a building or watch it all unravel — your call
 
 ![IMG](https://i.ibb.co/JRz1t7Yj/AWGh3NV.png)
@@ -53,18 +69,18 @@
 
 - [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808) and [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490) transform the visual foundation
 - [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190) handles exposure tuning and the first-person vehicle exposure fix
-- [HDR LUTs](https://www.nexusmods.com/cyberpunk2077/mods/16310), tuned weather, upgraded fog and LOD
+- [HDR LUTs](https://www.nexusmods.com/cyberpunk2077/mods/16310), tuned weather, upgraded fog, and improved LOD
 - [Upgraded civilian](https://www.nexusmods.com/cyberpunk2077/mods/22707) variety for a city that feels alive
 
 ![IMG](https://i.ibb.co/JR3wGvJw/Bq-DTi-YV.png)
 
 ***
 
-![Vehicles](https://i.ibb.co/jvXBsN1q/vehicles.png)Reworked handling that actually feels good. A full garage of lore-friendly rides. And nitrous, because why not.
+![Vehicles](https://i.ibb.co/jvXBsN1q/vehicles.png)Vehicles combine surface response, dynamic downforce, revised steering, and drift tuning. Cars and bikes differ more sharply, and speed does not erase weight or traction.
 
 - [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675) for that extra push
 - 40+ new vehicles through [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)
-- Handling reworked by [Surface Type Expansion](https://www.nexusmods.com/cyberpunk2077/mods/26332) and [All vehicles can steer](https://www.nexusmods.com/cyberpunk2077/mods/18210)
+- Handling reworked by [Surface Type Expansion](https://www.nexusmods.com/cyberpunk2077/mods/26332), [All vehicles can steer](https://www.nexusmods.com/cyberpunk2077/mods/18210), Dynamic Downforce, and Cyber Drift
 
 ![IMG](https://i.ibb.co/3YYXkfJy/8TY5Spt.png)
 
@@ -72,11 +88,31 @@
 
 ![The World](https://i.ibb.co/BV7w3H5D/The-World.png)Night City feels alive now. Fixers feel like real contacts. Ripperdocs feel like back-alley surgeons. The economy keeps you hungry.
 
-- [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) — gigs feel like actual jobs
-- [Ammo limits](https://www.nexusmods.com/cyberpunk2077/mods/21807) and [bounty hunting](https://www.nexusmods.com/cyberpunk2077/mods/21820) add weight to every session
-- [Economy rebalanced](https://www.nexusmods.com/cyberpunk2077/mods/30532) through Much Better Eddies — my own economy overhaul built for the list
+- [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) makes gigs feel like actual jobs
+- [Much Better Ammo](https://www.nexusmods.com/cyberpunk2077/mods/32447) rebuilds ammunition limits, drops, caches, and crafting by weapon class
+- [Bounty hunting](https://www.nexusmods.com/cyberpunk2077/mods/21820) adds weight to every session
+- [Much Better Eddies](https://www.nexusmods.com/cyberpunk2077/mods/30532) rebalances prices, payouts, district reputation, and services for the list
 
 ![IMG](https://i.ibb.co/B5zCwLgK/fez9pmb.png)
+
+***
+
+## Customize the List with Unified Mod Settings
+
+Press **Numpad 0** to open Unified Mod Settings. Chrome & Blood groups the settings browser by what you want to change, so you do not need to know which mod owns an option first.
+
+- **COMBAT, ENEMIES & DIFFICULTY**
+- **WEAPONS & GUNPLAY**
+- **NETRUNNING & STEALTH**
+- **BUILDS, PERKS & CYBERWARE**
+- **ECONOMY, LOOT & CRAFTING**
+- **VEHICLES, TRAVEL & CUSTOMIZATION**
+- **WORLD, QUESTS & IMMERSION**
+- **HUD, ACCESSIBILITY & CONTROLS**
+- **INVENTORY & QUALITY OF LIFE**
+- **VISUALS & PERFORMANCE**
+
+Search and favorites remain available when you already know what you want. Change one system at a time and test it before changing another; replacing or removing mods is still covered by Rule 11 in the [FAQ](https://qcargile.github.io/Chrome-Blood/faq.html).
 
 ***
 
@@ -84,20 +120,21 @@
 
 ### Immersive Profile
 
-The hardcore option. Survival-focused, built around earning everything.
+The survival-focused option, built around earning everything.
 
-- Survival, cyberpsychosis, and humanity system via [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)
+- Survival needs through [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)
 - HUD elements locked behind cyberware through [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)
-- HUD hidden unless the situation demands it — [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-- Deliveries take real time with [Virtual Atelier Delivery](https://www.nexusmods.com/cyberpunk2077/mods/21482)
+- HUD hidden unless the situation demands it through [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- Manual reloads, paid travel, and deliveries that take time through [Virtual Atelier Delivery](https://www.nexusmods.com/cyberpunk2077/mods/21482)
 
 ### Standard Profile
 
-Same reworked combat and systems without the survival layer.
+The same reworked combat, economy, netrunning, progression, and vehicles without the survival layer.
 
 - Full UI and inventory access from the start
-- No cyberpsychosis or humanity system
-- No needs or HUD restrictions
+- No survival needs to manage
+- Normal reloads and immediate Atelier purchases
+- Map fast travel works without a fare
 
 ***
 
@@ -118,32 +155,31 @@ Same reworked combat and systems without the survival layer.
 
 ## How to Install
 
-1. Click **"Add to Wabbajack"** on this page. If you don't have Wabbajack installed, it will prompt you to download it first.
-2. Wabbajack will open with Chrome & Blood ready to go. Set your **Installation Location** and **Downloads Location** — both should be on the **same drive** as your game, outside of Program Files.
+1. Click **"Add to Wabbajack"** on this page. If you do not have Wabbajack installed, it will prompt you to download it first.
+2. Wabbajack will open with Chrome & Blood ready to go. Set your **Installation Location** and **Downloads Location**. Both should be on the **same drive** as your game and outside Program Files.
 3. Hit **Install** and let it run.
 4. Once complete, open the install folder and launch `ModOrganizer.exe`.
 5. Set your profile to **Immersive** or **Standard**, then hit **Run**.
 
-> **Antivirus warning:** BitDefender, Norton, and Webroot will cause problems with MO2's Virtual File System. Windows Defender with folder exclusions is recommended. Also disable all overlays (Steam, Discord, Xbox Game Bar).
+> **Antivirus warning:** BitDefender, Norton, and Webroot will cause problems with MO2's Virtual File System. Windows Defender with folder exclusions is recommended. Also disable all overlays, including Steam, Discord, and Xbox Game Bar.
 
 ***
 
-![Keybinds](https://i.ibb.co/ymytHVDg/keybinds.png)Some keybinds can be changed in-game or through the Redscript/CET Mod Settings menu.
+## Guide and Settings Access
 
-- **1 – 0:** Quickhack hotkeys (Quickhack Hotkeys)
-- **O:** Immersive timeskip (Immersive Timeskip)
-- **Left Shift / Spacebar:** Nitrous for cars / bikes (Nitrous)
-- **F:** Toggle flashlight (Better Flashlight)
-- **C:** Repair armor integrity at a ripperdoc's cyberware screen (Armor Up)
-- **Shift + Right-click / R3:** Untrack the current objective (Much Better Quest Untracking)
-- **F3:** Night vision, requires Kiroshi (Kiroshi Optics Night Vision)
-- **T:** Cycle firing modes (Trigger Mode Control)
+- **Database > first category > C&B sections:** Open the in-game Player Guide
+- **Numpad 0:** Open Unified Mod Settings
+- **Set during first launch:** Open the Cyber Engine Tweaks overlay
+
+The current control list and profile-specific bindings are maintained in **C&B - Controls & Hotkeys** inside the Database.
 
 ***
 
 ### ![Links](https://i.ibb.co/LDWNSbq7/links.png)**Modlist:** [Chrome & Blood Load Order](https://qcargile.github.io/Chrome-Blood/loadorder.html)
 
-### **Changelog:** [v4.1](https://qcargile.github.io/Chrome-Blood/changelog.html#rel-v4.1)
+### **Changelog:** [Latest Release](https://qcargile.github.io/Chrome-Blood/changelog.html)
+
+### **Player Guide:** [How to Find the In-Game Guide](https://qcargile.github.io/Chrome-Blood/guide.html)
 
 ### **Discord:** [Chrome & Blood Community](https://discord.gg/U65Nhdcns8)
 
@@ -155,7 +191,7 @@ Same reworked combat and systems without the survival layer.
 
 Special thanks to:
 
-- [Camelopardus](https://www.nexusmods.com/profile/camelopardus42) for all of the screenshots showcasing the list
+- [Camelopardus](https://www.nexusmods.com/profile/camelopardus42) for the screenshots showcasing the list
 - **redscript** team for the tools everything is built on
 - **WolvenKit** team
 - The **Cyber Engine Tweaks** team
@@ -163,7 +199,7 @@ Special thanks to:
 - Every mod author in the list
 - The Chrome & Blood Discord community for testing, feedback, and bug reports
 
-If you enjoy this list, **endorse the individual mods** — the people who made them are the reason any of this works.
+If you enjoy this list, **endorse the individual mods**. The people who made them are the reason any of this works.
 
 ***
 

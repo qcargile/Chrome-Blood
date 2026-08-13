@@ -12,8 +12,12 @@ Keep the public website, the in-game Chrome & Blood Database guide, and Unified 
 | In-game Player Guide | Controls, mechanics, counters, profile-specific rules, and current gameplay guidance |
 | Unified Mod Settings | Current profile values, settings discovery, customization, Favorites, Modified, search, and browser groups |
 | Website FAQ | Installation, performance, troubleshooting, update safety, Rule 11, and support |
+| Nexus collection description | The collection's public pitch, profile summary, installation gateway, and links to the website and in-game guide |
+| Nexus revision changelog | Nexus-compatible release notes for one collection revision |
 
 The website does not repeat the in-game guide's hotkey tables or detailed system explanations. The in-game guide can link outward when advice changes outside the game, especially graphics, drivers, tools, installation, and support.
+
+The Nexus collection description is a gateway, not another full Player Guide. It can summarize each major pillar, but detailed controls and mechanic explanations remain in the in-game Database. The Nexus revision changelog mirrors the approved release facts and Key Notes without website-only HTML wrappers.
 
 ## Website Guide
 
@@ -74,6 +78,38 @@ The current long-form guide becomes a short gateway with these sections:
 
 The home page continues to describe the list at a high level. It should link to the revised Guide without duplicating the new sections.
 
+## Nexus Collection Description
+
+Use the attached current collection description as the voice and Nexus Markdown baseline. Save the maintained source as `D:\Chrome-Blood\Modlist\NexusCollectionPage.md`.
+
+Required corrections and additions:
+
+- Keep the identity, Phantom Liberty requirement, patch status, two-profile framing, installation gateway, links, acknowledgments, and sign-off.
+- Update Combat around fast lethality, segmented enemy armor, weapon penetration, smarter squads, enemy abilities, and rising late-game pressure.
+- Update Builds to remove Humanity as a Standard-profile system. Cyberware capacity, slots, perk choices, and the Immersive profile's survival systems remain separate concepts.
+- Update The World to remove the old Ammo Limiter claim and describe the current economy and progression loop from enabled providers.
+- Update Vehicles around the active handling stack and remove retired providers.
+- Add a short in-game Database section that explains where the Player Guide now lives.
+- Add a short Unified Mod Settings section that explains `Numpad 0`, the curated profiles, search, Favorites, Modified, and grouped browsing.
+- Reduce the Keybinds section to essential navigation only. Detailed controls live in the in-game guide.
+- Replace stale externally hosted claims and images only when the current source is no longer accurate. Do not hotlink the three new website screenshots; Nexus-hosted imagery remains a separate publishing surface.
+
+The repository's existing `D:\Chrome-Blood\Modlist\NexusPage.bbcode` is the standalone mod-page gateway. It is not the collection description and remains unchanged unless the final cross-surface audit finds a direct contradiction.
+
+## Nexus Revision Changelog
+
+The attached v4.1 revision changelog is the accepted Nexus Markdown baseline.
+
+- Use ordinary Nexus Markdown headings, lists, links, blockquotes, inline code, and `***` section separators.
+- Do not use website `<details>` or `<summary>` tags.
+- Do not use BBCode.
+- Preserve the attached hard-line-break style for Key Notes.
+- Do not paste Nexus editor escape output such as `\##`, `\*`, or `&#x20;` into the maintained source.
+- Keep the approved release headings, scoped Additions, Updates, and Removals, and final sign-off aligned with the website changelog.
+- Determine the release version, date, save compatibility, update warning, and final Key Notes through the modlist changelog workflow. Do not infer them from the previous release.
+
+Until the release version is supplied, the working source is `D:\Chrome-Blood\Modlist\NexusChangelog-next.md`. Rename it to `NexusChangelog-vX.XX.md` only after the version is confirmed.
+
 ## In-Game Player Guide Audit
 
 Audit both Standard and Immersive JSON files. Preserve profile-specific entries and section order unless current installed behavior contradicts them.
@@ -83,7 +119,7 @@ Required corrections already established from the active profiles:
 - Rewrite **Damage and Lethality**. All eight enemy tiers currently use the same 45 percent health multiplier. Threat differences come from armor, abilities, AI, equipment, and encounter role rather than tier-specific health values.
 - Rewrite **Enemy Armor**. Every segment currently uses the same reduction. Segment count changes how much armor must be broken, not the per-hit reduction. Preserve scanning, penetration, heat, repair, and target-priority guidance only where the installed implementation and enabled settings still support it.
 - Rewrite **Cyberware Limits**. Humanity and Humanity - Cyberpsycho Missions are no longer installed. Keep cyberware capacity and slot limits, but remove Humanity as an active budget.
-- Recheck **Job Payouts**. Remove the alive-capture payout claim unless an enabled current provider still implements it.
+- Update **Job Payouts** provider metadata. Much Better Eddies still implements the non-lethal cyberpsycho premium, so the player-facing claim remains and the retired Humanity - Cyberpsycho Missions reference is removed.
 - Rewrite **Reworked Handling** around the active vehicle stack. Cyber Grip and Limited Slip Differential were removed.
 - Update provider metadata for renamed or replaced packages such as Much Better Impacts and Virtual Atelier without treating a folder rename as a removed feature.
 
@@ -123,6 +159,8 @@ Expected implementation surfaces:
 - `D:\Chrome-Blood\docs\index.html` only if its Guide link or surrounding copy requires adjustment
 - `D:\Chrome-Blood\docs\assets\style.css` only for layouts the existing components cannot express
 - `D:\Chrome-Blood\docs\assets\img\<guide images>.jpg`
+- `D:\Chrome-Blood\Modlist\NexusCollectionPage.md`
+- `D:\Chrome-Blood\Modlist\NexusChangelog-next.md` until the release version is confirmed
 - `D:\Chrome & Blood - Compiled\mods\Modlist Settings - Standard Profile\r6\storages\PlayerGuideFramework\chrome-and-blood.json`
 - `D:\Chrome & Blood - Compiled\mods\Modlist Settings - Immersive Profile\r6\storages\PlayerGuideFramework\chrome-and-blood.json`
 
@@ -139,4 +177,7 @@ The existing untracked `D:\Chrome-Blood\Modlist\NexusChangelog-v4.1.md` is outsi
 - Preview the website locally at desktop and mobile widths.
 - Confirm navigation, links, image loading, overflow, console output, reduced-motion behavior, and asset cache stamps.
 - Review the final website and Player Guide changes together for contradictions.
+- Compare the Nexus collection description against the website's current pillars, profile rules, patch number, installation links, and removed-provider audit.
+- Validate the revision changelog as ordinary Markdown with no HTML detail wrappers, BBCode, or Nexus editor escape artifacts.
+- Compare the Nexus revision changelog's release facts and scoped mod lists with the approved website changelog block.
 - Do not push the public website until the complete cross-surface update passes review.

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-11",
-  "release": "v4.1",
+  "generated": "2026-08-13",
+  "release": "v4.2",
   "instance": "Chrome & Blood",
   "profiles": {
     "Immersive": {
-      "count": 514,
+      "count": 516,
       "mods": [
         {
           "n": "disable CrashReporter (MO CET fix)",
@@ -31,13 +31,13 @@
         },
         {
           "n": "ArchiveXL",
-          "v": "1.26.8",
+          "v": "1.27.1",
           "g": "Core Mods & Frameworks",
           "id": 4198
         },
         {
           "n": "TweakXL",
-          "v": "1.11.3",
+          "v": "1.11.4",
           "g": "Core Mods & Frameworks",
           "id": 4197
         },
@@ -85,7 +85,7 @@
         },
         {
           "n": "VendorsXL",
-          "v": "2.1.1",
+          "v": "2.2",
           "g": "Core Mods & Frameworks",
           "id": 19679
         },
@@ -97,7 +97,7 @@
         },
         {
           "n": "Audioware",
-          "v": "1.9.2",
+          "v": "1.9.9",
           "g": "Core Mods & Frameworks",
           "id": 12001
         },
@@ -115,7 +115,7 @@
         },
         {
           "n": "Vehicle Resources",
-          "v": "1.0.6",
+          "v": "1.0.9",
           "g": "Core Mods & Frameworks",
           "id": 20956
         },
@@ -133,19 +133,19 @@
         },
         {
           "n": "Deceptious Quest Core",
-          "v": "3.1.5",
+          "v": "3.2.1",
           "g": "Core Mods & Frameworks",
           "id": 7831
         },
         {
           "n": "Deceptious Quest Core Utilities and Settings",
-          "v": "1.2.2",
+          "v": "1.3.1",
           "g": "Core Mods & Frameworks",
           "id": 24404
         },
         {
           "n": "ReImagined",
-          "v": "0.5.2",
+          "v": "0.5.5",
           "g": "Core Mods & Frameworks",
           "id": 25845
         },
@@ -163,7 +163,7 @@
         },
         {
           "n": "REDscope",
-          "v": "0.8",
+          "v": "1.2",
           "g": "Core Mods & Frameworks",
           "id": 30739
         },
@@ -173,15 +173,28 @@
           "g": "Core Mods & Frameworks"
         },
         {
-          "n": "Show Player Health Bar When Scanning",
-          "v": "1.1",
-          "g": "UI & HUD",
-          "id": 19815
+          "n": "Player Guide Framework",
+          "v": "1.0",
+          "g": "Core Mods & Frameworks",
+          "id": 32561
         },
         {
           "n": "Unified Mod Settings",
-          "v": "",
-          "g": "UI & HUD"
+          "v": "2.4.1",
+          "g": "UI & HUD",
+          "id": 28308
+        },
+        {
+          "n": "Better Loot Markers",
+          "v": "1.4",
+          "g": "UI & HUD",
+          "id": 3486
+        },
+        {
+          "n": "Inventory Instant Preview",
+          "v": "2.1.7",
+          "g": "UI & HUD",
+          "id": 31316
         },
         {
           "n": "Compact Abilities",
@@ -214,7 +227,7 @@
         },
         {
           "n": "Limited HUD",
-          "v": "2.22.3",
+          "v": "2.22.4",
           "g": "UI & HUD",
           "id": 2592
         },
@@ -241,12 +254,6 @@
           "v": "1.3",
           "g": "UI & HUD",
           "id": 20311
-        },
-        {
-          "n": "More Weapon and Inventory Filters",
-          "v": "2.1",
-          "g": "UI & HUD",
-          "id": 16565
         },
         {
           "n": "HUD Painter",
@@ -298,15 +305,9 @@
         },
         {
           "n": "Revised Backpack",
-          "v": "0.9.14",
+          "v": "0.9.15",
           "g": "UI & HUD",
           "id": 17642
-        },
-        {
-          "n": "Loot Icons Extension",
-          "v": "1.53",
-          "g": "UI & HUD",
-          "id": 16386
         },
         {
           "n": "Quickhack Hotkeys",
@@ -337,12 +338,6 @@
           "v": "1.1",
           "g": "UI & HUD",
           "id": 16559
-        },
-        {
-          "n": "Alternative Quest Icons",
-          "v": "1.2",
-          "g": "UI & HUD",
-          "id": 20460
         },
         {
           "n": "Inventory Adjustments Hub",
@@ -381,6 +376,54 @@
           "id": 28338
         },
         {
+          "n": "Apartment Birds",
+          "v": "1.1",
+          "g": "Quality Of Life",
+          "id": 31699
+        },
+        {
+          "n": "Apartment Toys",
+          "v": "1.2",
+          "g": "Quality Of Life",
+          "id": 26674
+        },
+        {
+          "n": "Better Fast Travel Map - Redscript",
+          "v": "1.0.0.3",
+          "g": "Quality Of Life",
+          "id": 9214
+        },
+        {
+          "n": "Clouds Investigation Privacy - Pedantic Correction",
+          "v": "1.1",
+          "g": "Quality Of Life",
+          "id": 28626
+        },
+        {
+          "n": "Safeword Audio Fix - Pedantic Correction",
+          "v": "1.1",
+          "g": "Quality Of Life",
+          "id": 27780
+        },
+        {
+          "n": "Readable Shards",
+          "v": "4.0",
+          "g": "Quality Of Life",
+          "id": 31789
+        },
+        {
+          "n": "Not In My Hand - Pedantic Correction",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 28677
+        },
+        {
+          "n": "Downtown Street Light Base Swap - QoL",
+          "v": "1.1",
+          "g": "Quality Of Life",
+          "id": 31728
+        },
+        {
           "n": "Orbital Air Traffic Enhanced",
           "v": "1.0.1",
           "g": "Quality Of Life",
@@ -394,7 +437,13 @@
         },
         {
           "n": "Ladders Improved",
-          "v": "1.0",
+          "v": "2.0",
+          "g": "Quality Of Life",
+          "id": 31318
+        },
+        {
+          "n": "Ladders Improved - Stamina Fix",
+          "v": "1.0.0.0StaminaFix",
           "g": "Quality Of Life",
           "id": 31318
         },
@@ -415,12 +464,6 @@
           "v": "0.0.0.9",
           "g": "Quality Of Life",
           "id": 16086
-        },
-        {
-          "n": "SynthDose - More Drugs",
-          "v": "1.3.9",
-          "g": "Quality Of Life",
-          "id": 14094
         },
         {
           "n": "Stash and Vendors QoL - move stack - select group - move group",
@@ -445,12 +488,6 @@
           "v": "0.5",
           "g": "Quality Of Life",
           "id": 533
-        },
-        {
-          "n": "Air's Inertia Returns",
-          "v": "1.2",
-          "g": "Quality Of Life",
-          "id": 24410
         },
         {
           "n": "Looting QoL",
@@ -538,7 +575,7 @@
         },
         {
           "n": "Custom Quickslots (Consumables Grenades and Cyberware Abilities)",
-          "v": "5.6",
+          "v": "5.7",
           "g": "Quality Of Life",
           "id": 3096
         },
@@ -615,12 +652,6 @@
           "id": 13657
         },
         {
-          "n": "Gorilla Grapple",
-          "v": "1.4",
-          "g": "Quality Of Life",
-          "id": 14183
-        },
-        {
           "n": "Faster Iguana Hatch",
           "v": "2.0.2",
           "g": "Quality Of Life",
@@ -645,6 +676,12 @@
           "id": 11682
         },
         {
+          "n": "No High Noon Slowdown",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 32571
+        },
+        {
           "n": "Improved NCPD Map Filters",
           "v": "2.1.1",
           "g": "Quality Of Life",
@@ -655,6 +692,12 @@
           "v": "1.1.5",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 28624
+        },
+        {
+          "n": "Remove Crystal Dome Scanning Lines",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 13363
         },
         {
           "n": "NPC Actions Stutter Fix",
@@ -673,6 +716,17 @@
           "v": "0.1",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 28109
+        },
+        {
+          "n": "False Encumbrance Fix",
+          "v": "",
+          "g": "Bug Fixes, Performance & Tweaks"
+        },
+        {
+          "n": "Inventory Scroll Bug Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 32288
         },
         {
           "n": "Low Stamina Dash Fix",
@@ -706,7 +760,7 @@
         },
         {
           "n": "Immersion Patch - Minor Activities Quest Fixes",
-          "v": "1.12",
+          "v": "1.14",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 27162
         },
@@ -724,7 +778,7 @@
         },
         {
           "n": "Movement And Camera Tweaks",
-          "v": "1.41",
+          "v": "1.5",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 4039
         },
@@ -754,7 +808,7 @@
         },
         {
           "n": "Immersion Patch - Cyberpunk Story Quest Fixes",
-          "v": "1.10",
+          "v": "1.14",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 29152
         },
@@ -766,7 +820,7 @@
         },
         {
           "n": "Immersion Patch - NCART Train Motion Fixes",
-          "v": "1.2.1",
+          "v": "1.4",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 24914
         },
@@ -808,7 +862,7 @@
         },
         {
           "n": "Map Exit Nuclear Explosion Fix",
-          "v": "0.1",
+          "v": "0.25",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 23420
         },
@@ -861,12 +915,6 @@
           "id": 16921
         },
         {
-          "n": "Streaming Bug Workaround",
-          "v": "0.26",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 22857
-        },
-        {
           "n": "Vehicle Exit Fix for 2.3",
           "v": "1.0",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -903,14 +951,8 @@
           "id": 11757
         },
         {
-          "n": "Crystal Coat Fix v2.12",
-          "v": "5.3",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 13907
-        },
-        {
           "n": "Deceptious Bug Fixes",
-          "v": "1.3.3",
+          "v": "1.4",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 18318
         },
@@ -1029,12 +1071,6 @@
           "id": 9707
         },
         {
-          "n": "Less Samurai",
-          "v": "1.2",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 16129
-        },
-        {
           "n": "Quickhack Fixes",
           "v": "1.3.3",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -1072,19 +1108,31 @@
         },
         {
           "n": "Realistic NPC FOV",
-          "v": "1.0",
+          "v": "f1.01",
           "g": "Gameplay & Mechanics",
           "id": 31188
         },
         {
+          "n": "Much Better Impacts (melee hitstop)",
+          "v": "1.0",
+          "g": "Gameplay & Mechanics",
+          "id": 30561
+        },
+        {
+          "n": "ME Armor System",
+          "v": "1.0.4",
+          "g": "Gameplay & Mechanics",
+          "id": 30548
+        },
+        {
           "n": "Respect Your Weapon 2.0",
-          "v": "2.1",
+          "v": "2.2",
           "g": "Gameplay & Mechanics",
           "id": 27287
         },
         {
           "n": "Much Better AI",
-          "v": "1.10.1",
+          "v": "2.12",
           "g": "Gameplay & Mechanics",
           "id": 31402
         },
@@ -1108,13 +1156,13 @@
         },
         {
           "n": "Much Better Netrunning",
-          "v": "2.19",
+          "v": "2.30",
           "g": "Gameplay & Mechanics",
           "id": 27237
         },
         {
           "n": "Time Dilation Overhaul",
-          "v": "2.0",
+          "v": "2.34",
           "g": "Gameplay & Mechanics",
           "id": 4931
         },
@@ -1132,14 +1180,9 @@
         },
         {
           "n": "Much Better Eddies",
-          "v": "1.3",
+          "v": "1.4.1",
           "g": "Gameplay & Mechanics",
           "id": 30532
-        },
-        {
-          "n": "Much Better Impacts",
-          "v": "",
-          "g": "Gameplay & Mechanics"
         },
         {
           "n": "Challenging Breach Minigame",
@@ -1173,7 +1216,7 @@
         },
         {
           "n": "Damage Scaling and Balance - Extended",
-          "v": "3.2",
+          "v": "3.43",
           "g": "Gameplay & Mechanics",
           "id": 21865
         },
@@ -1202,10 +1245,10 @@
           "id": 12584
         },
         {
-          "n": "Ammo Limiter - Realistic Ammunition Management",
-          "v": "2.7.1",
+          "n": "Much Better Ammo",
+          "v": "1.2",
           "g": "Gameplay & Mechanics",
-          "id": 21807
+          "id": 32447
         },
         {
           "n": "Bounties Restored",
@@ -1260,12 +1303,6 @@
           "v": "4.1.2",
           "g": "Gameplay & Mechanics",
           "id": 7197
-        },
-        {
-          "n": "Humanity - Cyberpsycho Missions",
-          "v": "1.0",
-          "g": "Gameplay & Mechanics",
-          "id": 19190
         },
         {
           "n": "Optical Camo Realism and Utility - Partial CD",
@@ -1323,7 +1360,7 @@
         },
         {
           "n": "Cyberware Improved",
-          "v": "1.6",
+          "v": "1.7.1",
           "g": "Cyberware & Augmentations",
           "id": 23554
         },
@@ -1395,7 +1432,7 @@
         },
         {
           "n": "Running Man - New Sprinting Perks",
-          "v": "1.1.3",
+          "v": "1.2",
           "g": "Skills & Progression",
           "id": 26611
         },
@@ -1598,6 +1635,12 @@
           "id": 23674
         },
         {
+          "n": "Pump Action Shotgun Pack",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 31621
+        },
+        {
           "n": "Extra Iconics",
           "v": "2.1",
           "g": "Weapons & Attachments",
@@ -1719,6 +1762,12 @@
         },
         {
           "n": "RSh-12",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 19823
+        },
+        {
+          "n": "RSh-12 Missing Slots Fix",
           "v": "1.0",
           "g": "Weapons & Attachments",
           "id": 19823
@@ -1940,14 +1989,8 @@
           "id": 8157
         },
         {
-          "n": "Hangout Romances",
-          "v": "f1.08",
-          "g": "NPCs & World Population",
-          "id": 18972
-        },
-        {
           "n": "Romance Hangouts Enhanced",
-          "v": "2.5.1",
+          "v": "2.5.3",
           "g": "NPCs & World Population",
           "id": 11590
         },
@@ -2000,16 +2043,16 @@
           "id": 30708
         },
         {
-          "n": "SPLAT Physics Realistic Ragdoll Overhaul",
-          "v": "10.99",
+          "n": "Virtual Atelier 1.6.2",
+          "v": "1.6.2",
           "g": "Immersion & Roleplay",
-          "id": 23539
+          "id": 2987
         },
         {
-          "n": "Here's Brendan",
-          "v": "1.1.1",
+          "n": "SPLAT Physics Realistic Ragdoll Overhaul",
+          "v": "11.2",
           "g": "Immersion & Roleplay",
-          "id": 25629
+          "id": 23539
         },
         {
           "n": "Ghosts of Night City - Small Immersive Encounters",
@@ -2144,14 +2187,8 @@
           "id": 2820
         },
         {
-          "n": "Virtual Atelier",
-          "v": "1.6",
-          "g": "Immersion & Roleplay",
-          "id": 2987
-        },
-        {
           "n": "Virtual Atelier Delivery",
-          "v": "1.1.1",
+          "v": "1.1.3",
           "g": "Immersion & Roleplay",
           "id": 21482
         },
@@ -2192,12 +2229,6 @@
           "id": 23157
         },
         {
-          "n": "Limited Slip Differential",
-          "v": "2.21.2",
-          "g": "Vehicles & Driving",
-          "id": 19095
-        },
-        {
           "n": "Dynamic Gravity Modifier",
           "v": "2.31.3",
           "g": "Vehicles & Driving",
@@ -2214,12 +2245,6 @@
           "v": "f1.01",
           "g": "Vehicles & Driving",
           "id": 26332
-        },
-        {
-          "n": "Cyber Grip - NFS",
-          "v": "2.21",
-          "g": "Vehicles & Driving",
-          "id": 19699
         },
         {
           "n": "Cyber Drift",
@@ -2283,7 +2308,7 @@
         },
         {
           "n": "Virtual Car Dealer",
-          "v": "2.2.10",
+          "v": "2.2.11",
           "g": "Vehicles & Driving",
           "id": 4454
         },
@@ -2618,72 +2643,6 @@
           "id": 13014
         },
         {
-          "n": "LUT Switcher 2",
-          "v": "2.5.2",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - Fixes",
-          "v": "1.4.0.0fixes",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - Cyberpunk Reloaded Pack",
-          "v": "1.0.0.0cr",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - Edge LUT Pack",
-          "v": "1.1.1.0e",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - Nova LUT Pack",
-          "v": "1.4.0.0n",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - GITS LUT Pack",
-          "v": "1.0.0.0g",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - Misc LUT Pack",
-          "v": "1.1.0.0m",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - NCLM Pack",
-          "v": "1.0.0.0nclm",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - Preem LUT Pack",
-          "v": "1.1.1.0p",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "LUT Switcher - Vanilla LUT Pack",
-          "v": "1.1.1.0x",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16310
-        },
-        {
-          "n": "The Lamp Lighter - Streetlamp Time Control",
-          "v": "1.8",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 18255
-        },
-        {
           "n": "General Shadows Fixes",
           "v": "0.94",
           "g": "Visuals, Graphics, & Lighting",
@@ -2691,7 +2650,7 @@
         },
         {
           "n": "Nova Optics (Gameplay ENV Tuning with Vehicle Exposure Fix)",
-          "v": "1.3",
+          "v": "1.3.3",
           "g": "Visuals, Graphics, & Lighting",
           "id": 29190
         },
@@ -2714,34 +2673,16 @@
           "id": 29720
         },
         {
+          "n": "Reference Path Tracing",
+          "v": "0.31",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 28401
+        },
+        {
           "n": "Map LUT Begone (HDR Fix)",
           "v": "1.0",
           "g": "Visuals, Graphics, & Lighting",
           "id": 29837
-        },
-        {
-          "n": "NPC LoD Tweak (for PT)",
-          "v": "1.0",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 19926
-        },
-        {
-          "n": "Night City Fog Nulled",
-          "v": "3.2",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 20192
-        },
-        {
-          "n": "Night City Things Nulled",
-          "v": "2.3.250720",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 20192
-        },
-        {
-          "n": "Night City Visuals Nulled",
-          "v": "3.2.3",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 13524
         },
         {
           "n": "Inplace Streamingsectors Nulled",
@@ -2762,12 +2703,6 @@
           "id": 3627
         },
         {
-          "n": "Improved Vehicle Lights Draw Distance",
-          "v": "2.7",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 5082
-        },
-        {
           "n": "Improved Vehicle Glass Destruction Effects",
           "v": "0.1",
           "g": "Visuals, Graphics, & Lighting",
@@ -2778,6 +2713,102 @@
           "v": "0.2",
           "g": "Visuals, Graphics, & Lighting",
           "id": 14672
+        },
+        {
+          "n": "Immersive Explosions",
+          "v": "1.0",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 31624
+        },
+        {
+          "n": "The Nullifier",
+          "v": "1.3.2",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 23091
+        },
+        {
+          "n": "Better Tree Textures (and Vegetation)",
+          "v": "2.0",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 14408
+        },
+        {
+          "n": "Draw Distance ReImagined",
+          "v": "0.7.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 27210
+        },
+        {
+          "n": "LUT Switcher - Core",
+          "v": "3.1",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "Wind Begone (foliage shadow bug workaround)",
+          "v": "1.3.1.0a",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 12252
+        },
+        {
+          "n": "LUT Pack - Cyberpsycho's LUT",
+          "v": "1.0.0.0c",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - Cyberpunk Reloaded",
+          "v": "1.0.1.0cr",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - Edge LUT",
+          "v": "1.3.0.0e",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - GITS",
+          "v": "1.1.0.0g",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - NC Ghosts and Flowers",
+          "v": "1.0.1.0ngf",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - NCLM",
+          "v": "1.2.0.0nclm",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - Nova LUT",
+          "v": "1.4.1.0n",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - Nova LUT 3 HDR",
+          "v": "1.0.0.0nhdr",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - Preem LUT",
+          "v": "1.3.0.0p",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
+        },
+        {
+          "n": "LUT Pack - Vanilla",
+          "v": "1.1.2.0v",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 16310
         },
         {
           "n": "Faster Rainmap and Distant Shadows",
@@ -2846,40 +2877,16 @@
           "id": 9209
         },
         {
-          "n": "Blur Begone (Clear Materials with Refraction)",
-          "v": "1.25.3",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 8105
-        },
-        {
           "n": "Nova City 2 (Custom Weather - Exposure Overhaul)",
-          "v": "2.2.3",
+          "v": "2.3.2",
           "g": "Visuals, Graphics, & Lighting",
           "id": 12490
         },
         {
-          "n": "Nova Rain (and Improved Ripples)",
-          "v": "1.0.1.0a",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 13483
-        },
-        {
-          "n": "Nova Rain - Ripples",
-          "v": "1.0.0.0-ripples",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 13483
-        },
-        {
           "n": "Weather Switcher (Change Weather - Control Time - Customize Clouds)",
-          "v": "1.6.1",
+          "v": "1.7.6",
           "g": "Visuals, Graphics, & Lighting",
           "id": 18027
-        },
-        {
-          "n": "Disable Fake Lights with Path Tracing",
-          "v": "0.5",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16060
         },
         {
           "n": "Effects Rendering Fix",
@@ -2913,13 +2920,13 @@
         },
         {
           "n": "Judy Romanced Enhanced",
-          "v": "2.4.2",
+          "v": "2.4.3",
           "g": "New Quests & Content",
           "id": 4508
         },
         {
           "n": "Panam Romanced Enhanced",
-          "v": "2.6.1",
+          "v": "2.6.2",
           "g": "New Quests & Content",
           "id": 4626
         },
@@ -2931,7 +2938,7 @@
         },
         {
           "n": "Rita Wheeler Romanced",
-          "v": "3.3",
+          "v": "3.4",
           "g": "New Quests & Content",
           "id": 9191
         },
@@ -2946,6 +2953,12 @@
           "v": "2.5.1",
           "g": "New Quests & Content",
           "id": 4870
+        },
+        {
+          "n": "Lost Content (Quest Content Fixes)",
+          "v": "6.0",
+          "g": "New Quests & Content",
+          "id": 31523
         },
         {
           "n": "New Quest - Hot Fuzz",
@@ -2985,7 +2998,7 @@
         },
         {
           "n": "Reset Attributes always available - Redscript",
-          "v": "1.0.0.4",
+          "v": "1.0.0.5",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 9240
         },
@@ -3063,7 +3076,7 @@
         },
         {
           "n": "Exclusive Items Unlocker",
-          "v": "1.2",
+          "v": "2.0",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 24025
         },
@@ -3081,7 +3094,7 @@
         },
         {
           "n": "Modlist Settings - Immersive Profile",
-          "v": "4.0",
+          "v": "4.2",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 20942
         }
@@ -3115,13 +3128,13 @@
         },
         {
           "n": "ArchiveXL",
-          "v": "1.26.8",
+          "v": "1.27.1",
           "g": "Core Mods & Frameworks",
           "id": 4198
         },
         {
           "n": "TweakXL",
-          "v": "1.11.3",
+          "v": "1.11.4",
           "g": "Core Mods & Frameworks",
           "id": 4197
         },
@@ -3169,7 +3182,7 @@
         },
         {
           "n": "VendorsXL",
-          "v": "2.1.1",
+          "v": "2.2",
           "g": "Core Mods & Frameworks",
           "id": 19679
         },
@@ -3193,13 +3206,13 @@
         },
         {
           "n": "Audioware",
-          "v": "1.9.2",
+          "v": "1.9.9",
           "g": "Core Mods & Frameworks",
           "id": 12001
         },
         {
           "n": "Vehicle Resources",
-          "v": "1.0.6",
+          "v": "1.0.9",
           "g": "Core Mods & Frameworks",
           "id": 20956
         },
@@ -3211,13 +3224,13 @@
         },
         {
           "n": "Deceptious Quest Core",
-          "v": "3.1.5",
+          "v": "3.2.1",
           "g": "Core Mods & Frameworks",
           "id": 7831
         },
         {
           "n": "Deceptious Quest Core Utilities and Settings",
-          "v": "1.2.2",
+          "v": "1.3.1",
           "g": "Core Mods & Frameworks",
           "id": 24404
         },
@@ -3235,7 +3248,7 @@
         },
         {
           "n": "ReImagined",
-          "v": "0.5.2",
+          "v": "0.5.5",
           "g": "Core Mods & Frameworks",
           "id": 25845
         },
@@ -3252,14 +3265,51 @@
         },
         {
           "n": "REDscope",
-          "v": "0.8",
+          "v": "1.2",
           "g": "Core Mods & Frameworks",
           "id": 30739
         },
         {
+          "n": "Player Guide Framework",
+          "v": "1.0",
+          "g": "Core Mods & Frameworks",
+          "id": 32561
+        },
+        {
           "n": "Unified Mod Settings",
-          "v": "",
-          "g": "UI & HUD"
+          "v": "2.4.1",
+          "g": "UI & HUD",
+          "id": 28308
+        },
+        {
+          "n": "Inventory Instant Preview",
+          "v": "2.1.7",
+          "g": "UI & HUD",
+          "id": 31316
+        },
+        {
+          "n": "Better Loot Markers",
+          "v": "1.4",
+          "g": "UI & HUD",
+          "id": 3486
+        },
+        {
+          "n": "Readable Shards",
+          "v": "4.0",
+          "g": "UI & HUD",
+          "id": 31789
+        },
+        {
+          "n": "Apartment Toys",
+          "v": "1.2",
+          "g": "UI & HUD",
+          "id": 26674
+        },
+        {
+          "n": "Apartment Birds",
+          "v": "1.1",
+          "g": "UI & HUD",
+          "id": 31699
         },
         {
           "n": "Compact Abilities",
@@ -3307,18 +3357,6 @@
           "v": "2.0",
           "g": "UI & HUD",
           "id": 22734
-        },
-        {
-          "n": "Show Player Health Bar When Scanning",
-          "v": "1.1",
-          "g": "UI & HUD",
-          "id": 19815
-        },
-        {
-          "n": "More Weapon and Inventory Filters",
-          "v": "2.1",
-          "g": "UI & HUD",
-          "id": 16565
         },
         {
           "n": "Stand Still Please",
@@ -3388,15 +3426,9 @@
         },
         {
           "n": "Revised Backpack",
-          "v": "0.9.14",
+          "v": "0.9.15",
           "g": "UI & HUD",
           "id": 17642
-        },
-        {
-          "n": "Loot Icons Extension",
-          "v": "1.53",
-          "g": "UI & HUD",
-          "id": 16386
         },
         {
           "n": "Quickhack Hotkeys",
@@ -3421,12 +3453,6 @@
           "v": "1.1",
           "g": "UI & HUD",
           "id": 16559
-        },
-        {
-          "n": "Alternative Quest Icons",
-          "v": "1.2",
-          "g": "UI & HUD",
-          "id": 20460
         },
         {
           "n": "Inventory Adjustments Hub",
@@ -3459,10 +3485,28 @@
           "id": 28338
         },
         {
+          "n": "Better Fast Travel Map - Redscript",
+          "v": "1.0.0.3",
+          "g": "Quality Of Life",
+          "id": 9214
+        },
+        {
+          "n": "Immersive Explosions",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 31624
+        },
+        {
           "n": "Orbital Air Traffic Enhanced",
           "v": "1.0.1",
           "g": "Quality Of Life",
           "id": 31355
+        },
+        {
+          "n": "No High Noon Slowdown",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 32571
         },
         {
           "n": "Flatlined Exit",
@@ -3489,12 +3533,6 @@
           "id": 25315
         },
         {
-          "n": "Air's Inertia Returns",
-          "v": "1.2",
-          "g": "Quality Of Life",
-          "id": 24410
-        },
-        {
           "n": "Disassemble Weapons for Recipes (DAWR)",
           "v": "1.1.1",
           "g": "Quality Of Life",
@@ -3514,7 +3552,13 @@
         },
         {
           "n": "Ladders Improved",
-          "v": "1.0",
+          "v": "2.0",
+          "g": "Quality Of Life",
+          "id": 31318
+        },
+        {
+          "n": "Ladders Improved - Stamina Fix",
+          "v": "1.0.0.0StaminaFix",
           "g": "Quality Of Life",
           "id": 31318
         },
@@ -3604,7 +3648,7 @@
         },
         {
           "n": "Custom Quickslots (Consumables Grenades and Cyberware Abilities)",
-          "v": "5.6",
+          "v": "5.7",
           "g": "Quality Of Life",
           "id": 3096
         },
@@ -3681,12 +3725,6 @@
           "id": 13657
         },
         {
-          "n": "Gorilla Grapple",
-          "v": "1.4",
-          "g": "Quality Of Life",
-          "id": 14183
-        },
-        {
           "n": "Faster Iguana Hatch",
           "v": "2.0.2",
           "g": "Quality Of Life",
@@ -3723,10 +3761,40 @@
           "id": 28875
         },
         {
+          "n": "Not In My Hand - Pedantic Correction",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 28677
+        },
+        {
+          "n": "Safeword Audio Fix - Pedantic Correction",
+          "v": "1.1",
+          "g": "Quality Of Life",
+          "id": 27780
+        },
+        {
+          "n": "Clouds Investigation Privacy - Pedantic Correction",
+          "v": "1.1",
+          "g": "Quality Of Life",
+          "id": 28626
+        },
+        {
           "n": "NPC Actions Stutter Fix",
           "v": "0.1",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 16720
+        },
+        {
+          "n": "Downtown Street Light Base Swap - QoL",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 31728
+        },
+        {
+          "n": "Inventory Scroll Bug Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 32288
         },
         {
           "n": "Barbed Wire Knockout Effect Disabled",
@@ -3739,6 +3807,11 @@
           "v": "1.1.4",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 19036
+        },
+        {
+          "n": "False Encumbrance Fix",
+          "v": "",
+          "g": "Bug Fixes, Performance & Tweaks"
         },
         {
           "n": "Easier Controller Sprint",
@@ -3766,13 +3839,13 @@
         },
         {
           "n": "Immersion Patch - Minor Activities Quest Fixes",
-          "v": "1.12",
+          "v": "1.14",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 27162
         },
         {
           "n": "Movement And Camera Tweaks",
-          "v": "1.41",
+          "v": "1.5",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 4039
         },
@@ -3796,7 +3869,7 @@
         },
         {
           "n": "Map Exit Nuclear Explosion Fix",
-          "v": "0.1",
+          "v": "0.25",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 23420
         },
@@ -3826,7 +3899,7 @@
         },
         {
           "n": "Immersion Patch - NCART Train Motion Fixes",
-          "v": "1.2.1",
+          "v": "1.4",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 24914
         },
@@ -3897,12 +3970,6 @@
           "id": 16921
         },
         {
-          "n": "Streaming Bug Workaround",
-          "v": "0.26",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 22857
-        },
-        {
           "n": "Vehicle Exit Fix for 2.3",
           "v": "1.0",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -3921,12 +3988,6 @@
           "id": 15497
         },
         {
-          "n": "Disappearing Enemy Health Bar Fix",
-          "v": "1.0",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 19815
-        },
-        {
           "n": "Low Stamina Dash Fix",
           "v": "f1.02",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -3934,7 +3995,7 @@
         },
         {
           "n": "Immersion Patch - Cyberpunk Story Quest Fixes",
-          "v": "1.10",
+          "v": "1.14",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 29152
         },
@@ -3969,14 +4030,8 @@
           "id": 11757
         },
         {
-          "n": "Crystal Coat Fix v2.12",
-          "v": "5.3",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 13907
-        },
-        {
           "n": "Deceptious Bug Fixes",
-          "v": "1.3.3",
+          "v": "1.4",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 18318
         },
@@ -4095,12 +4150,6 @@
           "id": 9707
         },
         {
-          "n": "Less Samurai",
-          "v": "1.2",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 16129
-        },
-        {
           "n": "Quickhack Fixes",
           "v": "1.3.3",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -4150,31 +4199,43 @@
         },
         {
           "n": "Realistic NPC FOV",
-          "v": "1.0",
+          "v": "f1.01",
           "g": "Gameplay & Mechanics",
           "id": 31188
         },
         {
           "n": "Much Better AI",
-          "v": "1.10.1",
+          "v": "2.12",
           "g": "Gameplay & Mechanics",
           "id": 31402
         },
         {
           "n": "Much Better Netrunning",
-          "v": "2.19",
+          "v": "2.30",
           "g": "Gameplay & Mechanics",
           "id": 27237
         },
         {
           "n": "Much Better Eddies",
-          "v": "1.3",
+          "v": "1.4.1",
           "g": "Gameplay & Mechanics",
           "id": 30532
         },
         {
+          "n": "ME Armor System",
+          "v": "1.0.4",
+          "g": "Gameplay & Mechanics",
+          "id": 30548
+        },
+        {
+          "n": "Much Better Ammo",
+          "v": "1.2",
+          "g": "Gameplay & Mechanics",
+          "id": 32447
+        },
+        {
           "n": "Respect Your Weapon 2.0",
-          "v": "2.1",
+          "v": "2.2",
           "g": "Gameplay & Mechanics",
           "id": 27287
         },
@@ -4203,15 +4264,16 @@
           "id": 24801
         },
         {
-          "n": "Time Dilation Overhaul",
-          "v": "2.0",
+          "n": "Much Better Impacts (melee hitstop)",
+          "v": "1.0",
           "g": "Gameplay & Mechanics",
-          "id": 4931
+          "id": 30561
         },
         {
-          "n": "Much Better Impacts",
-          "v": "",
-          "g": "Gameplay & Mechanics"
+          "n": "Time Dilation Overhaul",
+          "v": "2.34",
+          "g": "Gameplay & Mechanics",
+          "id": 4931
         },
         {
           "n": "Better Flashlight",
@@ -4245,27 +4307,15 @@
         },
         {
           "n": "Damage Scaling and Balance - Extended",
-          "v": "3.2",
+          "v": "3.43",
           "g": "Gameplay & Mechanics",
           "id": 21865
-        },
-        {
-          "n": "SynthDose - More Drugs",
-          "v": "1.3.9",
-          "g": "Gameplay & Mechanics",
-          "id": 14094
         },
         {
           "n": "Tougher Security Turrets",
           "v": "0.1",
           "g": "Gameplay & Mechanics",
           "id": 12584
-        },
-        {
-          "n": "Ammo Limiter - Realistic Ammunition Management",
-          "v": "2.7.1",
-          "g": "Gameplay & Mechanics",
-          "id": 21807
         },
         {
           "n": "Bounties Restored",
@@ -4322,12 +4372,6 @@
           "id": 7197
         },
         {
-          "n": "Humanity - Cyberpsycho Missions",
-          "v": "1.0",
-          "g": "Gameplay & Mechanics",
-          "id": 19190
-        },
-        {
           "n": "Optical Camo Realism and Utility - Partial CD",
           "v": "cd-2.0.2",
           "g": "Gameplay & Mechanics",
@@ -4377,7 +4421,7 @@
         },
         {
           "n": "Cyberware Improved",
-          "v": "1.6",
+          "v": "1.7.1",
           "g": "Cyberware & Augmentations",
           "id": 23554
         },
@@ -4443,7 +4487,7 @@
         },
         {
           "n": "Running Man - New Sprinting Perks",
-          "v": "1.1.3",
+          "v": "1.2",
           "g": "Skills & Progression",
           "id": 26611
         },
@@ -4718,6 +4762,12 @@
           "id": 19823
         },
         {
+          "n": "RSh-12 Missing Slots Fix",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 19823
+        },
+        {
           "n": "Lawgiver MK.III",
           "v": "1.0",
           "g": "Weapons & Attachments",
@@ -4746,6 +4796,12 @@
           "v": "1.1",
           "g": "Weapons & Attachments",
           "id": 19275
+        },
+        {
+          "n": "Pump Action Shotgun Pack",
+          "v": "1.0",
+          "g": "Weapons & Attachments",
+          "id": 31621
         },
         {
           "n": "HK416-M4-XM7 with custom attachments",
@@ -4976,12 +5032,6 @@
           "id": 19115
         },
         {
-          "n": "Darker and Vibrant Eye Makeup Colors - Matte and Glossy Rework",
-          "v": "1.0",
-          "g": "Player Character Appearance & Presets",
-          "id": 8917
-        },
-        {
           "n": "Ultra Skin",
           "v": "7.9",
           "g": "Player Character Appearance & Presets",
@@ -5000,14 +5050,8 @@
           "id": 8157
         },
         {
-          "n": "Hangout Romances",
-          "v": "f1.08",
-          "g": "NPCs & World Population",
-          "id": 18972
-        },
-        {
           "n": "Romance Hangouts Enhanced",
-          "v": "2.5.1",
+          "v": "2.5.3",
           "g": "NPCs & World Population",
           "id": 11590
         },
@@ -5055,7 +5099,7 @@
         },
         {
           "n": "SPLAT Physics Realistic Ragdoll Overhaul",
-          "v": "10.99",
+          "v": "11.2",
           "g": "Immersion & Roleplay",
           "id": 23539
         },
@@ -5094,12 +5138,6 @@
           "v": "2.21",
           "g": "Immersion & Roleplay",
           "id": 22424
-        },
-        {
-          "n": "Here's Brendan",
-          "v": "1.1.1",
-          "g": "Immersion & Roleplay",
-          "id": 25629
         },
         {
           "n": "Say Something Damn It",
@@ -5186,8 +5224,8 @@
           "id": 2820
         },
         {
-          "n": "Virtual Atelier",
-          "v": "1.6",
+          "n": "Virtual Atelier 1.6.2",
+          "v": "1.6.2",
           "g": "Immersion & Roleplay",
           "id": 2987
         },
@@ -5246,12 +5284,6 @@
           "id": 14454
         },
         {
-          "n": "Limited Slip Differential",
-          "v": "2.21.2",
-          "g": "Vehicles & Driving",
-          "id": 19095
-        },
-        {
           "n": "Dynamic Gravity Modifier",
           "v": "2.31.3",
           "g": "Vehicles & Driving",
@@ -5262,12 +5294,6 @@
           "v": "2.31",
           "g": "Vehicles & Driving",
           "id": 12841
-        },
-        {
-          "n": "Cyber Grip - NFS",
-          "v": "2.21",
-          "g": "Vehicles & Driving",
-          "id": 19699
         },
         {
           "n": "Cyber Drift",
@@ -5319,7 +5345,7 @@
         },
         {
           "n": "Virtual Car Dealer",
-          "v": "2.2.10",
+          "v": "2.2.11",
           "g": "Vehicles & Driving",
           "id": 4454
         },
@@ -5618,10 +5644,10 @@
           "id": 22805
         },
         {
-          "n": "Better Lanterns",
-          "v": "1.0.1",
+          "n": "Draw Distance ReImagined",
+          "v": "0.7.3",
           "g": "Visuals, Graphics, & Lighting",
-          "id": 23639
+          "id": 27210
         },
         {
           "n": "Enable Advert Animations (Ads)",
@@ -5654,76 +5680,70 @@
           "id": 29837
         },
         {
-          "n": "Ray Traced Lighting Fixes",
-          "v": "0.3",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 29720
-        },
-        {
-          "n": "LUT Switcher 2",
-          "v": "2.5.2",
+          "n": "LUT Switcher - Core",
+          "v": "3.1",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Fixes",
-          "v": "1.4.0.0fixes",
+          "n": "LUT Pack - NCLM",
+          "v": "1.2.0.0nclm",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Cyberpunk Reloaded Pack",
-          "v": "1.0.0.0cr",
+          "n": "LUT Pack - Nova LUT 3 HDR",
+          "v": "1.0.0.0nhdr",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Nova LUT Pack",
-          "v": "1.4.0.0n",
+          "n": "LUT Pack - Cyberpsycho's LUT",
+          "v": "1.0.0.0c",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Edge LUT Pack",
-          "v": "1.1.1.0e",
+          "n": "LUT Pack - Vanilla",
+          "v": "1.1.2.0v",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - GITS LUT Pack",
-          "v": "1.0.0.0g",
+          "n": "LUT Pack - Preem LUT",
+          "v": "1.3.0.0p",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Misc LUT Pack",
-          "v": "1.1.0.0m",
+          "n": "LUT Pack - NC Ghosts and Flowers",
+          "v": "1.0.1.0ngf",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - NCLM Pack",
-          "v": "1.0.0.0nclm",
+          "n": "LUT Pack - GITS",
+          "v": "1.1.0.0g",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Preem LUT Pack",
-          "v": "1.1.1.0p",
+          "n": "LUT Pack - Edge LUT",
+          "v": "1.3.0.0e",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "LUT Switcher - Vanilla LUT Pack",
-          "v": "1.1.1.0x",
+          "n": "LUT Pack - Nova LUT",
+          "v": "1.4.1.0n",
           "g": "Visuals, Graphics, & Lighting",
           "id": 16310
         },
         {
-          "n": "The Lamp Lighter - Streetlamp Time Control",
-          "v": "1.8",
+          "n": "LUT Pack - Cyberpunk Reloaded",
+          "v": "1.0.1.0cr",
           "g": "Visuals, Graphics, & Lighting",
-          "id": 18255
+          "id": 16310
         },
         {
           "n": "General Shadows Fixes",
@@ -5738,34 +5758,28 @@
           "id": 14316
         },
         {
+          "n": "Better Tree Textures (and Vegetation)",
+          "v": "2.0",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 14408
+        },
+        {
+          "n": "Better Lanterns",
+          "v": "1.0.1",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 23639
+        },
+        {
           "n": "Leaky Interiors Fixed",
           "v": "1.1",
           "g": "Visuals, Graphics, & Lighting",
           "id": 29002
         },
         {
-          "n": "NPC LoD Tweak (for PT)",
-          "v": "1.0",
+          "n": "Wind Begone (foliage shadow bug workaround)",
+          "v": "1.3.1.0a",
           "g": "Visuals, Graphics, & Lighting",
-          "id": 19926
-        },
-        {
-          "n": "Night City Fog Nulled",
-          "v": "3.2",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 20192
-        },
-        {
-          "n": "Night City Things Nulled",
-          "v": "2.3.250720",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 20192
-        },
-        {
-          "n": "Night City Visuals Nulled",
-          "v": "3.2.3",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 13524
+          "id": 12252
         },
         {
           "n": "Inplace Streamingsectors Nulled",
@@ -5786,12 +5800,6 @@
           "id": 20623
         },
         {
-          "n": "Improved Vehicle Lights Draw Distance",
-          "v": "2.7",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 5082
-        },
-        {
           "n": "Improved Vehicle Glass Destruction Effects",
           "v": "0.1",
           "g": "Visuals, Graphics, & Lighting",
@@ -5810,8 +5818,20 @@
           "id": 14672
         },
         {
+          "n": "Remove Crystal Dome Scanning Lines",
+          "v": "1.1",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 13363
+        },
+        {
           "n": "FX Begone - Inventory",
           "v": "1.1.0.0a",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 9209
+        },
+        {
+          "n": "FX Begone - Holocall",
+          "v": "1.0.0.0f",
           "g": "Visuals, Graphics, & Lighting",
           "id": 9209
         },
@@ -5822,10 +5842,28 @@
           "id": 20808
         },
         {
+          "n": "Reference Path Tracing",
+          "v": "0.31",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 28401
+        },
+        {
+          "n": "Ray Traced Lighting Fixes",
+          "v": "0.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29720
+        },
+        {
           "n": "ReLUX Plus (Riders on the Storm)",
           "v": "2.0",
           "g": "Visuals, Graphics, & Lighting",
           "id": 22129
+        },
+        {
+          "n": "The Nullifier",
+          "v": "1.3.2",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 23091
         },
         {
           "n": "Light Beams Fix",
@@ -5864,38 +5902,14 @@
           "id": 10021
         },
         {
-          "n": "FX Begone - Holocall",
-          "v": "1.0.0.0f",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 9209
-        },
-        {
-          "n": "Blur Begone (Clear Materials with Refraction)",
-          "v": "1.25.3",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 8105
-        },
-        {
           "n": "Nova City 2 (Custom Weather - Exposure Overhaul)",
-          "v": "2.2.3",
+          "v": "2.3.2",
           "g": "Visuals, Graphics, & Lighting",
           "id": 12490
         },
         {
-          "n": "Nova Rain (and Improved Ripples)",
-          "v": "1.0.1.0a",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 13483
-        },
-        {
-          "n": "Nova Rain - Ripples",
-          "v": "1.0.0.0-ripples",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 13483
-        },
-        {
           "n": "Nova Optics (Gameplay ENV Tuning with Vehicle Exposure Fix)",
-          "v": "1.3",
+          "v": "1.3.3",
           "g": "Visuals, Graphics, & Lighting",
           "id": 29190
         },
@@ -5907,15 +5921,9 @@
         },
         {
           "n": "Weather Switcher (Change Weather - Control Time - Customize Clouds)",
-          "v": "1.6.1",
+          "v": "1.7.6",
           "g": "Visuals, Graphics, & Lighting",
           "id": 18027
-        },
-        {
-          "n": "Disable Fake Lights with Path Tracing",
-          "v": "0.5",
-          "g": "Visuals, Graphics, & Lighting",
-          "id": 16060
         },
         {
           "n": "Effects Rendering Fix",
@@ -5942,6 +5950,12 @@
           "id": 19609
         },
         {
+          "n": "Lost Content (Quest Content Fixes)",
+          "v": "6.0",
+          "g": "New Quests & Content",
+          "id": 31523
+        },
+        {
           "n": "Flaming Crotch Man Romanced",
           "v": "2.1.1",
           "g": "New Quests & Content",
@@ -5949,13 +5963,13 @@
         },
         {
           "n": "Judy Romanced Enhanced",
-          "v": "2.4.2",
+          "v": "2.4.3",
           "g": "New Quests & Content",
           "id": 4508
         },
         {
           "n": "Panam Romanced Enhanced",
-          "v": "2.6.1",
+          "v": "2.6.2",
           "g": "New Quests & Content",
           "id": 4626
         },
@@ -5967,7 +5981,7 @@
         },
         {
           "n": "Rita Wheeler Romanced",
-          "v": "3.3",
+          "v": "3.4",
           "g": "New Quests & Content",
           "id": 9191
         },
@@ -6021,7 +6035,7 @@
         },
         {
           "n": "Reset Attributes always available - Redscript",
-          "v": "1.0.0.4",
+          "v": "1.0.0.5",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 9240
         },
@@ -6093,7 +6107,7 @@
         },
         {
           "n": "Exclusive Items Unlocker",
-          "v": "1.2",
+          "v": "2.0",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 24025
         },
@@ -6117,7 +6131,7 @@
         },
         {
           "n": "Modlist Settings - Standard Profile",
-          "v": "4.0",
+          "v": "4.2",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 20942
         }

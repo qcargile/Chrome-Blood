@@ -19,13 +19,13 @@
 
 The detailed Chrome & Blood guide now lives inside Cyberpunk 2077 and follows the profile you launched.
 
-1. Pause the game and open **Database**.
+1. Press **H** to open the Character menu, then select **Database**.
 2. Select the first Database category.
 3. Open any section beginning with **C&B**.
 
 Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**. The guide covers UI and inventory, combat, netrunning, builds and cyberware, the economy, vehicles and travel, jobs and the world, both profiles, and troubleshooting.
 
-![Database highlighted in the pause menu](https://qcargile.github.io/Chrome-Blood/assets/img/guide-database.jpg)
+![Database highlighted in the Character menu](https://qcargile.github.io/Chrome-Blood/assets/img/guide-database.jpg)
 
 ![Chrome and Blood sections in the Database](https://qcargile.github.io/Chrome-Blood/assets/img/guide-sections.jpg)
 

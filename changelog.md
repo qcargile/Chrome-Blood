@@ -16,7 +16,7 @@
 - **[Much Better Ammo](https://www.nexusmods.com/cyberpunk2077/mods/32447) Replaces Ammo Limiter**\
   Ammunition now uses weapon-class capacities, separate loot and cache values, and class-specific crafting yields through Much Better Ammo. The new system is part of the list's combat and economy balance instead of a standalone inventory cap.
 - **The Player Guide Is Now In-Game**\
-  [**Player Guide Framework**](https://www.nexusmods.com/cyberpunk2077/mods/32561) adds a Chrome & Blood guide to the Database. It follows the selected profile and covers controls, UI, combat, netrunning, builds, the economy, vehicles, the world, profiles, and troubleshooting. Pause the game, open **Database**, select the first category, then open any section beginning with **C&B**.
+  [**Player Guide Framework**](https://www.nexusmods.com/cyberpunk2077/mods/32561) adds a Chrome & Blood guide to the Database. It follows the selected profile and covers controls, UI, combat, netrunning, builds, the economy, vehicles, the world, profiles, and troubleshooting. Press **H** to open the Character menu, select **Database**, choose the first category, then open any section beginning with **C&B**.
 - **Unified Mod Settings Reorganized Around Player Intent**\
   UMS now groups the list by the part of the game you want to change: combat, weapons, netrunning, builds, economy, vehicles, the world, HUD and controls, inventory and quality of life, and visuals and performance. Press **Numpad 0** to open it; search and favorites remain available.
 - **Core Gameplay Mods Updated Together**\

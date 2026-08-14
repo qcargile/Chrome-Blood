@@ -215,7 +215,7 @@ Also disable any overlays — Steam overlay, Discord overlay, GPU software overl
 
 ## In-Game Guide & Settings
 
-The current controls, mechanics, counters, and profile-specific instructions are inside the game. Pause, open **Database**, select the first category, then open any section beginning with **C&B**. Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**.
+The current controls, mechanics, counters, and profile-specific instructions are inside the game. Press **H** to open the Character menu, select **Database**, choose the first category, then open any section beginning with **C&B**. Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**.
 
 Press **`Numpad 0`** to open Unified Mod Settings. Its browser is grouped by the part of the game you want to change, and it also includes search, favorites, and per-mod profiles. The [Player Guide page](https://qcargile.github.io/Chrome-Blood/guide.html) shows where both systems live.
 

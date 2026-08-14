@@ -4,6 +4,16 @@ This page is for updates, troubleshooting, and common technical problems. For co
 
 ---
 
+## 📚 Table of Contents
+
+- [Backups & Updates](#backups-updates)
+- [Installation & Launch](#installation-launch)
+- [Gameplay & Settings](#gameplay-settings)
+- [HUD, World & Inventory](#hud-world-inventory)
+- [Graphics & Performance](#graphics-performance)
+
+---
+
 ## 🗄️ Backups & Updates
 
 **Q: Do I need to prepare my save before updating?**

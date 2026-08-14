@@ -1,6 +1,6 @@
 # ❓ Chrome & Blood — Frequently Asked Questions
 
-This page is for updates, troubleshooting, and common technical problems. For controls and gameplay systems, pause the game, open **Database**, select the first category, and use the sections beginning with **C&B**. For settings, press **`Numpad 0`** to open Unified Mod Settings.
+This page is for updates, troubleshooting, and common technical problems. For controls and gameplay systems, press **`H`** to open the Character menu, select **Database**, choose the first category, and use the sections beginning with **C&B**. For settings, press **`Numpad 0`** to open Unified Mod Settings.
 
 ---
 
@@ -23,6 +23,10 @@ Settings supplied by the list live in the matching **Chrome and Blood modlist se
 
 **A:** Open the profile drop-down at the top of MO2, select **Manage**, and enable **Use profile-specific Save Games** for the active profile.
 
+**Q: How do I send a save for troubleshooting?**
+
+**A:** Open the **Saves** tab on the right side of MO2. Hover over the saves to identify the one you need, then right-click it and select **Open in Explorer**. Select every file in that save folder, create a ZIP or archive, and send the archive.
+
 **Q: How do I keep mods I added myself between updates?**
 
 **A:** Read [Rule 11](https://qcargile.github.io/Chrome-Blood/mods.html#rule11) before changing the list. It explains the `[NoDelete]` tag, load-order backups, and the limits of support for a modified installation.
@@ -43,9 +47,15 @@ Settings supplied by the list live in the matching **Chrome and Blood modlist se
 
 **A:** Check your antivirus first. Third-party antivirus commonly interferes with MO2's virtual file system, and Windows Defender may quarantine unfamiliar mod files. Add the Chrome & Blood installation folder to its exclusions, reinstall through Wabbajack, and launch through MO2.
 
+**Q: I just crashed. What should I send for help?**
+
+**A:** Open the Chrome & Blood installation directory you chose during setup, then go to `overwrite\red4ext\plugins\REDscope\crashes`. For example, if the list is installed under `D:\XXXXXX`, the full path is `D:\XXXXXX\overwrite\red4ext\plugins\REDscope\crashes`.
+
+Find the folder for the crash you want analyzed, zip the entire folder, and send that archive with a short description of what you were doing when the crash happened. Do not send only one file from the folder.
+
 **Q: The game still crashes after a clean reinstall.**
 
-**A:** Reproduce it without added mods, then bring the REDscope crash report and what you were doing to the [Discord](https://discord.gg/U65Nhdcns8). That gives support something concrete to trace.
+**A:** Reproduce it without added mods, then follow the crash-report steps above. Include what you were doing when it crashed when you post the archive in the [Discord](https://discord.gg/U65Nhdcns8).
 
 ---
 
@@ -53,7 +63,7 @@ Settings supplied by the list live in the matching **Chrome and Blood modlist se
 
 **Q: Where are the controls and explanations for the reworked systems?**
 
-**A:** They are in the in-game Player Guide. Pause, open **Database**, select the first category, then open **C&B - Start Here** or the section for the system you need. The [Player Guide page](https://qcargile.github.io/Chrome-Blood/guide.html) shows the exact path.
+**A:** They are in the in-game Player Guide. Press **`H`** to open the Character menu, select **Database**, choose the first category, then open **C&B - Start Here** or the section for the system you need. The [Player Guide page](https://qcargile.github.io/Chrome-Blood/guide.html) shows the exact path.
 
 **Q: Where did the second mod-settings menu go?**
 
@@ -113,7 +123,11 @@ Settings supplied by the list live in the matching **Chrome and Blood modlist se
 
 **Q: Night City is too dark.**
 
-**A:** Open the CET overlay, go to **Nova Optics → Exposure Overrides**, and adjust **Shadow Boost**.
+**A:** Use the option that fits the situation:
+
+- Press **`Mouse 4`** or **`Square`** to toggle the flashlight in dark interiors.
+- Press **`F3`** to toggle night vision after equipping the required Kiroshi optics.
+- If the whole image is too dark, open the CET overlay, go to **Nova Optics → Exposure Overrides**, and adjust **Shadow Boost**.
 
 ### ✅ Recommended NVIDIA Setup
 

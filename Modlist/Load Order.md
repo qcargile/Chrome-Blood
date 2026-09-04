@@ -1,7 +1,7 @@
 ## [Chrome & Blood Load Order](https://qcargile.github.io/Chrome-Blood/loadorder.html)
 
 ### Biggest gameplay mods in the list and what they do  
-> **This is not a comprehensive list**, just the mods that have the biggest impact on gameplay you should be aware of.
+> **This isn't every mod in the list.** These are the ones with the biggest effect on gameplay.
 
 <details>
 <summary>Immersive-Only Mods</summary>
@@ -223,7 +223,7 @@
   Upgrades a wide range of environmental textures for sharper visuals.
 
 - [Cyberpunk 2077 HD Reworked Project](https://www.nexusmods.com/cyberpunk2077/mods/7652)  
-  Comprehensive high-resolution texture overhaul for maximum detail.
+  Higher-resolution environmental textures throughout the game.
 
 - [Hi-Res NPC Body Textures](https://www.nexusmods.com/cyberpunk2077/mods/22707)  
   Improves NPC body models with sharper and more realistic textures.

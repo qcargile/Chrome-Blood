@@ -69,7 +69,7 @@ As of v3.2, cosmetic mods have been pulled from both profiles. Chrome & Blood is
 - **Economy:** [Gigs, loot, and rewards](https://www.nexusmods.com/cyberpunk2077/mods/30532) have been rebalanced through Much Better Eddies — steeper scaling, bigger payouts, and phone-ordered services.
 - **Builds:** Dozens of weapon and cyberware mods give you real options no matter how you play.
 
-### The Bottom Line
+### The Point
 
 This list isn't meant to be easy. With all of the above tuned for **very hard**, in Chrome & Blood's Night City, **survival isn't a right — it's earned.**
 

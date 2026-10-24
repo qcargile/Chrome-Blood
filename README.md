@@ -6,7 +6,9 @@
 >- This list has been updated for official game patch 2.31a!
 
 >[!WARNING]
->You must update Cyberpunk 2077 to the latest version on Steam to install this list.
+>The current public release targets Cyberpunk 2077 2.31a on Steam. A newer game patch is not automatically supported.
+
+The new Chrome & Blood installer is in private testing. The instructions below apply to the current public release. When the new installer is released, its download will include a SHA-256 checksum and a link to the matching VirusTotal report.
 
 ## Table of Contents
 

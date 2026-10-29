@@ -48,7 +48,7 @@
     </div>
 
     <div class="callout">
-      <p><strong>New installer:</strong> The new Chrome &amp; Blood installer is in private testing. The instructions below apply to the current public release. When the new installer is released, its download will include a SHA-256 checksum and a link to the matching VirusTotal report.</p>
+      <p><strong>Setup 1.0:</strong> The new setup tool targets Cyberpunk 2077 2.5. Use it with a C&amp;B revision that supports that version. Publishing the tools does not update the modlist; the current public list's version requirements above still apply. The release includes SHA-256 checksums and MIT-licensed source.</p>
     </div>
 
     <div class="sec-head" style="margin-top:50px;"><span class="sec-tag">01 · SYSTEM REQUIREMENTS</span><span class="rule"></span></div>
@@ -67,28 +67,24 @@
 
     <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">02 · SETUP TOOL</span><span class="rule"></span></div>
     <h2 class="sec-title">The Easy Way: Run the Setup Tool</h2>
-    <p style="color:var(--text-dim); max-width:800px;">Everything in the preinstallation list is handled by one small Windows tool. Download it, run it, pick <strong style="color:var(--text)">Chrome &amp; Blood</strong>, and it sorts out the runtimes, the Windows and Steam tweaks, the Wabbajack download, and cleaning the game back to vanilla. Anything only you can do, it walks you through with links. The manual steps further down are only there if you'd rather not run it.</p>
+    <p style="color:var(--text-dim); max-width:800px;">Chrome &amp; Blood Setup finds your game, selects missing Windows components and Wabbajack, and offers cleanup with retained backups. Optional resets and Steam preferences stay separate. It finishes by opening the C&amp;B listing in Wabbajack. For older 2.31a list revisions, use the matching manual instructions below.</p>
     <div class="btn-row" style="margin-top:26px;">
-      <a class="btn btn-primary" href="https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v0.3/CyberpunkModlistSetup-v0.3.zip">Download the Setup Tool</a>
+      <a class="btn btn-primary" href="https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.0/ChromeBlood-Setup-1.0.zip">Download Setup 1.0 for 2.5</a>
       <a class="btn btn-ghost" href="https://github.com/qcargile/CyberpunkModlistSetup" target="_blank" rel="noopener">View the Source</a>
     </div>
     <figure class="frame" style="max-width:760px; margin-top:28px;">
-      <img src="assets/img/setup-tool.png" alt="The Cyberpunk Modlist Setup tool on its list-picker screen, showing Chrome &amp; Blood and Welcome to Night City" loading="lazy">
+      <img src="assets/img/setup-tool.png?v=1.0" alt="Chrome &amp; Blood Setup showing game cleanup, selected prerequisites and optional preparation" loading="lazy">
     </figure>
     <ol class="steps" style="margin-top:30px;">
-      <li><strong>Download, extract, and run <code style="font-family:var(--mono); color:var(--secondary);">CyberpunkModlistSetup.exe</code></strong><p>The button above downloads the <a href="https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v0.3/CyberpunkModlistSetup-v0.3.zip">setup tool ZIP</a> directly. Extract it anywhere, then run the tool. Windows asks for administrator rights once on startup, because the runtime installers need them.</p></li>
-      <li><strong>Pick Chrome &amp; Blood, then Mod Organizer 2</strong><p>The screen reads top to bottom from there.</p></li>
-      <li><strong>Hit "Run all automatic steps"</strong><p>Runtimes, Windows long paths, the Steam update setting, the Wabbajack download, and an optional clean-up of old mod files. All at once, or one at a time.</p></li>
-      <li><strong>Clear the checks</strong><p>It reads your system and the game and flags anything that needs your attention, with a button to get you there.</p></li>
-      <li><strong>Do your part</strong><p>The handful of steps only you can do, each with a link. Click a step's circle to mark it done as you go.</p></li>
-      <li><strong>Install the list and launch</strong><p>Send Chrome &amp; Blood to Wabbajack, set your install folder, and hit Install. When it finishes, launch through <code style="font-family:var(--mono); color:var(--secondary);">ModOrganizer.exe</code> and head to First Launch below. Never start Cyberpunk from Steam or a desktop shortcut.</p></li>
+      <li><strong>Extract and run <code style="font-family:var(--mono); color:var(--secondary);">ChromeBloodSetup.exe</code></strong><p>Keep the extracted Assets and licenses folders with it. Setup runs without administrator rights; Windows asks when a selected step needs elevation.</p></li>
+      <li><strong>Check the selected game and preparation</strong><p>Choose the right copy if more than one is found. Missing components are selected; optional actions start off. Game cleanup and verification are shown prominently.</p></li>
+      <li><strong>Review and prepare</strong><p>Close the game and mod managers before cleanup, and close Steam when cleaning its game folder. Files removed by cleanup stay backed up. Official files that need repair are left for the game store to repair.</p></li>
+      <li><strong>Open C&amp;B in Wabbajack</strong><p>Sign in to Nexus and choose the installation and downloads folders there. Wabbajack handles the list installation. Once it finishes, launch through the installed <code style="font-family:var(--mono); color:var(--secondary);">ModOrganizer.exe</code>.</p></li>
     </ol>
 
     <div class="callout red" style="margin-top:34px;">
-      <p><strong style="color:var(--text)">It's not a virus. Windows might tell you it is anyway.</strong> The tool isn't code-signed (a signing certificate costs money I'd rather put toward the list), and it does exactly the things antivirus is trained to distrust: it downloads installers, changes a couple of Windows settings, and clears out folders. An unsigned app doing all of that is enough for Windows SmartScreen to show an "Unknown publisher" warning, and every so often Defender flags it on a hunch. That's a false alarm, not a real detection.</p>
-      <p><strong style="color:var(--text)">Why you can trust it:</strong> every line of the source is public on <a href="https://github.com/qcargile/CyberpunkModlistSetup" target="_blank" rel="noopener" style="color:var(--text)">GitHub</a>. Read it, or build the exe yourself if you'd rather not run mine. Everything it downloads comes straight from Microsoft, the official Wabbajack GitHub, and the official Vortex GitHub, and each one is signature-checked before it runs. Nothing is uploaded, there's no account and no telemetry, and the clean-up step moves files to a reversible backup instead of deleting them. Only ever download the tool from the GitHub release linked above.</p>
-      <p><strong style="color:var(--text)">To get past SmartScreen:</strong> click <strong style="color:var(--text)">More info</strong>, then <strong style="color:var(--text)">Run anyway</strong>. If Defender quarantines it, restore it from the notification or add an exclusion. Want to scan it yourself first? Go for it. Just know an unsigned tool like this often trips a flag or two on a scan, which is that same false alarm, not real malware.</p>
-      <p style="opacity:.82;">And if you're <em>still</em> convinced it's a virus but you're about to install my 12&nbsp;GB modlist right afterward anyway... that's a pretty strange place to draw the line.</p>
+      <p><strong style="color:var(--text)">Download from the linked GitHub release.</strong> Setup is unsigned, so Windows may show an unknown-publisher warning. The release includes SHA-256 checksums to identify the exact files. A matching checksum is not a malware scan; investigate security alerts rather than assuming they are false positives.</p>
+      <p>The <a href="https://github.com/qcargile/CyberpunkModlistSetup" target="_blank" rel="noopener" style="color:var(--text)">source is public under MIT</a>, with third-party licenses retained. Setup downloads prerequisites from Microsoft and Wabbajack's official release, verifies their publishers, and keeps removed game files in backups. It requires no Nexus credentials and has no telemetry.</p>
     </div>
 
     <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">03 · BY HAND</span><span class="rule"></span></div>
@@ -98,7 +94,7 @@
       <summary>Show the full manual setup</summary>
       <div class="fold-body">
     <ol class="steps">
-      <li><strong><a href="https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game" target="_blank" rel="noopener">Perform a clean install</a> of Cyberpunk 2077</strong><p>No mods, no leftover files, fully updated to the latest <strong>official</strong> patch (not a beta branch). Install it <strong>outside</strong> of <code style="font-family:var(--mono); color:var(--secondary);">Program Files</code>.</p></li>
+      <li><strong><a href="https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game" target="_blank" rel="noopener">Perform a clean install</a> of Cyberpunk 2077</strong><p>No mods or leftover files, using the exact game version required by your C&amp;B revision. A newer patch is not automatically compatible. Install it <strong>outside</strong> of <code style="font-family:var(--mono); color:var(--secondary);">Program Files</code>.</p></li>
       <li><strong>Keep cloud sync away from the install</strong><p>Do <strong>not</strong> put the game, the modlist, or the downloads folder anywhere OneDrive, Dropbox, or any other sync service touches. Synced folders lock files mid-install and break MO2's virtual file system.</p></li>
       <li><strong>Install the <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" rel="noopener">Visual C++ Redistributables (All-in-One)</a></strong><p>Extract and run <code style="font-family:var(--mono); color:var(--secondary);">install_all.bat</code>.</p></li>
       <li><strong>Disable Steam auto-updates</strong>
@@ -136,7 +132,7 @@
     <div class="sec-head" style="margin-top:60px;"><span class="sec-tag">04 · ANTIVIRUS</span><span class="rule"></span></div>
     <h2 class="sec-title">Antivirus</h2>
     <div class="callout red">
-      <p><strong>Third-party antivirus breaks this list.</strong> Software like BitDefender, Norton, and Webroot fights MO2's virtual file system and can quarantine files mid-install. Add your install and downloads folders to its exclusions before you install, or remove it entirely for this list. <strong style="color:var(--text)">Windows Defender with smart browsing habits is enough</strong>, and the setup tool flags this for you.</p>
+      <p><strong>Third-party antivirus breaks this list.</strong> Software like BitDefender, Norton, and Webroot fights MO2's virtual file system and can quarantine files mid-install. Add your install and downloads folders to its exclusions before you install, or remove it entirely for this list. <strong style="color:var(--text)">Windows Defender with smart browsing habits is enough</strong>.</p>
     </div>
     <details class="fold">
       <summary>How to add a Windows Defender exclusion</summary>

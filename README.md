@@ -8,7 +8,7 @@
 >[!WARNING]
 >The current public release targets Cyberpunk 2077 2.31a on Steam. A newer game patch is not automatically supported.
 
-The new Chrome & Blood installer is in private testing. The instructions below apply to the current public release. When the new installer is released, its download will include a SHA-256 checksum and a link to the matching VirusTotal report.
+[Chrome & Blood Tools 1.0](https://github.com/qcargile/CyberpunkModlistSetup/releases/tag/v1.0) includes Setup and the MO2 archive-order and update-notice plugins. Setup targets Cyberpunk 2077 2.5 and is intended for C&B revisions that support that version. These tools do not update the modlist itself; the current public list's version requirements above still apply. Downloads include SHA-256 checksums and MIT-licensed source, with third-party licenses retained.
 
 ## Table of Contents
 

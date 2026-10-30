@@ -8,7 +8,7 @@
 >[!WARNING]
 >The current public release targets Cyberpunk 2077 2.31a on Steam. A newer game patch is not automatically supported.
 
-[Chrome & Blood Tools 1.0](https://github.com/qcargile/CyberpunkModlistSetup/releases/tag/v1.0) includes Setup and the MO2 archive-order and update-notice plugins. Setup targets Cyberpunk 2077 2.5 and is intended for C&B revisions that support that version. These tools do not update the modlist itself; the current public list's version requirements above still apply. Downloads include SHA-256 checksums and MIT-licensed source, with third-party licenses retained.
+[Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/tag/v1.0.1) targets Cyberpunk 2077 2.5 and preserves verified DLSS swaps and their backups. It is intended for C&B revisions that support that game version. The [MO2 archive-order and update-notice plugins remain at 1.0](https://github.com/qcargile/CyberpunkModlistSetup/releases/tag/v1.0). These tools do not update the modlist itself; the current public list's version requirements above still apply. Downloads include SHA-256 checksums and MIT-licensed source, with third-party licenses retained.
 
 ## Table of Contents
 

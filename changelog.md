@@ -145,7 +145,7 @@
 - Updated **Mark To Sell** to `v2.5.5`
 - Updated **Merc Protocol - Perk Gameplay Expansion** to `v2.13`
 - Updated **Mod Settings** to `v0.2.28`
-- Updated **Modlist Settings - Standard Profile** to `v4.4`
+- Updated **Modlist Settings - Standard Profile** to `v5.0`
 - Updated **Much Better AI** to `v2.3`
 - Updated **Much Better Ammo** to `v1.7`
 - Updated **Much Better Eddies** to `v1.5`

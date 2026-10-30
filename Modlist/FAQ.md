@@ -112,7 +112,7 @@ Find the folder for the crash you want analyzed, zip the entire folder, and send
 
 **Q: Which optional mods are included but disabled?**
 
-**A:** Dark Future Core, Ultra+, World Builder, General Shadows Fixes, Draw Distance ReImagined, and ReImagined remain available in MO2. They are not enabled in the default Standard profile. The guide describes the default setup.
+**A:** Dark Future Core, Ultra+, World Builder, General Shadows Fixes, Draw Distance ReImagined, and ReImagined remain available in MO2. They are not enabled by default. The graphical mods are temporarily disabled while we wait for their Cyberpunk 2.5 updates. Dark Future Core and World Builder remain optional. The guide describes the default setup.
 
 **Q: Why is the HUD hidden?**
 

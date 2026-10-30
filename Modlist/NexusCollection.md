@@ -121,7 +121,7 @@ Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**
 - Limited HUD is enabled by default; the HUD needs no special implant.
 - Reload manually. Reloading early usually discards the ammunition left in the magazine.
 - Fast travel charges a fare and advances the clock; dialogue checks are hidden.
-- Dark Future Core is included as an optional module and disabled by default.
+- Dark Future Core is included as an optional module and disabled by default. Some graphical mods are kept but temporarily disabled while we wait for their Cyberpunk 2.5 updates.
 - Buy Chrome Ballistics weapons, attachments, and schematics from physical gunsmiths and melee vendors. Virtual Atelier and Sabbath are no longer included.
 
 Existing saves are supported; a new game is recommended for the full experience. Back up saves and personal settings before updating.
@@ -130,7 +130,7 @@ Existing saves are supported; a new game is recommended for the full experience.
 
 ## Installation
 
-Requires **Cyberpunk 2077 2.5 on Steam (build 26161058)**, **Phantom Liberty**, **REDmod**, **Windows 10/11**, and an **SSD**. A newer game version is not automatically supported.
+Requires **Cyberpunk 2077 2.5 on PC (build 26161058)**, **Phantom Liberty**, **REDmod**, **Windows 10/11**, and an **SSD**. A newer game version is not automatically supported.
 
 1. Download [Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.0.1/ChromeBlood-Setup-1.0.1.zip).
 2. Extract the **entire ZIP** to a writable folder outside the game, Program Files, and cloud-synced folders. Keep **Assets** and **licenses** beside `ChromeBloodSetup.exe`, then run it.

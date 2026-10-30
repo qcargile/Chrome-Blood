@@ -9,6 +9,8 @@
 
 ## 🛠 Key Notes
 
+- **Updated for Cyberpunk 2077 Patch 2.5**\
+  Chrome & Blood 5.0 has been updated for game patch 2.5. Update your game before installing this version.
 - **Much Better Contracts — The Wire**\
   Find repeatable fixer work through The Wire on a computer's Net browser. Return to cleared gig and organized-crime locations for combat, data theft, sabotage, vehicle recovery, rescue, and capture assignments. Linked Operations take you through several locations, while successful work raises faction difficulty and earns money and crafting specs. The Rewards library also lets you work toward iconic specs and unlock targeted sourcing.
 - **Lower Enemy Health**\
@@ -24,9 +26,9 @@
 - **Crowds, Melee Combat, and Ragdolls**\
   Restored civilian appearances and walking styles add more variety around the city. RagdollPunk replaces SPLAT, alongside added enemy melee moves and melee-animation fixes.
 - **Lighting and Navigation**\
-  The Grid adds scheduled, weather-responsive streetlights; random blackouts are disabled in this preset. ReLUX and several shadow/distance mods are disabled. Custom map markers, descriptive gig pins, registered fast-travel points, and metro presentation updates round out the changes around the city.
-- **Setup 1.0.1 and Game Patch 2.5**\
-  Use [Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/tag/v1.0.1) to prepare the Steam installation, then install or update through Wabbajack. Setup recognizes verified DLSS replacements and their backups.
+  The Grid adds scheduled, weather-responsive streetlights; random blackouts are disabled in this preset. Some graphical mods are still included but temporarily disabled while we wait for their Cyberpunk 2.5 updates. Custom map markers, descriptive gig pins, registered fast-travel points, and metro presentation updates round out the changes around the city.
+- **New Setup Tool — 1.0.1**\
+  Use [Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/tag/v1.0.1) to prepare your game, then install or update through Wabbajack. Setup recognizes verified DLSS replacements and their backups.
 - **Player Guide and Settings**\
   The in-game Database guide explains the current controls, combat, progression, shops, and contracts. Newly added settings are organized into UMS groups. Press H for the Character menu and Database, or Numpad 0 for UMS.
 - **Existing Saves Supported — New Game Recommended**\

@@ -44,7 +44,7 @@
   <div class="wrap">
 
     <div class="callout red">
-      <p><strong>Requirements:</strong> an official Steam copy of <strong>Cyberpunk 2077 2.5</strong>, <strong>Phantom Liberty</strong>, <strong>REDmod</strong>, Windows 10/11, and an SSD.</p>
+      <p><strong>Requirements:</strong> an official PC copy of <strong>Cyberpunk 2077 2.5</strong>, <strong>Phantom Liberty</strong>, <strong>REDmod</strong>, Windows 10/11, and an SSD.</p>
     </div>
 
 <div class="sec-head" style="margin-top:50px;"><span class="sec-tag">01 · SYSTEM REQUIREMENTS</span><span class="rule"></span></div>
@@ -65,11 +65,11 @@
     <ol class="steps" style="margin-top:30px;">
       <li><strong>Extract the entire ZIP, then run <code style="font-family:var(--mono); color:var(--secondary);">ChromeBloodSetup.exe</code></strong><p>Keep the Assets and licenses folders beside it. Windows will ask if a step needs administrator permission.</p></li>
       <li><strong>Select your game</strong><p>Choose the right copy if more than one is found, then follow the checks. Review the selected actions before applying them.</p></li>
-      <li><strong>Clean up old mods if needed</strong><p>If you used Vortex, purge its deployed mods first. Close the game, MO2, and Steam before cleanup. Setup keeps backups. Repair game files through Steam if Setup asks, then check again.</p></li>
+      <li><strong>Clean up old mods if needed</strong><p>If you used Vortex, purge its deployed mods first. Close the game, MO2, and Steam before cleanup. Setup keeps backups. Repair game files through your game launcher if Setup asks, then check again.</p></li>
       <li><strong>Open C&amp;B in Wabbajack</strong><p>Continue with the Wabbajack installation steps below.</p></li>
     </ol>
 
-    <p>Setup is unsigned, so Windows may show an unknown-publisher warning. Use the linked GitHub release, which includes checksums.</p>
+    <p>Setup is unsigned, so Windows may show an unknown-publisher warning. Download from the linked GitHub release. You can also view the <a href="https://www.virustotal.com/gui/file/a265d0bdc2b9a9054a58b3f06632172d525f7fc45d9d4fc1e5c24702c9366e49" target="_blank" rel="noopener">VirusTotal report for the 1.0.1 executable</a>.</p>
 
     <details class="fold" style="margin-top:18px;">
       <summary>Prepare the game manually instead</summary>
@@ -78,7 +78,7 @@
       <li><strong><a href="https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game" target="_blank" rel="noopener">Perform a clean install</a> of Cyberpunk 2077</strong><p>No mods or leftover files, using the exact game version required by your C&amp;B revision. A newer patch is not automatically compatible. Install it <strong>outside</strong> of <code style="font-family:var(--mono); color:var(--secondary);">Program Files</code>.</p></li>
       <li><strong>Keep cloud sync away from the install</strong><p>Do <strong>not</strong> put the game, the modlist, or the downloads folder anywhere OneDrive, Dropbox, or any other sync service touches. Synced folders lock files mid-install and break MO2's virtual file system.</p></li>
       <li><strong>Install the <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" target="_blank" rel="noopener">Visual C++ Redistributables (All-in-One)</a></strong><p>Extract the entire ZIP, then run <code style="font-family:var(--mono); color:var(--secondary);">install_all.bat</code>.</p></li>
-      <li><strong>Set Steam to update only on launch</strong>
+      <li><strong>For Steam: update only on launch</strong>
         <ul class="substeps">
           <li>Right-click Cyberpunk 2077 in your Steam Library → <strong>Properties</strong></li>
           <li>Go to the <strong>Updates</strong> tab</li>

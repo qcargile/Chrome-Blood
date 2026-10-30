@@ -1,7 +1,7 @@
 ![chrome and blood](https://github.com/user-attachments/assets/51c77680-565a-42ce-895f-51848c845839)
 
 > [!IMPORTANT]
-> Chrome & Blood 5.0 requires Steam Cyberpunk 2077 2.5, Phantom Liberty, and REDmod. Start with the [installation guide](https://qcargile.github.io/Chrome-Blood/install.html).
+> Chrome & Blood 5.0 requires Cyberpunk 2077 2.5 for PC, Phantom Liberty, and REDmod. Start with the [installation guide](https://qcargile.github.io/Chrome-Blood/install.html).
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**
 - Limited HUD is enabled by default; the HUD needs no special implant.
 - Reload manually. Reloading early usually discards the ammunition left in the magazine.
 - Fast travel charges a fare and advances the clock; dialogue checks are hidden.
-- Dark Future Core is included as an optional module and disabled by default. Ultra+, World Builder, General Shadows Fixes, Draw Distance ReImagined, and ReImagined are also included but disabled.
+- Dark Future Core is included as an optional module and disabled by default. Ultra+, World Builder, General Shadows Fixes, Draw Distance ReImagined, and ReImagined are also included but disabled. The graphical mods are temporarily off while we wait for their Cyberpunk 2.5 updates.
 - Chrome Ballistics weapons, attachments, and schematics are sold by physical gunsmiths and melee vendors.
 
 Existing saves are supported; a new game is recommended for 5.0. Back up saves and personal settings before updating.
@@ -78,7 +78,7 @@ Based on testing and community feedback. Performance varies with your graphics s
 
 ![system requirements](docs/assets/img/sysreq.png)
 
-Requires an official Steam copy of **Cyberpunk 2077 2.5**, **Phantom Liberty**, **REDmod**, Windows 10/11, and an SSD. Check Wabbajack's space requirements before installing and leave room for extraction and backups.
+Requires an official PC copy of **Cyberpunk 2077 2.5**, **Phantom Liberty**, **REDmod**, Windows 10/11, and an SSD. Check Wabbajack's space requirements before installing and leave room for extraction and backups.
 
 ## Preinstallation
 
@@ -87,10 +87,10 @@ Update your [NVIDIA](https://www.nvidia.com/en-us/software/nvidia-app/) or [AMD]
 1. Download [Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.0.1/ChromeBlood-Setup-1.0.1.zip).
 2. Extract the entire ZIP and run `ChromeBloodSetup.exe`. Keep **Assets** and **licenses** beside it. Use a writable folder outside the game directory and Program Files.
 3. Select your game and follow the checks. Review missing prerequisites and optional actions before applying them.
-4. If cleaning up old mods, close the game, mod managers, and Steam. Purge Vortex deployments first if you used Vortex. Setup retains backups; repair missing or changed official files through Steam, then check again.
+4. If cleaning up old mods, close the game, mod managers, and Steam. Purge Vortex deployments first if you used Vortex. Setup retains backups; repair missing or changed official files through your game launcher, then check again.
 5. Choose **Open C&B in Wabbajack** and continue below.
 
-Setup is unsigned; download it from the linked release. The [installation page](https://qcargile.github.io/Chrome-Blood/install.html) also has manual preparation instructions.
+Setup is unsigned; download it from the linked release. [VirusTotal report for the 1.0.1 executable](https://www.virustotal.com/gui/file/a265d0bdc2b9a9054a58b3f06632172d525f7fc45d9d4fc1e5c24702c9366e49). The [installation page](https://qcargile.github.io/Chrome-Blood/install.html) also has manual preparation instructions.
 
 ## Installation
 

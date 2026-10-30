@@ -1,15 +1,15 @@
 # ![Chrome & Blood](https://i.ibb.co/ZRsty7tw/cb-transparent.png)Live Hard. Die Chrome.
 
 > **Chrome & Blood requires Phantom Liberty DLC.**\
-> **Chrome & Blood 5.0: Steam Patch 2.5, build 26161058.**\
+> **Chrome & Blood 5.0 — updated for Cyberpunk 2077 patch 2.5.**\
 > **Need help? Have feedback?** Join the [Chrome & Blood Discord](https://discord.gg/U65Nhdcns8)
 > ----------------------------------------------------------------------------------------------
 
 ***
 
-![What Is Chrome & Blood](https://i.ibb.co/Cp58dHVd/what-is-chrome-and-blood.png)Tuned extensively for **Very Hard** difficulty, C\&B is a full overhaul of Cyberpunk 2077 for players who want Night City to fight back. Combat is lethal, builds are everything, and nothing is handed to you.
+![What Is Chrome & Blood](https://i.ibb.co/Cp58dHVd/what-is-chrome-and-blood.png)Chrome & Blood brings together 500+ mods that rework combat, enemy AI, hacking, cyberware, and the economy. It is balanced around **Very Hard**.
 
-One Standard profile. Combat, AI, hacking, stealth, economy, cyberware, vehicles, and the world around them have been rebuilt as one list.
+Version 5.0 uses one player profile. Existing saves are supported; a new game is recommended.
 
 ![IMG](https://i.ibb.co/7xjhnnNL/n4e-CHr-Y.png)
 
@@ -17,7 +17,7 @@ One Standard profile. Combat, AI, hacking, stealth, economy, cyberware, vehicles
 
 ## The Player Guide Is In-Game
 
-The detailed Chrome & Blood guide now lives inside Cyberpunk 2077 and describes the shipped Standard profile.
+The Player Guide explains the controls and gameplay changes inside the game.
 
 1. Press **H** to open the Character menu, then select **Database**.
 2. Select the first Database category.
@@ -31,7 +31,7 @@ Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**. The guide cove
 
 ***
 
-![Combat](https://i.ibb.co/gZmwGKtJ/combat.png)Fights in Chrome & Blood last seconds, not minutes. The Standard profile keeps base enemy Health low across every rarity tier. Armor, abilities, equipment, AI, and encounter role create the difference between ordinary enemies and serious threats.
+![Combat](https://i.ibb.co/gZmwGKtJ/combat.png)Enemy health has been reduced for shorter fights. Armor, abilities, and equipment still make some enemies tougher.
 
 - Smarter squads through [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) and new enemy cyberware from [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)
 - [Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217) gives every faction its own strengths and exactly one immunity
@@ -44,7 +44,7 @@ Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**. The guide cove
 
 ***
 
-![Builds](https://i.ibb.co/yFPs5Nfh/builds.png)Your chrome defines you. Cyberware has real capacity and slot costs, perks have real impact, and every build plays differently.
+![Builds](https://i.ibb.co/yFPs5Nfh/builds.png)New perks and cyberware expand your build options, with revised slot limits and capacity costs.
 
 - 18 new perks via [Merc Protocol](https://www.nexusmods.com/cyberpunk2077/mods/26751), designed specifically for this list
 - Expanded cyberware through [Neuralware](https://www.nexusmods.com/cyberpunk2077/mods/19798) and the [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series
@@ -54,29 +54,28 @@ Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**. The guide cove
 
 ***
 
-![Stealth & Hacking](https://i.ibb.co/ZpvxFVPF/Stealth-Hacking.png)Stealth is dangerous. Enemies are observant, bodies get found, and one mistake cascades. Hacking has been rebuilt from scratch.
+![Stealth & Hacking](https://i.ibb.co/ZpvxFVPF/Stealth-Hacking.png)Enemies react to noise, bodies, and suspicious activity. Netrunning has new progression, breach, and trace mechanics.
 
 - [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) makes enemies investigate noise, react to bodies and takedowns, and search your last known position
 - Enemy netrunners reposition and support their squad instead of standing still
 - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) overhauls hacking from network access through trace management
-- Ghost a building or watch it all unravel — your call
 
 ![IMG](https://i.ibb.co/JRz1t7Yj/AWGh3NV.png)
 
 ***
 
-![Night City Reborn](https://i.ibb.co/FkxLWVxb/Night-City-Reborn.png)The city looks different. The light hits different. Weather rolls through Night City like it belongs there.
+![Night City Reborn](https://i.ibb.co/FkxLWVxb/Night-City-Reborn.png)Updated lighting, weather, materials, and textures change the look of the city.
 
 - [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490) transforms the visual foundation
 - [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190) handles exposure, adaptation, bloom, vignette, lens flare, and chromatic aberration
 - [HDR LUTs](https://www.nexusmods.com/cyberpunk2077/mods/16310), tuned weather, upgraded fog, and improved LOD
-- [Upgraded civilian](https://www.nexusmods.com/cyberpunk2077/mods/22707) variety for a city that feels alive
+- [Upgraded civilian](https://www.nexusmods.com/cyberpunk2077/mods/22707) variety and restored walking styles
 
 ![IMG](https://i.ibb.co/JR3wGvJw/Bq-DTi-YV.png)
 
 ***
 
-![Vehicles](https://i.ibb.co/jvXBsN1q/vehicles.png)Vehicles combine surface response, dynamic downforce, revised steering, and drift tuning. Cars and bikes differ more sharply, and speed does not erase weight or traction.
+![Vehicles](https://i.ibb.co/jvXBsN1q/vehicles.png)Reworked handling and more cars and bikes to buy.
 
 - Added cars and bikes through [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 - Handling reworked by [Surface Type Expansion](https://www.nexusmods.com/cyberpunk2077/mods/26332), [All vehicles can steer](https://www.nexusmods.com/cyberpunk2077/mods/18210), Dynamic Downforce, and Cyber Drift
@@ -85,9 +84,9 @@ Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**. The guide cove
 
 ***
 
-![The World](https://i.ibb.co/BV7w3H5D/The-World.png)Night City feels alive now. Fixers feel like real contacts. Ripperdocs feel like back-alley surgeons. The economy keeps you hungry.
+![The World](https://i.ibb.co/BV7w3H5D/The-World.png)Repeatable fixer jobs, new encounters, and changes to shops and services give you more to do between story missions.
 
-- [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) makes gigs feel like actual jobs
+- [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) changes how fixer work becomes available
 - [Much Better Ammo](https://www.nexusmods.com/cyberpunk2077/mods/32447) rebuilds ammunition limits, drops, caches, and crafting by weapon class
 - [Much Better Eddies](https://www.nexusmods.com/cyberpunk2077/mods/30532) rebalances prices, payouts, district reputation, and services for the list
 
@@ -95,9 +94,17 @@ Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**. The guide cove
 
 ***
 
+## Much Better Contracts — The Wire
+
+Visit **The Wire** through a computer's Net browser for [Much Better Contracts](https://www.nexusmods.com/cyberpunk2077/mods/35142). Return to cleared gig and organized-crime locations for combat, data theft, sabotage, vehicle recovery, rescue, and capture assignments.
+
+Linked **Operations** take you through several locations. Successful work earns money and crafting specs, raises faction difficulty, and opens iconic opportunities and targeted sourcing. The in-game guide explains objectives, rewards, and withdrawal.
+
+***
+
 ## Customize the List with Unified Mod Settings
 
-Press **Numpad 0** to open Unified Mod Settings. Chrome & Blood groups the settings browser by what you want to change, so you do not need to know which mod owns an option first.
+Press **Numpad 0** to open Unified Mod Settings. Browse by category, search for a mod, or save frequently used options to Favorites.
 
 - **COMBAT, ENEMIES & DIFFICULTY**
 - **WEAPONS & GUNPLAY**
@@ -110,11 +117,11 @@ Press **Numpad 0** to open Unified Mod Settings. Chrome & Blood groups the setti
 - **INVENTORY & QUALITY OF LIFE**
 - **VISUALS & PERFORMANCE**
 
-Search and favorites remain available when you already know what you want. Change one system at a time and test it before changing another; replacing or removing mods is still covered by [Rule 11](https://qcargile.github.io/Chrome-Blood/mods.html#rule11).
+Change one setting at a time so you can tell what it does. Adding or removing mods is covered by [Rule 11](https://qcargile.github.io/Chrome-Blood/mods.html#rule11).
 
 ***
 
-## Standard Profile
+## Playing Chrome & Blood 5.0
 
 Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**. The Immersive profile has been retired.
 
@@ -124,23 +131,33 @@ Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**
 - Dark Future Core is included as an optional module and disabled by default. Some graphical mods are kept but temporarily disabled while we wait for their Cyberpunk 2.5 updates.
 - Buy Chrome Ballistics weapons, attachments, and schematics from physical gunsmiths and melee vendors. Virtual Atelier and Sabbath are no longer included.
 
-Existing saves are supported; a new game is recommended for the full experience. Back up saves and personal settings before updating.
+Existing saves are supported; a new game is recommended for 5.0. Back up saves and personal settings before updating.
 
 ***
 
+## System Requirements
+
+![System requirements](https://i.ibb.co/hFq8GqKP/system-requirements.png)
+
+Requires an official PC copy of **Cyberpunk 2077 2.5**, **Phantom Liberty**, **REDmod**, Windows 10/11, and an SSD.
+
 ## Installation
 
-Requires **Cyberpunk 2077 2.5 on PC (build 26161058)**, **Phantom Liberty**, **REDmod**, **Windows 10/11**, and an **SSD**. A newer game version is not automatically supported.
-
 1. Download [Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.0.1/ChromeBlood-Setup-1.0.1.zip).
-2. Extract the **entire ZIP** to a writable folder outside the game, Program Files, and cloud-synced folders. Keep **Assets** and **licenses** beside `ChromeBloodSetup.exe`, then run it.
-3. Check the selected game and review missing prerequisites and optional cleanup. Purge Vortex deployments before cleanup, close the game and mod managers, and close Steam when cleaning its game folder. Repair official files through Steam if requested, then verify again.
-4. Choose **Open C&B in Wabbajack**. Set the installation and downloads folders outside the game and Program Files, on the same drive as the game, then install.
-5. Open the installed list's `ModOrganizer.exe`, select **Chrome & Blood - Standard Profile**, and press **Run**.
+2. Extract the entire ZIP and run **ChromeBloodSetup.exe**. Keep the Assets and licenses folders beside it.
+3. Follow Setup's game checks, then choose **Open C&B in Wabbajack**.
+4. Choose separate installation and downloads folders, outside the game directory and Program Files, on the same drive as the game. Sign in to Nexus and install the list.
+5. Open **ModOrganizer.exe** from the list's installation folder, select **Chrome & Blood - Standard Profile**, and press **Run**.
 
-Wabbajack handles Nexus sign-in, downloads, installation, and list updates. Setup prepares the game; it does not manage the installed modlist. Check Wabbajack's storage requirements before installing and allow extra space for extraction and cleanup backups.
+The [full installation guide](https://qcargile.github.io/Chrome-Blood/install.html) includes manual preparation, antivirus instructions, and help with updating. Check Wabbajack's space requirements before installing. You can also use **Add to Wabbajack** on this collection page after preparing the game.
 
-The [system requirements](https://qcargile.github.io/Chrome-Blood/install.html) list the hardware guidance. The full [install guide](https://qcargile.github.io/Chrome-Blood/install.html) includes manual preparation and troubleshooting. Use the same Wabbajack installation folder when updating.
+[VirusTotal report for the Setup 1.0.1 executable](https://www.virustotal.com/gui/file/a265d0bdc2b9a9054a58b3f06632172d525f7fc45d9d4fc1e5c24702c9366e49)
+
+## MO2 Tools
+
+**Archives Load Order** shows archive priorities and conflicts separately from the left-pane mod order. Higher legacy archives win. Keep the supplied order unless you are customizing the list.
+
+MO2 can also notify you when a newer C&B version is published and open Wabbajack. It does not install updates automatically; close the game and MO2 before updating.
 
 ***
 
@@ -166,7 +183,7 @@ The current control list and Standard profile bindings are maintained in **C&B -
 
 ***
 
-![Acknowledgments](https://i.ibb.co/qMvfFBpB/Chat-GPT-Image-Feb-9-2026-12-39-59-PM.png)This list exists because of the Cyberpunk modding community. Every mod author whose work is included here made Chrome & Blood possible.
+![Acknowledgments](https://i.ibb.co/qMvfFBpB/Chat-GPT-Image-Feb-9-2026-12-39-59-PM.png)Thanks to the mod authors and the Chrome & Blood community.
 
 Special thanks to:
 
@@ -178,7 +195,7 @@ Special thanks to:
 - Every mod author in the list
 - The Chrome & Blood Discord community for testing, feedback, and bug reports
 
-If you enjoy this list, **endorse the individual mods**. The people who made them are the reason any of this works.
+If you enjoy the list, **endorse the individual mods**.
 
 ***
 

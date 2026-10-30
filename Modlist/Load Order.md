@@ -1,42 +1,22 @@
 ## [Chrome & Blood Load Order](https://qcargile.github.io/Chrome-Blood/loadorder.html)
 
-### Biggest gameplay mods in the list and what they do  
-> **This isn't every mod in the list.** These are the ones with the biggest effect on gameplay.
-
-<details>
-<summary>Immersive-Only Mods</summary>
-
-- [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)  
-  Adds environmental needs and survival mechanics. Chrome & Blood keeps map fast travel available and pairs it with payment and elapsed travel time.
-
-- [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)  
-  Locks gameplay essentials like inventory, scanner, and healthbar behind cyberware upgrades, making chrome a necessity rather than a convenience.
-
-- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)  
-  Hides HUD elements dynamically except during combat or interaction, keeping players focused on the world, not the UI.
-
-- [Virtual Atelier Delivery](https://www.nexusmods.com/cyberpunk2077/mods/21482?tab=files)  
-  Adds realistic delivery delays when purchasing from Virtual Atelier, reinforcing pacing and immersion while reducing instant gratification.
-
-- [Pay to Go](https://www.nexusmods.com/cyberpunk2077/mods/23415)  
-  Makes public transit and taxi services cost eddies, grounding travel in the game’s economy.
-
-- [Fast Travel Time](https://www.nexusmods.com/cyberpunk2077/mods/23250)  
-  Adds a passage of in-game time when fast traveling, balancing convenience with immersion.
-
-- [Discard Magazine Ammo on Reload](https://www.nexusmods.com/cyberpunk2077/mods/2819)
-  Exactly what the title says
-
-- [Manual Reload](https://www.nexusmods.com/cyberpunk2077/mods/2804)  
-  Disables automatic reloading; player must physically push the reload button 
-
-</details>
-
-
----
+### Highlights from the Standard profile
+> For every enabled mod and its priority, use the full load order above. The in-game Player Guide explains the shipped settings and controls.
 
 <details>
 <summary>Gameplay Mechanics</summary>
+
+- [Much Better Ammo](https://www.nexusmods.com/cyberpunk2077/mods/32447)
+  Splits ammunition into eight weapon-class pools with separate carry limits, drops, caches, and crafting.
+
+- [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+  Hides HUD elements contextually. Enabled by default in Standard, with no implant requirement.
+
+- [Manual Reload](https://www.nexusmods.com/cyberpunk2077/mods/2804)
+  Empty weapons stay empty until you press Reload. Magazine-ammunition discard also makes most early reloads lose the rounds left in the magazine.
+
+- [Pay to Go](https://www.nexusmods.com/cyberpunk2077/mods/23415) and [Fast Travel Time](https://www.nexusmods.com/cyberpunk2077/mods/23250)
+  Map and dataterm travel charge a fare and advance the clock.
 
 - [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402)  
   Overhauls enemy decision-making across combat and stealth. Squads coordinate, react to what you're doing, search your last known position, respond to noise and bodies, and use netrunners more effectively.
@@ -80,15 +60,8 @@
 - [Reinforcements System](https://www.nexusmods.com/cyberpunk2077/mods/21532)  
   Enables faction-specific mid-combat back-up, escalating firefights realistically.
 
-- [Ammo Limiter](https://www.nexusmods.com/cyberpunk2077/mods/21807)  
-  Auto-manages ammo and enforces scarcity to encourage resource planning.
-
 - [Damage Scaling And Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865)  
   Offers tailored multipliers for all weapon categories (melee, ranged, hacks) for both V and NPCs.
-
-- [Disassemble Weapons for Recipes](https://www.nexusmods.com/cyberpunk2077/mods/21747)  
-  Lets you disassemble unique weapons to unlock their crafting recipes.
-
 
 </details>
 
@@ -98,16 +71,16 @@
 <summary>Quests</summary>
 
 - [New Quest – Hot Fuzz](https://www.nexusmods.com/cyberpunk2077/mods/7832)  
-  A fast-paced, action-comedy style mission with explosive setups.
+  An added Judy quest. See the in-game Jobs & The World guide for its prerequisites.
 
 - [New Quest – One More Light](https://www.nexusmods.com/cyberpunk2077/mods/7834)  
-  A more melancholic, emotionally charged quest focusing on personal connections.
+  An added quest following Jackie's ofrenda.
 
 - [New Quest – Encore](https://www.nexusmods.com/cyberpunk2077/mods/8413)  
-  Explores the aftermath of major events through branching moral decisions.
+  An added Panam quest following her romance and camp move.
 
 - [New Quest – Californication](https://www.nexusmods.com/cyberpunk2077/mods/7833)  
-  Dives into the darker sides of fame and vice in Night City.
+  An added Judy quest. See the in-game Jobs & The World guide for its prerequisites.
 
 </details>
 
@@ -115,9 +88,6 @@
 
 <details>
 <summary>NPC Interactions</summary>
-
-- [Hangout Romances](https://www.nexusmods.com/cyberpunk2077/mods/18972)  
-  Adds spend-time hangouts with romance options for deeper relationships.
 
 - [Better Children](https://www.nexusmods.com/cyberpunk2077/mods/16462)  
   Enhances child NPC realism and behavior.
@@ -147,14 +117,8 @@
 - [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)  
   Makes summoning more intuitive and glitch-free.
 
-- [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675)  
-  Adds speed boosts for cinematic, fast-paced driving sequences.
-
 - [Cyber Drift](https://www.nexusmods.com/cyberpunk2077/mods/8306)  
   Lets you manually drift for better handling and style.
-
-- [Cyber Grip](https://www.nexusmods.com/cyberpunk2077/mods/19699)  
-  Improves traction and steering control for more responsive driving.
 
 </details>
 
@@ -164,13 +128,10 @@
 <summary>Weapons</summary>
 
 - [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819)  
-  Reworks damage, penetration, range, and headshots for impactful, low-TTK combat. Modded weapons are now level-gated, seeded onto enemies, and have craftable schematics.
+  Reworks damage, penetration, range, and headshots for impactful, low-TTK combat. Added weapons, attachments, and schematics are sold by physical gunsmiths and melee vendors. Weapon and schematic tiers unlock at levels 1, 8, 18, 28, and 40.
 
 - [Extra Iconics](https://www.nexusmods.com/cyberpunk2077/mods/15889)  
   Adds more legendary guns into your arsenal.
-
-- [Vanilla Reworks Explosive Pack – Iconic Weapons](https://www.nexusmods.com/cyberpunk2077/mods/17483)  
-  Introduces new iconic weapons like Malorian 3516 with fresh gameplay flair.
 
 </details>
 
@@ -192,7 +153,7 @@
   Adds 21 new iconic cyberarms, spread across Mantis Blades, Gorilla Arms, Monowire, and Projectile Launcher System.
 
 - [Upgrade Weapons Unlocked](https://www.nexusmods.com/cyberpunk2077/mods/9889)  
-  Allows free upgrade tweaking without costly limitations.
+  Allows ordinary guns to be upgraded; the shipped preset limits them to their + version instead of the full tier ladder.
 
 - [Renaissance Punk – Perk Scaling](https://www.nexusmods.com/cyberpunk2077/mods/14037)  
   Overhauls perk progression for more reward-driven character builds.
@@ -206,12 +167,6 @@
 
 - [Preem Scopes](https://www.nexusmods.com/cyberpunk2077/mods/10021)  
   Cleans up scope visuals by removing scanlines and depth distortion.
-
-- [Nova Rain & Ripples](https://www.nexusmods.com/cyberpunk2077/mods/13483)  
-  Enhances rain and water effects with cinematic realism.
-
-- [ReLUX – Lighting Redux](https://www.nexusmods.com/cyberpunk2077/mods/20808)  
-  Rebuilds lighting systems for more realistic, stylized visuals.
 
 - [Weather Switcher](https://www.nexusmods.com/cyberpunk2077/mods/18027)  
   Gives manual control over weather and time settings.
@@ -240,9 +195,6 @@
 
 - [Unified Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/28308)  
   Merges the modlist’s two settings menus into one, with favorites and per-mod profile sections.
-
-- [More Weapon Filters](https://www.nexusmods.com/cyberpunk2077/mods/16565)  
-  Adds inventory filters to improve item management.
 
 - [HUD Painter](https://www.nexusmods.com/cyberpunk2077/mods/14935)  
   Lets you customize HUD element colors.

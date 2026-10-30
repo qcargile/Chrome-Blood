@@ -1,14 +1,7 @@
 ![chrome and blood](https://github.com/user-attachments/assets/51c77680-565a-42ce-895f-51848c845839)
 
->[!IMPORTANT]
->- Everything about the list — install guide, the mods, full load order, changelog, FAQ — lives on the **[Chrome & Blood website](https://qcargile.github.io/Chrome-Blood/)**.
->- Chrome & Blood requires the Phantom Liberty DLC.
->- This list has been updated for official game patch 2.31a!
-
->[!WARNING]
->The current public release targets Cyberpunk 2077 2.31a on Steam. A newer game patch is not automatically supported.
-
-[Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/tag/v1.0.1) targets Cyberpunk 2077 2.5 and preserves verified DLSS swaps and their backups. It is intended for C&B revisions that support that game version. The [MO2 archive-order and update-notice plugins remain at 1.0](https://github.com/qcargile/CyberpunkModlistSetup/releases/tag/v1.0). These tools do not update the modlist itself; the current public list's version requirements above still apply. Downloads include SHA-256 checksums and MIT-licensed source, with third-party licenses retained.
+> [!IMPORTANT]
+> Chrome & Blood 5.0 requires Steam Cyberpunk 2077 2.5, Phantom Liberty, and REDmod. Start with the [installation guide](https://qcargile.github.io/Chrome-Blood/install.html).
 
 ## Table of Contents
 
@@ -24,52 +17,41 @@
 
 ## Introduction
 
-**Chrome & Blood** is a full overhaul of *Cyberpunk 2077* for players who want a faster, harder, and more rewarding Night City. Combat, AI, economy, hacking, cyberware, stealth — all of it has been reworked. Builds matter, fights are lethal, and nothing is handed to you.
+**Chrome & Blood** reworks combat, AI, hacking, cyberware, and the economy for a harder playthrough of Cyberpunk 2077.
 
-- **Visuals** pushed with [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190), HDR LUTs, and tuned weather/LOD/fog
-- **Combat** built around low Health, layered [ME Armor](https://www.nexusmods.com/cyberpunk2077/mods/30548), [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402), and [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585)
-- **Weapons** rebalanced via [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819) and [Damage Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/21865) — every archetype is worth building around
-- **Cyberware** expanded with [Neuralware - Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798) and the [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series
-- **Perks** expanded through [Merc Protocol](https://www.nexusmods.com/cyberpunk2077/mods/26751) — 18 new perks with unique mechanics built for this list
-- **Vehicles** with reworked handling, [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675), and a full garage of lore-friendly cars and bikes
-- **Immersion** with [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460), bounty hunting, new street encounters, and better ripperdocs
+### Standard Profile
 
----
+Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**. The Immersive profile has been retired.
 
-### Choose Your Playstyle
+- Limited HUD is enabled by default; the HUD needs no special implant.
+- Reload manually. Reloading early usually discards the ammunition left in the magazine.
+- Fast travel charges a fare and advances the clock; dialogue checks are hidden.
+- Dark Future Core is included as an optional module and disabled by default. Ultra+, World Builder, General Shadows Fixes, Draw Distance ReImagined, and ReImagined are also included but disabled.
+- Chrome Ballistics weapons, attachments, and schematics are sold by physical gunsmiths and melee vendors.
 
-Chrome & Blood has two profiles. Same deadly core, different rules.
+Existing saves are supported; a new game is recommended for 5.0. Back up saves and personal settings before updating.
 
-#### Immersive Profile
-The hardcore option. Stripped down, survival-focused, built around earning everything.
-- Darker visuals, needs management, and UI restrictions via [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)
-- HUD elements like the minimap, 3rd person driving, and health bars are locked behind cyberware through [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)
-- Remaining HUD stays hidden unless the situation calls for it via [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-- In-game deliveries take time instead of being instant with [Virtual Atelier Delivery](https://www.nexusmods.com/cyberpunk2077/mods/21482)
-
-#### Standard Profile
-Same reworked combat and systems, just without the survival layer.
-- Full UI and inventory access from the start
-- No needs or HUD restrictions
-
-#### Cosmetics
-As of v3.2, cosmetic mods have been pulled from both profiles. Chrome & Blood is purely gameplay now — add whatever cosmetics you want on top. Use the `[NoDelete]` tag in MO2 to keep your additions safe across updates.
+Read [Rule 11](https://qcargile.github.io/Chrome-Blood/mods.html#rule11) before adding your own mods, and use the `[NoDelete]` tag to preserve additions across updates.
 
 ---
 
-### What Both Profiles Include
+### What the List Includes
 
-- **Frameworks:** CET, redscript, RED4ext, ArchiveXL, TweakXL, Codeware, and Unified Mod Settings — everything you need is already set up.
-- **Visuals:** [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190), HDR LUTs, upgraded civilians, and tuned weather/LOD/fog.
-- **Combat:** Every enemy tier uses the same low Health baseline. [ME Armor](https://www.nexusmods.com/cyberpunk2077/mods/30548), [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402), [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585), and faction traits create the difference between ordinary enemies and serious threats.
-- **Weapons:** [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819) and [Damage Scaling and Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865) make every weapon type — guns, blades, cyberware, hacks — worth building around.
+- **Frameworks:** CET, redscript, RED4ext, ArchiveXL, TweakXL, Codeware, and Unified Mod Settings are included.
+- **Visuals:** [Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490), [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190), HDR LUTs, upgraded civilians, and tuned weather/LOD/fog.
+- **Combat:** Enemy Health is reduced, with separate tuning for ordinary enemies, elites, bosses, MaxTac, and machines. [ME Armor](https://www.nexusmods.com/cyberpunk2077/mods/30548), [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402), [Cyber Enemies](https://www.nexusmods.com/cyberpunk2077/mods/30585), and faction traits create the difference between ordinary enemies and serious threats.
+- **Weapons:** [Chrome Ballistics](https://www.nexusmods.com/cyberpunk2077/mods/22819) and [Damage Scaling and Balance - Extended](https://www.nexusmods.com/cyberpunk2077/mods/21865) rebalance weapon damage and progression.
 - **Cyberware:** Realistic slot limits and expanded build options through [Neuralware - Chipware Expansion](https://www.nexusmods.com/cyberpunk2077/mods/19798) and the [Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) series.
 - **Perks:** [Merc Protocol – Perk Gameplay Expansion](https://www.nexusmods.com/cyberpunk2077/mods/26751) adds 18 new perks with unique mechanics built for this list.
-- **Vehicles:** Reworked handling, [Nitrous](https://www.nexusmods.com/cyberpunk2077/mods/20675), and a full garage of lore-friendly cars and bikes through [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454).
+- **Vehicles:** Reworked handling and a full garage of added cars and bikes through [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454).
 - **Stealth & Hacking:** [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) makes enemies investigate noise, react to bodies and takedowns, search your last known position, and coordinate after spotting you. Enemy netrunners reposition and support their squad, while [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) overhauls hacking from the ground up.
-- **Immersion:** [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460), [bounty hunting](https://www.nexusmods.com/cyberpunk2077/mods/21820), new street encounters, longer day/night cycles, and better ripperdocs all add depth to how the world feels.
+- **Immersion:** [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460), new street encounters, longer day/night cycles, and better ripperdocs change the world between story missions.
 - **Economy:** [Gigs, loot, and rewards](https://www.nexusmods.com/cyberpunk2077/mods/30532) have been rebalanced through Much Better Eddies — steeper scaling, bigger payouts, and phone-ordered services.
-- **Builds:** Dozens of weapon and cyberware mods give you real options no matter how you play.
+- **Builds:** Added weapons, perks, and cyberware give you more build options.
+
+### Repeatable Fixer Work
+
+Visit **The Wire** through a computer's Net browser for Much Better Contracts. It sends you back to cleared gig and organized-crime locations for new assignments, with linked Operations across multiple sites. Successful work earns money and crafting specs, raises faction difficulty, and opens targeted sourcing. The Database guide explains acceptance, objectives, withdrawal, and rewards.
 
 ### The Point
 
@@ -83,7 +65,6 @@ This list isn't meant to be easy. With all of the above tuned for **very hard**,
 
 - **Website**: [qcargile.github.io/Chrome-Blood](https://qcargile.github.io/Chrome-Blood/)
 - **Full Load Order**: [all mods](https://qcargile.github.io/Chrome-Blood/loadorder.html)
-- **Mod Breakdown**: [The biggest mods and what they do](https://qcargile.github.io/Chrome-Blood/mods.html)
 - **Player Guide**: [Find the in-game Database guide](https://qcargile.github.io/Chrome-Blood/guide.html)
 - **Changelog**: [All Releases](https://qcargile.github.io/Chrome-Blood/changelog.html)
 - **FAQ**: [Frequently Asked Questions](https://qcargile.github.io/Chrome-Blood/faq.html)
@@ -93,137 +74,57 @@ This list isn't meant to be easy. With all of the above tuned for **very hard**,
 
 ## System Requirements
 
-Based on internal testing and community feedback. Your mileage will vary depending on hardware, background programs, and drivers.
+Based on testing and community feedback. Performance varies with your graphics settings.
 
-> [!WARNING]
-> - You need an **official** copy of *Cyberpunk 2077*.
-> - An **SSD is required** — do not try to run this on an HDD.
-> - Only **Windows 10/11** is supported. I **will not** provide support for other operating systems.
+![system requirements](docs/assets/img/sysreq.png)
 
-![system requirements](https://github.com/user-attachments/assets/ba13e4bc-71b5-4379-9e36-b2640c552c05)
-
-<details>
-<summary><strong>Size Breakdown</strong></summary>
-
-- **Base Game + DLC:** ~84.6 GB
-- **Modlist Downloads:** ~11 GB
-- **Modlist Install Size:** ~9.6 GB
-
-**Modlist Total:** ~21 GB
-**Overall Space Required:** ~105 GB
-
-</details>
+Requires an official Steam copy of **Cyberpunk 2077 2.5**, **Phantom Liberty**, **REDmod**, Windows 10/11, and an SSD. Check Wabbajack's space requirements before installing and leave room for extraction and backups.
 
 ## Preinstallation
 
-> Screenshots and instructions below assume you're using the **Steam version**.
+Update your [NVIDIA](https://www.nvidia.com/en-us/software/nvidia-app/) or [AMD](https://www.amd.com/en/support/download/drivers.html) drivers before installing.
 
-1. [Perform a clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) of *Cyberpunk 2077* — install it **outside** of `Program Files`.
+1. Download [Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.0.1/ChromeBlood-Setup-1.0.1.zip).
+2. Extract the entire ZIP and run `ChromeBloodSetup.exe`. Keep **Assets** and **licenses** beside it. Use a writable folder outside the game directory and Program Files.
+3. Select your game and follow the checks. Review missing prerequisites and optional actions before applying them.
+4. If cleaning up old mods, close the game, mod managers, and Steam. Purge Vortex deployments first if you used Vortex. Setup retains backups; repair missing or changed official files through Steam, then check again.
+5. Choose **Open C&B in Wabbajack** and continue below.
 
-2. Install the [Visual C++ Redistributables (All-in-One)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) — extract and run `install_all.bat`.
-
-3. Disable Steam auto-updates:
-   <details>
-   <summary>How to disable auto-updates</summary>
-
-   1. Right-click *Cyberpunk 2077* in your Steam Library > **Properties**
-   2. Go to the **Updates** tab
-   3. Set Automatic Updates to **"Only update this game when I launch it"**
-   4. From now on, **only launch the game through Mod Organizer 2**.
-
-   </details>
-
-4. Make sure **all official DLC** is installed.
-
-5. Install [REDmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/) if you haven't already.
-   ![image](https://github.com/user-attachments/assets/dc727531-5f72-4bb6-aa64-df340b48c1a3)
-
-6. Update your GPU drivers — [NVIDIA App](https://www.nvidia.com/en-us/software/nvidia-app/) or [AMD Adrenalin](https://www.amd.com/en/support/download/drivers.html).
-
-7. Install [.NET Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (latest version).
-
-8. Install [DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=35).
-
----
-
-**Before moving on**, make sure Steam shows both **Cyberpunk 2077: REDmod** and **Cyberpunk 2077: Phantom Liberty** as installed.
-
+Setup is unsigned; download it from the linked release. The [installation page](https://qcargile.github.io/Chrome-Blood/install.html) also has manual preparation instructions.
 
 ## Installation
 
-You can install Chrome & Blood from the [**Nexus Collection**](https://www.nexusmods.com/games/cyberpunk2077/collections/lrcdrr), [**Nexus Mods**](https://www.nexusmods.com/cyberpunk2077/mods/20942?tab=description), or the [**Wabbajack Gallery**](https://www.wabbajack.org/gallery?selectedGame=Cyberpunk%202077&nsfw=true&showUnofficial=true) — all of them route into Wabbajack for the install.
+1. Open Chrome & Blood in Wabbajack and sign in to Nexus Mods when prompted.
+2. Choose separate installation and downloads folders, such as `D:\Wabbajack\Chrome & Blood` and `D:\Wabbajack\downloads`. Keep them on the same drive as Cyberpunk, outside the game directory, Program Files, and cloud-synced folders. You can reuse a shared downloads folder.
+3. Click **Install** and let Wabbajack finish.
 
----
-
-### Wabbajack Installation
-
-1. **Download [Wabbajack](https://www.wabbajack.org)** and put it somewhere safe — not inside your Cyberpunk folder and not in a protected location like Program Files.
-   > Example: `D:\Wabbajack`
-
-2. Launch **Wabbajack** and go to **Browse Modlists**.
-
-3. Filter by **Cyberpunk 2077** and tick **Featured**.
-
-4. Search for **Chrome & Blood** if it doesn't show up right away.
-
-5. Click the cover art, then download and install.
-
-6. Set your paths:
-   - **Installation:** `D:\Wabbajack\Chrome & Blood`
-   - **Downloads:** `D:\Wabbajack\downloads` or `D:\Wabbajack\Chrome & Blood\downloads`
-
-   Using a shared downloads folder lets different Wabbajack lists reuse the same archives.
-
-   > ⚠️ Both folders need to be on the **same drive** as your Cyberpunk install, and **not** inside the game directory or Program Files.
-
-7. Hit **Install** and let Wabbajack do its thing.
-
-8. Once it's done, open the install folder and launch `ModOrganizer.exe`.
-
-9. In MO2, choose either the **Standard** or **Immersive** profile, then hit **Run** in the top right.
-
+Antivirus software can quarantine files that MO2 needs. Add the installation and downloads folders to its exclusions before installing. The [installation page](https://qcargile.github.io/Chrome-Blood/install.html) includes Windows Defender instructions.
 
 ## Post-Installation
 
-### Antivirus
+Open `ModOrganizer.exe` from the list's installation folder. Select **Chrome & Blood - Standard Profile** and press **Run**. Launch through MO2 each time.
 
-> [!WARNING]
-> Antivirus software (especially BitDefender, Norton, Webroot) will cause problems with [MO2's Virtual File System](https://stepmodifications.org/wiki/Guide:Mod_Organizer/Advanced). You may need to fully remove third-party antivirus for this list to work. Windows Defender with smart browsing habits is enough.
+The **Archives Load Order** tab is separate from the left-pane mod order. Higher legacy archives win. Keep the supplied order unless you are customizing the list.
 
-If you're using Windows Defender, add folder exclusions:
-
-<details>
-<summary>How to add a Windows Defender exception</summary>
-
-1. Open **Windows Security**
-2. Go to **Virus & threat protection**
-3. Click **Manage settings**
-4. Scroll to **Exclusions** > **Add or remove exclusions**
-5. Add your Chrome & Blood installation folder
-6. (Optional) Also exclude `ModOrganizer.exe` and `Cyberpunk2077.exe`
-
-</details>
-
-Also disable any overlays — Steam overlay, Discord overlay, GPU software overlays, Xbox Game Bar, etc.
-
----
+MO2 can notify you about list updates and open Wabbajack. It does not install updates automatically.
 
 ## Updating the Modlist
 
-1. Open Wabbajack and find Chrome & Blood in the gallery.
-2. Point it at the same installation folder you used before.
-3. Install, then launch through Mod Organizer 2.
+5.0 supports existing saves; a new game is recommended.
 
+1. Close the game and MO2. Back up saves and personal settings using the [FAQ instructions](https://qcargile.github.io/Chrome-Blood/faq.html#backups-updates).
+2. Open Chrome & Blood in Wabbajack and keep your existing installation and downloads paths.
+3. Install the update, then launch through MO2 with **Chrome & Blood - Standard Profile** selected.
+
+If you used the old Immersive profile, the FAQ also explains how to move your saves to Standard.
 
 ## In-Game Guide & Settings
 
-The current controls, mechanics, counters, and profile-specific instructions are inside the game. Press **H** to open the Character menu, select **Database**, choose the first category, then open any section beginning with **C&B**. Start with **C&B - Start Here** and **C&B - Controls & Hotkeys**.
+Press **H**, select **Database**, and open the first category. Start with **C&B - Start Here** or **C&B - Controls & Hotkeys**.
 
-Press **`Numpad 0`** to open Unified Mod Settings. Its browser is grouped by the part of the game you want to change, and it also includes search, favorites, and per-mod profiles. The [Player Guide page](https://qcargile.github.io/Chrome-Blood/guide.html) shows where both systems live.
-
----
+**Numpad 0** opens Unified Mod Settings. Browse by category, search for a mod, or use Favorites. The [Player Guide page](https://qcargile.github.io/Chrome-Blood/guide.html) has screenshots and a section list.
 
 ## Known Issues
 
-None tracked right now. Check the [FAQ](https://qcargile.github.io/Chrome-Blood/faq.html) for common questions, or ask in the [Discord](https://discord.gg/U65Nhdcns8).
+Check the [FAQ](https://qcargile.github.io/Chrome-Blood/faq.html) for common questions, or ask in the [Discord](https://discord.gg/U65Nhdcns8).
 

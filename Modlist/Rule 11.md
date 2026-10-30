@@ -26,7 +26,7 @@ You can — just take precautions to avoid conflicts or accidental overwrites du
 If you’re making extensive changes, create a custom profile:
 
 1. Click on the `Profile` dropdown in Mod Organizer and select **Manage...**
-2. Duplicate the `Chrome & Blood` profile.
+2. Duplicate the `Chrome & Blood - Standard Profile` profile.
 3. Rename it something like `[NoDelete] Custom Chrome`.
 4. Use this new profile for your custom playthroughs.
 

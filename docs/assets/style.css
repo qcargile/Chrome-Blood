@@ -714,6 +714,7 @@ details.fold .fold-body { padding: 4px 22px 20px; color: var(--text-dim); }
 .md li { margin: 5px 0; }
 .md hr { border: none; border-top: 1px dashed var(--line-bright); margin: 34px 0; }
 .md code { font-family: var(--mono); font-size: 0.84em; background: var(--bg3); border: 1px solid var(--line); padding: 0.1em 0.4em; color: var(--secondary); }
+.md :not(pre) > code { overflow-wrap: anywhere; }
 .md pre { background: var(--bg3); border: 1px solid var(--line); padding: 16px 18px; overflow-x: auto; margin: 16px 0; }
 .md pre code { border: none; background: none; padding: 0; }
 .md blockquote { border-left: 3px solid var(--primary-dim); padding: 6px 0 6px 18px; margin: 16px 0; color: var(--text-dim); }

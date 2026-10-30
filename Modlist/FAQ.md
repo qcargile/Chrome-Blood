@@ -1,6 +1,6 @@
 # ❓ Chrome & Blood — Frequently Asked Questions
 
-This page is for updates, troubleshooting, and common technical problems. For controls and gameplay systems, press **`H`** to open the Character menu, select **Database**, choose the first category, and use the sections beginning with **C&B**. For settings, press **`Numpad 0`** to open Unified Mod Settings.
+Help with installation, updates, and common problems. For controls and gameplay, use the [in-game Player Guide](https://qcargile.github.io/Chrome-Blood/guide.html). **Numpad 0** opens mod settings.
 
 ---
 
@@ -18,16 +18,19 @@ This page is for updates, troubleshooting, and common technical problems. For co
 
 **Q: Do I need to prepare my save before updating?**
 
-**A:** Read the newest [changelog](https://qcargile.github.io/Chrome-Blood/changelog.html). If a release needs special preparation, the warning will appear directly under its save-compatibility line. If there is no warning, update normally.
+**A:** 5.0 supports existing saves; a new game is recommended. Back up saves and personal settings first. The Immersive profile has been retired; select **Chrome & Blood - Standard Profile** after updating. Check the [changelog](https://qcargile.github.io/Chrome-Blood/changelog.html) for any update-specific instructions.
 
 **Q: How do I back up my saves and personal settings?**
 
-**A:** Open your Chrome & Blood installation folder, then back up the folder for the profile you use:
+**A:** Open your Chrome & Blood installation folder, then back up your Standard profile saves:
 
-- `profiles\Chrome & Blood - Immersive Profile\saves`
 - `profiles\Chrome & Blood - Standard Profile\saves`
 
+If you previously used Immersive, also preserve `profiles\Chrome & Blood - Immersive Profile\saves`. After updating, copy the backed-up save folders you want to continue into Standard's saves folder. Keep the backups and do not overwrite same-named Standard saves. If profile-specific saves were disabled, back up `%USERPROFILE%\Saved Games\CD Projekt Red\Cyberpunk 2077` instead.
+
 Settings supplied by the list live in the matching **Chrome and Blood modlist settings** mod. Settings changed by you may also appear in **Overwrite** at the bottom of MO2's left pane.
+
+When backing up Much Better Contracts, preserve its `settings.json` and all `contract-*.log` files in its CET folder, including copies in Overwrite. Those files hold assignment history and recovery state; they are not disposable diagnostic logs.
 
 **Q: My saves are not in MO2's Saves tab.**
 
@@ -51,7 +54,15 @@ Settings supplied by the list live in the matching **Chrome and Blood modlist se
 
 **Q: How should I launch the game?**
 
-**A:** Open `ModOrganizer.exe`, choose the Immersive or Standard profile, and press **Run**. Do not launch Cyberpunk 2077 through Steam or a desktop shortcut.
+**A:** Open `ModOrganizer.exe`, select **Chrome & Blood - Standard Profile**, and press **Run**. Do not launch Cyberpunk 2077 through Steam or a desktop shortcut.
+
+**Q: What is the Archives Load Order tab?**
+
+**A:** It controls legacy archive priority for the selected profile. Higher archives win. This is separate from the left-pane mod order; REDmod entries are read-only. Keep the curated order for the supported list. Colors show resource overlap, not a compatibility verdict. Choose **Save order** after making changes.
+
+**Q: Does the update notification update my mods automatically?**
+
+**A:** No. It checks for a newer C&B list version and offers to open Wabbajack. **Don't show this version again** dismisses that version only. Close MO2 and the game before installing the update.
 
 **Q: The game will not launch or files disappear after installation.**
 
@@ -81,19 +92,31 @@ Find the folder for the crash you want analyzed, zip the entire folder, and send
 
 **Q: Damage feels too high or too low. What should I change first?**
 
-**A:** Open UMS and start in **COMBAT, ENEMIES & DIFFICULTY**. Change one setting at a time, then test it before adjusting another. The included profiles are balanced around **Very Hard**, but the vanilla difficulty selector still works.
+**A:** Open UMS and start in **COMBAT, ENEMIES & DIFFICULTY**. Change one setting at a time, then test it before adjusting another. The Standard profile is balanced around **Very Hard**, but the vanilla difficulty selector still works.
 
 **Q: Quickhacks, armor, time dilation, crafting, or weapon access work differently from vanilla. Is that intended?**
 
-**A:** Usually. Those systems are all reworked by the list. Use the matching **C&B** Database section for the current rules, progression gates, counters, and profile-specific behavior.
+**A:** Usually. The list changes those systems. The matching **C&B** Database section explains how they work.
 
 ---
 
 ## 🧠 HUD, World & Inventory
 
-**Q: The Immersive profile is hiding HUD elements.**
+**Q: My crosshair does not recenter after firing.**
 
-**A:** That profile intentionally restricts parts of the HUD through cyberware requirements and contextual visibility. Open **C&B - UI & Inventory** in the Database for the current requirements and controls. Relevant options are under **HUD, ACCESSIBILITY & CONTROLS** in UMS.
+**A:** Recoil recovery is disabled for both hip fire and aiming down sights. Control the climb yourself; aiming reduces recoil to 70%. Change Weapon Handling Control in UMS if you want different behavior.
+
+**Q: Can I filter saves by lifepath or save type?**
+
+**A:** Those filters are no longer included. Named Saves still lets you label manual saves and search those labels on the load screen.
+
+**Q: Which optional mods are included but disabled?**
+
+**A:** Dark Future Core, Ultra+, World Builder, General Shadows Fixes, Draw Distance ReImagined, and ReImagined remain available in MO2. They are not enabled in the default Standard profile. The guide describes the default setup.
+
+**Q: Why is the HUD hidden?**
+
+**A:** Limited HUD is enabled by default in Standard. It hides elements contextually; no special implant is required. Relevant options are under **HUD, ACCESSIBILITY & CONTROLS** in UMS. Dark Future Core is an optional module and disabled by default.
 
 **Q: How do I change the UI color theme?**
 
@@ -109,11 +132,15 @@ Find the folder for the crash you want analyzed, zip the entire folder, and send
 
 **Q: Where do I buy gear added by the list?**
 
-**A:** Use any computer, open **Net**, then select [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987). The in-game **C&B - Economy** section explains stores, level gates, schematics, and delivery differences between profiles.
+**A:** Visit **gunsmiths and melee vendors** for Chrome Ballistics weapons, attachments, and schematics. Stock varies by shop; weapon and schematic tiers unlock at character levels **1, 8, 18, 28, and 40**. Virtual Atelier and Sabbath are no longer included. Added vehicles are still sold through **Virtual Car Dealer** on apartment computers. The in-game **C&B - Economy** section explains the current rules.
+
+**Q: Added weapons are missing from a shop after updating.**
+
+**A:** A shop you already visited can retain its existing stock until its normal restock. Leave it and allow in-game time to pass before checking again. Stock also depends on the shop and your character level; the Database guide explains the tier gates.
 
 **Q: I am drowning in loot.**
 
-**A:** Configure [Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687) under **INVENTORY & QUALITY OF LIFE** in UMS. It is disabled by default to prevent accidental scrapping.
+**A:** Open **Scrapper** under **ECONOMY, LOOT & CRAFTING** in UMS. Automatic dismantling is disabled by default. Review the categories before turning it on.
 
 ---
 
@@ -136,20 +163,15 @@ Find the folder for the crash you want analyzed, zip the entire folder, and send
 **A:** Use the option that fits the situation:
 
 - Press **`Mouse 4`** or **`Square`** to toggle the flashlight in dark interiors.
-- Press **`F3`** to toggle night vision after equipping the required Kiroshi optics.
+- With **Tier 3 or higher Kiroshi optics**, press **`F3`** or **`F10`** to cycle Off, Night Vision, and the selected Thermal mode. **Left Shift + F10** changes Thermal modes.
 - If the whole image is too dark, open the CET overlay, go to **Nova Optics → Exposure Overrides**, and adjust **Shadow Boost**.
 
-### ✅ Recommended NVIDIA Setup
+### ✅ DLSS Swapper
 
 1. Open `Tools\DLSS Swapper` inside your Chrome & Blood installation.
 2. Run `DLSS Swapper.exe` and select **Cyberpunk 2077**.
-3. Set DLSS, Ray Reconstruction, and Frame Generation to `310.7`.
-4. Leave each preset on **Default**.
-5. Close DLSS Swapper when finished.
-
-<img width="685" height="370" alt="DLSS Swapper settings for Cyberpunk 2077 using 310.7 and Default presets" src="https://qcargile.github.io/Chrome-Blood/assets/img/dlss.png" />
-
-If you force a DLSS preset manually, `K` is the safer choice for Quality, Balanced, and DLAA. `M` may improve Performance mode on newer RTX cards at a frame-rate cost, while `L` is intended for Ultra Performance. Leave Ray Reconstruction on **Default** unless you are testing.
+3. Review the installed DLSS, Ray Reconstruction, and Frame Generation components. Choose the versions and presets you want to use.
+4. Close DLSS Swapper when finished.
 
 For FSR, follow the instructions on the [DLSS Enabler mod page](https://www.nexusmods.com/site/mods/738).
 

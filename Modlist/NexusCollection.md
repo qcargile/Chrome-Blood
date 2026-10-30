@@ -151,7 +151,6 @@ Requires an official PC copy of **Cyberpunk 2077 2.5**, **Phantom Liberty**, **R
 
 The [full installation guide](https://qcargile.github.io/Chrome-Blood/install.html) includes manual preparation, antivirus instructions, and help with updating. Check Wabbajack's space requirements before installing. You can also use **Add to Wabbajack** on this collection page after preparing the game.
 
-[VirusTotal report for the Setup 1.0.1 executable](https://www.virustotal.com/gui/file/a265d0bdc2b9a9054a58b3f06632172d525f7fc45d9d4fc1e5c24702c9366e49)
 
 ## MO2 Tools
 

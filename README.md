@@ -90,7 +90,7 @@ Update your [NVIDIA](https://www.nvidia.com/en-us/software/nvidia-app/) or [AMD]
 4. If cleaning up old mods, close the game, mod managers, and Steam. Purge Vortex deployments first if you used Vortex. Setup retains backups; repair missing or changed official files through your game launcher, then check again.
 5. Choose **Open C&B in Wabbajack** and continue below.
 
-Setup is unsigned; download it from the linked release. [VirusTotal report for the 1.0.1 executable](https://www.virustotal.com/gui/file/a265d0bdc2b9a9054a58b3f06632172d525f7fc45d9d4fc1e5c24702c9366e49). The [installation page](https://qcargile.github.io/Chrome-Blood/install.html) also has manual preparation instructions.
+Setup is unsigned; download it from the linked release. The [installation page](https://qcargile.github.io/Chrome-Blood/install.html) also has manual preparation instructions.
 
 ## Installation
 

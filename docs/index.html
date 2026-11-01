@@ -321,7 +321,7 @@
     document.querySelector(".hero-bg").style.backgroundImage = "url('assets/img/" + pick + "')";
   }
 
-  fetch("https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/changelog.md?release=5.1.0")
+  fetch("https://raw.githubusercontent.com/qcargile/Chrome-Blood/b086c768c8ce9f8234c549bfd405e5b9f5999dc3/changelog.md")
     .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
     .then(function (md) {
       var m = md.match(/<summary>\s*(v[\d.]+(?:\s+[^<\n–-]+?)?)\s*[–-]\s*([^<\n]+?)\s*<\/summary>/);

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-29",
-  "release": "v5.0",
+  "generated": "2026-11-01",
+  "release": "v5.1.0",
   "instance": "Chrome & Blood",
   "profiles": {
     "Standard": {
-      "count": 509,
+      "count": 519,
       "mods": [
         {
           "n": "disable CrashReporter (MO CET fix)",
@@ -61,7 +61,7 @@
         },
         {
           "n": "Trigger Mode Control",
-          "v": "3.0.1",
+          "v": "3.0.3",
           "g": "Core Mods & Frameworks",
           "id": 13077
         },
@@ -162,6 +162,12 @@
           "id": 32561
         },
         {
+          "n": "REDGraph",
+          "v": "0.5.1",
+          "g": "Core Mods & Frameworks",
+          "id": 34967
+        },
+        {
           "n": "Unified Mod Settings",
           "v": "2.70.2",
           "g": "UI & HUD",
@@ -169,7 +175,7 @@
         },
         {
           "n": "Better Loot Markers",
-          "v": "1.4",
+          "v": "1.4.1",
           "g": "UI & HUD",
           "id": 3486
         },
@@ -306,7 +312,7 @@
         },
         {
           "n": "Inventory Adjustments Hub",
-          "v": "1.4",
+          "v": "1.5",
           "g": "UI & HUD",
           "id": 19632
         },
@@ -351,6 +357,18 @@
           "v": "2.0",
           "g": "UI & HUD",
           "id": 28338
+        },
+        {
+          "n": "Savage Stun",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 10937
+        },
+        {
+          "n": "MOAN - Mute Menu and Inventory Humming",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 36702
         },
         {
           "n": "Better Fast Travel Map - Redscript",
@@ -641,6 +659,24 @@
           "id": 28626
         },
         {
+          "n": "Dual Wielding Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 36738
+        },
+        {
+          "n": "Shotgun Shell Eject Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 35058
+        },
+        {
+          "n": "Loud Noises Fix - Audio Pool Fix",
+          "v": "1.0.3",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 34270
+        },
+        {
           "n": "Remove Mods (mod.io) Menu and Mod Verification popup",
           "v": "1.3",
           "g": "Bug Fixes, Performance & Tweaks",
@@ -648,7 +684,7 @@
         },
         {
           "n": "NPC Actions Stutter Fix",
-          "v": "0.11",
+          "v": "0.15",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 16720
         },
@@ -690,7 +726,7 @@
         },
         {
           "n": "Modded Save Loading Screen Fix",
-          "v": "1.0",
+          "v": "1.0.1",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 35867
         },
@@ -1127,6 +1163,12 @@
           "id": 22838
         },
         {
+          "n": "Kinetic Gorilla Arms",
+          "v": "0.1",
+          "g": "Gameplay & Mechanics",
+          "id": 32348
+        },
+        {
           "n": "Kiroshi Optics Thermal Vision",
           "v": "1.6",
           "g": "Gameplay & Mechanics",
@@ -1146,13 +1188,13 @@
         },
         {
           "n": "Much Better Contracts",
-          "v": "2.2",
+          "v": "2.3.1",
           "g": "Gameplay & Mechanics",
           "id": 35142
         },
         {
           "n": "Much Better AI",
-          "v": "2.3",
+          "v": "2.4",
           "g": "Gameplay & Mechanics",
           "id": 31402
         },
@@ -1188,7 +1230,7 @@
         },
         {
           "n": "Much Better Ammo",
-          "v": "1.7",
+          "v": "1.8",
           "g": "Gameplay & Mechanics",
           "id": 32447
         },
@@ -1266,7 +1308,7 @@
         },
         {
           "n": "Damage Scaling and Balance - Extended",
-          "v": "4.0",
+          "v": "4.1",
           "g": "Gameplay & Mechanics",
           "id": 21865
         },
@@ -1422,7 +1464,7 @@
         },
         {
           "n": "Neuralware - Chipware Expansion",
-          "v": "1.2.21",
+          "v": "1.2.3",
           "g": "Cyberware & Augmentations",
           "id": 19798
         },
@@ -1629,6 +1671,12 @@
           "v": "1.2",
           "g": "Weapons & Attachments",
           "id": 27085
+        },
+        {
+          "n": "Plan C",
+          "v": "1.52",
+          "g": "Weapons & Attachments",
+          "id": 13461
         },
         {
           "n": "AK Pack",
@@ -1890,7 +1938,7 @@
         },
         {
           "n": "Extra Iconics",
-          "v": "2.2.1",
+          "v": "2.3.1",
           "g": "Weapons & Attachments",
           "id": 15889
         },
@@ -1973,12 +2021,6 @@
           "id": 11590
         },
         {
-          "n": "Non-Canon Romances Enhanced",
-          "v": "1.5",
-          "g": "NPCs & World Population",
-          "id": 20466
-        },
-        {
           "n": "Hi-Res NPC Body Textures (No AI)",
           "v": "0.1",
           "g": "NPCs & World Population",
@@ -2015,6 +2057,24 @@
           "id": 19530
         },
         {
+          "n": "Immersive Audio Distance",
+          "v": "1.1",
+          "g": "Immersion & Roleplay",
+          "id": 36809
+        },
+        {
+          "n": "Non-Canon Romances Enhanced",
+          "v": "1.5",
+          "g": "Immersion & Roleplay",
+          "id": 20466
+        },
+        {
+          "n": "Crowd Voice Unlocked",
+          "v": "1.1",
+          "g": "Immersion & Roleplay",
+          "id": 36527
+        },
+        {
           "n": "Limited HUD",
           "v": "2.23.1",
           "g": "Immersion & Roleplay",
@@ -2022,13 +2082,13 @@
         },
         {
           "n": "RagdollPunk - ragdoll physics and reactions",
-          "v": "1.1.1",
+          "v": "1.1.2",
           "g": "Immersion & Roleplay",
           "id": 34965
         },
         {
           "n": "Fast Travel Time",
-          "v": "1.41",
+          "v": "1.5",
           "g": "Immersion & Roleplay",
           "id": 23250
         },
@@ -2130,7 +2190,7 @@
         },
         {
           "n": "Gone Away - Better Partner Suspended Behaviour",
-          "v": "1.1.1",
+          "v": "1.2.1",
           "g": "Immersion & Roleplay",
           "id": 19412
         },
@@ -2543,6 +2603,12 @@
           "id": 26972
         },
         {
+          "n": "Cyberpunk Render Tweaks",
+          "v": "1.0.2",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 33943
+        },
+        {
           "n": "Environment Textures Overhaul - ETO",
           "v": "1.31",
           "g": "Visuals, Graphics, & Lighting",
@@ -2718,7 +2784,7 @@
         },
         {
           "n": "ReFRACT (Interior Vehicle Reflections - Material Refractions)",
-          "v": "1.5",
+          "v": "1.5.1",
           "g": "Visuals, Graphics, & Lighting",
           "id": 34858
         },
@@ -2897,12 +2963,6 @@
           "id": 4626
         },
         {
-          "n": "Aurore Romanced (Lady Marmalade)",
-          "v": "1.2.7",
-          "g": "New Quests & Content",
-          "id": 11097
-        },
-        {
           "n": "Rita Wheeler Romanced",
           "v": "3.4",
           "g": "New Quests & Content",
@@ -3048,7 +3108,7 @@
         },
         {
           "n": "Modlist Settings - Standard Profile",
-          "v": "4.4",
+          "v": "5.0",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 20942
         },

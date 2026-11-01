@@ -18,7 +18,7 @@ Help with installation, updates, and common problems. For controls and gameplay,
 
 **Q: Do I need to prepare my save before updating?**
 
-**A:** 5.0 supports existing saves; a new game is recommended. Back up saves and personal settings first. The Immersive profile has been retired; select **Chrome & Blood - Standard Profile** after updating. Check the [changelog](https://qcargile.github.io/Chrome-Blood/changelog.html) for any update-specific instructions.
+**A:** 5.1.0 is save compatible with v5.0; no new game needed. Back up saves and personal settings first. The Immersive profile has been retired; select **Chrome & Blood - Standard Profile** after updating. Check the [changelog](https://qcargile.github.io/Chrome-Blood/changelog.html) for any update-specific instructions.
 
 **Q: How do I back up my saves and personal settings?**
 

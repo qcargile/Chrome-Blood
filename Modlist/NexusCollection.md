@@ -1,7 +1,7 @@
 # ![Chrome & Blood](https://i.ibb.co/ZRsty7tw/cb-transparent.png)Live Hard. Die Chrome.
 
 > **Chrome & Blood requires Phantom Liberty DLC.**\
-> **Chrome & Blood 5.0 — updated for Cyberpunk 2077 patch 2.5.**\
+> **Chrome & Blood 5.1.0 — updated for Cyberpunk 2077 patch 2.5.**\
 > **Need help? Have feedback?** Join the [Chrome & Blood Discord](https://discord.gg/U65Nhdcns8)
 > ----------------------------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 
 ![What Is Chrome & Blood](https://i.ibb.co/Cp58dHVd/what-is-chrome-and-blood.png)Chrome & Blood brings together 500+ mods that rework combat, enemy AI, hacking, cyberware, and the economy. It is balanced around **Very Hard**.
 
-Version 5.0 uses one player profile. Existing saves are supported; a new game is recommended.
+Version 5.1.0 uses one player profile. Save compatible with v5.0; no new game needed for v5.1.0.
 
 ![IMG](https://i.ibb.co/7xjhnnNL/n4e-CHr-Y.png)
 
@@ -121,9 +121,9 @@ Change one setting at a time so you can tell what it does. Adding or removing mo
 
 ***
 
-## Playing Chrome & Blood 5.0
+## Playing Chrome & Blood 5.1.0
 
-Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**. The Immersive profile has been retired.
+Chrome & Blood 5.1.0 has one player profile: **Chrome & Blood - Standard Profile**. The Immersive profile has been retired.
 
 - Limited HUD is enabled by default; the HUD needs no special implant.
 - Reload manually. Reloading early usually discards the ammunition left in the magazine.
@@ -131,7 +131,7 @@ Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**
 - Dark Future Core is included as an optional module and disabled by default. Some graphical mods are kept but temporarily disabled while we wait for their Cyberpunk 2.5 updates.
 - Buy Chrome Ballistics weapons, attachments, and schematics from physical gunsmiths and melee vendors. Virtual Atelier and Sabbath are no longer included.
 
-Existing saves are supported; a new game is recommended for 5.0. Back up saves and personal settings before updating.
+Save compatible with v5.0; no new game needed for v5.1.0. Back up saves and personal settings before updating.
 
 ***
 

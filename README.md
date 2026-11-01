@@ -1,7 +1,7 @@
 ![chrome and blood](https://github.com/user-attachments/assets/51c77680-565a-42ce-895f-51848c845839)
 
 > [!IMPORTANT]
-> Chrome & Blood 5.0 requires Cyberpunk 2077 2.5 for PC, Phantom Liberty, and REDmod. Start with the [installation guide](https://qcargile.github.io/Chrome-Blood/install.html).
+> Chrome & Blood 5.1.0 requires Cyberpunk 2077 2.5 for PC, Phantom Liberty, and REDmod. Start with the [installation guide](https://qcargile.github.io/Chrome-Blood/install.html).
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@
 
 ### Standard Profile
 
-Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**. The Immersive profile has been retired.
+Chrome & Blood 5.1.0 has one player profile: **Chrome & Blood - Standard Profile**. The Immersive profile has been retired.
 
 - Limited HUD is enabled by default; the HUD needs no special implant.
 - Reload manually. Reloading early usually discards the ammunition left in the magazine.
@@ -29,7 +29,7 @@ Chrome & Blood 5.0 has one player profile: **Chrome & Blood - Standard Profile**
 - Dark Future Core is included as an optional module and disabled by default. Ultra+, World Builder, General Shadows Fixes, Draw Distance ReImagined, and ReImagined are also included but disabled. The graphical mods are temporarily off while we wait for their Cyberpunk 2.5 updates.
 - Chrome Ballistics weapons, attachments, and schematics are sold by physical gunsmiths and melee vendors.
 
-Existing saves are supported; a new game is recommended for 5.0. Back up saves and personal settings before updating.
+Save compatible with v5.0; no new game needed for v5.1.0. Back up saves and personal settings before updating.
 
 Read [Rule 11](https://qcargile.github.io/Chrome-Blood/mods.html#rule11) before adding your own mods, and use the `[NoDelete]` tag to preserve additions across updates.
 
@@ -110,7 +110,7 @@ MO2 can notify you about list updates and open Wabbajack. It does not install up
 
 ## Updating the Modlist
 
-5.0 supports existing saves; a new game is recommended.
+5.1.0 is save compatible with v5.0; no new game needed.
 
 1. Close the game and MO2. Back up saves and personal settings using the [FAQ instructions](https://qcargile.github.io/Chrome-Blood/faq.html#backups-updates).
 2. Open Chrome & Blood in Wabbajack and keep your existing installation and downloads paths.

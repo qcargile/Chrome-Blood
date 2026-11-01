@@ -70,7 +70,7 @@
       <div class="pillar-copy">
         <h2 class="sec-title">What is <span class="accent">Chrome &amp; Blood</span></h2>
         <p>Chrome &amp; Blood changes how you fight, build your character, earn money, and get around Night City.</p>
-        <p>Chrome &amp; Blood 5.0 uses one Standard profile, balanced around <strong>Very Hard</strong>. The <a href="guide.html">Player Guide</a> explains the details in-game.</p>
+        <p>Chrome &amp; Blood 5.1.0 uses one Standard profile, balanced around <strong>Very Hard</strong>. The <a href="guide.html">Player Guide</a> explains the details in-game.</p>
       </div>
       <figure class="pillar-media frame reveal">
         <img src="assets/img/whatis.jpg" alt="V overlooking Night City" loading="lazy">
@@ -190,9 +190,9 @@
 <section class="block" id="profiles">
   <div class="wrap">
     <div class="sec-head"><span class="sec-tag">07 · STANDARD PROFILE</span><span class="rule"></span></div>
-    <h2 class="sec-title reveal">Playing <span class="accent">Chrome &amp; Blood 5.0</span></h2>
+    <h2 class="sec-title reveal">Playing <span class="accent">Chrome &amp; Blood 5.1.0</span></h2>
     <div class="panel reveal"><div class="panel-in">
-      <p>Standard is the only player profile in 5.0. It includes the full combat, AI, netrunning, economy, progression, and vehicle overhaul.</p>
+      <p>Standard is the only player profile in 5.1.0. It includes the full combat, AI, netrunning, economy, progression, and vehicle overhaul.</p>
       <ul class="feature-list">
         <li>Limited HUD is enabled by default; no special implant is required for the HUD.</li>
         <li>Reload manually and watch your ammunition. Reloading early usually discards the rounds left in the magazine.</li>
@@ -203,7 +203,7 @@
       </ul>
     </div></div>
     <div class="callout reveal" style="margin-top:34px;">
-      <p><strong>Updating to 5.0:</strong> existing saves are supported. A new game is recommended for 5.0. Back up your saves and personal settings before updating, then select <strong>Chrome &amp; Blood - Standard Profile</strong> in MO2.</p>
+      <p><strong>Updating to 5.1.0:</strong> save compatible with v5.0. No new game needed. Back up your saves and personal settings before updating, then select <strong>Chrome &amp; Blood - Standard Profile</strong> in MO2.</p>
       <p>Read <a href="mods.html#rule11">Rule 11</a> before adding your own mods, and use the <kbd>[NoDelete]</kbd> tag to preserve additions across updates.</p>
     </div>
   </div>
@@ -321,7 +321,7 @@
     document.querySelector(".hero-bg").style.backgroundImage = "url('assets/img/" + pick + "')";
   }
 
-  fetch("https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/changelog.md")
+  fetch("https://raw.githubusercontent.com/qcargile/Chrome-Blood/main/changelog.md?release=5.1.0")
     .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
     .then(function (md) {
       var m = md.match(/<summary>\s*(v[\d.]+(?:\s+[^<\n–-]+?)?)\s*[–-]\s*([^<\n]+?)\s*<\/summary>/);

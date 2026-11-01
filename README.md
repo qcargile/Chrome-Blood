@@ -84,13 +84,13 @@ Requires an official PC copy of **Cyberpunk 2077 2.5**, **Phantom Liberty**, **R
 
 Update your [NVIDIA](https://www.nvidia.com/en-us/software/nvidia-app/) or [AMD](https://www.amd.com/en/support/download/drivers.html) drivers before installing.
 
-1. Download [Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.0.1/ChromeBlood-Setup-1.0.1.zip).
+1. Download [Chrome & Blood Setup 1.1.0](https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.1.0/ChromeBlood-Setup-1.1.0.zip).
 2. Extract the entire ZIP and run `ChromeBloodSetup.exe`. Keep **Assets** and **licenses** beside it. Use a writable folder outside the game directory and Program Files.
 3. Select your game and follow the checks. Review missing prerequisites and optional actions before applying them.
-4. If cleaning up old mods, close the game, mod managers, and Steam. Purge Vortex deployments first if you used Vortex. Setup retains backups; repair missing or changed official files through your game launcher, then check again.
+4. Cleanup is optional. Keep intentional changes, including swapped DLSS files, or back up unwanted mods. Close the game, mod managers, and Steam before cleanup; purge Vortex deployments first. If cleanup cannot finish, retry, follow the manual instructions, or continue.
 5. Choose **Open C&B in Wabbajack** and continue below.
 
-Setup is unsigned; download it from the linked release. The [installation page](https://qcargile.github.io/Chrome-Blood/install.html) also has manual preparation instructions.
+Setup is optional. Choose **Skip setup**, or close it and open Wabbajack yourself. Setup is unsigned; download it from the linked release. The [installation page](https://qcargile.github.io/Chrome-Blood/install.html) also has manual preparation instructions.
 
 ## Installation
 

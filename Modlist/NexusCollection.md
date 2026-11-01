@@ -143,9 +143,9 @@ Requires an official PC copy of **Cyberpunk 2077 2.5**, **Phantom Liberty**, **R
 
 ## Installation
 
-1. Download [Chrome & Blood Setup 1.0.1](https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.0.1/ChromeBlood-Setup-1.0.1.zip).
+1. Download [Chrome & Blood Setup 1.1.0](https://github.com/qcargile/CyberpunkModlistSetup/releases/download/v1.1.0/ChromeBlood-Setup-1.1.0.zip).
 2. Extract the entire ZIP and run **ChromeBloodSetup.exe**. Keep the Assets and licenses folders beside it.
-3. Follow Setup's game checks, then choose **Open C&B in Wabbajack**.
+3. Review Setup's checks, keep any intentional file changes, then choose **Open C&B in Wabbajack**. Cleanup is optional; you can also skip Setup and open Wabbajack yourself.
 4. Choose separate installation and downloads folders, outside the game directory and Program Files, on the same drive as the game. Sign in to Nexus and install the list.
 5. Open **ModOrganizer.exe** from the list's installation folder, select **Chrome & Blood - Standard Profile**, and press **Run**.
 

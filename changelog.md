@@ -19,8 +19,6 @@ The 5.2 download is being prepared. Wabbajack currently installs v5.1.0.
   Quantum gives you 10 seconds to plan at every tier. Warp Dancer no longer staggers you after a rewind. TDO also adds support for the enemy Sandevistan changes in MBAI 3.1.
 - **Much Better Contracts 2.4.8**\
   The Wire has fixer tips and dispatch slips you can copy. Fixed repeat jobs that could get stuck or leave a site inaccessible.
-- **Unified Mod Settings 2.8.4**\
-  Better Flashlight, Better Netrunning, Damage Scaling and Much Better Ammo now load their saved values at the title screen. Saving a few changes keeps the rest of your profile and the full tuning count. I also sorted newly added mods into the existing settings groups.
 - **HUD, lighting and MO2**\
   Limited HUD and its C&B patch are on by default. General Shadows Fixes, Draw Distance ReImagined, ReImagined and ReLUX are back on. The Archives Load Order tab in MO2 now comes with Conflict Studio 1.0.2.
 

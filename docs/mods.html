@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=20261122a">
+<link rel="stylesheet" href="assets/style.css?v=20261122b">
 </head>
 <body>
 
@@ -45,9 +45,19 @@
     <div class="lo-controls">
       <div class="lo-tabs" id="tabs"></div>
       <input class="lo-search" id="search" type="search" placeholder="FILTER BY MOD NAME…" aria-label="Filter mods by name">
+      <div class="lo-actions" id="category-actions" hidden>
+        <button class="lo-tab" id="expand-categories" type="button" aria-controls="list">Expand all</button>
+        <button class="lo-tab" id="collapse-categories" type="button" aria-controls="list">Collapse all</button>
+      </div>
     </div>
-    <p class="lo-meta" id="meta">PULLING MANIFEST…</p>
-    <div id="list"></div>
+    <p class="lo-meta" id="meta" role="status">PULLING MANIFEST…</p>
+    <div class="lo-layout">
+      <nav class="lo-categories" id="categories" aria-label="Mod categories" hidden>
+        <h2>Categories</h2>
+        <ul id="category-links"></ul>
+      </nav>
+      <div id="list"></div>
+    </div>
 
     <div class="sec-head" style="margin-top:70px;"><span class="sec-tag">RULE 11 · MODIFYING THE LIST</span><span class="rule"></span></div>
     <div class="md" id="rule11"><p class="loading">PULLING FEED FROM ARCHIVE…</p></div>
@@ -76,29 +86,24 @@
   var metaEl = document.getElementById("meta");
   var tabsEl = document.getElementById("tabs");
   var searchEl = document.getElementById("search");
+  var categoriesEl = document.getElementById("categories");
+  var categoryLinksEl = document.getElementById("category-links");
+  var actionsEl = document.getElementById("category-actions");
+  var groups = [];
 
   function render() {
     var profile = data.profiles[active];
-    listEl.innerHTML = "";
-    var group = null;
-    var groupEl = null;
-    var ulEl = null;
+    listEl.replaceChildren();
+    categoryLinksEl.replaceChildren();
+    groups = [];
+    var group;
     profile.mods.forEach(function (m, i) {
-      if (m.g !== group) {
-        group = m.g;
-        groupEl = document.createElement("details");
-        groupEl.className = "lo-group";
-        var h = document.createElement("summary");
-        h.textContent = group || "Ungrouped";
-        groupEl.appendChild(h);
-        ulEl = document.createElement("ul");
-        ulEl.className = "lo-list";
-        groupEl.appendChild(ulEl);
-        listEl.appendChild(groupEl);
+      if (!group || m.g !== group.name) {
+        group = addGroup(m.g);
       }
-      var li = document.createElement("li");
-      li.className = "lo-row";
-      var idx = document.createElement("span");
+      var row = group.body.insertRow();
+      row.className = "lo-row";
+      var idx = row.insertCell();
       idx.className = "idx";
       idx.textContent = String(i + 1).padStart(3, "0");
       var nm;
@@ -112,40 +117,87 @@
       }
       nm.className = "nm";
       nm.textContent = m.n;
-      li.appendChild(idx);
-      li.appendChild(nm);
-      if (m.v) {
-        var vv = document.createElement("span");
-        vv.className = "vv";
-        vv.textContent = "v" + m.v;
-        li.appendChild(vv);
-      }
-      ulEl.appendChild(li);
-    });
-    document.querySelectorAll(".lo-group").forEach(function (g) {
-      var h = g.querySelector("summary");
-      var small = document.createElement("small");
-      small.textContent = g.querySelectorAll(".lo-row").length + " MODS";
-      h.appendChild(small);
+      row.insertCell().appendChild(nm);
+      var vv = row.insertCell();
+      vv.className = "vv";
+      vv.textContent = m.v ? "v" + m.v : "—";
+      group.rows.push({ element: row, name: m.n.toLowerCase() });
     });
     applyFilter();
+  }
+
+  function addGroup(name) {
+    var title = name || "Ungrouped";
+    var details = document.createElement("details");
+    details.className = "lo-group";
+    details.id = "category-" + (groups.length + 1);
+    details.tabIndex = -1;
+    var summary = document.createElement("summary");
+    summary.textContent = title;
+    var count = document.createElement("small");
+    summary.appendChild(count);
+
+    var table = document.createElement("table");
+    table.className = "lo-list";
+    table.setAttribute("aria-label", title);
+    var headings = table.createTHead().insertRow();
+    ["Order", "Mod", "Version"].forEach(function (title) {
+      var heading = document.createElement("th");
+      heading.scope = "col";
+      heading.textContent = title;
+      headings.appendChild(heading);
+    });
+    var body = table.createTBody();
+    details.append(summary, table);
+    listEl.appendChild(details);
+
+    var link = document.createElement("a");
+    link.href = "#" + details.id;
+    link.textContent = title;
+    link.addEventListener("click", function () { details.open = true; });
+    var item = document.createElement("li");
+    item.appendChild(link);
+    categoryLinksEl.appendChild(item);
+
+    var group = { name: name, details: details, body: body, count: count, item: item, rows: [] };
+    groups.push(group);
+    return group;
   }
 
   function applyFilter() {
     var q = searchEl.value.trim().toLowerCase();
     var shown = 0;
     var total = data.profiles[active].mods.length;
-    document.querySelectorAll(".lo-row").forEach(function (row) {
-      var hit = !q || row.querySelector(".nm").textContent.toLowerCase().indexOf(q) !== -1;
-      row.classList.toggle("hide", !hit);
-      if (hit) shown++;
+    groups.forEach(function (group) {
+      var hits = 0;
+      group.rows.forEach(function (row) {
+        var hit = row.name.includes(q);
+        row.element.hidden = !hit;
+        if (hit) hits++;
+      });
+      shown += hits;
+      group.details.hidden = group.item.hidden = hits === 0;
+      group.details.open = Boolean(q && hits);
+      group.count.textContent = (q ? hits + " / " : "") + group.rows.length + " MODS";
     });
-    document.querySelectorAll(".lo-group").forEach(function (g) {
-      var hits = g.querySelectorAll(".lo-row:not(.hide)").length;
-      g.classList.toggle("hide", hits === 0);
-      g.open = q ? hits > 0 : false;
+    categoriesEl.hidden = actionsEl.hidden = shown === 0;
+    metaEl.textContent = shown === 0 && q ? "No mods match your search." : (q ? shown + " / " + total : total) + " MODS · " + active.toUpperCase() + " PROFILE · UPDATED " + data.generated;
+  }
+
+  function setExpanded(open) {
+    groups.forEach(function (group) {
+      if (!group.details.hidden) group.details.open = open;
     });
-    metaEl.textContent = (q ? shown + " / " + total : total) + " MODS · " + active.toUpperCase() + " PROFILE · UPDATED " + data.generated;
+  }
+
+  function openLinkedGroup() {
+    var linked = groups.find(function (group) {
+      return !group.details.hidden && "#" + group.details.id === location.hash;
+    });
+    if (linked) {
+      linked.details.open = true;
+      linked.details.scrollIntoView();
+    }
   }
 
   var SRC = "https://raw.githubusercontent.com/qcargile/Chrome-Blood/b086c768c8ce9f8234c549bfd405e5b9f5999dc3/Modlist/loadorder.json";
@@ -161,6 +213,7 @@
       active = names[0];
       names.forEach(function (name) {
         var b = document.createElement("button");
+        b.type = "button";
         b.className = "lo-tab";
         b.textContent = name;
         b.addEventListener("click", function () {
@@ -172,7 +225,11 @@
       });
       tabsEl.firstChild.classList.add("active");
       searchEl.addEventListener("input", applyFilter);
+      document.getElementById("expand-categories").addEventListener("click", function () { setExpanded(true); });
+      document.getElementById("collapse-categories").addEventListener("click", function () { setExpanded(false); });
+      window.addEventListener("hashchange", openLinkedGroup);
       render();
+      openLinkedGroup();
     })
     .catch(function (err) {
       metaEl.innerHTML = 'MANIFEST UNAVAILABLE — ' + err.message + '. <a href="https://github.com/qcargile/Chrome-Blood/blob/main/Modlist/loadorder.json">View the raw file on GitHub</a>.';

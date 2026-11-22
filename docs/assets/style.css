@@ -748,6 +748,8 @@ details.fold .fold-body { padding: 4px 22px 20px; color: var(--text-dim); }
 
 .lo-controls { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; margin: 30px 0 10px; }
 .lo-tabs { display: flex; gap: 8px; }
+.lo-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.lo-actions[hidden] { display: none; }
 .lo-tab {
   font-family: var(--label);
   font-weight: 600;
@@ -777,7 +779,27 @@ details.fold .fold-body { padding: 4px 22px 20px; color: var(--text-dim); }
 .lo-search:focus { outline: none; border-color: var(--primary-dim); }
 .lo-search::placeholder { color: var(--text-faint); }
 .lo-meta { font-family: var(--mono); font-size: 12px; letter-spacing: 0.1em; color: var(--text-faint); margin-bottom: 26px; }
-.lo-group { margin: 14px 0; }
+.lo-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(190px, 230px); gap: 28px; align-items: start; }
+.lo-layout > #list { grid-area: 1 / 1; min-width: 0; }
+.lo-categories {
+  grid-area: 1 / 2;
+  position: sticky;
+  top: 84px;
+  max-height: calc(100vh - 108px);
+  overflow: auto;
+  scrollbar-color: var(--line) var(--bg2);
+  scrollbar-width: thin;
+  padding: 10px 16px 12px;
+  background: var(--bg2);
+  border: 1px solid var(--line);
+  border-top-color: var(--primary-dim);
+}
+.lo-categories h2 { margin: 4px 0 8px; font: 700 15px var(--label); color: var(--secondary); }
+.lo-categories ul { list-style: none; padding: 0; margin: 0; }
+.lo-categories a { display: block; border: 0; padding: 5px 0; line-height: 1.3; color: var(--text-dim); }
+.lo-categories a:hover { color: var(--gold-bright); }
+.lo-actions button:focus-visible, .lo-categories a:focus-visible, .lo-group summary:focus-visible, .lo-search:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+.lo-group { margin: 0 0 14px; scroll-margin-top: 84px; }
 .lo-group summary {
   cursor: pointer;
   list-style: none;
@@ -800,16 +822,39 @@ details.fold .fold-body { padding: 4px 22px 20px; color: var(--text-dim); }
 .lo-group summary::before { content: "▸ "; }
 .lo-group[open] summary::before { content: "▾ "; }
 .lo-group summary::-webkit-details-marker { display: none; }
-.lo-group summary small { font-family: var(--mono); font-weight: 400; font-size: 11px; color: var(--text-faint); letter-spacing: 0.1em; margin-left: auto; }
-.lo-group .lo-list { padding: 4px 6px 10px; }
-.lo-list { list-style: none; }
-.lo-row { display: flex; align-items: baseline; gap: 14px; padding: 7px 6px; border-bottom: 1px dashed rgba(61, 67, 76, 0.45); }
-.lo-row .idx { font-family: var(--mono); font-size: 11px; color: var(--text-faint); min-width: 34px; text-align: right; flex: none; }
+.lo-group summary small { font-family: var(--mono); font-weight: 400; font-size: 11px; color: var(--text-faint); letter-spacing: 0.1em; margin-left: auto; white-space: nowrap; }
+.lo-list { width: 100%; table-layout: fixed; border-collapse: collapse; }
+.lo-list th, .lo-list td { padding: 7px 8px; vertical-align: baseline; overflow-wrap: anywhere; }
+.lo-list th {
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  color: var(--secondary);
+  font: 600 12px var(--label);
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.lo-list th:first-child { width: 62px; }
+.lo-list th:last-child { width: 96px; }
+.lo-row td { border-bottom: 1px dashed rgba(61, 67, 76, 0.45); }
+.lo-row .idx { font-family: var(--mono); font-size: 11px; color: var(--text-faint); }
 .lo-row .nm { color: var(--text-dim); }
 .lo-row a.nm { color: var(--text-dim); }
 .lo-row a.nm:hover { color: var(--gold-bright); border-bottom-color: var(--gold-bright); }
-.lo-row .vv { font-family: var(--mono); font-size: 12px; color: var(--secondary-dim); margin-left: auto; flex: none; }
-.lo-row.hide, .lo-group.hide { display: none; }
+.lo-row .vv { font-family: var(--mono); font-size: 12px; color: var(--secondary-dim); }
+
+@media (max-width: 900px) {
+  .lo-layout { display: block; }
+  .lo-categories { z-index: 2; margin-bottom: 14px; padding: 6px 12px 8px; overflow: visible; }
+  .lo-categories ul { display: flex; gap: 16px; overflow-x: auto; padding: 0 3px 4px; }
+  .lo-categories li { flex: 0 0 auto; }
+  .lo-group { scroll-margin-top: 198px; }
+}
+
+@media (max-width: 700px) {
+  .lo-categories { top: 0; }
+  .lo-group { scroll-margin-top: 114px; }
+  .lo-list th:last-child { width: 78px; }
+}
 
 .ver-nav { display: flex; flex-wrap: wrap; gap: 8px; margin: 26px 0 8px; }
 .ver-nav a {

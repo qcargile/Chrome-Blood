@@ -200,7 +200,7 @@
     }
   }
 
-  var SRC = "https://raw.githubusercontent.com/qcargile/Chrome-Blood/b086c768c8ce9f8234c549bfd405e5b9f5999dc3/Modlist/loadorder.json";
+  var SRC = "https://raw.githubusercontent.com/qcargile/Chrome-Blood/ae56616d9f9765554bfd365fc9d8bd1b9dcb2cec/Modlist/loadorder.json";
   function load(opts) {
     return fetch(SRC, opts).then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); });
   }

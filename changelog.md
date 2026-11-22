@@ -5,8 +5,6 @@
 
 ## SAVE COMPATIBLE WITH v5.1 — NEW GAME NOT NEEDED
 
-The 5.2 download is being prepared. Wabbajack currently installs v5.1.0.
-
 ---
 
 ## 🛠 Key Notes

@@ -18,7 +18,7 @@ Help with installation, updates, and common problems. For controls and gameplay,
 
 **Q: Do I need to prepare my save before updating?**
 
-**A:** 5.1.0 is save compatible with v5.0; no new game needed. Back up saves and personal settings first. The Immersive profile has been retired; select **Chrome & Blood - Standard Profile** after updating. Check the [changelog](https://qcargile.github.io/Chrome-Blood/changelog.html) for any update-specific instructions.
+**A:** Back up your saves and personal settings before updating. Check the [changelog](https://qcargile.github.io/Chrome-Blood/changelog.html) for save compatibility and any steps for the update.
 
 **Q: How do I back up my saves and personal settings?**
 
@@ -94,6 +94,10 @@ Find the folder for the crash you want analyzed, zip the entire folder, and send
 
 **A:** Open UMS and start in **COMBAT, ENEMIES & DIFFICULTY**. Change one setting at a time, then test it before adjusting another. The Standard profile is balanced around **Very Hard**, but the vanilla difficulty selector still works.
 
+**Q: Where do I adjust enemy aim or detection?**
+
+**A:** Open **UMS → Much Better AI**. Use **Marksmanship** for aim, **Stealth** for detection and camera settings, and **Player Acoustics** for sound. For combat counters, open **Database → C&B - Combat**.
+
 **Q: Quickhacks, armor, time dilation, crafting, or weapon access work differently from vanilla. Is that intended?**
 
 **A:** Usually. The list changes those systems. The matching **C&B** Database section explains how they work.
@@ -110,13 +114,9 @@ Find the folder for the crash you want analyzed, zip the entire folder, and send
 
 **A:** Those filters are no longer included. Named Saves still lets you label manual saves and search those labels on the load screen.
 
-**Q: Which optional mods are included but disabled?**
-
-**A:** Dark Future Core, Ultra+, World Builder, General Shadows Fixes, Draw Distance ReImagined, and ReImagined remain available in MO2. They are not enabled by default. The graphical mods are temporarily disabled while we wait for their Cyberpunk 2.5 updates. Dark Future Core and World Builder remain optional. The guide describes the default setup.
-
 **Q: Why is the HUD hidden?**
 
-**A:** Limited HUD is enabled by default in Standard. It hides elements contextually; no special implant is required. Relevant options are under **HUD, ACCESSIBILITY & CONTROLS** in UMS. Dark Future Core is an optional module and disabled by default.
+**A:** Standard includes **Limited HUD** and the **C&B Optional - Limited HUD Patch**, both enabled by default. Widgets appear based on context. You can change when they show under **HUD, ACCESSIBILITY & CONTROLS** in UMS.
 
 **Q: How do I change the UI color theme?**
 

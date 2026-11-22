@@ -7,21 +7,17 @@
 ## 🛠 Key Notes
 
 - **Much Better AI 3.1**\
-  Enemies do more with the weapons and cyberware they already have. Squads can suppress, flank, coordinate grenades and protect their netrunners. Support netrunners upload buffs to allies. Enemies can shoot airborne frag and EMP grenades or use nearby hazards against you.
-- **Enemy Guide**\
-  The in-game Player Guide now explains enemy aim, grenade interceptions, hacked grenades, support netrunners and changes to stealth. Look in **C&B - Combat** and **C&B - Netrunning** in the Database.
+  One enemy can keep you pinned while another flanks. Squads coordinate grenades, cover their netrunner and use nearby hazards against you. Some enemies can shoot frag and EMP grenades out of the air. Support netrunners can buff their teammates.
+- **Player Guide**\
+  Check **C&B - Combat** and **C&B - Netrunning** in the Database for enemy aim, grenade counters, support netrunners and stealth. The RT/PT settings are in the Graphics guide and [FAQ](https://qcargile.github.io/Chrome-Blood/faq.html#ray-tracing-and-path-tracing-settings).
 - **Time Dilation Overhaul 2.40**\
-  Quantum defaults to a 10-second planning window across tiers. Warp Dancer drops its post-rewind stagger. TDO also supports the new MBAI enemy Sandevistan behavior.
+  Quantum gives you 10 seconds to plan at every tier. Warp Dancer no longer staggers you after a rewind. TDO also adds support for the enemy Sandevistan changes in MBAI 3.1.
 - **Much Better Contracts 2.4.8**\
-  The Wire adds fixer guidance and copyable dispatch slips, with fixes for repeat-site access and stalled operations.
+  The Wire has fixer tips and dispatch slips you can copy. Fixed repeat jobs that could get stuck or leave a site inaccessible.
 - **Unified Mod Settings 2.8.4**\
-  Better Flashlight, Better Netrunning, Damage Scaling and Much Better Ammo load their saved settings at the main menu. Partial saves keep the full profile and its tuning count. New mods are assigned to the existing groups.
-- **RT and PT Settings**\
-  The FAQ and in-game Graphics guide list the adjustable ray tracing and path tracing settings, where to find them and what each one does.
-- **Archives Load Order 1.0.2**\
-  The MO2 tool includes the updated Conflict Studio companion for reviewing archive overrides and conflicts.
-- **World, Lighting and Combat Fixes**\
-  Added apartment upgrades, NPC reaction and vehicle fixes, and new combat effects. General Shadows Fixes, Draw Distance ReImagined, ReImagined and ReLUX are enabled again. Limited HUD and its C&B patch are enabled in Standard.
+  Better Flashlight, Better Netrunning, Damage Scaling and Much Better Ammo now load their saved values at the title screen. Saving a few changes keeps the rest of your profile and the full tuning count. I also sorted newly added mods into the existing settings groups.
+- **HUD, lighting and MO2**\
+  Limited HUD and its C&B patch are on by default. General Shadows Fixes, Draw Distance ReImagined, ReImagined and ReLUX are back on. The Archives Load Order tab in MO2 now comes with Conflict Studio 1.0.2.
 
 ---
 

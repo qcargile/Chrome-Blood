@@ -150,10 +150,6 @@ Find the folder for the crash you want analyzed, zip the entire folder, and send
 
 **A:** Open **LUT Switcher** in the CET overlay. You can swap between the included LUT packs in-game without restarting.
 
-**Q: RT or path-traced shadows look wrong.**
-
-**A:** [General Shadows Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20405) includes an RT/PT-specific option. The list leaves it off by default; enable it under **VISUALS & PERFORMANCE** in UMS if you see artifacts.
-
 **Q: Where are the old ENV Tuner controls?**
 
 **A:** ENV Tuner was removed. [Nova Optics](https://www.nexusmods.com/cyberpunk2077/mods/29190) now handles exposure, adaptation, bloom, vignette, lens flare, and chromatic aberration through its CET window. Leave **Enable Mod** checked; the list ships with **Auto** disabled. Do not install ENV Tuner Lite beside it.
@@ -165,6 +161,86 @@ Find the folder for the crash you want analyzed, zip the entire folder, and send
 - Press **`Mouse 4`** or **`Square`** to toggle the flashlight in dark interiors.
 - With **Tier 3 or higher Kiroshi optics**, press **`F3`** or **`F10`** to cycle Off, Night Vision, and the selected Thermal mode. **Left Shift + F10** changes Thermal modes.
 - If the whole image is too dark, open the CET overlay, go to **Nova Optics → Exposure Overrides**, and adjust **Shadow Boost**.
+
+### Ray Tracing and Path Tracing Settings
+
+**[Cyberpunk Render Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/33943)**
+
+*UMS → Cyberpunk Render Tweaks*
+
+- **Reflection fog (RT / PT)**. Adds scene fog to ray-traced and path-traced reflections.
+- **Reflection fog quality**. Fast uses a coarser grid. Precise resolves finer fog around lamps. Custom uses the CET sliders.
+- **Grass casts sun shadows (RT / PT)**. Lets grass cast shadows with RT sun shadows or path tracing.
+- **Path tracing light fixes**. Stops lamp light leaking through walls and fixes bounced light and cache-related indoor darkening.
+- **Full lamp shapes**. Keeps tube lights and spotlights shaped correctly in PT reflections and bounced light.
+- **Fix black stripes in RT / PT**. Main switch for the three fixes below.
+- **Trees, bushes, palms**. Matches ray-traced foliage to its visible wind movement.
+- **Cloth tarps**. Updates animated cloth in the ray-traced scene.
+- **Layered clothes**. Stops inner layers clipping through outer ones in the ray-traced scene.
+- **Puddles: keep the asphalt under the water**. Preserves asphalt detail in rain with PT and DLSS Ray Reconstruction.
+- **Puddle look**. Sharp keeps more asphalt detail. Balanced varies by depth. Smooth favors reflections.
+
+*CET → Cyberpunk Render Tweaks → Advanced*
+
+- **Grass shadow length / Grass thickness for shadows**. Adjust how far grass shadows reach and how dense they look.
+- **Skip reflection fog where it cannot be seen**. Skips thin fog in reflections to save frame time.
+- **Near fog cell / Near fog radius**. Set the size and reach of the fine fog grid.
+- **Second near level: cell / Second near level: radius**. Set the size and reach of the second, coarser grid. Cell size 0 disables it.
+- **Far fog cell width / Far fog cell height / Far fog radius**. Set distant fog detail and reach.
+- **Smooth fog up to / Cells only from**. Set where reflections blend from smooth fog to the grid.
+- **Lamps path tracing sees**. Sets how many nearby lamps contribute. Higher values can cost performance.
+- **Path-tracing cache: samples before use**. Higher values trace longer before using cached light. This can add noise and cost performance.
+
+**[General Shadows Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20405)**
+
+*UMS → General Shadows Fixes*
+
+- **Enabled**. Turns the mod's shadow fixes on or off.
+- **Ray Tracing Mode**. Enables the mod's RT/PT changes and the two presets below.
+- **Accurate Player Shadows Preset**. Uses accurate player shadows while driving, in scenes, in both, or always.
+- **Dynamic Instance Budget Preset**. Higher presets reduce shadow sync issues at a performance cost.
+
+**[Ray Traced Lighting Fixes](https://www.nexusmods.com/cyberpunk2077/mods/29720)**
+
+*UMS → Ray Traced Lighting Fixes*
+
+- **Path Tracing Mode**. Applies the mod's PT-specific bounced-light adjustments to world lights and vehicle lights.
+
+**[Reference Path Tracing](https://www.nexusmods.com/cyberpunk2077/mods/28401)**
+
+*UMS → Reference Path Tracing*
+
+- **Mod Toggle**. Turns the reference PT changes on or off.
+- **Enable Rays & Bounces Override**. Disables ReSTIR GI so PT uses your ray and bounce counts.
+- **Rays**. Sets the number of rays sampled, from 2 to 6.
+- **Bounces**. Sets how many times light can bounce, from 2 to 6. Higher ray or bounce counts can cost performance.
+
+**[ReFRACT](https://www.nexusmods.com/cyberpunk2077/mods/34858)**
+
+*UMS → ReFRACT → Vehicles*
+
+- **Interior Reflections**. Enables reflections inside vehicle windows.
+- **Interior RT Reflections**. Simple prioritizes cabin reflections. Checkerboard shares the pass head-on. Full traces cabin and road reflections separately.
+- **Checkerboard Blend**. Sets how much of the shared reflection goes to the cabin.
+- **Full Only In First Person / Only In Vehicles**. Limit Full to first-person seats or restrict all interior reflections to when you're in a vehicle.
+- **Interior Reflection Strength**. Adjusts how strongly the cabin reflects in Full mode.
+- **Crystal Dome Reflections / Crystal Dome Strength**. Enable or adjust cabin reflections in a transparent dome in Full mode.
+- **Override Current Vehicle Dome / Current Vehicle Dome Strength**. Set a separate dome strength for the vehicle and appearance you're seated in.
+
+*UMS → ReFRACT → Experimental*
+
+- **Glass RT Layer**. Gives glass its own reflection pass so surfaces behind it keep theirs.
+- **Back Glass Layer**. Adds traced reflections to glass seen through another sheet of glass.
+- **Half-Rate Tracing**. Traces half the Full-mode window and dome pixels per frame. Cheaper, with possible shimmer.
+- **Crystal Dome Cabin Shadows / Crystal Dome Sky Shade**. Block outside lights and, with both enabled, reduce sky light in the reflected cabin under cover.
+- **Refraction Firefly Filter / Firefly Filter Strength**. In Experimental: Ray Tracing, reduce or tune bright speckles behind distorted glass. Requires DLSS Ray Reconstruction.
+
+**[Weather Switcher](https://www.nexusmods.com/cyberpunk2077/mods/18027)**
+
+*CET → Weather Switcher → Toggles*
+
+- **Reflection Blend Factor**. Controls how much environment light mixes into ray-traced reflections on transparent surfaces.
+- **Sun Angular Size**. Larger values soften ray-traced sun shadows. Smaller values sharpen them.
 
 ### ✅ DLSS Swapper
 

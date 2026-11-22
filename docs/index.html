@@ -316,7 +316,7 @@
     document.querySelector(".hero-bg").style.backgroundImage = "url('assets/img/" + pick + "')";
   }
 
-  fetch("https://raw.githubusercontent.com/qcargile/Chrome-Blood/cc16a91f61d5087dd38d261785d78b78981b17dd/changelog.md")
+  fetch("https://raw.githubusercontent.com/qcargile/Chrome-Blood/e949a2b1f21cc99e93aff3c9167e16e5cbd871f3/changelog.md")
     .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
     .then(function (md) {
       var m = md.match(/<summary>\s*(v[\d.]+(?:\s+[^<\n–-]+?)?)\s*[–-]\s*([^<\n]+?)\s*<\/summary>/);

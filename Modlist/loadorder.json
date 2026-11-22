@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-01",
-  "release": "v5.1.0",
+  "generated": "2026-11-22",
+  "release": "v5.2",
   "instance": "Chrome & Blood",
   "profiles": {
     "Standard": {
-      "count": 519,
+      "count": 558,
       "mods": [
         {
           "n": "disable CrashReporter (MO CET fix)",
@@ -19,7 +19,7 @@
         },
         {
           "n": "RED4ext",
-          "v": "1.31",
+          "v": "1.31.1",
           "g": "Core Mods & Frameworks",
           "id": 2380
         },
@@ -31,25 +31,25 @@
         },
         {
           "n": "ArchiveXL",
-          "v": "1.28.6",
+          "v": "1.28.9",
           "g": "Core Mods & Frameworks",
           "id": 4198
         },
         {
           "n": "TweakXL",
-          "v": "1.12",
+          "v": "1.12.2",
           "g": "Core Mods & Frameworks",
           "id": 4197
         },
         {
           "n": "Codeware",
-          "v": "1.21.2",
+          "v": "1.21.4",
           "g": "Core Mods & Frameworks",
           "id": 7780
         },
         {
           "n": "Mod Settings",
-          "v": "0.2.28",
+          "v": "0.2.31",
           "g": "Core Mods & Frameworks",
           "id": 4885
         },
@@ -61,7 +61,7 @@
         },
         {
           "n": "Trigger Mode Control",
-          "v": "3.0.3",
+          "v": "3.0.4",
           "g": "Core Mods & Frameworks",
           "id": 13077
         },
@@ -144,6 +144,12 @@
           "id": 22758
         },
         {
+          "n": "ReImagined",
+          "v": "0.6.1",
+          "g": "Core Mods & Frameworks",
+          "id": 25845
+        },
+        {
           "n": "Archive Conflict Checker Tool",
           "v": "0.5",
           "g": "Core Mods & Frameworks",
@@ -151,7 +157,7 @@
         },
         {
           "n": "REDscope",
-          "v": "1.4",
+          "v": "3.0",
           "g": "Core Mods & Frameworks",
           "id": 30739
         },
@@ -163,13 +169,13 @@
         },
         {
           "n": "REDGraph",
-          "v": "0.5.1",
+          "v": "0.7.1",
           "g": "Core Mods & Frameworks",
           "id": 34967
         },
         {
           "n": "Unified Mod Settings",
-          "v": "2.70.2",
+          "v": "2.8.4",
           "g": "UI & HUD",
           "id": 28308
         },
@@ -178,6 +184,12 @@
           "v": "1.4.1",
           "g": "UI & HUD",
           "id": 3486
+        },
+        {
+          "n": "Unique Iconic Cyberware Icons",
+          "v": "f1.03",
+          "g": "UI & HUD",
+          "id": 26445
         },
         {
           "n": "Readable Shards",
@@ -240,7 +252,7 @@
         },
         {
           "n": "Named Saves",
-          "v": "2.7",
+          "v": "2.7.2",
           "g": "UI & HUD",
           "id": 4521
         },
@@ -252,7 +264,7 @@
         },
         {
           "n": "Equipment-EX",
-          "v": "1.2.10",
+          "v": "1.3.1",
           "g": "UI & HUD",
           "id": 6945
         },
@@ -295,6 +307,12 @@
         {
           "n": "No Camera Auto Centering",
           "v": "0.9",
+          "g": "UI & HUD",
+          "id": 2169
+        },
+        {
+          "n": "No Camera Auto Centering - TPP",
+          "v": "1.1",
           "g": "UI & HUD",
           "id": 2169
         },
@@ -354,13 +372,55 @@
         },
         {
           "n": "Night City Cinematic Loading Screens - Vanilla addon",
-          "v": "2.0",
+          "v": "2.5.1",
           "g": "UI & HUD",
           "id": 28338
         },
         {
-          "n": "Savage Stun",
+          "n": "Attachment Compatibility",
           "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 38989
+        },
+        {
+          "n": "Map Waypoint Bug Fixes",
+          "v": "1.1.1",
+          "g": "Quality Of Life",
+          "id": 32175
+        },
+        {
+          "n": "Street Vendors Unlocked",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 37501
+        },
+        {
+          "n": "Better UI Character Lighting",
+          "v": "3.1",
+          "g": "Quality Of Life",
+          "id": 22734
+        },
+        {
+          "n": "No Right Click Close - Fast Travel",
+          "v": "1.0",
+          "g": "Quality Of Life",
+          "id": 37927
+        },
+        {
+          "n": "Gamepad Button Hold Indicator Fix",
+          "v": "1.1",
+          "g": "Quality Of Life",
+          "id": 13780
+        },
+        {
+          "n": "Curbside - Improved Vehicle Summoning for 2.5",
+          "v": "1.0.1",
+          "g": "Quality Of Life",
+          "id": 35922
+        },
+        {
+          "n": "Savage Stun",
+          "v": "1.0.1",
           "g": "Quality Of Life",
           "id": 10937
         },
@@ -390,7 +450,7 @@
         },
         {
           "n": "Immersive Explosions",
-          "v": "1.1.4",
+          "v": "1.1.5",
           "g": "Quality Of Life",
           "id": 31624
         },
@@ -474,7 +534,7 @@
         },
         {
           "n": "Real Vendor Names",
-          "v": "2.1",
+          "v": "2.1.1",
           "g": "Quality Of Life",
           "id": 4941
         },
@@ -624,7 +684,7 @@
         },
         {
           "n": "Quickhack Loadouts",
-          "v": "1.5",
+          "v": "1.5.1",
           "g": "Quality Of Life",
           "id": 11682
         },
@@ -659,8 +719,62 @@
           "id": 28626
         },
         {
-          "n": "Dual Wielding Fix",
+          "n": "Conditional reload speed fix for 2.5",
+          "v": "1.0.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 37385
+        },
+        {
+          "n": "System Collapse Queue Fix",
+          "v": "1.1",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 36635
+        },
+        {
+          "n": "Black Lace Load Fix",
           "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 37404
+        },
+        {
+          "n": "Air Traffic Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 38677
+        },
+        {
+          "n": "Cyberware Bonus Stats Fix",
+          "v": "1.0.3",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 39119
+        },
+        {
+          "n": "Broken Screens And Signs Fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 38993
+        },
+        {
+          "n": "Vehicle scanner swaps to third person fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 38841
+        },
+        {
+          "n": "Missing Badlands Perk Shard fix",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 37749
+        },
+        {
+          "n": "Claire in Afterlife (Voicelines Fix)",
+          "v": "1.0",
+          "g": "Bug Fixes, Performance & Tweaks",
+          "id": 23482
+        },
+        {
+          "n": "Dual Wielding Fix",
+          "v": "1.0.1",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 36738
         },
@@ -675,12 +789,6 @@
           "v": "1.0.3",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 34270
-        },
-        {
-          "n": "Remove Mods (mod.io) Menu and Mod Verification popup",
-          "v": "1.3",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 35686
         },
         {
           "n": "NPC Actions Stutter Fix",
@@ -723,12 +831,6 @@
           "v": "1.0",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 31915
-        },
-        {
-          "n": "Modded Save Loading Screen Fix",
-          "v": "1.0.1",
-          "g": "Bug Fixes, Performance & Tweaks",
-          "id": 35867
         },
         {
           "n": "Easier Controller Sprint",
@@ -816,7 +918,7 @@
         },
         {
           "n": "Immersion Patch - NCART Train Motion Fixes",
-          "v": "1.4",
+          "v": "1.4.1",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 24914
         },
@@ -846,7 +948,7 @@
         },
         {
           "n": "Vehicle Destruction Mesh Fix",
-          "v": "1.1",
+          "v": "1.2",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 35121
         },
@@ -990,7 +1092,7 @@
         },
         {
           "n": "Immersion Patch - Cyberpunk Story Quest Fixes",
-          "v": "1.21",
+          "v": "1.21.3",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 29152
         },
@@ -1134,7 +1236,7 @@
         },
         {
           "n": "Quickhack Fixes",
-          "v": "1.3.5",
+          "v": "1.3.6",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 18290
         },
@@ -1158,7 +1260,7 @@
         },
         {
           "n": "NCPD Fixes",
-          "v": "cpdf-1.5",
+          "v": "cpdf-1.7",
           "g": "Bug Fixes, Performance & Tweaks",
           "id": 22838
         },
@@ -1176,25 +1278,19 @@
         },
         {
           "n": "Kiroshi Optics Night Vision Mod",
-          "v": "2.0",
+          "v": "2.1",
           "g": "Gameplay & Mechanics",
           "id": 8326
         },
         {
-          "n": "Realistic NPC FOV",
-          "v": "f1.01",
-          "g": "Gameplay & Mechanics",
-          "id": 31188
-        },
-        {
           "n": "Much Better Contracts",
-          "v": "2.3.1",
+          "v": "2.4.8",
           "g": "Gameplay & Mechanics",
           "id": 35142
         },
         {
           "n": "Much Better AI",
-          "v": "2.4",
+          "v": "3.1",
           "g": "Gameplay & Mechanics",
           "id": 31402
         },
@@ -1242,15 +1338,9 @@
         },
         {
           "n": "Lifepath Bonuses and Gang-Corp Traits",
-          "v": "4.3.3",
+          "v": "4.3.4",
           "g": "Gameplay & Mechanics",
           "id": 2217
-        },
-        {
-          "n": "Enemy Aggro Improvements",
-          "v": "0.1.0.0a",
-          "g": "Gameplay & Mechanics",
-          "id": 19351
         },
         {
           "n": "Cyber Enemies",
@@ -1260,7 +1350,7 @@
         },
         {
           "n": "Armor Up - Player Armor Rework",
-          "v": "1.0.4",
+          "v": "1.0.5",
           "g": "Gameplay & Mechanics",
           "id": 24801
         },
@@ -1272,7 +1362,7 @@
         },
         {
           "n": "Time Dilation Overhaul",
-          "v": "2.38.1",
+          "v": "2.40",
           "g": "Gameplay & Mechanics",
           "id": 4931
         },
@@ -1320,7 +1410,7 @@
         },
         {
           "n": "Reinforcements System",
-          "v": "1.2.1",
+          "v": "1.2.2",
           "g": "Gameplay & Mechanics",
           "id": 21532
         },
@@ -1344,7 +1434,7 @@
         },
         {
           "n": "Enhanced Craft",
-          "v": "4.1",
+          "v": "4.2",
           "g": "Gameplay & Mechanics",
           "id": 4378
         },
@@ -1356,7 +1446,7 @@
         },
         {
           "n": "Always First Equip",
-          "v": "2.2",
+          "v": "2.2.2",
           "g": "Gameplay & Mechanics",
           "id": 2557
         },
@@ -1374,7 +1464,7 @@
         },
         {
           "n": "Stealthrunner - Stealth Gameplay Expansion",
-          "v": "1.11.3",
+          "v": "1.11.6",
           "g": "Gameplay & Mechanics",
           "id": 7616
         },
@@ -1410,7 +1500,7 @@
         },
         {
           "n": "CyberwareEX",
-          "v": "1.6",
+          "v": "1.7",
           "g": "Cyberware & Augmentations",
           "id": 9429
         },
@@ -1428,7 +1518,7 @@
         },
         {
           "n": "Megingjord (Hover Legs)",
-          "v": "1.3.3",
+          "v": "1.3.4",
           "g": "Cyberware & Augmentations",
           "id": 12664
         },
@@ -1464,7 +1554,7 @@
         },
         {
           "n": "Neuralware - Chipware Expansion",
-          "v": "1.2.3",
+          "v": "1.2.5",
           "g": "Cyberware & Augmentations",
           "id": 19798
         },
@@ -1871,12 +1961,6 @@
           "id": 14662
         },
         {
-          "n": "Modular Kyubi Revamp - Damage Increase Patch",
-          "v": "1.0",
-          "g": "Weapons & Attachments",
-          "id": 14662
-        },
-        {
           "n": "Modular Kyubi Revamp - Semi Auto Patch",
           "v": "1.0",
           "g": "Weapons & Attachments",
@@ -1938,7 +2022,7 @@
         },
         {
           "n": "Extra Iconics",
-          "v": "2.3.1",
+          "v": "2.3.2",
           "g": "Weapons & Attachments",
           "id": 15889
         },
@@ -1956,7 +2040,7 @@
         },
         {
           "n": "Biotechnica Cache - New Iconic Weapons",
-          "v": "1.0.2",
+          "v": "1.0.3",
           "g": "Weapons & Attachments",
           "id": 23674
         },
@@ -1974,7 +2058,7 @@
         },
         {
           "n": "NCPD Cache - New Iconic Weapons",
-          "v": "1.0.2",
+          "v": "1.0.3",
           "g": "Weapons & Attachments",
           "id": 22094
         },
@@ -1989,6 +2073,12 @@
           "v": "1.0.4",
           "g": "Weapons & Attachments",
           "id": 20827
+        },
+        {
+          "n": "LIPSTICK ENHANCER - Plumpy Lips - Misalignment Fix - Both V - NPCs",
+          "v": "1.0",
+          "g": "Player Character Appearance & Presets",
+          "id": 37990
         },
         {
           "n": "Hair Profiles CCXL",
@@ -2052,13 +2142,67 @@
         },
         {
           "n": "Fixed NPC Vehicle Reactions",
-          "v": "1.0",
+          "v": "1.1",
           "g": "NPCs & World Population",
           "id": 19530
         },
         {
-          "n": "Immersive Audio Distance",
+          "n": "Immersive Night City Fixes - CORE",
+          "v": "1.5",
+          "g": "Immersion & Roleplay",
+          "id": 27040
+        },
+        {
+          "n": "Immersive Night City Fixes",
+          "v": "0.37",
+          "g": "Immersion & Roleplay",
+          "id": 20588
+        },
+        {
+          "n": "Sanguine-A Blood Pool Simulation",
           "v": "1.1",
+          "g": "Immersion & Roleplay",
+          "id": 38277
+        },
+        {
+          "n": "Computer Anywhere",
+          "v": "2.2.1",
+          "g": "Immersion & Roleplay",
+          "id": 12520
+        },
+        {
+          "n": "Long Range Dismemberment",
+          "v": "1.0",
+          "g": "Immersion & Roleplay",
+          "id": 37530
+        },
+        {
+          "n": "Immersive Knockdown",
+          "v": "1.0",
+          "g": "Immersion & Roleplay",
+          "id": 37600
+        },
+        {
+          "n": "Quickhack Gore",
+          "v": "1.9",
+          "g": "Immersion & Roleplay",
+          "id": 39032
+        },
+        {
+          "n": "GoreRunner (Blood and Carnage Overhaul)",
+          "v": "2.2",
+          "g": "Immersion & Roleplay",
+          "id": 24210
+        },
+        {
+          "n": "Collateral Damage - Civilian Dismemberment",
+          "v": "9.0",
+          "g": "Immersion & Roleplay",
+          "id": 36454
+        },
+        {
+          "n": "Immersive Audio Distance",
+          "v": "1.2.1",
           "g": "Immersion & Roleplay",
           "id": 36809
         },
@@ -2070,19 +2214,19 @@
         },
         {
           "n": "Crowd Voice Unlocked",
-          "v": "1.1",
+          "v": "1.2.1",
           "g": "Immersion & Roleplay",
           "id": 36527
         },
         {
           "n": "Limited HUD",
-          "v": "2.23.1",
+          "v": "2.23.2",
           "g": "Immersion & Roleplay",
           "id": 2592
         },
         {
           "n": "RagdollPunk - ragdoll physics and reactions",
-          "v": "1.1.2",
+          "v": "1.1.5",
           "g": "Immersion & Roleplay",
           "id": 34965
         },
@@ -2106,7 +2250,7 @@
         },
         {
           "n": "Crowd Variety Restored",
-          "v": "1.0.4",
+          "v": "1.0.5",
           "g": "Immersion & Roleplay",
           "id": 34908
         },
@@ -2160,7 +2304,7 @@
         },
         {
           "n": "Say Something Damn It",
-          "v": "1.17.1",
+          "v": "1.18.1",
           "g": "Immersion & Roleplay",
           "id": 22228
         },
@@ -2177,12 +2321,6 @@
           "id": 15757
         },
         {
-          "n": "No Game Pause When Using Phone or Radio",
-          "v": "1.1.4",
-          "g": "Immersion & Roleplay",
-          "id": 22882
-        },
-        {
           "n": "Dynamic Wanted Stars",
           "v": "1.0",
           "g": "Immersion & Roleplay",
@@ -2196,7 +2334,7 @@
         },
         {
           "n": "Cutscene Weapon Swapper",
-          "v": "1.4.2",
+          "v": "1.5",
           "g": "Immersion & Roleplay",
           "id": 20743
         },
@@ -2250,7 +2388,7 @@
         },
         {
           "n": "Metro Pocket Guide",
-          "v": "1.2.12",
+          "v": "1.2.13",
           "g": "Immersion & Roleplay",
           "id": 11882
         },
@@ -2597,14 +2735,26 @@
           "id": 25478
         },
         {
+          "n": "Classic Cigarettes (HD Textures and Meshes Replacer)",
+          "v": "1.4",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 12838
+        },
+        {
           "n": "More Detailed HD Animated Crosswalks",
           "v": "2.0",
           "g": "Visuals, Graphics, & Lighting",
           "id": 26972
         },
         {
+          "n": "Local Shadows Flickering Fix",
+          "v": "0.12",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 37646
+        },
+        {
           "n": "Cyberpunk Render Tweaks",
-          "v": "1.0.2",
+          "v": "1.0.3",
           "g": "Visuals, Graphics, & Lighting",
           "id": 33943
         },
@@ -2658,7 +2808,7 @@
         },
         {
           "n": "Always Best Quality _ Ads - Map - Hud - Photo Mode - Vending Machines and more",
-          "v": "4.0.2.50",
+          "v": "4.1.2.50",
           "g": "Visuals, Graphics, & Lighting",
           "id": 12700
         },
@@ -2682,7 +2832,7 @@
         },
         {
           "n": "Visual Effects Fixes",
-          "v": "0.1",
+          "v": "0.2",
           "g": "Visuals, Graphics, & Lighting",
           "id": 35461
         },
@@ -2784,7 +2934,7 @@
         },
         {
           "n": "ReFRACT (Interior Vehicle Reflections - Material Refractions)",
-          "v": "1.5.1",
+          "v": "1.5.2",
           "g": "Visuals, Graphics, & Lighting",
           "id": 34858
         },
@@ -2808,7 +2958,7 @@
         },
         {
           "n": "Blur Begone (Clear Materials)",
-          "v": "2.6",
+          "v": "2.6.1",
           "g": "Visuals, Graphics, & Lighting",
           "id": 8105
         },
@@ -2832,7 +2982,13 @@
         },
         {
           "n": "Leaky Interiors Fixed",
-          "v": "1.1",
+          "v": "1.2",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29002
+        },
+        {
+          "n": "Leaky Interiors Fixed - Voodoo Boys Crypt",
+          "v": "1.0",
           "g": "Visuals, Graphics, & Lighting",
           "id": 29002
         },
@@ -2886,7 +3042,7 @@
         },
         {
           "n": "The Nullifier",
-          "v": "1.4.6",
+          "v": "1.5",
           "g": "Visuals, Graphics, & Lighting",
           "id": 23091
         },
@@ -2915,6 +3071,18 @@
           "id": 29190
         },
         {
+          "n": "Torrent (Lightning with Physically Accurate Rain)",
+          "v": "1.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 37031
+        },
+        {
+          "n": "Aurore Romanced (Lady Marmalade)",
+          "v": "1.3",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 11097
+        },
+        {
           "n": "The Grid (Custom Street Light Hours - Weather Effects - Blackouts)",
           "v": "1.0.1",
           "g": "Visuals, Graphics, & Lighting",
@@ -2933,10 +3101,76 @@
           "id": 18027
         },
         {
+          "n": "General Shadows Fixes",
+          "v": "0.97",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 20405
+        },
+        {
+          "n": "ReLUX (Lighting Redux - Accurate Lighting - AIO)",
+          "v": "2.2.1",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 20808
+        },
+        {
+          "n": "ReLUX Plus (Riders on the Storm)",
+          "v": "2.1",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 22129
+        },
+        {
+          "n": "Ray Traced Lighting Fixes",
+          "v": "0.5",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 29720
+        },
+        {
+          "n": "Draw Distance ReImagined",
+          "v": "0.9.6",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 27210
+        },
+        {
+          "n": "More Occluders (Performance Improvement)",
+          "v": "0.4",
+          "g": "Visuals, Graphics, & Lighting",
+          "id": 33136
+        },
+        {
           "n": "No Paper Bags From Vending Machines",
           "v": "1.2",
           "g": "Miscellaneous",
           "id": 8387
+        },
+        {
+          "n": "Apartments Enhanced",
+          "v": "f2.04",
+          "g": "New Quests & Content",
+          "id": 19521
+        },
+        {
+          "n": "Apartments Enhanced - H10 addon",
+          "v": "f2.04",
+          "g": "New Quests & Content",
+          "id": 19521
+        },
+        {
+          "n": "Apartments Enhanced - Japantown addon",
+          "v": "f2.04",
+          "g": "New Quests & Content",
+          "id": 19521
+        },
+        {
+          "n": "Apartments Enhanced Corpo Plaza Addon",
+          "v": "f2.04",
+          "g": "New Quests & Content",
+          "id": 19521
+        },
+        {
+          "n": "Happier Tower Ending (Judy)",
+          "v": "1.0.2",
+          "g": "New Quests & Content",
+          "id": 29268
         },
         {
           "n": "Lost Content (Quest Content Fixes)",
@@ -2964,7 +3198,7 @@
         },
         {
           "n": "Rita Wheeler Romanced",
-          "v": "3.4",
+          "v": "4.0.1",
           "g": "New Quests & Content",
           "id": 9191
         },
@@ -3018,7 +3252,7 @@
         },
         {
           "n": "Reset Attributes always available - Redscript",
-          "v": "1.0.0.5",
+          "v": "1.0.0.8",
           "g": "Late Loaders, Cheats, & Experimental",
           "id": 9240
         },

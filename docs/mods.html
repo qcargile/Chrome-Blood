@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Chakra+Petch:wght@500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?v=20261029a">
+<link rel="stylesheet" href="assets/style.css?v=20261122a">
 </head>
 <body>
 
@@ -145,7 +145,7 @@
       g.classList.toggle("hide", hits === 0);
       g.open = q ? hits > 0 : false;
     });
-    metaEl.textContent = (q ? shown + " / " + total : total) + " MODS · " + active.toUpperCase() + " PROFILE · UPDATED " + data.generated + (data.release ? " · " + data.release.toUpperCase() : "");
+    metaEl.textContent = (q ? shown + " / " + total : total) + " MODS · " + active.toUpperCase() + " PROFILE · UPDATED " + data.generated;
   }
 
   var SRC = "https://raw.githubusercontent.com/qcargile/Chrome-Blood/b086c768c8ce9f8234c549bfd405e5b9f5999dc3/Modlist/loadorder.json";

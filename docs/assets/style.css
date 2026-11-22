@@ -269,7 +269,7 @@ kbd {
 
 .stat-strip .wrap {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .stat {
@@ -971,6 +971,7 @@ body.cb-lb-open { overflow: hidden; }
   .pillar.flip .pillar-media { order: 0; }
   .stat-strip .wrap { grid-template-columns: 1fr 1fr; }
   .stat { border-top: 1px solid var(--line); }
+  .stat-strip .stat:last-child { grid-column: 1 / -1; border-left: none; }
   .links-grid { grid-template-columns: 1fr 1fr; }
   .spec-row { grid-template-columns: 1fr 1fr; }
   section.block { padding: 64px 0 20px; }
